@@ -1,0 +1,23 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Claude Code working files
+.claude/worktrees/
+
+# Temporary files
+*.tmp
+*.bak
+
+# Export artifacts
+exports/
+*.epub
+*.pdf
+*.docx
