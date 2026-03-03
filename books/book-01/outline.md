@@ -40,3 +40,44 @@
 - Harper's resigned concern
 - Samuel's refusal to yield despite being outnumbered
 - Clara reading Samuel — pattern recognition as character trait
+
+---
+
+## Chapter 2: The Machinery
+
+- **POV**: Clara Chen
+- **Location**: Clara's townhouse — Thomas's ground-floor office
+- **Time**: Past midnight (same night as Ch1), ~1846
+- **Word count target**: 2,800–3,200
+
+### Scene Beats
+
+1. **Arrival and the Room** (~350–400 words): Clara enters Thomas's ground-floor office, past midnight, roughly an hour after the rescue. Sensory world-building: Persian rugs, tactical maps (appearing decorative), fire in the grate, smell of paper and ink. George takes his position near the marble fireplace. Thomas at his mahogany desk — one beat of mutual assessment between old friends. Clara opens her coat — domestic gesture humanizing her after Ch1's armored presentation. "The Mercy Jane."
+
+2. **The Operational Debrief** (~600–700 words): "How did the Mercy Jane get past our guard?" — Clara's question opens the working scene. Thomas explains the manifests problem: legitimate cargo layered with illegitimate, systemic not isolated. Clara moves through the room — to the window (her reflection ghosting the glass), to the maps, to the desk to examine documents. George's ears twitch at Harper's approaching footsteps (recognized, filed away). Thomas proposes short-term (tighter inspections, legal pressure, levy requiring inspectors) and long-term (end poverty, education, cultural change). Clara's funding scale revealed: schools, legal aid, harbor patrols, orphanages. "You seem to be giving away the fortune of many kings… It's not enough." Task 1 issued: top-ten strategic plan, identify the most important item, focus on it this week.
+
+3. **The Pivot — Task 2 and the Teasing** (~800–900 words): "And the second task?" — Clara wants everything on Samuel Taylor by weapons practice. Thomas's reaction: eyebrows rise. "Professionally? Consider it done." Then the grin. "Sam Taylor is handsome as hell." Teasing builds: "What are you wearing?" "Where? Tell me everything." Clara pushes back but permits it — this is new territory, she has never given Thomas this opening. Thomas notes she has never asked him to prepare a dossier before a first meeting. Clara's laugh — rare, genuine. George's tail thumps once. "I love you, Thomas." / "And well, you should." Thomas turns professional: property acquisition patterns, the warehouse sale, Samuel building quietly like Clara built. "Rather like someone else I know."
+
+4. **The Alert and Departure** (~350–400 words): Thomas shifts to work mode, sorting documents. Clara watches the reliable machinery of their partnership. George's head lifts suddenly toward the window. Distant shouting from the docks. Clara already moving. "Have that information ready by morning practice." George falls into step. Clara pauses at the door — looks back. Thomas bent over manifests, working, the man always at the desk. Through the door into night. Grandfather clock strikes midnight.
+
+### Threads Advanced
+
+- Anti-trafficking campaign (systemic scope revealed — manifests, funding scale)
+- Clara's network (financial and intelligence infrastructure)
+- Thomas Arlington's jealousy seeds (dual-frequency, invisible on first read)
+
+### Threads Introduced
+
+- Clara's philanthropic funding scale (schools, legal aid, harbor patrols, orphanages)
+- Samuel Taylor's property patterns (mirror Clara's strategy)
+- Warehouse sale connection (Clara's network sold Samuel a warehouse before the rescue)
+
+### Key Character Moments
+
+- Clara's domestic gesture (opening her coat — shedding the armored self)
+- Thomas's analytical wit and teasing warmth ("Sam Taylor is handsome as hell")
+- "I love you, Thomas" / "And well, you should" — rare warmth, retroactive poison
+- Clara thinking of Thomas as "indispensable" — the word he used for himself
+- Thomas always at the desk when Clara arrives and when she leaves
+- George's tail thump at Clara's laugh
+- George alerting toward the window — Clara already moving
