@@ -12,6 +12,9 @@ Thumbs.db
 # Claude Code working files
 .claude/worktrees/
 
+# Claude Code plans (may contain internal notes)
+.claude/plans/
+
 # Temporary files
 *.tmp
 *.bak
