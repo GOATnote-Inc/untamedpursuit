@@ -1,48 +1,62 @@
-# Book 1
+# Book 1 — Fortunes Tide
 
 ## Premise
 
-<!-- What is this book about? One paragraph summary. -->
+Clara Chen, 25, runs a covert protection network from Philadelphia's docks while building a shipping empire. Book 1 covers her meeting Samuel Taylor during a child-trafficking rescue, confronting the Mercy Jane trafficking operation, and establishing the partnerships that will define her era.
 
 ## Time Period
 
-<!-- When does this book take place? Specific dates or range. -->
+~1846, Philadelphia
 
 ## Setting
 
-<!-- Primary locations in this book. -->
+Philadelphia docks, Clara's townhouse, the Golden Compass music hall
 
 ## POV Characters
 
-<!-- Which characters have POV chapters in this book? -->
-
 | Character | Chapters | Arc in This Book |
 |-----------|----------|-----------------|
-| | | |
+| Clara Chen | Primary (most chapters) | Dual life — empire builder by day, protector by night. Meets Samuel, begins courtship, escalates anti-trafficking campaign. |
+| Samuel Taylor | Secondary (select chapters) | Discovers Clara's world. Intelligence operative drawn into her network through shared ethics. |
 
 ## Major Arcs
 
-<!-- The main story arcs advanced or resolved in this book. -->
+- **Clara's dual life**: Elegant shipping magnate concealing a lethal protection network
+- **Clara–Samuel courtship**: From the Mercy Jane rescue through tea, Golden Compass, and deepening trust
+- **Anti-trafficking campaign**: The Mercy Jane as entry point to a larger trafficking operation
+- **Network origins**: How Clara's infrastructure of protection was built and operates
 
 ## Mysteries
 
 ### Introduced in This Book
-<!-- New questions, foreshadowing, or threads planted here. -->
+
+- Scope of the Mercy Jane trafficking operation (symptom of a larger disease)
+- Samuel Taylor's background and intelligence connections
+- Seeds of Thomas Arlington's jealousy (being sidelined as Clara's world expands)
+- Full extent of Clara's network (how many people work for her, how far it reaches)
+- The Golden Compass — what Clara's artistic life reveals about her depths
 
 ### Advanced from Previous Books
-<!-- Existing threads that develop here. -->
+
+N/A — This is Book 1.
 
 ### Resolved in This Book
-<!-- Threads that pay off here. -->
+
+- Samuel's identity and intentions (resolved through courtship arc)
+- Immediate Mercy Jane threat (though larger trafficking network persists)
 
 ## Key Relationships
 
-<!-- Which character dynamics are central to this book? -->
+- **Clara–Samuel**: Meeting, courtship, mutual assessment, growing trust
+- **Clara–Thomas**: Oldest friend, manages her affairs, teasing rapport — early seeds of future jealousy
+- **Clara–Harper**: Security chief, professional devotion, resigned concern for her safety
+- **Clara–George**: Handler and companion — weapon and comfort in one
+- **Clara–Lily**: Rescue and healing (if introduced in this book)
 
 ## Historical Context
 
-<!-- Real historical events that form the backdrop of this book. -->
+1840s Philadelphia: major American port and center of commerce, medicine, and culture. Human trafficking through port cities. Women's severely restricted legal status. Pre-Civil War tensions. Shipping industry and dock culture. Gaslit streets, cobblestones, forest of ship masts.
 
 ## Tone & Atmosphere
 
-<!-- How does this book feel different from the others? -->
+Literary noir meets historical romance. Dark and atmospheric — tar, rope, salt, violence — but propulsive. The beauty of Philadelphia's night waterfront set against the horror of what moves through its docks. Elegant surfaces concealing lethal capability. Every scene carries both dread and grace.
