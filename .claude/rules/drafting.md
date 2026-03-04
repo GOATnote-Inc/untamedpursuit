@@ -26,6 +26,7 @@ You are in **creative/expansive** mode. The goal is forward momentum — getting
 - Past tense throughout — no present-tense narration except direct thought
 - Use the character's established speech patterns for dialogue
 - Ground every scene in a specific time and place
+- Aspire to prose vitality — curiosity, wit, fresh imagery, varied rhythm. Let the POV character be fascinated by their world.
 
 ## After Writing
 - Update chapter frontmatter (word_count, summary, threads_advanced, threads_introduced)

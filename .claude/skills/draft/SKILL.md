@@ -68,6 +68,7 @@ Write the chapter following these rules:
 - Follow the outline beats but allow organic discovery
 - Use each character's documented speech patterns
 - Mark any concerns with `<!-- FLAG: ... -->` comments
+- Aspire to prose vitality: curiosity, wit, surprising imagery, varied rhythm (see `.claude/rules/prose-craft.md`)
 - Target the word count suggested in the outline, or 3,000-5,000 words if unspecified
 
 ## Step 4: Post-Draft Bookkeeping

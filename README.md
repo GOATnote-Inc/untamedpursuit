@@ -28,7 +28,7 @@
 
 | Book | Title | Era | Setting | Status |
 |---|---|---|---|---|
-| 1 | Fortune's Tide | Era 1 | Philadelphia, ~1846 | Drafting — 12 of 12 chapters outlined |
+| 1 | Fortune's Tide | Era 1 | Philadelphia, ~1846 | Drafting — 13 of 13 chapters outlined |
 | 2 | *(TBD)* | Era 1 | The Voyage West | Planned |
 | 3–4 | *(TBD)* | Era 1 | Building the Network | Planned |
 | 5–9 | *(TBD)* | Era 2 | FIERCE — Eve's Story | Planned |
@@ -53,8 +53,9 @@ The series is free to read. Start here:
 | 10 | [The Good Silver](books/book-01/chapters/ch-10.md) | Samuel Taylor | 3,188 |
 | 11 | [The Reach](books/book-01/chapters/ch-11.md) | Clara Chen | 2,941 |
 | 12 | [What the Ships Carry](books/book-01/chapters/ch-12.md) | Samuel Taylor | 3,033 |
+| 13 | [The Night's Work](books/book-01/chapters/ch-13.md) | Clara Chen | 3,608 |
 
-*Book 1: ~36,090 words drafted* · *Series total: ~36,090 words*
+*Book 1: ~39,700 words drafted* · *Series total: ~39,700 words*
 <!-- PROGRESS:END -->
 
 ### Themes
