@@ -637,3 +637,61 @@
 - The Night Watch echo: "The last time she had walked these docks at this hour, she had killed twelve men"
 - Thomas still at his desk in Clara's final thoughts — "The man who was always working when she returned"
 - "The night's work was done" — the title delivered as closing line
+
+---
+
+## Chapter 14: Below the Waterline
+
+- **POV**: Clara Chen (tenth Clara POV chapter)
+- **Location**: Clara's townhouse (Thomas's office) — Philadelphia docks — the Osprey — Samuel's warehouse
+- **Time**: Four days after counter-complaints filed; third and final inspection day, Autumn 1846
+- **Word count target**: 2,800–3,200
+
+### Scene Beats
+
+1. **Morning — Thomas's Office** (~450 words): The Meridian passed in forty minutes. The Cathay in an hour. Both clean. The Osprey is last. Thomas briefs Clara: the compromised inspector (Hale) is assigned to the Osprey. Thomas's strategy — the complaint covers cargo, not hull construction. He has the legal boundary ready. Clara thanks him ("rarer than she intended"). Thomas: "Save it for this afternoon. You can buy me dinner if we survive."
+
+2. **The Wharf — Approaching the Osprey** (~300 words): Clara, Thomas, George walking to the Osprey. Inspector Hale already at the berth — weathered face, careful hands, commission badge, measuring instruments. Thomas presents documentation. Hale acknowledges Clara's right to accompany the inspection. George at the gangway. They descend.
+
+3. **Forward Hold — Cargo Inspection** (~350 words): Hale works the forward hold — opens crates, checks manifests, counts barrels. Methodical, correct. Cargo matches. Thomas moves to close the inspection. Hale invokes Section Fourteen — "authority to assess the vessel's condition as it bears on the cargo's safe transport." Thomas recognizes the argument — Hale is interpreting structural authority from a cargo provision. Thomas notes the scope limitation for the record. Hale proceeds to the aft section.
+
+4. **Below the Waterline — The Compartments** (~700 words): The chapter's heart. Aft section narrows. Hale with lantern among the ballast stone. Clara's fingers find the grooves she designed. Hale reaches the forward section — sees the too-regular framing, the too-clean joins. He presses. The panel shifts. The compartment opens: empty. The space where sixty-three people passed through darkness. Hale holds the lantern inside. Thomas argues the boundary — cargo scope, not structural. Hale writes four or five lines in his notebook. "The cargo inspection is complete. No irregularities found." He climbs up. Thomas closes the panel. "He'll file tomorrow. Wallace will have it by the end of the week." Clara: "The Osprey is finished for this work." Thomas: "But the work is not finished."
+
+5. **The Aftermath** (~450 words): On deck. Complaint closed. All three ships released. Thomas reports: the Osprey's record will note "structural features of undetermined purpose" — language he suggested. Wallace will know what it means, but the commission's file carries language that doesn't assign a use. Clara's recognition of Thomas's gift: not prevention but containment — shaping how the secret enters the world. The Osprey will never carry passengers again. "New specifications. A different vessel. The work begins this week." Thomas already reaching for his pen.
+
+6. **Samuel's Warehouse — Evening** (~400 words): Clara finds Samuel at the counting table. The news: complaint closed, ships released, compartments found and recorded. Samuel: "The Osprey can't carry passengers again." / "No." / "Then we build what comes next." Clara tells him the warehouse holds the evidence. Samuel: "They'll need to get past Callaghan. And me." The partnership deepening through shared cost. "Tomorrow." / "Tomorrow."
+
+7. **Closing** (~250 words): Clara and George walking north. The lamplighter making his rounds. She lost a ship today — not to the sea but to five lines in a notebook. The Osprey will sail again, but the compartments remain: empty, permanent, known. The cargo is safe. Thomas's legal architecture held. Below the waterline of everything she built, the spaces are dark and empty and waiting for the architecture that will replace them.
+
+### Threads Advanced
+
+- Anti-trafficking campaign (all three ships released; Ashford and Crane complaint closed; but Osprey's compartments in the commission's record — Wallace will know within the week)
+- Thomas Arlington's jealousy seeds (argues the defense from inside the hull; Clara trusts him with the most dangerous moment; "undetermined purpose" language — Thomas controls how the secret enters the record; already reaching for his pen when Clara says "new specifications")
+- Clara-Samuel courtship (Clara goes to Samuel after the crisis; the pattern of returning to his warehouse deepens; Samuel's forward-looking response distinguishes him from Thomas's preserving instinct)
+
+### Threads Introduced
+
+- The Osprey compromised (compartments noted in inspection record; "structural features of undetermined purpose"; the ship can never carry passengers again)
+- New rescue architecture needed (Osprey's loss demands replacement; Samuel already thinking ahead; Clara ordering new specifications from Thomas)
+- Inspector Hale and the commission record (Wallace's instrument — the compromised inspector who found the compartments and filed the report)
+
+### Key Character Moments
+
+- The Meridian/Cathay as context — forty minutes, one hour, clean — establishing the contrast with the Osprey's longer, darker inspection
+- Thomas: "Save it for this afternoon. You can buy me dinner if we survive." — humor under pressure, the familiar wit
+- Hale's careful hands — a man shaped by decades of opening holds, now opening something he was told to find
+- Thomas invoking Section Fourteen's limits from inside the hull he helped design — the legal architect defending his own architecture
+- Clara's fingers finding the grooves she designed — the concealed joins that look like ordinary planking
+- The panel shifting under Hale's hand — the secret opening to a stranger's lantern
+- Thomas: "What you have observed is a structural feature of the hull" — the legal boundary argued in a ship's belly
+- Clara unable to see Hale's notation — "four lines, perhaps five. Enough to tell Wallace what the Osprey carried below the waterline"
+- Thomas closing the panel — "The join settled back into the framing — invisible again, or nearly. But no longer a secret."
+- "The Osprey is finished for this work." / "But the work is not finished." — Thomas forward-thinking, loyal
+- "Undetermined purpose" — the language Thomas suggested, containing the damage
+- Clara's recognition: Thomas shaped how the secret enters the world (dual-frequency: on re-read, he now controls the framing)
+- "New specifications. A different vessel." — Clara already rebuilding
+- Thomas "already reaching for his pen" — the reliable machinery (dual-frequency: he'll know the next design's weaknesses too)
+- Samuel: "Then we build what comes next" — the forward-looking response that distinguishes him
+- "They'll need to get past Callaghan. And me." — Samuel's quiet commitment
+- The lamplighter making his rounds — the infrastructure of ordinary life proceeding above the darker work
+- "Five lines that described what sixty-three people once needed" — the Osprey's loss measured in its purpose

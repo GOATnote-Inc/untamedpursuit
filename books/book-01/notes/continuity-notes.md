@@ -1026,3 +1026,82 @@ Word count: 3,032 → 2,941 (net -91 words from cuts)
 ### Bible Updates Needed
 - Thomas recommended the warehouse sale to Samuel Taylor — new detail, should be added to Thomas's profile
 - Harper's whistle signals (two short = hold, two longer = all-clear) — should be added to Harper's profile
+
+---
+
+# Chapter 14 — Below the Waterline
+
+## New Facts Introduced
+
+- ch-14: Inspector assigned to the Osprey is Hale — fifty years old, weathered face, careful hands, decades of inspecting cargo holds. Commission badge. Compromised by Wallace (drinks at tavern on Second Street). — added to bible? skip — minor antagonist
+- ch-14: Section Fourteen of the harbor commission's inspection protocol — grants authority over cargo, manifests, and loading practices; contains a clause about "vessel's condition as it bears on the cargo's safe transport" which Hale interprets as structural authority — added to bible? skip — plot-specific legal detail
+- ch-14: The Osprey's inspection record will note "structural features of undetermined purpose in the forward hull section" — language Thomas suggested to Hale. This is now in the commission's file permanently. — added to bible? yes — update Osprey/fleet notes
+- ch-14: All three ships (Meridian, Cathay, Osprey) released from inspection. Ashford and Crane complaint closed as unfounded. — added to bible? skip — plot resolution
+- ch-14: The Osprey can never carry passengers again — the compartments are in the commission's record. Future complaints would start with that knowledge. — added to bible? yes — the Osprey's rescue capability is now ended
+- ch-14: Clara orders new specifications for a different vessel — the work of designing replacement rescue architecture begins this week. — added to bible? skip — in-progress plot
+
+## Outline Deviations
+
+- ch-14: No outline existed for Ch14 prior to drafting. The inspection scene is entirely original — no source material depicts the Osprey's inspection.
+- ch-14: Clara accompanies Thomas below deck (rather than waiting on the wharf) — organic choice that strengthened the scene by placing Clara inside the compartments when they are discovered.
+- ch-14: Thomas suggesting the "undetermined purpose" language to the inspector was not pre-planned — emerged during drafting as a natural extension of Thomas's legal architecture. Creates a powerful dual-frequency beat.
+
+## Continuity Flags
+
+- ch-14: Osprey physical layout — forward hold (cargo), aft section (narrow companionway, three steps down to bilge, ballast stone along keelson, concealed panels in hull framing). Consistent with Ch12's description. — resolved? yes
+- ch-14: Inspection timeline — Meridian on Day 2 (40 min), Cathay on Day 3 (1 hour), Osprey on Day 4. Thomas said "five days — possibly six." Window closes Day 5. One day of buffer. — resolved? yes, consistent with Ch13
+- ch-14: Thomas wrote Section Fourteen — established in Ch11 (the inspection schedule he drafted through intermediaries). — resolved? yes
+- ch-14: Hale is the "third man" from Ch13 — "The third drinks at a tavern on Second Street where Wallace's dockmaster also drinks." Consistent. — resolved? yes
+- ch-14: "Ashford and Crane" — Wallace's sham concern from Ch11. Consistent. — resolved? yes
+- ch-14: The Osprey's cargo was moved in Ch13 — medical supplies, documents, personal effects, blankets. All now on Samuel's third floor behind winter provisions. Ch14 confirms: compartments empty. — resolved? yes
+- ch-14: Thomas's "boyish grin" not used in this chapter — replaced with "thin smile" and his older expression. Good variation from Ch13's "boyish grin." — resolved? yes, deliberate
+- ch-14: George's position near the gangway — consistent with his pattern of reading arrangement and choosing his place (Ch2: fireplace, Ch6: weapons rack, Ch12: aboard Osprey, Ch13: base of stairs, Ch14: gangway). — resolved? yes
+- ch-14: Thomas dual-frequency seeds: 6 seeds this chapter. (1) Clara sends Thomas below — trusts him with the most dangerous moment; (2) Thomas arguing from inside the hull — he now has firsthand knowledge of the compartments; (3) "Undetermined purpose" — Thomas controls how the secret enters the record; (4) "But the work is not finished" — forward-thinking, loyal; (5) Thomas "already reaching for his pen" at new specifications — he'll know the next design; (6) Clara's admiration: "not prevention but containment — shaping how the secret enters the world" — on re-read, this is the skill that makes his betrayal devastating. Running total: Ch2 (5), Ch4 (1), Ch5 (5), Ch6 (5), Ch7 (7), Ch8 (8), Ch9 (6), Ch10 (8), Ch11 (6), Ch12 (1), Ch13 (6), Ch14 (6) = 64 total.
+- ch-14: Clara-Samuel warehouse pattern — Ch13: Clara went to Samuel's warehouse after the cargo move. Ch14: Clara goes to Samuel's warehouse after the inspection. This is becoming a pattern: Clara processes crises at Samuel's warehouse the way she processes strategy at Thomas's desk. The geography of her emotional life is shifting. — resolved? yes, intentional
+- ch-14: "Tomorrow" — the same exchange that ended Ch13 ("Tomorrow." / "Tomorrow."). Deliberate callback. — resolved? yes, intentional
+
+---
+
+## Chapter 14 — Subagent Review Log
+
+### Style Reviewer
+- POV breaks fixed (4 CRITICAL): Hale's intention (line 69) rewritten as observable behavior; Hale's briefing (line 99) filtered through Clara's suspicion; Hale's understanding (line 137) rewritten as weight Clara reads in his look; Samuel's philosophy (line 199) reanchored through Clara's memory of his father.
+- Tell-after-show fixed (C5): "The acknowledgment settled between them — rarer than she intended, heavier than the words" — cut entirely. Thomas's inclined head and wry response carry the beat.
+- Tell-after-show trimmed (line 101): "Her expression was the one she wore when the fight was joined and the only way was through" — cut. "She gave him nothing" is sufficient.
+- "A man who" construction: Reduced from 6 instances to 0. Replaced with observable behavior, Clara's inferences, or restructured sentences.
+- Closing walk: Fully rewritten to differentiate from Ch13. Fragment list ("The leather coat. The cane. George steady at her side.") replaced with continuous sentence. Ch13 ends on "The night's work was done"; Ch14 ends on "Something else had already begun."
+- "Not X — Y" pattern: Reduced. "Not prevention but containment" → "containment" (dash construction cut).
+- Cross-chapter duplications addressed: Brennan description thinned (was near-identical to Ch13); "across the low lamplight" → "over the counting table"; Virginia capes/Osprey design memory cut (paraphrased Ch11); "clearances, the seals" doublet freshened.
+- "Sixty-three" reduced from 4 to 3 (lines 125, 147, 225). Third occurrence (Osprey memory section) cut with the Virginia capes passage.
+- "Architecture" reduced from 4 to 1 (line 125 only — physical, literal use). Removed from closing.
+- Back-half recap compressed: Closing section thinned from 9 lines to 5. Removed repetitive cargo inventory and Thomas recap.
+
+### Continuity Checker
+- CONTRADICTION fixed: Thomas "right hand" (line 49) → "his hands." Bible says "ink on both hands"; all prior chapters say "both hands."
+- ADVISORY: Hale's "weathered face" overlaps Harper's descriptor — accepted, different men, different contexts.
+- ADVISORY: Warehouse ground-floor window — new detail, not contradicted. Logged.
+- ADVISORY: George's post-danger gesture — new behavioral detail, consistent with character. Changed "after operations" to "when the danger had passed" (also historian fix).
+- ADVISORY: Thomas authored Section Fourteen — consistent with Ch11 (the inspection schedule he drafted).
+- ADVISORY: Brennan description thinned to avoid echo with Ch13.
+- All core facts verified: four years, inspection timeline, Osprey layout, sixty-three count, child's coat, cargo move. PASS.
+
+### Historian
+- MUST-FIX applied (4): "clipboard" (×2) → "ledger" and "notebook" (anachronism — clipboard invented 1870-71); "after operations" → "when the danger had passed" (20th-century covert usage); "inspection protocol" → "inspection rules" (20th-century bureaucratic sense); "compliance" (×3) → "conformity" (regulatory sense is post-Civil War).
+- CONSIDER items reviewed: "documentation" (retained — period-plausible in legal context), "authorized scope" (retained — legal term), "assessment" (retained), "containment" (retained — period meaning applies), "legal architecture" (retained — metaphorical, not jargon), specifications/clearances (acceptable), Section Fourteen (acceptable), counter-complaint (acceptable), attorney at inspection (acceptable).
+
+### Character Analyst
+- Clara voice: PASS. Measuring, precise, darkly humorous. Consistent across Ch11, Ch13, Ch14. Registers world through weapons/strategy/weight lens.
+- Thomas dual-frequency: PASS. Nine seeds identified, all functioning at correct depth. Minor note: seawall metaphor (line 169) is highest-risk seed — reads as praise first, mechanism of betrayal on re-read. Retained as defensible. Cumulative access pattern mitigated by Clara's admiring POV filter.
+- Samuel voice: PASS. Five lines of dialogue, none exceeding seven words. "Then we build what comes next" is peak Samuel — forward-looking, collaborative, economical.
+- Courtship progression: PASS. Clara goes to Samuel first after crisis. Exchange is practical, not emotional. "Tomorrow" / "Tomorrow" is shared rhythm, not declaration.
+- George: PASS. Reads arrangement, chooses position, offers presence (not comfort). Text explicitly names the distinction.
+
+### Summary of Changes (2,971 → 2,720 words)
+- 4 anachronisms fixed (clipboard, operations, protocol, compliance)
+- 1 continuity contradiction fixed (right hand → his hands)
+- 4 POV breaks fixed (Hale ×3, Samuel ×1)
+- 2 tell-after-show passages cut
+- 6 "a man who" constructions eliminated
+- Closing section rewritten (differentiated from Ch13)
+- Cross-chapter duplications addressed (Brennan, lamplight, Virginia capes, clearances/seals)
+- Repetition patterns thinned (Not X — Y, sixty-three, architecture)
