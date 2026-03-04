@@ -465,3 +465,93 @@
 - Samuel's patience: "I hope to build something between us where you feel safe enough to share" — contrasted with Thomas's analytical approach without declaring it. Clara draws the comparison internally in the closing carriage scene.
 - Dual-frequency: ALL 5 SEEDS PASS — invisible on first read. (1) Thomas hands report without asking why — trust/exclusion. (2) His finest work delivered by Clara to another man — respect/displacement. (3) Clara returns with something she won't share — partnership continuing/partnership eroding. (4) "She had never shown Thomas the wound" — new insight/the moment of migration. (5) Lamplight in the window — the reliable man/the man left behind.
 - George: PASS — no verbal commands. Behavioral cues appropriate (greeting Samuel, flank press during vulnerability, head turning between them at river's edge).
+
+---
+
+# Chapter 7 — The Balance
+
+## New Facts Introduced
+
+- ch-07: Clara's townhouse exterior — red brick, white shutters, green (old copper) front door, corner of Spruce Street — added to bible? no
+- ch-07: Clara's courtyard — walled on three sides (brick and ivy, ten feet high), packed earth and flat stone surface, weapons rack, table for Colts, clay targets along eastern wall — added to bible? no
+- ch-07: Thomas and Samuel meet for the first time — Thomas greets Samuel in his office, shakes hands, makes a joke about Clara mentioning him, compliments exchanged on the Wallace report — added to bible? no
+- ch-07: Thomas described: early thirties, silver at temples, sharp-featured, ink on both hands, boyish grin — consistent with Ch2 and Ch5 — added to bible? no (no Thomas profile exists yet)
+- ch-07: Clara in practice clothes — dark linen trousers tucked into low boots, cotton shirt with sleeves rolled, hair pulled back and tied. Most physically unguarded version of Clara seen in the series. — added to bible? no
+- ch-07: Clara's martial arts described as Japanese, learned through family trading connections (Canton, Nagasaki, Philadelphia). Principle: yielding to redirect force. — consistent with bible (Clara trained in Japanese martial arts through family connections) — added to bible? already there
+- ch-07: Samuel has trained in English boxing for six years with a weapons master — added to bible? no
+- ch-07: Clara puts Samuel on the ground three times in three minutes using different techniques (entry, wrist lock, sweep) — added to bible? no
+- ch-07: Samuel begins learning Clara's yielding principle and achieves a successful redirect (pivot behind her) — added to bible? no
+- ch-07: Wallace auction house intelligence — Chestnut Street, fourteen lots in six months, contemporary American paintings purchased through agents — added to bible? no
+- ch-07: Clara's housekeeper — middle-aged, efficient, unsmiling woman who answers the door — added to bible? no
+- ch-07: Clara's hallway has personal paintings (not museum-quality), a staircase, and a sitting room with heavy curtains — added to bible? no
+- ch-07: The courtyard shows marks of solitary practice — one set of marks in the earth. Samuel's footprints are new. — added to bible? no
+- ch-07: Clara and Samuel use wooden practice blades for blade work after the martial arts training — added to bible? no
+
+## Outline Deviations
+
+- ch-07: Source outline_2_16.md Scene 5 describes "Thomas and Clara at her farm shooting and discussing Samuel." Adapted as Samuel arriving at Clara's townhouse courtyard (established Ch3) for the first training session. No farm introduced yet — courtyard is the more grounded location. The "discussing Samuel" beat was folded into Thomas and Samuel actually meeting.
+- ch-07: The ___Outline NOVEL___ Ch7 description ("Clara teaching Samuel martial arts, developing relationship, integration of Eastern/Western approaches, building first safe houses") was the primary template. Safe houses deferred — too much for one chapter.
+- ch-07: Thomas's appearance during training (bringing water, delivering Wallace intelligence) was not in source material. Added to (a) give Samuel his first direct observation of the Clara-Thomas dynamic, (b) advance the Wallace thread, (c) plant dual-frequency seeds.
+- ch-07: The anatomy lab material (from Fierce Foundations batch7) was NOT used — Kate has not been introduced and the midnight anatomy lessons belong to a different phase. Clara teaches Samuel directly.
+- ch-07: No night-saving episode included (outline Scene 9: "Another Clara night saving episode"). Deferred to a later chapter.
+
+## Continuity Flags
+
+- ch-07: Thomas's office consistent with Ch2 and Ch5 — mahogany desk, maps, ledgers, Persian rugs, fire in grate, grandfather clock. PASS.
+- ch-07: Thomas's appearance — silver at temples, sharp eyes, shirtsleeves, ink on hands — consistent with Ch2 and Ch5 descriptions. PASS.
+- ch-07: Samuel's boxing training — established in Ch3 (Thomas's dossier: "trains nightly with a weapons master"). Ch7 renders this as six years of English boxing. Not contradicted — bible says "boxing-trained" and "trains nightly with weapons master." The six-year detail is new but consistent. — resolved? yes
+- ch-07: Clara's martial arts — bible says "Japanese martial arts through family trading connections." Ch7 elaborates: the principle of yielding to redirect force, learned through Canton-Nagasaki-Philadelphia trade routes. Consistent with Ch6's "Canton, Japan, Philadelphia" trading connections. — resolved? yes, consistent
+- ch-07: "Miss Chen" / "Mr. Taylor" formality maintained in direct address. Neither uses the other's first name in Ch7 — appropriate for the training context (professional, physical, not yet intimate enough for first names in person). — resolved? yes, formality tracks courtship
+- ch-07: George greets Samuel at the front steps and leads him through the house — consistent with George's established behavior toward Samuel (Ch4: head in lap, Ch6: muzzle greeting). George has decided Samuel belongs. PASS.
+- ch-07: Clara's sword cane present in the courtyard (leaning against the weapons rack) — she has it but is not using it during training with Samuel. Consistent with her progressive disarmament pattern. PASS.
+- ch-07: Thomas dual-frequency seeds in Ch7: (1) Thomas greets Samuel warmly and returns to work without ceremony — hospitality/sizing up his replacement; (2) "She's mentioned you rather more than she mentions most people" — flattery/measuring Clara's shift in attention; (3) Thomas brings water to the courtyard — service/witnessing physical intimacy; (4) "Bring it to the courtyard. We'll be here" — partnership instruction/Thomas receiving orders to deliver intel to Clara and Samuel together; (5) Thomas's eyes resting on Clara a moment before returning — affection/cataloguing; (6) Thomas at his desk as Samuel departs, lamp lit, pen moving, not looking up — the reliable machinery/the man being passed. Total seeds across Ch1–7: Ch2 (5), Ch4 (1), Ch5 (5), Ch6 (5), Ch7 (6). — resolved? yes, all ambiguous from Samuel's outside perspective
+- ch-07: "Homo sum" Latin motto still NOT used — reserved for bigger moment. — resolved? yes, held per plan
+- ch-07: The townhouse is placed on Spruce Street — this is a new detail. Philadelphia's Spruce Street in 1846 was a residential street in the city's established center, plausible for a wealthy homeowner. — resolved? yes, period-appropriate
+
+---
+
+## Chapter 7 — Subagent Review Log
+
+### Style Reviewer
+- POV: Four CRITICAL breaches fixed. (1) Thomas's "pleasure, quick and genuine" + "whose work was his language" — too omniscient for first meeting; softened to "what looked like pleasure" and "a man who valued his own work." (2) Clara's smile motivation stated as fact — added "as far as he could tell." (3) "Answered a question she had not asked aloud" — Clara's internal question presented as real; softened to "satisfied some test she had not announced." (4) Thomas's "confirming something he already knew" — added "what Samuel took for."
+- "The way" construction: Reduced from 8 to 4 instances. Variants replaced with "as" and "how."
+- "A man/creature who" construction: Reduced from 7 to 4. Replaced with "a leader who," "someone who," "an animal that."
+- "Near-smile": Reduced from 3 to 2. Middle instance replaced with "guarded expression broke into an actual smile."
+- "Something" vagueness: Reduced by 1 ("did something to" → "altered").
+- Tell-after-show: Compressed lines 152-154 from four sentences to one. Cut over-explanation of Clara's praise of Thomas.
+- Thomas warm-tone over-specification: Cut "The tone was warm — genuinely warm, the voice of a man who found the scene before him amusing and was not concealing it." Thomas's dialogue and grin carry the warmth without narration.
+- George philosophical passage: Trimmed — kept "its own kind of wisdom," cut the two-sentence follow-up.
+- Tense: One slip fixed — "moves" → "moved" in water metaphor.
+
+### Continuity Checker
+- Thomas's office: All elements match Ch2/Ch5 (mahogany desk, maps, ledgers, Persian rugs, fire in grate, grandfather clock). Marble fireplace and bookshelves omitted — defensible as POV filtering (Samuel's brief glance). PASS.
+- Thomas's appearance: Silver at temples, sharp eyes, ink on both hands, well-dressed in shirtsleeves — all consistent. PASS.
+- Samuel's training: "Weapons master" (Ch3/Bible) compatible with "English boxing trainer" (Ch7) — Samuel's nightly training encompasses both disciplines. Clara uses "weapons master" in Ch7 dialogue and Samuel does not correct her. Samuel admits limited blade experience ("Some. Enough to know I have not trained enough"). PASS with notation.
+- Clara's martial arts: Japanese traditions, family trading connections, Canton-Nagasaki-Philadelphia route — all bible-consistent. Yielding principle matches jujutsu. PASS.
+- George: No verbal commands throughout. Autonomous domestic behavior (greeting, leading, settling, shifting). PASS.
+- Courtyard surface: CONTRADICTION fixed. Ch3 said "flagstone"; Ch7 said "packed earth and flat stone." Ch3 amended to "packed earth and flagstone" — reconciled.
+- Formality: "Miss Chen" / "Mr. Taylor" / "Mr. Arlington" maintained throughout. No slips. PASS.
+- Wallace intelligence: Auction house detail (Chestnut Street, 14 lots, contemporary American paintings) is new, consistent with established patronage pattern. PASS.
+- Disarmament pattern: Practice clothes (linen trousers, cotton shirt, no coat, no holsters) — new register, most physically unguarded. Sword cane present in space but not on person. PASS.
+- Thomas-Samuel first meeting: Confirmed — no prior chapter places them together. Explicitly stated: "Samuel had not met the man." PASS.
+
+### Historian
+- ANACHRONISM fixed: "telegraphing" (1880s boxing journalism) → "warning." "Wind-up" (1870s baseball) → "preparation."
+- QUESTIONABLE fixed: "Clay targets" (1880 invention) → "Clay pots."
+- All other vocabulary clean — no previously flagged anachronisms appear ("dossier," "briefing," "infrastructure," "debrief," "network," "asset," "strategic," "design philosophy" all absent).
+- Material culture: All items period-accurate (Colts, sword cane, wooden practice blades, Persian rugs, mahogany desk, clay pitcher, beeswax, linen towels).
+- Martial arts history: Japanese martial arts via Canton-Nagasaki trade route is defensible. Jujutsu techniques described (joint locks, sweeps, redirection) match real koryu traditions. Water metaphor blends Chinese and Japanese martial philosophy — defensible given Clara's mixed heritage.
+- English boxing: Stance, training, terminology all accurate for 1840s bare-knuckle boxing.
+- Philadelphia geography: Spruce Street as wealthy residential address — ACCURATE. Corner lot for prominent residence — ACCURATE.
+- Architecture: Red brick with white shutters, three stories, green-painted door, walled courtyard — all quintessential 1846 Philadelphia.
+- Social customs: Woman teaching martial arts in a private walled courtyard with servants present — DEFENSIBLE.
+- Auction house on Chestnut Street with American paintings — ACCURATE.
+
+### Character Analyst
+- Samuel voice: STRONG consistency with Ch4. Candid self-awareness, comfort with silence, precise diction, emotional honesty, physical awareness — all present. "Filed" as cognitive verb appears in both Ch4 and Ch7 as signature motif.
+- Clara through Samuel's eyes: Excellent progression from Ch4 (performance-Clara in midnight gown) to Ch7 (practice-Clara in linen and cotton). Samuel notices new things (calluses, soap, breathing rhythm) while remaining the same observer.
+- Thomas through Samuel's eyes: Reads as genuinely warm, competent, charming on first read. Samuel detects zero jealousy — because there is nothing to detect yet. Thomas is brilliant, witty, professional.
+- Dual-frequency: ALL 7 SEEDS PASS. (1) Introduction line "mentioned you rather more" — banter/tracking. (2) George comment — polite efficiency/noting dog's acceptance. (3) Smooth return to work — dedication/spatial separation. (4) Tray for a hundred mornings — consideration/being replaced in the ritual. (5) Clara's cup without looking — muscle memory/bond being eroded. (6) Eyes resting on Clara — affection/cataloguing. (7) Not looking up on departure — professionalism/withdrawal. Seed 4 (tray) and Seed 5 (cup) rated as strongest invisible foreshadowing in the series to date.
+- Clara's teaching: Consistent with bible — measured, precise, philosophical. Teaches one principle (yielding), lets him discover applications. Matches "wants others to find their own path but has manipulated everyone into position."
+- Physical chemistry: Earned and restrained. Structural justification through training mechanics. Contact escalates naturally. Clara controls distance. Restraint believable.
+- George: PASS — no verbal commands, autonomous behavior, context-appropriate. Calibrates response (no active touch as in Ch4 concert, because Ch7 is not an emotional crisis).

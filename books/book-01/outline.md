@@ -257,3 +257,52 @@
 - "Mr. 'I hope to build something'" — Clara's thin humor over deep emotion
 - The carriage reflection: "She had never shown Thomas the wound. She had shown him the empire built over it."
 - Thomas's lamplight in the window — the man at the desk, still working, as Clara returns carrying something she will not share with him
+
+---
+
+## Chapter 7: The Balance
+
+- **POV**: Samuel Taylor (second Samuel POV chapter)
+- **Location**: Clara's townhouse — the courtyard
+- **Time**: A few days after Ch6, Autumn 1846
+- **Word count target**: 2,800–3,500
+
+### Scene Beats
+
+1. **Arrival** (~400 words): Samuel arrives at Clara's townhouse for the first time in daylight. George greets him on the front steps and leads him through the house. The townhouse: red brick, white shutters, green front door — quiet authority. He passes Thomas's open office door. First meeting between Samuel and Thomas. Thomas: sharp, warm, boyish grin. "She's mentioned you rather more than she mentions most people, which is to say she has mentioned you at all." Samuel compliments the Wallace report. Thomas returns to work without ceremony.
+
+2. **The Courtyard** (~350 words): Samuel enters the walled training yard. Weapons rack, Colts laid out, shattered clay targets. Clara in the center — practice clothes (dark linen trousers, cotton shirt, sleeves rolled). No coat, no silk, no holsters. The most unguarded Samuel has seen her. "You train nightly with a weapons master. I thought it was time we compared methods."
+
+3. **The Test** (~600 words): Samuel takes his boxing stance. Clara circles, studies, then moves — no telegraphing. She puts him on the ground three times in three minutes. Each from a different angle (entry, wrist lock, sweep). She fights like water. On the fourth attempt, Samuel stops trying to hit her. "The lesson is that I have been fighting against. You fight with." Clara teaches the principle: yielding to redirect force. Japanese martial arts through family trading connections.
+
+4. **The Teaching** (~600 words): Clara corrects his form — hands on his body adjusting posture. Professional contact that carries emotional weight. Samuel learns to follow force, redirect, pivot. A moment of proximity after a successful redirect — her back against his chest. She steps through. Physical chemistry acknowledged through restraint, not declaration. George watches from the door. Samuel notes: one set of marks in the earth. His footprints beside hers are new.
+
+5. **Thomas** (~400 words): Thomas appears with water and towels. Professional, warm. Delivers Wallace intelligence: auction house on Chestnut Street, fourteen lots purchased through agents. Building a collection or the appearance of one. Clara: "Bring it to the courtyard. We'll be here." Thomas's eyes rest on Clara a moment, then he returns to his office. Clara praises Thomas: "The finest mind I have ever worked beside." Samuel recognizes the instruction — she's telling him who makes the empire possible.
+
+6. **Practice Resumed and Departure** (~500 words): Return to training — wooden practice blades. Samuel better with a weapon in hand. Clara's corrections grow fewer. George moves closer in the sun. Practice ends. Clara in practice clothes at the courtyard door — "Three days." Samuel walks through the house. Thomas's door open, pen moving, lamp lit. Two worlds, one threshold. Samuel steps into the street. The balance is shifting.
+
+### Threads Advanced
+
+- Clara-Samuel courtship (physical trust — training together, bodies in contact, chemistry through restraint)
+- Anti-trafficking campaign (Wallace auction house intelligence — building collection as respectability play)
+- Thomas Arlington's jealousy seeds (first meeting — warmth that becomes assessment on re-read)
+
+### Threads Introduced
+
+- Clara's martial arts philosophy (yielding to redirect — the principle behind all her operations)
+- Thomas-Samuel dynamic (professional respect from outside; Samuel sees the partnership; Thomas sees his replacement)
+- Clara's townhouse exterior and courtyard (new locations established)
+- Clara without armor (practice clothes — the most physically exposed Samuel has seen her)
+
+### Key Character Moments
+
+- George leading Samuel through the house — the dog who decides
+- Thomas and Samuel's first meeting — the boyish grin, the sharp assessment, the Wallace report praised
+- Clara putting Samuel on the ground three times — the lesson in yielding
+- "I have been fighting against. You fight with." — Samuel's recognition
+- Clara's hands correcting Samuel's form — physical contact as instruction and as more
+- The successful redirect — his chest against her back, one breath of proximity
+- Thomas bringing water — the hundred mornings of partnership observed by the newcomer
+- Clara: "The finest mind I have ever worked beside" — instruction in loyalty
+- Samuel passing Thomas's lit office on departure — two worlds, one threshold
+- "The balance was shifting" — Samuel yielding to something larger than a fighting lesson
