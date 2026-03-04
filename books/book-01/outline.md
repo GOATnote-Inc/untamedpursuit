@@ -577,3 +577,63 @@
 - Samuel going below a second time alone — sitting in the compartment, breathing the darkness
 - The harbor bell at eight — the shift change calling him back to ordinary work
 - The Osprey "carrying what it always carried whether anyone knew or not" — echoing Ch10's mountains "present whether anyone could see them or not"
+
+---
+
+## Chapter 13: The Night's Work
+
+- **POV**: Clara Chen (ninth Clara POV chapter)
+- **Location**: Clara's townhouse (Thomas's office) — Samuel's warehouse — Philadelphia docks
+- **Time**: Same day as Ch11/Ch12 — afternoon through late night, Autumn 1846
+- **Word count target**: 3,000–3,200
+
+### Scene Beats
+
+1. **Thomas's Office — Afternoon** (~500 words): Clara returns to find Thomas buried in counter-complaints. She reports: the Osprey's supplies move tonight through Samuel's warehouse. Thomas asks "Do you need me tonight?" — Clara assigns him to the legal defense. Thomas notes the warehouse is the property they sold Taylor on his recommendation two years ago. The boyish grin, then back to work. Clara pauses at the door; Thomas does not look up.
+
+2. **Preparation** (~300 words): Clara checks weapons, does not change out of the leather coat — tonight is a docks night. Harper arrives with the security plan: his men at the berth boundary, harborside approach, one skiff on the water. Harper's weathered caution: "I don't doubt Mr. Taylor. I doubt the harbor."
+
+3. **Arrival at the Warehouse — Night** (~400 words): Clara and George along the wharf from the north. Loading doors showing a line of low lamplight. Samuel standing at the counting table, waiting. The warehouse floor cleared — corridor from doors to stairs. Callaghan at the office, Brennan outside. George takes position at the stairs without being told. "Let's begin."
+
+4. **The Cargo Move** (~1,000 words): The chapter's heart. Osprey gangway lowered in silence. Samuel's workers in relay pairs — gangway to wharf to loading doors to stairs. Medical supplies first (light, one man). Documents second — Clara carries these herself, feels the weight of the forged names. Samuel on the third floor arranging concealment with an inspector's eye; the space is clean, dry, prepared like a room for someone who matters. Personal effects next. The child's coat: Clara holds it for the first time, realizes she's never asked who washes it. Blankets last — heavy, awkward. Harper's whistle: hold. Harbor patrol lantern sweeping south. Ten seconds. Twenty. Thirty. The patrol passes the Osprey's berth without pausing. All-clear. Last blankets through the doors.
+
+5. **The Quiet Afterward** (~500 words): Third floor checked — cargo invisible behind winter provisions. Callaghan touches his cap to Clara (first direct acknowledgment of her authority in Samuel's space). Harper's approval. The warehouse quiet. Clara and Samuel in his second-floor office — walnut desk, lamplight, the Delaware through the window. She stands at the window the way she stands at Thomas's window — except this is Samuel's space and the operation was not a legal campaign. "Your workers asked no questions." / "They understood what they needed to." The compartments cannot be moved — they face inspection alone. "I'll be here." / "I know."
+
+6. **Departure** (~350 words): Clara and George into the night. The Osprey dark and ordinary. Echo of the Night Watch: the last time she walked these docks at this hour, she killed twelve men. Tonight she carries something else — the blankets safe, the child's coat folded behind salt provisions, Thomas still at his desk. "The night's work was done."
+
+### Threads Advanced
+
+- Clara-Samuel courtship (from trust to shared risk — first operation executed together; partnership becomes physical, not theoretical)
+- Anti-trafficking campaign (Osprey cargo safely transferred; five-day window in effect; inspectors begin with Meridian day after tomorrow)
+- Thomas Arlington's jealousy seeds (asked to stay at desk; "Mr. Taylor" distance while Clara thinks "Samuel"; sold the warehouse now holding her secret; left behind while she and Samuel work in the dark; final image alone at desk)
+
+### Threads Introduced
+
+- Clara's recognition of the child's coat (carried sixty-three people but never held the coat; someone washes it — she will learn who)
+- Samuel's warehouse as sanctuary (third floor now holds the physical evidence of Clara's double life)
+- Callaghan's direct acknowledgment of Clara's authority in Samuel's space (the workers now answer to two people)
+
+### Key Character Moments
+
+- "Clara found Thomas where she had left him" — the chapter's first line plants the pattern of Thomas always being there
+- Thomas's pen set down and picked up — the rhythm of displacement, absorbed professionally
+- "You and Mr. Taylor arranged this on the Osprey this morning" — Thomas constructing the timeline of his exclusion
+- "Do you need me tonight?" — the question Thomas asks and Clara answers by sending him back to the desk
+- "That's the property we sold Taylor. My recommendation." — Thomas built the tool that replaced him
+- The boyish grin folding into work — Thomas's charm as armor
+- Clara leaving; Thomas not looking up — the image of the man left behind
+- Harper: "I don't doubt Mr. Taylor. I doubt the harbor." — professional caution, the unfinished "Miss Chen"
+- George choosing his position at the stairs without instruction
+- Samuel waiting at the counting table — not working, waiting — the focused attention Clara recognizes as her own register
+- Clara carrying the documents herself — the most dangerous cargo stays in her hands
+- Samuel's concealment space prepared like a room for someone who matters
+- The child's coat held for the first time — "washed by someone she had never asked about"
+- Harper's whistle: hold — the ten-second patrol boat passage
+- Samuel beside Clara at the loading doors — she didn't hear him cross the floor
+- Callaghan's cap-touch to Clara — authority recognized without Samuel's permission
+- "Your workers asked no questions." / "They understood what they needed to."
+- Clara at Samuel's window — the mirror of a thousand mornings at Thomas's window
+- "I'll be here." / "I know."
+- The Night Watch echo: "The last time she had walked these docks at this hour, she had killed twelve men"
+- Thomas still at his desk in Clara's final thoughts — "The man who was always working when she returned"
+- "The night's work was done" — the title delivered as closing line

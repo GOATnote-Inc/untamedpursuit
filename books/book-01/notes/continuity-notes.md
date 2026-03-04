@@ -937,3 +937,92 @@ Word count: 3,032 → 2,941 (net -91 words from cuts)
 **Character analyst**: All PASS. No fixes required.
 
 **Net result**: 3,077 → 3,033 words. Status: revised. Cross-fixes applied to Ch11 (3 edits: passage time, "tonight" timeline, YAML "front firms").
+
+---
+
+# Chapter 13 — The Night's Work
+
+## New Facts Introduced
+
+- ch-13: Grandfather clock reads half past three when Clara arrives at Thomas's office — first specific afternoon time reading of the clock — added to bible? skip — incidental detail
+- ch-13: Thomas's counter-complaints filed as of noon; harbor commission must respond within 48 hours; inspection stayed during that period — added to bible? skip — plot-specific legal detail
+- ch-13: Three inspectors from the commission's marine survey division — two competent and honest, one drinks at a tavern on Second Street where Wallace's dockmaster also drinks — added to bible? skip — plot-specific intel
+- ch-13: Thomas sold Samuel the warehouse two years ago, below market, on Thomas's recommendation — added to bible? yes, update thomas.md continuity notes and samuel-taylor.md
+- ch-13: Harper's security for the cargo move: two men at berth boundary, two at harborside approach, one in a skiff on water, Harper at the dock boundary — added to bible? skip — scene-specific deployment
+- ch-13: Harper's whistle signals: two short notes = hold; two longer notes = all-clear — added to bible? yes, minor operational detail for Harper
+- ch-13: Clara has never held the child's coat before; someone washes it after every passage and she doesn't know who — added to bible? skip — thematic detail, not factual canon
+- ch-13: Callaghan touches his cap to Clara — first direct acknowledgment of her authority by Samuel's workers — added to bible? skip — scene beat
+
+## Outline Deviations
+
+- ch-13: No outline existed for Ch13 prior to drafting. The cargo move was planned in Ch12 but no source material depicts the execution. The chapter is entirely original.
+- ch-13: Clara carrying the documents herself (not delegating) was an organic beat — reflects her need for control over the most dangerous cargo. Consistent with her fatal flaw (need for control / inability to delegate).
+- ch-13: The window beat in Samuel's office — Clara standing at the window the way she stands at Thomas's window — was not planned but creates a structural mirror between the two men's spaces. On re-read, this marks the shift in where Clara processes her decisions.
+- ch-13: The final paragraph explicitly parallels the Night Watch (Ch1) — "the last time she had walked these docks at this hour, she had killed twelve men." This bookend was planned during design.
+
+## Continuity Flags
+
+- ch-13: Thomas's office — Persian rugs, tactical maps, mahogany desk (governor's), marble fireplace, grandfather clock. All consistent with Ch2, Ch9, Ch11. — resolved? yes
+- ch-13: Thomas's appearance — ink on both hands, pen rhythm, boyish grin. Consistent with profile and Ch2/Ch9/Ch11. Silver at temples not mentioned (avoiding repetition from Ch11). — resolved? yes
+- ch-13: Harper — "Miss Chen," weathered face, professional deference, unfinished sentences. Consistent with profile and all prior chapters. — resolved? yes
+- ch-13: Samuel's warehouse — Pennsylvania limestone, loading doors facing the river, counting table downstairs, walnut desk upstairs. All consistent with Ch6, Ch12. — resolved? yes
+- ch-13: Workers — Callaghan (ground floor manager), Brennan (watch). Consistent with Ch12. Doyle not mentioned (not present at the night operation — no flag). — resolved? yes
+- ch-13: The Osprey — 200 yards south, dark, rigging visible. Consistent with Ch12. — resolved? yes
+- ch-13: Cargo order — medical stores, documents, personal effects, blankets last. Matches Ch12 plan exactly. — resolved? yes
+- ch-13: Eighteen-hour passage — not directly referenced in Ch13 prose (the passage time doesn't come up in the cargo move scene). No conflict. — resolved? yes, N/A
+- ch-13: "Day after tomorrow" for inspectors beginning with the Meridian — Thomas filed counter-complaints at noon today, 48-hour response window, five days total. "Day after tomorrow" is consistent with the response window expiring. — resolved? yes
+- ch-13: Thomas dual-frequency seeds: 6 seeds this chapter. (1) "You and Mr. Taylor arranged this on the Osprey this morning" — constructing timeline of exclusion; (2) "Do you need me tonight?" → sent to the desk; (3) warehouse sold to Taylor on Thomas's recommendation — built the tool that replaced him; (4) pen set down / picked up — the rhythm of displacement; (5) Clara pauses at door, Thomas doesn't look up — left behind; (6) final image of Thomas at desk while Clara walks home from Samuel's warehouse. Running total: Ch2 (5), Ch4 (1), Ch5 (5), Ch6 (5), Ch7 (7), Ch8 (8), Ch9 (6), Ch10 (8), Ch11 (6), Ch12 (1), Ch13 (6) = 58 total.
+- ch-13: The child's coat — same coat from Ch12 (patched at elbows, soap-smelling). Clara holds it for the first time. Introduces the question of who washes it — a thread that can be picked up later. — resolved? yes, new thread planted
+- ch-13: George at the stairs — consistent with his pattern of reading room geometry and choosing his own position (Ch2: near fireplace; Ch6: near weapons rack; Ch12: aboard the Osprey). — resolved? yes
+
+## Subagent Review Log — Ch13
+
+**Date**: Post-draft revision
+**Word count**: 3,608 → 3,551 (revised)
+**Status**: draft → revised
+
+### Fixes Applied
+
+**CRITICAL (POV breaks) — 7 fixed:**
+1. Line 29: "Thomas had read that expression a thousand times" → reframed through Clara's perception ("She had seen him read that expression often enough")
+2. Line 41: "the curiosity folded behind the strategist's composure" → "Whatever questions he carried about the morning, they disappeared behind the work"
+3. Line 51: "He was asking to be useful" → "Clara heard the offer beneath the question"
+4. Line 77: Harper's preference stated as fact ("He would have preferred") → observable detail ("His jaw set slightly: he would have preferred")
+5. Line 79: Italicized Harper thought (*be careful…*) → Clara's interpretation ("She heard what the silence held")
+6. Line 165: "Samuel noticed" → "Clara saw Samuel register it"
+7. Line 167: Harper's approval system as narrator fact → "something in his bearing that looked, to Clara, like satisfaction"
+
+**CONTRADICTIONS — 2 fixed:**
+1. "Twelve years" → "four years" (3 instances: lines 47, 71, 77). Clara-Thomas and Clara-Harper partnerships are four years per Ch8/Ch9/Ch10/Ch11.
+2. "Two years ago" → "last year" (2 instances: lines 55, 197). Warehouse sale is "last year" per Ch2.
+
+**ANACHRONISMS — 4 fixed:**
+1. "marine survey division" → "inspection office"
+2. "logistics" → "arrangements"
+3. "sightlines" → "where an eye would fall"
+4. "harbor patrol" / "patrol boat" → "customs boat" (2 instances)
+
+**MODERATE — 7 fixed:**
+1. Tell-after-show "That was why the work mattered" — cut
+2. Tricolon third clause (line 109) telling what's already shown — cut
+3. "something that had changed shape" abstract → "a threshold crossed"
+4. Ch11 office duplication (same 4 details in same order) — replaced with new sensory detail (ink, cold coffee, untended fire)
+5. George-at-hearth nearly verbatim from Ch11 → differentiated ("chin on his paws before his body had finished settling")
+6. Callaghan double description (lines 131/163) — first instance differentiated with pencil/tally sheet detail
+7. "the man who" tricolon in closing → compressed and varied
+
+**MINOR — repetition reductions:**
+- "loading doors" 14→8 (varied with "doors," "broad doors," "wide doors," "threshold," "entrance")
+- "the way" 6→3
+- "the man who" pattern: thinned in closing section, preserved in the two strongest instances (line 109 doubled, line 213 single)
+
+**HISTORIAN CONSIDER items — 2 addressed, 6 accepted:**
+- "ambient light" → "own light"
+- "relay" → "chain" (first instance); "relay" retained at line 155 (word in use since 1400s)
+- Accepted as period-plausible: "security arrangements" (removed during POV fix), "manufactured crates," cobblestone on wharves, 48-hour response window, "intelligence findings" (removed during POV fix), "mechanical vigilance" (changed to "dutiful passage")
+
+**CHARACTER ANALYST**: All PASS — no changes needed.
+
+### Bible Updates Needed
+- Thomas recommended the warehouse sale to Samuel Taylor — new detail, should be added to Thomas's profile
+- Harper's whistle signals (two short = hold, two longer = all-clear) — should be added to Harper's profile

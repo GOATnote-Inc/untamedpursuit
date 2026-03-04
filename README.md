@@ -53,9 +53,9 @@ The series is free to read. Start here:
 | 10 | [The Good Silver](books/book-01/chapters/ch-10.md) | Samuel Taylor | 3,188 |
 | 11 | [The Reach](books/book-01/chapters/ch-11.md) | Clara Chen | 2,941 |
 | 12 | [What the Ships Carry](books/book-01/chapters/ch-12.md) | Samuel Taylor | 3,033 |
-| 13 | [The Night's Work](books/book-01/chapters/ch-13.md) | Clara Chen | 3,608 |
+| 13 | [The Night's Work](books/book-01/chapters/ch-13.md) | Clara Chen | 3,551 |
 
-*Book 1: ~39,700 words drafted* · *Series total: ~39,700 words*
+*Book 1: ~39,640 words drafted* · *Series total: ~39,640 words*
 <!-- PROGRESS:END -->
 
 ### Themes
