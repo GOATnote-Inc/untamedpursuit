@@ -28,7 +28,7 @@
 ### 3. East-West Integration
 
 - **Core question**: Can different traditions create something stronger than either alone?
-- **Characters who embody it**: Clara (Buddhist father + Christian mother, Chinese/Japanese/American identity), Eve (trained in Japanese martial arts + American frontier tactics + European fencing + Chinese medicine)
+- **Characters who embody it**: Clara (Buddhist father + Christian mother, Chinese/Japanese/American identity), Eve (trained in the Chen family martial art + American frontier tactics + European fencing + Chinese medicine)
 - **Recurring symbols/motifs**: Clara's blended spiritual heritage (kami and grace), the Glass Garden (Japanese garden + American frontier fortress), the herb garden (Eastern and Western medicinal traditions), Canton + Philadelphia + San Francisco as a geographic triangle
 - **Evolution by book**:
   - Era 1: Clara integrates her parents' traditions into her worldview and operations.

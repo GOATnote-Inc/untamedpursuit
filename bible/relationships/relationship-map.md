@@ -181,7 +181,7 @@
 
 ### Clara <-> George (dog)
 - **Type**: Handler-Companion
-- **Summary**: George is Clara's massive Continental Shepherd — operates with hand signals, attacks with surgical precision, comforts rescued children and grieving friends.
+- **Summary**: George is Clara's massive black dog — a Newfoundland cross with continental European stock, acquired through her trading network — operates with hand signals, attacks with surgical precision, comforts rescued children and grieving friends.
 - **Source**: Episode I 1.31, Golden_Compass_Stage_Episode
 
 ### Jack <-> Ruby (dog)

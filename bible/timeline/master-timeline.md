@@ -13,7 +13,7 @@
 - Clara's mother: Devout Christian (prayer, grace, forgiveness, eternity) `[fictional]`
 - Family has trading connections across the Pacific — Canton, Japan, and the American West `[fictional]`
 - Clara trains at Canton Missionary Hospital for 3 years `[fictional]`
-- Clara learns Japanese martial arts through family trading partners `[fictional]`
+- Clara learns the Chen family martial art (Southern Chinese tradition with Japanese influences) through her father and the family's Canton–Nagasaki trading connections `[fictional]`
 
 ### Kate's Medical Training
 - Kate Blackwood trained at Woman's Medical College of Pennsylvania `[historical — college founded 1850]`
@@ -35,7 +35,7 @@
 - **Source:** Episode I 1.31, Fix_beginning
 
 #### ~1846 — The Night Watch (Episode I)
-- Clara walks Philadelphia docks at night with George (Continental Shepherd)
+- Clara walks Philadelphia docks at night with George (massive black dog — Newfoundland cross)
 - Child's scream — Mercy Jane crew trafficking children
 - Samuel Taylor confronting six traffickers; gets beaten
 - Clara intervenes with sword cane and multiple Colts — kills 12+ men
@@ -139,7 +139,7 @@
 - Eve's first summer at age 5: Clara teaches her the sword — "A sword is not a weapon"
 - First lesson: grip, balance, breathing. "Too tight. You're fighting the sword instead of working with it."
 - By age 12: horseback shooting, confined-space fighting, advanced herbalism
-- Training with masters from multiple traditions: Japanese martial arts, Chinese medicine, European fencing, American frontier tactics
+- Training with masters from multiple traditions: the Chen family martial art (Southern Chinese with Japanese influences), Chinese medicine, European fencing, American frontier tactics
 - Kate teaches medicine/anatomy; Jack teaches Winchester and tracking ("reading air")
 - Eve also learns Latin, sign language, piano, languages
 - **Source:** Claras_Fortress, Part_One_Summer_Memories, Clara_teaching_awareness_16yr_Eve

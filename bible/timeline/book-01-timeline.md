@@ -46,7 +46,7 @@
 - **Significance**: Clara gives Samuel something she has never given Thomas — a glimpse of the wound beneath the empire. The emotional migration from Thomas to Samuel begins.
 
 ### Shortly After Chapter 6 — Chapter 7
-- **Event**: Samuel arrives at Clara's townhouse for first training session. Thomas and Samuel meet for the first time — warm handshake in Thomas's office. Clara teaches Samuel martial arts in the courtyard (Japanese yielding principle). Samuel put on the ground three times in three minutes. Thomas brings water and Wallace auction house intelligence (Chestnut Street, 14 lots in 6 months). Wooden practice blades for blade work.
+- **Event**: Samuel arrives at Clara's townhouse for first training session. Thomas and Samuel meet for the first time — warm handshake in Thomas's office. Clara teaches Samuel martial arts in the courtyard (yielding principle from the Chen family art). Samuel put on the ground three times in three minutes. Thomas brings water and Wallace auction house intelligence (Chestnut Street, 14 lots in 6 months). Wooden practice blades for blade work.
 - **Location**: Clara's townhouse, Thomas's office, courtyard
 - **Characters involved**: Samuel, Clara, Thomas, George
 - **POV**: Samuel

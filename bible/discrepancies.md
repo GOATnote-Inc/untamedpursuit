@@ -26,7 +26,7 @@
 | C2 | Eve's horse | Storm (many files) | Gus (Eve_and_Gus) | **RESOLVED** — Storm. Gus belongs to an abandoned fragment. |
 | C3 | Thomas identity | Clara's intelligence associate / oldest friend (Episode I, Fix_beginning) | Eve's love interest, Durand family (outline_for_fierce_11_27) | **RESOLVED** — Two separate characters. Thomas Arlington (Clara's era, ~30s in 1846) is Clara's intelligence chief. Thomas Mitchell (Eve's era, younger man) is Eve's love interest. Mitchell may be Arlington's son or protege, explaining Jack's inherited wariness and Clara's "knowing reaction" at his arrival. |
 | C4 | Kate's maiden name | Blackwood (Clara_Meets_Kate) | Morrison (___Outline NOVEL___) | **RESOLVED** — Blackwood. Katherine Blackwood. From the more developed source. |
-| C5 | George (Clara's dog) | Continental Shepherd (Episode I) | Unclear/unmentioned in some files | **RESOLVED** — Continental Shepherd is canon. |
+| C5 | George (Clara's dog) | Continental Shepherd (Episode I) | Unclear/unmentioned in some files | **RESOLVED** — "Continental Shepherd" replaced. George is now a Newfoundland cross with continental European stock (Swiss Metzgerhund/Sennenhund), acquired through Clara's trading network. No established breed name in 1846. `[deliberate anachronism]` |
 | C6 | Eve's father occupation | Jack Garrett — marshal (___Outline NOVEL___) | Jack Garrett — Pony Express rider (Clara_Meets_Kate) | **RESOLVED** — Both, at different times. Pony Express rider in his youth (1860-1861), later became a marshal. |
 | C7 | Clara alive vs dead | Alive, funding Jessie (Jessie_considers_Art) | Dead, fortress inherited (Claras_Fortress) | **RESOLVED** — Not a conflict. Different points in the timeline. Jessie_considers_Art = Clara's final months. Claras_Fortress = after Clara's death. |
 | C8 | Silas role | Team member, quiet grace (Unit_creation, Part_One) | Antagonist "Silas Kane" hunting Eve (Fierce_Untamed_Pusuit_Series_1) | **RESOLVED** — Canon Silas is the team member. "Silas Kane" belongs to the abandoned alternate version (non-canon). |
@@ -77,7 +77,7 @@
 | C2 | 2026-03-04 | Storm | 8+ files vs. 1 fragment. Overwhelming consensus. |
 | C3 | 2026-03-04 | Two characters: Thomas Arlington (Era 1) + Thomas Mitchell (Era 2) | Different surnames, different ages, different structural roles. Mitchell can't be 70+ and be Eve's love interest / Jessie's makeout partner. Possible father-son connection preserves Jack's inherited distrust. |
 | C4 | 2026-03-04 | Blackwood | From the more developed source (Clara_Meets_Kate). |
-| C5 | 2026-03-04 | Continental Shepherd | Single source, no contradictions. |
+| C5 | 2026-03-04 | Continental Shepherd → Newfoundland cross (breed anachronism resolved) | Single source, updated to resolve historical anachronism. |
 | C6 | 2026-03-04 | Both: Pony Express rider (1860) → marshal (later) | Pony Express ran 1860-1861. Brief early career before becoming a lawman. |
 | C7 | 2026-03-04 | Not a conflict — different timeline points | Jessie_considers_Art = alive; Claras_Fortress = after death. |
 | C8 | 2026-03-04 | Team member (canon) / "Silas Kane" abandoned | Alternate version (Fierce_Untamed_Pusuit_Series_1) is entirely non-canon. |

@@ -41,7 +41,7 @@
 <!-- Who learns what, and how -->
 
 - **Medical education**: Anatomy lab study with cadavers (formaldehyde, camphor, fifty examination stations). Germ theory debated -- references to Pasteur, Koch, Lister.
-- **Martial arts traditions**: Japanese swordsmanship, Chinese medicine, European fencing, and American frontier combat tactics. Training happens in the Glass Garden's courtyard (subtle lines in flagstones mark practice positions).
+- **Martial arts traditions**: The Chen family art (Southern Chinese tradition — Chin Na, Shuai Jiao, Fujian White Crane — with Japanese influences from the Canton–Nagasaki trading corridor), Chinese medicine, European fencing, and American frontier combat tactics. Training happens in the Glass Garden's courtyard (subtle lines in flagstones mark practice positions).
 - **Multilingual scholarship**: Clara's study at the Glass Garden contains books in multiple languages and maps of trade routes across continents.
 - **Art education**: Emma's artistic training; the Golden Compass as a space for artistic exposure and cultivation.
 

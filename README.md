@@ -9,7 +9,7 @@
 
 > Philadelphia, 1846. A 25-year-old Chinese-American woman builds a shipping
 > empire by day and dismantles a human trafficking network by night — armed
-> with a sword cane, a Continental Shepherd, and a fortune most kings would envy.
+> with a sword cane, a black dog the size of a small bear, and a fortune most kings would envy.
 
 ---
 
@@ -28,7 +28,7 @@
 
 | Book | Title | Era | Setting | Status |
 |---|---|---|---|---|
-| 1 | Fortune's Tide | Era 1 | Philadelphia, ~1846 | Drafting — 8 of 8 chapters outlined |
+| 1 | Fortune's Tide | Era 1 | Philadelphia, ~1846 | Drafting — 9 of 9 chapters outlined |
 | 2 | *(TBD)* | Era 1 | The Voyage West | Planned |
 | 3–4 | *(TBD)* | Era 1 | Building the Network | Planned |
 | 5–9 | *(TBD)* | Era 2 | FIERCE — Eve's Story | Planned |
@@ -49,8 +49,9 @@ The series is free to read. Start here:
 | 6 | [The Current](books/book-01/chapters/ch-06.md) | Clara Chen | 2,872 |
 | 7 | [The Balance](books/book-01/chapters/ch-07.md) | Samuel Taylor | 3,265 |
 | 8 | [The Boundary](books/book-01/chapters/ch-08.md) | Clara Chen | 3,111 |
+| 9 | [The Reckoning](books/book-01/chapters/ch-09.md) | Clara Chen | 3,297 |
 
-*Book 1: ~23,630 words drafted* · *Series total: ~23,630 words*
+*Book 1: ~26,930 words drafted* · *Series total: ~26,930 words*
 <!-- PROGRESS:END -->
 
 ### Themes

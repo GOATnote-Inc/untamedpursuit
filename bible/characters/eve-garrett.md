@@ -22,7 +22,7 @@ Daughter of Kate Garrett (medical doctor) and Jack Garrett (Pony Express rider t
 Trained by three mentors:
 - **Kate Garrett (mother)**: Medicine, anatomy, surgical precision.
 - **Jack Garrett (father)**: Winchester marksmanship, shooting, tracking, "reading air" -- a tracking/sensing skill unique to Jack's teaching.
-- **Clara Chen (mentor)**: Sword, Japanese martial arts, Chinese medicine, European fencing, American frontier tactics, philosophy, languages, Latin, sign language.
+- **Clara Chen (mentor)**: Sword, the Chen family martial art (Southern Chinese tradition with Japanese influences from the Canton–Nagasaki corridor), Chinese medicine, European fencing, American frontier tactics, philosophy, languages, Latin, sign language.
 
 Became a physician (Dr. Eve Garrett). Parents killed in a Gatling gun ambush on a train (Iron_and_Blood). After their deaths, carries her mother's medical bag and her father's Winchester.
 

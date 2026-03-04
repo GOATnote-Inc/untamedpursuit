@@ -17,7 +17,7 @@ Small-framed with pale skin that carries a faint flush when ill. Dark hair that 
 
 ## Background
 
-Chinese-American. Her father was Buddhist with Japanese Shinto elements — kami, harmony with nature — and her mother was a devout Christian. The family maintained trading connections across the Pacific, including Canton and Japan. Through these family trading connections she received training in Japanese martial arts. She trained for three years at Canton Missionary Hospital, then studied medicine further in an anatomy lab alongside Kate. By age 25 she had built a shipping empire in Philadelphia, amassing enormous wealth — described as "the fortune of many kings." She owns the Golden Compass music hall in Philadelphia through proxy ownership. Later she relocates to San Francisco and builds the Glass Garden estate on the Monterey coast — a redwood-and-glass cliffside compound with gun ports disguised as architectural flourishes. She is the central figure of the entire series: protagonist of Era 1 (Fortunes Tide) and mentor figure in Era 2 (FIERCE).
+Chinese-American. Her father was Buddhist with Japanese Shinto elements — kami, harmony with nature — and her mother was a devout Christian. The family maintained trading connections across the Pacific, including Canton and Japan. Through these family trading connections — particularly the Canton–Nagasaki corridor, where Chinese merchants in the Tojin Yashiki compound absorbed and blended local techniques over generations — she received training in the Chen family martial art, a Southern Chinese tradition rooted in Chin Na joint locks, Shuai Jiao throwing, and Fujian White Crane deflection, with Japanese influences from the family's long presence in the Nagasaki trading community. `[deliberate anachronism — historically grounded through the Canton–Nagasaki Chinese merchant corridor; cross-cultural martial blending documented in this period]` She trained for three years at Canton Missionary Hospital, then studied medicine further in an anatomy lab alongside Kate. By age 25 she had built a shipping empire in Philadelphia, amassing enormous wealth — described as "the fortune of many kings." She owns the Golden Compass music hall in Philadelphia through proxy ownership. Later she relocates to San Francisco and builds the Glass Garden estate on the Monterey coast — a redwood-and-glass cliffside compound with gun ports disguised as architectural flourishes. She is the central figure of the entire series: protagonist of Era 1 (Fortunes Tide) and mentor figure in Era 2 (FIERCE).
 
 ## Personality
 
@@ -49,7 +49,7 @@ Measured and deliberate — described as having "river-stone smoothness" and a q
 | Lily Montgomery | Closest friend | Rescue to healing to artistic bond to lifelong companion. |
 | Thomas Arlington | Oldest friend → betrayer | Never a love interest — a friend, but a jealous one. Managed her affairs. Sidelined after Samuel and Jack. Betrayed Clara. Killed by Lily. |
 | Harper | Security chief | Loyal protector. Deferential but concerned about Clara's risks. Dies on the voyage west. |
-| George (dog) | Companion | Massive Continental Shepherd. Functions as both companion and security. |
+| George (dog) | Companion | Massive black dog — Newfoundland cross with continental European stock, acquired through Clara's Pacific trading network. Functions as both companion and security. |
 
 ## Arc by Book
 
@@ -80,7 +80,7 @@ Measured and deliberate — described as having "river-stone smoothness" and a q
 - Death prognosis: six months
 - Age at series opening: 25
 - Owns Glass Garden estate on the Monterey coast — redwood and glass construction, cliffside location, gun ports incorporated as architectural flourishes
-- Trained in Japanese martial arts through family trading connections
+- Trained in the Chen family martial art — a Southern Chinese tradition (Chin Na, Shuai Jiao, Fujian White Crane) with Japanese influences absorbed through the family's Canton–Nagasaki trading connections. Clara's father taught her. The art emphasizes yielding, redirection, and using an opponent's force — principles from the Fujian White Crane tradition, founded by a woman (Fang Qiniang, 17th c.). No character uses modern martial arts taxonomy; Clara describes principles, not systems.
 - Multi-instrumentalist: cello, piano, voice (Italian arias), sings — full Golden Compass program: cello solo, violin duet with Lily, Italian arias, piano, original composition (book-01, ch-04)
 - Clara's undelivered speech is found under her desk by Eve (Epilogue)
 - Mixed heritage: Buddhist father (Japanese/Chinese cultural elements), Christian mother
@@ -94,6 +94,7 @@ Measured and deliberate — described as having "river-stone smoothness" and a q
 - Trained at Canton Missionary Hospital for 3 years
 - Uses sign language to communicate with Eve
 - Harper dies during the westward voyage — Clara loses her security chief before reaching San Francisco
+- London-tailored leather coat — commissioned for weapon concealment and weather protection. Unusual for the period but consistent with Clara's resources, martial background, maritime operations, and unconventional status. Military buff-coat tradition provides historical precedent for protective leather garments; bespoke London tailoring could produce any commissioned piece for a wealthy client. `[deliberate anachronism — defensible through bespoke tailoring, military buff-coat tradition, and maritime context]`
 - Daily schedule: blade practice at dawn, Colts after, Thomas findings over tea with Harper, weapons practice (afternoon), Thomas delivers intel report (book-01, ch-01)
 - Combat tactics: drops spent Colts and draws fresh ones mid-fight (carries enough for sequential use); custom holsters with body-mapped weapon placement ("the way a pianist maps keys"); modified percussion caps produce a sharp cough, ~40 yards effective range for sound concealment (book-01, ch-01)
 - Private dock on the northern end of Philadelphia's port (book-01, ch-01)
