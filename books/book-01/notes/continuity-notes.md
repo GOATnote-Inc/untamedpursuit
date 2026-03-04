@@ -1254,3 +1254,76 @@ Word count: 3,032 → 2,941 (net -91 words from cuts)
 - Panama route: historically feasible for 1846 — no change needed
 
 **Word count:** 2,904 → 2,803 | **Status:** draft → revised
+
+---
+
+# Chapter 17 — The Orchard
+
+## New Facts
+
+- ch-17: Lily's sanctuary at Wissahickon Creek described — five acres, south-facing slopes, white brick house, stone gatehouse, old-growth maples lining the approach road. Heritage apple varieties: Rhode Island Greenings, Northern Spys, Baldwins. Terraced gardens descending to the creek with stone paths, dormant flower beds, herb garden (monkshood, foxglove alongside healing herbs). Cello in the garden room. Lily's paintings on the walls. — added to bible? yes — first detailed description of the sanctuary
+- ch-17: Harper has been visiting Lily at the orchard on Wednesdays since autumn 1846, teaching her to shoot (rifle, not pistol). Lily asked him; he did not consult Clara. Harper: "She has a good eye. Better than most of my men after a month." — added to bible? yes — Harper-Lily relationship and Lily's weapons training
+- ch-17: Ajax is at the orchard with Lily. He watches targets calmly during rifle practice. Described as softer and more attentive to his person than George — a companion, not a war dog. Part of Clara's training program; chose Lily. — added to bible? yes — Ajax first appearance
+- ch-17: Lily asks to join the voyage west. Clara did not come to recruit her. "Not out of fear. Out of choice." — added to bible? yes — Lily joining the expedition
+- ch-17: Lily's paintings include the orchard in different seasons and a winter landscape of bare apple trees in ink and gouache. — added to bible? skip — atmospheric detail
+- ch-17: Lily knows about the Osprey — Harper told her about the ship and what it was built to carry. "He tells me things. When he comes on Wednesdays. Between the drills, while the rifle cools." — added to bible? yes — Harper shares classified operational knowledge with Lily
+- ch-17: The ride from Philadelphia to Wissahickon Creek takes about an hour via the Ridge Pike through Germantown. — added to bible? skip — geographic detail
+- ch-17: Harper rides a bay gelding when not on the waterfront. — added to bible? skip — minor detail
+- ch-17: The kidnapping referenced: "a dark hold," "a metal shard," "six days." Clara and Lily's shared captivity is backstory before Book 1 (~1844-1845). — added to bible? cross-reference — consistent with Lilys_orchard source and bible
+- ch-17: Lily's herb garden contains monkshood and foxglove alongside healing herbs — "You taught me that beautiful things can be dangerous." — added to bible? skip — atmospheric detail consistent with source
+- ch-17: George and Ajax walk the garden path together — both from Clara's training program, different in purpose. George checks sightlines; Ajax checks on Lily. — added to bible? skip — atmospheric detail
+- ch-17: Clara does not enter the townhouse when she returns — sees Thomas's lamp burning through the ground-floor window but turns toward the stable instead. — added to bible? skip — narrative beat
+
+## Outline Deviations
+
+- ch-17: Step outline scenes 11-12 ("Jack at farm" / "Jack at debrief") NOT adapted. Jack Garrett's Pony Express dates (1860-1861) make him a child in 1846-1847. Jack's introduction deferred to a later book or time period. Chapter uses the preparation window for Lily's deeper introduction instead.
+- ch-17: Harper training Lily is original — not in any source material as a specific scene, though Lily's weapons training request and Harper's "desire to teach" are both in the source. The weekly Wednesday visits are original.
+- ch-17: Lily asking to join the voyage is original — the step outline has her on the ship (scenes 26-29) but never shows the decision to go.
+
+## Continuity Flags
+
+- ch-17: Timeline: January 1847 — two months after Ch16 (Late Autumn 1846/November). The skip is intentional — winter preparation period. Consistent with April departure plan.
+- ch-17: Lily was last seen in Ch4 (Golden Compass, Autumn 1846) — 13 chapters ago. Her appearance here is consistent: she embraced Clara warmly in Ch4, performed violin, showed "years of shared understanding." Ch17 deepens this.
+- ch-17: "She had not told Lily any of this" — confirms Lily is outside the operational loop. She doesn't attend strategy meetings at Thomas's office or the warehouse. Consistent with her sanctuary being separate from Clara's waterfront world.
+- ch-17: Harper described as teaching Lily since "autumn" — this overlaps with Ch14-Ch16 events (Osprey inspection, fleet design, San Francisco decision). Harper was conducting training visits to Lily during these chapters without it being mentioned. Consistent — Harper manages his own schedule and these visits would not surface in Clara's or Samuel's POV.
+- ch-17: The kidnapping (Clara and Lily, six days, twelve crew killed) is referenced as backstory. Bible says "Kidnapped alongside Clara and held for 6 days." Source (Lilys_orchard) says "eliminated twelve crew members." This is a separate event from the Ch1 Mercy Jane rescue (also ~12 traffickers killed). The parallel is noted but not flagged as a contradiction — Clara has done this before.
+- ch-17: Thomas's office lamp visible from Spruce Street through the ground-floor window — consistent with the office being on the ground floor (established Ch2, Ch7, Ch11, Ch15, Ch16).
+- ch-17: Thomas dual-frequency seeds: 3 seeds this chapter. (1) Thomas mentioned but never present — his isolation growing as Clara's world expands beyond the waterfront; (2) Clara sees his lamp burning and does not enter — the distance between them widening without either naming it; (3) "One more name on the departure list. One more person leaving" — Thomas's displacement accumulating. Running total: Ch2 (5), Ch4 (1), Ch5 (5), Ch6 (5), Ch7 (7), Ch8 (8), Ch9 (6), Ch10 (8), Ch11 (6), Ch12 (1), Ch13 (6), Ch14 (6), Ch15 (10), Ch16 (8), Ch17 (3) = 85 total.
+- ch-17: Clara-Lily courtship parallel — Lily's "Not out of fear. Out of choice" mirrors Samuel's "I choose the cargo" (Ch15). Both are declarations of agency, choosing to enter Clara's dangerous world. The parallel is intentional.
+- ch-17: Clara's progressive disarmament — not tracked. Clara is on horseback in the countryside; her armament is not described. The chapter's focus is on Lily's choice, not Clara's vulnerability. Consistent with public/outdoor settings where Clara would be armed.
+
+## Subagent Review Log — Ch17
+
+**Style Reviewer (3 CRITICAL, 6 MODERATE, 8 MINOR):**
+- C1 FIXED: POV break line 60 — Harper interiority ("when teaching mattered more than correcting") → rewritten through Clara's inference ("a patience Clara recognized — unhurried, as though the lesson mattered more than the result")
+- C2 FIXED: "the way" 9→3 instances — kept lines 70 (compass needle), 84 (cello bow), 118 (listening to music); cut lines 32, 38, 40, 68, 80, 100, 200
+- C3 FIXED: "reliable machinery" at line 200 → replaced with fresh Thomas image ("He would be there when she returned. He was always there when she returned.") — works on both frequencies
+- M5 FIXED: Tell-after-show line 128 ("physical shape of her recovery, and it was beautiful") → cut
+- M6 FIXED: Tell-after-show line 168 ("this is what I build. Not ships, not empires. This.") → cut with sightlines fix
+- M7 FIXED: Tell-after-show line 194 — cut fragments ("Training. Choosing. Becoming something the orchard alone could not make her.")
+- M8 FIXED: Thomas inference line 200 → "Thomas's shape at the desk, the familiar bend of his shoulders" (observable through lit window)
+- M9 FIXED: Pacing stall lines 126 — Thomas's itemized responsibility list cut; "Thomas stays" now carries the weight without the recap
+- M10 FIXED: Ajax templating line 68 → rewritten with own syntactic shape ("Where George attended to threat, Ajax attended to Lily")
+- MINOR FIXED: "bare" 8→3, "frozen/frost" 11→3, "chose/chosen" 10→5 (climactic uses preserved), "terraced gardens" 4→1, "stone paths" 4→1, "unhesitant" line 74→"unguarded" (keep "unhesitant" at 136 only)
+
+**Continuity Checker (0 CONTRADICTIONS, 5 ADVISORIES):**
+- ADVISORY NOTED: Harper "four years of service" — consistent with established convention
+- ADVISORY FIXED: Lily only cello in ch-17 → added "violin and cello" at line 154 to match ch-04 violinist introduction
+- ADVISORY NOTED: "Two years ago" for sanctuary gift firms up kidnapping timeline to ~1844-1845
+- ADVISORY NOTED: Harper shares Osprey intelligence with Lily independently — chapter addresses tension
+- All 30+ verified facts clean
+
+**Character Analyst (all PASS, 1 PASS WITH CONCERN):**
+- CONCERN FIXED: Clara's response to Harper breach under-explored → added "She waited for the anger. It did not come." after line 90
+- All other checks PASS — Thomas dual-frequency, Lily voice, "Not out of fear" delivery, Ajax/George differentiation
+
+**Historian (4 MUST-FIX, 4 CONSIDER, 10 VERIFIED):**
+- MUST-FIX FIXED: "sightlines" (banned, 1859+) → "approaches" at line 168
+- MUST-FIX FIXED: "perimeter" (banned security sense) → "grounds" at line 96
+- MUST-FIX FIXED: "roster" (general-list sense 1881+) → "company" at line 188
+- MUST-FIX FIXED: "heritage varieties" (20th-c. concept) → "varieties" at line 40
+- CONSIDER NOTED: Ajax breed TBD — avoid Golden Retriever (1868+). Period alternatives: setter, spaniel, pointer.
+- CONSIDER NOTED: White brick house slightly atypical for Wissahickon Valley (local stone more characteristic) — left as-is (Clara's wealth explains the choice)
+- VERIFIED: Apple varieties (all pre-1847), geography (Ridge Pike, Germantown, Wissahickon), travel time (1hr plausible), firearms (percussion-cap muzzleloader consistent), monkshood/foxglove (period-appropriate), gaslights (1836+), gouache (period-appropriate)
+
+**Word count:** 2774 → 2672 (net -102 words from cuts)

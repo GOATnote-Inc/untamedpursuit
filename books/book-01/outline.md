@@ -812,3 +812,63 @@ Wallace has the report — four days. No new complaint, no authorities. Commerci
 - "I'll be here when you wake up." — the boyish grin intact; on re-read, the promise of permanent presence that becomes permanent absence
 - The maps showing Chesapeake to Nova Scotia — none show the Pacific
 - The pen does not move — the chapter's final image: the machinery stopped
+
+---
+
+## Chapter 17: The Orchard
+
+- **POV**: Clara Chen (twelfth Clara POV chapter)
+- **Location**: Wissahickon Creek — Lily's sanctuary
+- **Time**: January 1847 — midwinter, two months before departure
+- **Word count target**: 2,800–3,200
+
+### Scene Beats
+
+1. **The Ride North** (~350 words): Clara rides from the city along the Ridge Pike through frozen farmland to the Wissahickon Valley. George running alongside. The landscape transforms — cobblestones to packed earth, row houses to dormant fields. She carries news of the voyage. She has not told Lily any of it. First time the reader sees Clara outside the waterfront/townhouse world.
+
+2. **Arrival at the Sanctuary** (~400 words): Stone gatehouse, old-growth maples (bare, architecture visible), the white brick house through the trees. Five acres of dormant orchard — Northern Spys, Baldwins, Rhode Island Greenings. Clara notices: a horse at the post. Harper's bay gelding. George recognizes the scent. Then: the sound of a rifle.
+
+3. **Harper and Lily** (~600 words): Clara finds Harper training Lily in the clearing below the orchard. Lily with a long rifle, targets at forty yards. Harper's patient instruction. Ajax nearby. Clara watches unseen, then is discovered. "How long?" / "Since the autumn. She asked." Clara processes: Lily chose weapons training, Harper honored the request without consulting Clara. Lily's warmth — the embrace with a rifle in her hands.
+
+4. **The House** (~500 words): Harper withdraws to check the perimeter. Clara and Lily in the garden room — winter light, Lily's paintings on the walls, the cello in its corner, tea. Old friendship. Clara updates Lily: the commission inquiry, Wallace's Pacific play. Lily asks about Samuel, about Thomas. "Transition to what?"
+
+5. **The Bay — The Chapter's Heart** (~600 words): Clara tells Lily about the voyage. The bay, Panama, April departure. Who goes, who stays. "Thomas stays." Lily's response: "I'd like to come." Clara's surprise — she came to deliver news, not to recruit. Lily: "Not out of fear. Out of choice." The echo of the metal shard in the dark hold. Clara agrees. "Harper will need to train you on the water."
+
+6. **The Herb Garden** (~350 words): They walk the terraced gardens. Dormant beds, frost, stone paths. Lily points out what returns and what doesn't — healing herbs and dangerous plants side by side. "You taught me that beautiful things can be dangerous. Now I want to learn the rest." George and Ajax walking together — two dogs, different purposes, identical loyalty. Lily reveals Harper has been telling her about the Osprey and the work.
+
+7. **The Return** (~300 words): Clara rides south. The city emerging. The roster growing: Samuel, Harper, Lily, the crew. Thomas's lamp burning through the ground-floor window. Clara does not go in. "One more name on the departure list. One more person leaving."
+
+### Threads Advanced
+
+- Anti-trafficking campaign (Lily as survivor deepens the stakes — the woman rescued from the hold chooses to cross an ocean)
+- Thomas Arlington's jealousy seeds (Thomas mentioned but not present; one more departure; Clara sees his lamp and does not enter — the distance growing)
+- Clara-Lily bond (from the hold to the orchard to the voyage — Lily chooses action over sanctuary)
+
+### Threads Introduced
+
+- Lily's weapons training (Harper teaching since autumn; "Not out of fear — out of choice"; rifle, not pistol)
+- The orchard at Wissahickon Creek (five acres, white brick house, heritage apples, terraced gardens — the sanctuary Clara built for Lily's healing)
+- Harper-Lily relationship (weekly visits, training, conversation — Harper kinder than he allows anyone to see)
+- Lily joining the voyage west (her choice, not Clara's invitation)
+- Ajax introduced (Lily's dog — chose her from Clara's training program)
+
+### Key Character Moments
+
+- "The apple trees were bare" — the chapter's first line: dormancy, not death; everything visible without its covering
+- Clara recognizing Harper's horse — the first sign of something she didn't arrange
+- The rifle report in the valley — surprise that becomes understanding
+- Harper: "She asked" — two words explaining months of secret training
+- Lily holding a rifle with the same familiarity as a cello bow
+- Harper adjusting Lily's shoulder — "a touch so light it was nearly a suggestion"
+- Lily's paintings on the garden room walls — the orchard in every season
+- "How is Samuel?" / "And Thomas?" — Lily tracking Clara's world from the sanctuary
+- "Transition to what?" — Lily hearing the unspoken weight
+- "I'd like to come" — the response Clara did not expect
+- "Not out of fear. Out of choice." — Lily's defining line, the weapons training philosophy made declaration
+- "Trees grow slowly. People change faster." — Lily's farewell to the orchard she planted
+- The metal shard in the dark hold — referenced in Clara's memory, the bond's origin
+- "He is a kinder man than he allows anyone to see" — Lily on Harper
+- George and Ajax walking the garden path together — two dogs, different purposes
+- Clara standing on Spruce Street looking at Thomas's lamp — not entering
+- "One more name on the departure list. One more person leaving" — Thomas's displacement accumulating
+- The January night closing "like a hand around a lamp" — the final image: light contained by darkness
