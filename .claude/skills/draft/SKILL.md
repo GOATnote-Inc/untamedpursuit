@@ -61,3 +61,7 @@ After completing the draft:
 2. **Log new facts**: If the chapter introduced any new facts not in the bible (character details, place descriptions, timeline events), log them in `books/book-0${book}/notes/continuity-notes.md`
 3. **Log deviations**: If the chapter deviated from the outline, note how and why in `books/book-0${book}/notes/continuity-notes.md`
 4. **Report**: Summarize what was written, any flags raised, and threads advanced
+
+## Step 5: Remind About Progress
+
+After completing bookkeeping, note: "README progress section may be out of date. Run `/progress` to update before pushing."

@@ -23,11 +23,12 @@
 
 **Era 2 — FIERCE** (Books 5–9): Eve Garrett inherits Clara's network and carries it into a new generation. Trained from age five by a woman who saw in her the future of the fight, Eve must prove that the machinery of protection can survive its creator. New threats. New alliances. The same question: how far will you go to defend those who cannot defend themselves?
 
+<!-- PROGRESS:START -->
 ### The Series
 
 | Book | Title | Era | Setting | Status |
 |---|---|---|---|---|
-| 1 | Fortune's Tide | Era 1 | Philadelphia, ~1846 | Drafting (Ch 1–2 complete) |
+| 1 | Fortune's Tide | Era 1 | Philadelphia, ~1846 | Drafting — 6 of 6 chapters outlined |
 | 2 | *(TBD)* | Era 1 | The Voyage West | Planned |
 | 3–4 | *(TBD)* | Era 1 | Building the Network | Planned |
 | 5–9 | *(TBD)* | Era 2 | FIERCE — Eve's Story | Planned |
@@ -36,9 +37,19 @@
 
 The series is free to read. Start here:
 
-- **Book 1: Fortune's Tide** — [`books/book-01/chapters/`](books/book-01/chapters/) *(in progress)*
-  - [Chapter 1: The Night Watch](books/book-01/chapters/ch-01.md) — Clara on the docks, the Mercy Jane rescue, meeting Samuel Taylor (3,088 words)
-  - [Chapter 2: The Machinery](books/book-01/chapters/ch-02.md) — The debrief with Thomas Arlington, strategic infrastructure revealed (2,817 words)
+**Book 1: Fortune's Tide** — [`books/book-01/chapters/`](books/book-01/chapters/)
+
+| Ch | Title | POV | Words |
+|---:|-------|-----|------:|
+| 1 | [The Night Watch](books/book-01/chapters/ch-01.md) | Clara Chen | 3,088 |
+| 2 | [The Machinery](books/book-01/chapters/ch-02.md) | Clara Chen | 2,817 |
+| 3 | [Ginger and Steel](books/book-01/chapters/ch-03.md) | Clara Chen | 3,083 |
+| 4 | [The Artist's Touch](books/book-01/chapters/ch-04.md) | Samuel Taylor | 2,883 |
+| 5 | [The Measure](books/book-01/chapters/ch-05.md) | Clara Chen | 2,514 |
+| 6 | [The Current](books/book-01/chapters/ch-06.md) | Clara Chen | 2,872 |
+
+*Book 1: ~17,260 words drafted* · *Series total: ~17,260 words*
+<!-- PROGRESS:END -->
 
 ### Themes
 
