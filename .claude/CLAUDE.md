@@ -6,6 +6,7 @@
 - Commit messages follow: `[area] action description` — e.g., `[book-01] draft ch-03`, `[bible] add character profile: elena`, `[research] roman road networks`
 - Never commit mid-sentence or mid-scene
 - Use branches for experimental plot directions: `experiment/book-03-alt-ending`
+- A **pre-commit hook** automatically updates the README progress section on every commit via `scripts/update-readme.py`. No manual step needed — just commit normally and the README stays current. To reinstall: `cp scripts/hooks/pre-commit .git/hooks/pre-commit`
 
 ## Subagent Usage
 

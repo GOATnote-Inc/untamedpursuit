@@ -1,0 +1,23 @@
+#!/bin/sh
+#
+# Pre-commit hook: update README progress section from chapter frontmatter.
+# If README.md changes, it is staged automatically so the commit includes it.
+#
+# Install: cp scripts/hooks/pre-commit .git/hooks/pre-commit
+
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+SCRIPT="$REPO_ROOT/scripts/update-readme.py"
+
+# Only run if the script exists
+if [ ! -f "$SCRIPT" ]; then
+    exit 0
+fi
+
+python3 "$SCRIPT" 2>/dev/null
+
+# If README changed, stage it
+if ! git diff --quiet -- README.md 2>/dev/null; then
+    git add README.md
+fi
+
+exit 0
