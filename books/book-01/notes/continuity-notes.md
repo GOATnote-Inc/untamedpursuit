@@ -1177,3 +1177,80 @@ Word count: 3,032 → 2,941 (net -91 words from cuts)
 **Character Analyst (1 minor concern)**:
 - "proprietary" → "familiar" at line 122 (dual-frequency slightly too visible)
 - All other checks PASS: Samuel voice, Thomas dual-frequency, Clara from outside, courtship progression, George
+
+---
+
+# Chapter 16 — The Turning
+
+## New Facts Introduced
+
+- ch-16: Wallace has gone quiet for three weeks — no new commission filings, no approaches to shipping partners, no south wharf activity. Thomas interprets this as a strategic shift, not retreat. — added to bible? skip — plot action
+- ch-16: Annapolis provisioner signed as third new shore trade account — Samuel's Chesapeake strategy working. — added to bible? skip — plot detail
+- ch-16: First fleet vessel on schedule — hull sound, rigging in progress, temporary frames fitted. Ready by March. — added to bible? skip — plot timeline
+- ch-16: Formal commission inquiry filed on Samuel's warehouse property registry. The third-floor notice (18 months old) lists "seasonal storage." Commission questioning whether the notice is complete. Thomas can delay weeks, not months. — added to bible? yes — legal threat to the warehouse evidence
+- ch-16: Wilkins confirmed as genuine commission clerk, not Wallace's instrument — but Wallace pointed the commission at the warehouse. — added to bible? skip — clarifies Ch15 uncertainty
+- ch-16: Wallace securing Pacific shipping contracts through agents in Baltimore and New York. Warehouse leases in west coast ports. Building toward San Francisco port control before the gold rush. — added to bible? yes — major Wallace escalation
+- ch-16: Thomas identifies Wallace's Philadelphia campaign as diversion — keeping Clara pinned east while Wallace builds west. — added to bible? yes — strategic revelation
+- ch-16: Clara's father described San Francisco harbor as "the most protected natural anchorage he had ever seen — deep water, sheltered from the open ocean." Clara was twelve when he told her. — added to bible? yes — Clara's father's Pacific knowledge
+- ch-16: Clara has been thinking about San Francisco "since the tea" (Ch3) — the first time the mineral intelligence was discussed. — added to bible? skip — narrative beat
+- ch-16: San Francisco voyage planned: first fleet vessel rigged for Pacific crossing, depart April, sail south to Panama, cross isthmus, passage north. — added to bible? yes — major plot milestone
+- ch-16: Thomas to manage eastern operations — fleet, legal defense, shore trade, warehouse, commission inquiry. Clara and Samuel go west with Harper's men. — added to bible? yes — structural change
+- ch-16: Thomas's maps on his office walls show coastlines from Chesapeake to Nova Scotia. None show the Pacific. — added to bible? skip — thematic detail
+
+## Outline Deviations
+
+- ch-16: Step outline has no explicit "San Francisco decision" scene — the decision emerges from converging pressures (commission inquiry + Wallace's Pacific play + shore trade sustainability) rather than a single dramatic moment. This is original architecture.
+- ch-16: The commission inquiry on the warehouse is original — not in source material. Creates legal urgency that reinforces the need to leave Philadelphia.
+- ch-16: Thomas's "containment" analysis is original — reframes the entire Wallace commercial warfare arc (Ch15) as a holding action, elevating Wallace from reactive antagonist to strategic opponent.
+
+## Continuity Flags
+
+- ch-16: Thomas's office description — mahogany desk, maps on walls, marble fireplace, grandfather clock. All consistent with Ch2, Ch11, Ch15, and bible. — resolved? yes
+- ch-16: Thomas's appearance (ink on both hands, loosened cravat, rolled sleeves) — consistent with bible and Ch14. The "no coffee" detail is new but consistent with his work-through-the-night pattern. — resolved? yes
+- ch-16: Clara's father's Pacific trading connections — bible says "family maintained trading connections across the Pacific, including Canton and Japan." Ch16 adds "the California coast" and the San Francisco harbor description. Consistent with bible but extends the geographic specificity. — resolved? yes, within canon
+- ch-16: The mineral intelligence from Ch3 — Samuel's exact words recalled: "mineral surveys from California, gold in quantities that would reshape the western territories." Ch16 references this accurately without direct quotation. — resolved? yes
+- ch-16: The Osprey at its berth — Ch14 established the Osprey released but compromised ("can never carry passengers again"). Ch16 mentions it as "retired from the work it was built for." Consistent. — resolved? yes
+- ch-16: Samuel's building records — the third-floor expansion filed 18 months ago as seasonal storage. Samuel bought the warehouse approximately 2 years ago (Ch2: "last year"; Ch13: Thomas recommended it "two years ago"). The 18-month filing is consistent with this timeline. — resolved? yes
+- ch-16: Harper going west — bible confirms Harper "Dies on the voyage west." Ch16 establishes Harper accompanies Clara. Consistent. — resolved? yes
+- ch-16: Panama route — historically accurate for 1846-1847. The transcontinental railroad not completed until 1869. The Panama passage was the standard Pacific route. — resolved? yes
+- ch-16: Thomas dual-frequency seeds: 8 seeds this chapter. (1) Thomas has worked through the night — always at the desk before Clara; (2) Thomas's intelligence produces the decision that displaces him — his own competence creates his abandonment; (3) "There is a second/third matter" — controlling the intelligence delivery; (4) "You and Taylor" — naming the pairing, hearing himself excluded; (5) Immediate pivot to documentation — converting displacement into work; (6) "Correspondence protocols for three thousand miles" — making the distance professional; (7) "Everything you build there will be because of you" — removing himself from Clara's future; (8) The pen does not move — the machinery stopped. Running total: Ch2 (5), Ch4 (1), Ch5 (5), Ch6 (5), Ch7 (7), Ch8 (8), Ch9 (6), Ch10 (8), Ch11 (6), Ch12 (1), Ch13 (6), Ch14 (6), Ch15 (10), Ch16 (8) = 82 total.
+- ch-16: Clara-Samuel courtship progression — from shared strategy (Ch15 fleet design) to shared future (Ch16 San Francisco decision). No physical contact in this chapter. The intimacy is in the shared decision: they are choosing a future together. "Since the tea" connects the beginning (Ch3) to the turning point. — resolved? yes, intentional progression
+- ch-16: Clara's progressive disarmament — not tracked explicitly in this chapter. Clara is in her leather coat (public waterfront) and presumably armed. The chapter's focus is strategic, not physical. — resolved? yes, consistent (public settings = armed)
+
+### Ch-16 Subagent Review Log
+
+**Reviewed by:** style-reviewer, continuity-checker, historian, character-analyst (4 parallel subagents)
+
+**Historian — 8 MUST-FIX applied:**
+1. "expansion filing" / "building records" → "notice" / "property registry" (no formal building permit system in 1846 Philadelphia)
+2. "San Francisco" (settlement) → "the bay" / "California" (settlement was Yerba Buena until Jan 30, 1847; the bay was San Francisco)
+3. "procedural objections" / "procedural challenge" → "objections on their own grounds" / "the challenge" ("procedural" as adjective = 1876+)
+4. "positioning" ×2 → "preparing" (20th-c. business term)
+5. "scales" → "extends" (20th-c. business growth term)
+6. "containment" → "diversion" (Cold War strategic concept)
+7. "eastern operations" → "the trade here" (Samuel dialogue; "operations" = 20th-c. covert/organizational)
+8. "legal architecture" → "laws and contracts" / "correspondence protocols" → "arrangements for correspondence" (abstract "architecture" and "protocols" both banned)
+
+**Style Reviewer — 3 CRITICAL, 10 MODERATE applied:**
+- CRITICAL: "a man who" reduced from 8 → 4 instances (cut lines 36, 60, 92, 206)
+- CRITICAL: Lamplighter image (near-identical to ch-14 line 221) → completely reimagined as November dusk/harbor sounds
+- CRITICAL: "The question Samuel was not asking" (POV break) → "The question beneath his words"
+- MODERATE: Thomas "slipped" interiority → rewritten as Clara's observation ("she had heard him do this before")
+- MODERATE: Thomas nod "filed information" → "she had learned to read as absorption"
+- MODERATE: "the way" reduced from 6 → 1 instance (kept only line 172 pen/cigar comparison)
+- MODERATE: Tell-after-show "She saw what she always saw" → cut
+- MODERATE: "The words sat between them the way words sat" (circular/pacing) → compressed to one sentence
+- MODERATE: Thomas-alone section: "he had memorized" / "Clara's empire from a room" → "annotated in his hand over four years" (external camera)
+- MINOR: "Ink on both hands" second use → removed (kept first instance at line 28)
+- MINOR: "boyish" → "quick" (retiring overused descriptor)
+- MINOR: "sixty-three passages' worth of evidence" verbatim from ch-15 → "evidence of every rescue...dozens of crossings"
+
+**Character Analyst — lines 200-201 POV break fixed:**
+- "Thomas had spent four years ensuring that his cost was invisible" (narrator omniscience) → "She did not see what the smile cost him. She had never thought to look." (stays in Clara's perceptual field)
+
+**Continuity Checker — 3 ADVISORIES addressed:**
+- Clara's father's California coast: new but consistent with bible ("non-exhaustive" geographic list) — flagged in notes
+- Mineral intelligence recall: restored "possibly" to match ch-03 original phrasing
+- Panama route: historically feasible for 1846 — no change needed
+
+**Word count:** 2,904 → 2,803 | **Status:** draft → revised

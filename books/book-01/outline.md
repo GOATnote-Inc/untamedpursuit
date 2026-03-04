@@ -755,3 +755,60 @@ Wallace has the report — four days. No new complaint, no authorities. Commerci
 - "My father loaded ships for other men his entire life. He never chose the cargo." / "I choose the cargo." — the chapter's emotional core
 - Thomas's hand and Clara's corrections — the specifications in Samuel's coat, the intellectual property migrating
 - The ledger opened to a fresh page — tomorrow
+
+---
+
+## Chapter 16: The Turning
+
+- **POV**: Clara Chen (eleventh Clara POV chapter)
+- **Location**: Clara's townhouse (Thomas's office) — Samuel's warehouse — the waterfront — Thomas's office (night)
+- **Time**: Late Autumn 1846 — several weeks after Ch15
+- **Word count target**: 2,800–3,200
+
+### Scene Beats
+
+1. **Thomas's Morning Report** (~550 words): Dawn. Thomas has worked through the night — loosened cravat, rolled sleeves, no coffee. Wallace has gone quiet for three weeks. Shore trade holding (Annapolis provisioner signed — third new account). First fleet vessel on schedule — ready by March. Then: formal commission inquiry filed on Samuel's warehouse building records. The third-floor expansion filing lists "seasonal storage." Commission asking if the filing is complete. Thomas can delay weeks, not months. Then the third matter: Wallace securing Pacific shipping contracts through agents in Baltimore and New York. Warehouse leases in west coast ports. Wallace building west while fighting east — the Philadelphia campaign was containment, not destruction. "If he reaches San Francisco before the mineral reports become public, he controls the harbor."
+
+2. **Clara at Samuel's Warehouse — Afternoon** (~700 words): Shore trade visible — new crates, new firm markings. Samuel at the counting table. Clara delivers the commission inquiry news. Samuel turns to his building records — the expansion filing, accurate when filed, incomplete now. Then Clara tells him about Wallace's Pacific play. Samuel recognizes it: "He told us. At the tea." The realization — Wallace is three months ahead. Clara's father traded the Pacific. San Francisco described as the finest anchorage he'd ever seen. "You've been thinking about this." / "Since the tea." The plan: first fleet vessel rigged for Pacific, sail south to Panama, cross the isthmus, passage north. Depart April, reach San Francisco before summer. Thomas manages the east. "My father crossed one ocean. He never thought his son would cross another."
+
+3. **The Waterfront at Dusk** (~300 words): Clara and Samuel walking south past the commercial pier, the Osprey, the coal depot where the watchers stood. April, a vessel, a crew. Harper goes west. The question not asked: who stays. Thomas stays. "We'll need charts." / "Thomas will have charts." The simplest sentence carrying the whole shape of what is about to change.
+
+4. **Thomas's Office — Night** (~500 words): Clara returns after ten. Thomas at the desk, fire banked, clock measuring silence. "San Francisco. By spring." Thomas sets the pen down. "You and Taylor." One nod. Then: immediate pivot to documentation — fleet registrations, power of attorney, warehouse filing amendment, correspondence protocols for three thousand miles. The machinery converting the news into work. "Everything I built here is because of you." / "Everything you build there will be because of you." The boyish grin — "I'll be here when you wake up." Clara leaves. Thomas at the desk. Maps showing the Chesapeake to Nova Scotia. None show the Pacific. The pen does not move.
+
+### Threads Advanced
+
+- Anti-trafficking campaign (Wallace's national ambition revealed — Philadelphia as holding action while he builds toward Pacific port control; commission inquiry threatens warehouse evidence)
+- Thomas Arlington's jealousy seeds (his own intelligence produces the decision that displaces him; "You and Taylor" names the pairing; converts his abandonment into paperwork; the pen does not move)
+- Clara-Samuel courtship (shared decision to build a future together — San Francisco; Clara's father's Pacific routes give the decision personal weight; "Since the tea" — the future was planted at the beginning)
+
+### Threads Introduced
+
+- San Francisco voyage planned (spring departure via Panama, first fleet vessel rigged for Pacific crossing)
+- Thomas as eastern operations manager (fleet, legal defense, shore trade, warehouse — the man left behind to manage everything Clara built)
+- Commission inquiry on Samuel's warehouse (building records challenge — third floor filed as seasonal storage; Thomas can delay weeks, not months)
+- Wallace's Pacific play (agents in Baltimore and New York, warehouse leases, shipping contracts — building toward San Francisco port control before the gold rush)
+- Clara's father's Pacific trading routes (Canton, Nagasaki, the California coast — personal history driving the westward decision)
+
+### Key Character Moments
+
+- "Wallace had gone quiet" — the chapter's first line carries its thesis: silence is the warning
+- Thomas showing all three signs of an all-night session — Clara reads him through four years of mornings
+- Thomas slipping into third person about his own specifications — the self-effacing habit Clara notes with affection and without inquiry
+- "There is a second matter" / "There is a third matter" — Thomas controlling the intelligence delivery, each item heavier than the last
+- The commission inquiry on the warehouse — Wallace letting the bureaucracy carry his weight
+- Thomas: "Patience costs him nothing" — the quiet dread of an opponent who can wait
+- Thomas's map ending at the paper's edge — the Pacific as blank space
+- Clara's father's harbor description — the twelve-year-old sitting in his study with the Huangshan scroll
+- "You've been thinking about this." / "Since the tea." — the San Francisco plan was planted at the beginning
+- Samuel finishing his ledger entry before looking up — the habit of completing what he started
+- "He told us. At the tea." — Samuel recognizing that Wallace declared his intentions and they heard him
+- "My father crossed one ocean. He never thought his son would cross another."
+- The lamplighter making his rounds — the quiet labor of keeping things visible
+- "Harper goes west" — said without hesitation, the answer that needs no discussion
+- "Thomas will have charts" — the simplest sentence carrying the whole shape of the change
+- "You and Taylor." — Thomas naming the pairing, hearing himself excluded
+- Thomas converting the news into documentation — fleet registrations, power of attorney, correspondence protocols
+- "Everything I built here is because of you." / "Everything you build there will be because of you." — generous, warm, and devastating
+- "I'll be here when you wake up." — the boyish grin intact; on re-read, the promise of permanent presence that becomes permanent absence
+- The maps showing Chesapeake to Nova Scotia — none show the Pacific
+- The pen does not move — the chapter's final image: the machinery stopped
