@@ -66,10 +66,20 @@ Once the user approves (or adjusts) the revision plan:
 3. Update frontmatter: set status to `revised`, update word_count and summary if changed
 4. Update `books/book-0${book}/notes/revision-log.md` with a summary of changes made
 
-## Step 5: Bible Updates
+## Step 5: Curate Bible
 
-If the revision plan identified new facts to add to the bible:
+After revision edits are applied, process the chapter's continuity notes into the bible. This closes the feedback loop — facts introduced during drafting are verified during revision and now enter the canonical bible.
 
-1. Present proposed bible updates to the user
-2. On approval, update relevant bible files
-3. Follow bible-maintenance rules (update both sides of relationships, note source)
+1. Read `books/book-0${book}/notes/continuity-notes.md`
+2. Find all entries for chapter ${chapter} marked `added to bible? no`
+3. For each entry, classify as:
+   - **(a) Update Bible Now** — facts that affect future chapters (character traits, relationships, plot details, locations, timeline events, skills, speech patterns)
+   - **(b) Skip** — atmospheric/scene-specific detail the bible doesn't need
+   - **(c) Needs Author Decision** — conflicts with existing bible content, ambiguous, or has downstream implications
+4. For **(a)** entries: update the relevant bible files following bible-maintenance checklists (update both sides of relationships, note source chapter)
+5. Mark processed entries: `added to bible? yes` or `added to bible? skip — [reason]`
+6. Leave **(c)** entries as `added to bible? no` and flag them in the revision report
+7. Present a brief curation summary:
+   - **Updated**: N entries → [which bible files]
+   - **Skipped**: N entries
+   - **Needs Author Decision**: N entries → [what and why]
