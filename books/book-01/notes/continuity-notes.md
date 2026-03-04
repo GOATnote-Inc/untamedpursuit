@@ -555,3 +555,78 @@
 - Clara's teaching: Consistent with bible — measured, precise, philosophical. Teaches one principle (yielding), lets him discover applications. Matches "wants others to find their own path but has manipulated everyone into position."
 - Physical chemistry: Earned and restrained. Structural justification through training mechanics. Contact escalates naturally. Clara controls distance. Restraint believable.
 - George: PASS — no verbal commands, autonomous behavior, context-appropriate. Calibrates response (no active touch as in Ch4 concert, because Ch7 is not an emotional crisis).
+
+---
+
+## New Facts Introduced
+
+- ch-08: Clara and Thomas's partnership is approximately four years old (by 1846) — Thomas has never interrupted her blade practice in that time — added to bible? no
+- ch-08: Clara owns a warehouse on Callowhill Street overlooking Samuel's dock section — used for sharpshooter positioning — added to bible? no
+- ch-08: Clara employs a runner on Spruce Street (near her townhouse) for delivering messages — added to bible? no
+- ch-08: The courtyard has a water pump near the eastern wall — added to bible? no
+- ch-08: Thomas's sharpshooter signal: three taps on a lamp shutter, visible only from a specified route — added to bible? no
+- ch-08: Wallace's operation encompasses at least seven ships (Mercy Jane among them) running trafficking routes from Baltimore through New York to Boston and Philadelphia — added to bible? no
+- ch-08: Wallace employed a supervising clerk at the dock operation — a non-combatant field supervisor carrying manifests, crew rosters, cargo schedules, and a coded ledger — added to bible? no
+- ch-08: Twenty-three of Wallace's men attacked Samuel's dock section — hired muscle, some from outside the city — added to bible? no
+- ch-08: One of Harper's men suffered a knife wound to the ribs during the operation (survived) — added to bible? no
+- ch-08: Thomas positioned sharpshooters at the Callowhill warehouse and returned to his desk before Clara returned from the field — added to bible? no
+- ch-08: Harper commands at least four men in his core team (plus additional personnel) — added to bible? no
+- ch-08: Clara's apparatus uses a lamp-shutter signal system for confirming positions during night operations — added to bible? no
+
+## Outline Deviations
+
+- ch-08: No outline existed for Ch8 prior to drafting — chapter was developed from source material (Clara_rescues_Sam.md) and the anti-trafficking escalation arc. Structure follows the pattern established in the outline for earlier chapters.
+- ch-08: The source material (Clara_rescues_Sam.md) places the fight as a surprise attack; the chapter converts it into a planned, intelligence-driven operation — showing Clara's apparatus at full capability rather than repeating Ch1's emergency response structure.
+- ch-08: The source has Thomas present at the post-fight debrief alongside Clara and Samuel in the same room; the chapter separates them — Thomas at his desk, Samuel in the courtyard — to deepen the Thomas isolation pattern.
+- ch-08: The source's dialogue "Nineteen men. Wallace is escalating." / "He's testing boundaries." is adapted as a Clara-Thomas exchange at the desk, with Thomas correcting Clara: "He has crossed them."
+
+## Continuity Flags
+
+- ch-08: Clara addresses George verbally ("Not yet") — minimal but present. Previous chapters establish George responding to hand signals and single-word addresses. "Not yet" is consistent with established casual commands ("George." in Ch1). Defensible.
+- ch-08: The courtyard water pump is a new detail not present in Ch3 or Ch7 descriptions. Historically plausible for an 1846 Philadelphia townhouse courtyard. Not contradicted by earlier descriptions (no chapter says the courtyard has NO pump). Defensible.
+- ch-08: Callowhill Street warehouse — new property in Clara's holdings. Consistent with her established real-estate network. Not previously mentioned. No contradiction.
+- ch-08: "Four years" of partnership between Clara and Thomas — places partnership origin circa 1842, when Clara was ~21. Consistent with Clara's early empire-building timeline and Thomas's description as "oldest friend."
+- ch-08: Samuel fights with holstered pistols — this is his first armed combat since the Mercy Jane (where his gun was knocked away). His weapons use here is limited to fists and the redirect; the pistols are present but not fired. Consistent with his boxing-first fighting style.
+- ch-08: The Mercy Jane appears circled in ink in the captured manifests — confirms Ch1's ship as part of Wallace's fleet. No contradiction with earlier presentation of the Mercy Jane as an individual trafficking vessel.
+- ch-08: Thomas dual-frequency seed count: 8 new seeds in Ch8. Running total across Ch1-8: Ch2 (5), Ch4 (1), Ch5 (5), Ch6 (5), Ch7 (7), Ch8 (8) = 31 total. Seeds: (1) Never interrupts blade practice — unprecedented break. (2) "Already sent word" — anticipated orders. (3) "I confirmed access this morning" — acted before Clara decided. (4) Studies Clara when she says "move together." (5) Returns to desk before Clara returns from field. (6) "How many?" — measuring. (7) "He has crossed them" — will apply to himself. (8) Clara rises from Thomas's office to find Samuel — the movement from desk to courtyard.
+- ch-08: Harper's wounded man is unnamed. No conflict with any named character. The wound is non-fatal, consistent with Harper's team surviving to the voyage west.
+- ch-08: The closing handshake echoes Ch3's Chestnut Street handshake. Ch3: "not yet trust, but the ground where trust could grow." Ch8: trust demonstrated through shared combat, the handshake now carrying the weight of joint action.
+
+## Chapter 8 — Subagent Review Log
+
+### Style Reviewer
+- POV: Three CRITICAL breaches fixed. (1) Samuel's "the only answer his nature permitted" — stated his internal decision-making; softened to "she had seen before — in men who had weighed a choice and found only one answer worth giving." (2) Clerk's "white with shock" and "measuring his position" — stated internal state; softened to "shock or blood loss, she could not tell" and "still calculating even now." (3) "He knew who she was" — stated clerk's knowledge; softened to "She was certain he knew who she was."
+- POV MODERATE (5): "Three steps ahead" → "already turning to the next question." "Recognized when one carried a weight" → "the look she had learned to read across four years." "Whatever objection he carried died" → "whatever objection she expected from him never reached his mouth." "Decided long ago that steadiness" → "His practiced calm — the steadiness Clara had come to rely on." "Had suspected a thing and found the confirmation exhausting" → "what she recognized as the particular weariness of being right."
+- "a man who" construction: Reduced from 11 to 3 instances. Eight instances replaced with varied constructions ("someone whose," "anyone who," "careful hands that," "no one stumbles," direct observation, etc.).
+- "carried/carrying" verb: Reduced from 14 to 6 instances (4 literal, 2 earned metaphorical). Replaced with "wore," "held," "felt," "damp with," "marked by," direct description.
+- "footsteps fading into the house with the measured rhythm" — near-identical to Ch7 phrasing; replaced with "footsteps retreating through the house with the unhurried cadence she knew as well as her own."
+- "Seven ships" x3 in dialogue: Third redundant instance cut. Samuel's courtyard line consolidated into his follow-up.
+- "quietly" adverb on dialogue tag: Cut.
+- Tell-after-show: (1) Thomas contributions enumerated — compressed from three sentences to one: "He was here, as he was always here, building what came next." (2) Explanatory gloss on "need each other" — compressed from four sentences to one joined clause.
+- "cobblestones" reduced from 5 to 2 instances (replaced with "down," "wet stone," "before them").
+- Sustained fire impression from muzzle-loaders: "Shots from the Callowhill windows followed them to the limit of range, each report placing a period" → "A final shot from the Callowhill windows placed a period at the end of their flight."
+
+### Continuity Checker
+- CLEAN PASS. Zero contradictions found with earlier chapters or bible across all 7 categories.
+- Character consistency: All five characters (Clara, Samuel, Thomas, Harper, George) behave consistently with profiles and prior appearances. Address forms correct throughout ("Miss Chen," "Mr. Taylor," Thomas uses Clara's first name in narration).
+- Physical continuity: Courtyard, office, weapons, George — all match established descriptions. Water pump is new but non-contradictory.
+- Timeline: "Three days" gap from Ch7 precisely maintained and referenced four times.
+- Knowledge consistency: All information flows traceable to prior scenes.
+- New details (water pump, Callowhill warehouse, Spruce Street runner, four-year partnership): All non-contradictory.
+- Advisory notes: George verbal command "Not yet" — minimal, defensible. Clara's Colt usage in Ch8 is simpler than Ch1's sequential-draw technique — defensible given shorter fight.
+
+### Historian
+- ANACHRONISM fixed: "brief" (verb, WWII military coinage) → "explain."
+- QUESTIONABLE addressed: "rules of engagement" → "Your orders, Miss Chen?" (more period-appropriate and better fits Harper's deferential register). "Shooters" → "marksmen" (3 instances). "Operation" → "enterprise" (criminal sense). "Intelligence work" removed in POV rewrite.
+- Sustained fire impression: Revised to single "final shot" — more consistent with muzzle-loading firearms' rate of fire.
+- All other vocabulary clean. No previously flagged anachronisms appear. Material culture (Colts, sword cane, percussion caps, water pump, counting house, coded ledgers), urban geography (Callowhill Street, Arch Street pier), and period atmosphere all rated ACCURATE.
+- Social/legal context: Clara's command handled with same restraint as Ch1 — chain of command flows through Harper. DEFENSIBLE within series' established framework.
+
+### Character Analyst
+- Thomas dual-frequency: ALL 8 SEEDS FOUND. 7 PASS, 1 CAUTION. (1) Unprecedented interruption — knows Clara's schedule with granular precision. (2) "Already sent word" — presumes to deploy her resources. (3) "I confirmed access" — surveyed tactical ground around Samuel without authorization. (4) Studies Clara at "move together" — measuring the cost. (5) Returns to desk before Clara — strongest seed; spatial separation as architecture of isolation. (6) "How many?" — swallowing what he cannot say. (7) "He has crossed them" — CAUTION; the pronoun shift is slightly detectable by attentive readers, but Wallace context provides strong cover. (8) Clara rises to find Samuel — invisible; scene break naturalizes the transition.
+- Clara voice: CONSISTENT across 8 chapters. Sensory grounding, tactical perception, measuring people through behavior, grace masking strategy — all present. Emotional register (growing openness with Samuel) earned through Ch6-7 groundwork.
+- Samuel through Clara's eyes: New dimension — she sees her teaching reflected in his fighting. Shift from assessment to investment.
+- Harper: PASS. Matches bible profile. Most significant action scene to date. Cloth-on-wound moment gives him physical presence. Analyst notes: needs one more personal revelation before his death scene to carry full emotional weight.
+- George: PASS. Fully consistent across 8 chapters. "Guarded, not fought" — best George moment in Ch8; role evolution from Ch1 (active combatant) to Ch8 (defensive guardian).
+- Courtship arc: Earned. Logical progression through 8 chapters. "We are going to need each other" arrives from evidence (shared combat, seven ships), not sentiment.
+- Closing handshake echo: Works on four levels — physical (bruised knuckles evolving from received to given), structural (Samuel extends, Clara accepts), content (from promise to evidence), and dual-frequency (Thomas included as "the man at his desk inside").

@@ -306,3 +306,56 @@
 - Clara: "The finest mind I have ever worked beside" — instruction in loyalty
 - Samuel passing Thomas's lit office on departure — two worlds, one threshold
 - "The balance was shifting" — Samuel yielding to something larger than a fighting lesson
+
+---
+
+## Chapter 8: The Boundary
+
+- **POV**: Clara Chen
+- **Location**: Clara's townhouse; Samuel's dock section; the waterfront
+- **Time**: Three days after Ch7, Autumn 1846
+- **Word count target**: 3,000–3,500
+
+### Scene Beats
+
+1. **The Intelligence** (~500 words): Thomas interrupts Clara's blade practice — unprecedented. Wallace's men are massing on Samuel's warehouse section tonight: twenty-plus hired muscle, some from outside the city. Clara issues orders: Harper on full muster, Thomas to position shooters at the Callowhill warehouse, a runner to warn Samuel with a choice — fortify alone or come to Clara. Thomas anticipated every order. "I confirmed access this morning." Clara: "Then we move together."
+
+2. **The Muster** (~400 words): Harper arrives with his core team. Clara lays positions on the courtyard table — Thomas's map, warehouses marked. Harper: "Rules of engagement?" Clara: "If they withdraw, let them. If they do not, they have made their choice." Samuel arrives armed — dark coat, holstered pistols, fighting gloves. He came to her. "I was given information. The choice was made the moment you offered it."
+
+3. **The Approach** (~350 words): Night movement through the waterfront — Clara's territory, now contested. Thomas's signal from Callowhill confirmed. Clara reads Samuel's movement: lower stance, new principle from the training. Harper halts the team. Twenty-three men ahead, armed, not hiding. A figure in a dark coat standing apart — not here to fight but to supervise.
+
+4. **The Fight** (~750 words): Clara enters first — blade from the cane, first Colt drawn. Samuel beside her — his boxing now carrying the redirect she taught him. Harper's team closes from the north. Fire from the Callowhill windows. Clara moves blade-and-Colt through the center. Samuel lets a club swing past and redirects the carrier's momentum. One of Harper's men goes down — knife wound. George guards the fallen man. Clara's Colt drops the attacker. Wallace's men break and flee south. Three minutes.
+
+5. **The Scope** (~400 words): The man in the dark coat — not a fighter, a clerk. Shoulder wound from Callowhill. He carried a leather case: shipping manifests for seven ships (Mercy Jane among them), crew rosters, cargo schedules, and a coded ledger tracking human cargo. Samuel: "This is not a man who stumbled into trafficking. This is an operation designed from the ground up." The Mercy Jane was a symptom. The disease is a fleet.
+
+6. **The Return** (~400 words): Thomas at his desk — lamp lit, ink open, desk cleared. Clara sets the manifests before him. "How many?" "Twenty-three." Pen stops. Resumes. "Seven ships, Thomas. The Mercy Jane was one of seven." Clara: "He is testing our boundaries." Thomas: "No. He has crossed them." Clara watches Thomas work — the man who positioned the shooters, brought the intelligence, built the picture — then rises to find Samuel.
+
+7. **The Courtyard** (~400 words): Samuel at the water pump, washing blood from his hands. Clara stands beside him. She saw him use her teaching — the club redirect. "Three days ago you would have broken my arm." The packed earth carries both training footprints and tonight's boot marks. "We are going to need each other" — the most direct thing Clara has said to him. Handshake over the packed earth. The grandfather clock strikes three. Thomas's pen moves. The boundary dissolves.
+
+### Threads Advanced
+
+- Anti-trafficking campaign (Wallace escalates from background threat to direct warfare; captured documents reveal seven-ship fleet)
+- Clara-Samuel courtship (from training to shared combat — danger as the courtship's next step)
+- Thomas Arlington's jealousy seeds (delivers intelligence, anticipates orders, positions sharpshooters, works the aftermath — always the architect, never beside her in the field)
+
+### Threads Introduced
+
+- Wallace's fleet (seven ships, ports from Baltimore to Boston — the Mercy Jane was one)
+- Samuel as operational partner (first coordinated action with Clara's apparatus)
+- Harper's team in the field (the security apparatus deployed at full strength)
+- The cost of opposition (one of Harper's men wounded; the boundary between pressure and open warfare)
+- The captured clerk (Wallace's field supervisor — a human intelligence source)
+
+### Key Character Moments
+
+- Thomas interrupting blade practice — the unprecedented break that signals escalation
+- "Already sent word" / "I confirmed access this morning" — Thomas anticipating Clara's every decision
+- Samuel choosing to come to Clara instead of fortifying alone — "The choice was made the moment you offered it"
+- Clara seeing her teaching in Samuel's fighting — the redirect, the yielding, three days later
+- George guarding Harper's wounded man — protector, not fighter, tonight
+- The captured clerk's manifests — seven ships, the Mercy Jane circled in ink
+- Thomas: "He has crossed them" — the boundary observation that will apply to Thomas himself
+- Clara rising from Thomas's office to find Samuel — the movement from the desk to the courtyard
+- "We are going to need each other" — Clara's most direct statement, offered where strategy ends
+- The closing handshake — echoing Ch3's parlor handshake, deepened by shared violence
+- The grandfather clock at three — Thomas working, Clara and Samuel joined, the boundary dissolved
