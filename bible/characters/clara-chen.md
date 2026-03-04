@@ -37,7 +37,7 @@ Measured and deliberate — described as having "river-stone smoothness" and a q
 2. "I also wish to be a young woman and artist tonight. I acknowledge the risks."
 3. "Be fierce, dear ones. Be fully yourselves while serving necessary purpose."
 
-**Speech habits:** Tends toward proverbs and layered statements. Delivers brutal truths with gentleness. Uses dark humor as deflection when discussing her mortality. Never raises her voice when she can lower it. Switches to sign language for private communication with Eve.
+**Speech habits:** Tends toward proverbs and layered statements. Delivers brutal truths with gentleness. Uses dark humor as deflection when discussing her mortality. Never raises her voice when she can lower it. Switches to sign language for private communication with Eve. Her father's phrase — "A Chen does not fail" — is deeply embedded; she hears his voice when she hears the words (book-01, ch-06).
 
 ## Relationships
 
@@ -81,13 +81,19 @@ Measured and deliberate — described as having "river-stone smoothness" and a q
 - Age at series opening: 25
 - Owns Glass Garden estate on the Monterey coast — redwood and glass construction, cliffside location, gun ports incorporated as architectural flourishes
 - Trained in Japanese martial arts through family trading connections
-- Multi-instrumentalist: cello, piano, voice (Italian arias), sings
+- Multi-instrumentalist: cello, piano, voice (Italian arias), sings — full Golden Compass program: cello solo, violin duet with Lily, Italian arias, piano, original composition (book-01, ch-04)
 - Clara's undelivered speech is found under her desk by Eve (Epilogue)
 - Mixed heritage: Buddhist father (Japanese/Chinese cultural elements), Christian mother
+- "A Chen does not fail" — her father's phrase, heard often enough that she cannot hear the words without hearing his voice (book-01, ch-06)
 - Enormous wealth — described as "the fortune of many kings"
+- Philanthropy funds: schools in three wards, legal aid in four, harbor patrols, orphanages (book-01, ch-02)
 - Owns the Golden Compass music hall in Philadelphia through proxy ownership
+- Owns the Chestnut Street parlor (tea venue) through a holding company (book-01, ch-03)
 - Tends orchids
 - Enjoys ginger tea
 - Trained at Canton Missionary Hospital for 3 years
 - Uses sign language to communicate with Eve
 - Harper dies during the westward voyage — Clara loses her security chief before reaching San Francisco
+- Daily schedule: blade practice at dawn, Colts after, Thomas findings over tea with Harper, weapons practice (afternoon), Thomas delivers intel report (book-01, ch-01)
+- Combat tactics: drops spent Colts and draws fresh ones mid-fight (carries enough for sequential use); custom holsters with body-mapped weapon placement ("the way a pianist maps keys"); modified percussion caps produce a sharp cough, ~40 yards effective range for sound concealment (book-01, ch-01)
+- Private dock on the northern end of Philadelphia's port (book-01, ch-01)

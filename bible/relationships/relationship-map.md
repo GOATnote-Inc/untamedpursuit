@@ -60,10 +60,11 @@
 ### Clara <-> Thomas Arlington
 - **Type**: Oldest Friendship → Jealousy → Betrayal
 - **Summary**: Clara's first and oldest friend. Never a love interest — a friend, but a jealous one. Thomas managed Clara's affairs and was the architect of her infrastructure. When Clara's world expanded to include Samuel, Jack, and others, Thomas was left to manage the details while she gave her heart and trust to others. His jealousy was not romantic — it was the jealousy of the indispensable man who discovers he is dispensable. Thomas betrays Clara. He is killed by Lily Montgomery. (Note: Thomas Arlington is a separate character from Thomas Mitchell in Eve's era. Mitchell may be Arlington's son or protege.)
-- **Clara's perspective**: Trusted him completely. "I love you, Thomas." Clara's blindspot — she trusted the familiar and did not see the jealousy curdling beneath.
+- **Clara's perspective**: Trusted him completely. "I love you, Thomas" / "And well, you should" — a rare, genuine exchange between them (book-01, ch-02). Clara's blindspot — she trusted the familiar and did not see the jealousy curdling beneath.
 - **Thomas Arlington's perspective**: Devoted at first. Then sidelined. The wit turns bitter, the familiarity becomes weaponized. He convinced himself his betrayal was rational when it was emotional.
 - **Evolution**:
-  - Early: Clara's oldest friend, intelligence chief, teasing confidant
+  - Early: Clara's oldest friend, intelligence chief, teasing confidant. Managed her social calendar for years — deflecting suitors, declining marriage proposals. Has attended her Golden Compass performances.
+  - Ch-06 pivot: Clara chooses not to tell Thomas about her father disclosure to Samuel — "She had never shown Thomas the wound. She had shown him the empire built over it." Clara begins giving Samuel things she never gave Thomas.
   - Mid: Clara meets Samuel and Jack. Thomas left to manage affairs. The center shifts away from him.
   - Late: Jealousy curdles into action. Thomas betrays Clara. Jack's instinct ("I don't trust Thomas") vindicated.
   - Death: Killed by Lily Montgomery.
@@ -146,6 +147,7 @@
 ### Samuel <-> Thomas Arlington
 - **Type**: Colleagues → Rivals (one-sided)
 - **Summary**: Both serve Clara's vision initially. Thomas Arlington handles intelligence; Samuel handles operations and finance. But Thomas's jealousy of Samuel — the man who became Clara's river, her companion, her partner — is the seed of Thomas's betrayal. Samuel didn't steal Thomas's place; Clara simply found something deeper. Thomas could not accept it.
+- **First meeting**: Thomas greets Samuel warmly in his office — handshake, compliments on the Wallace report, "She's mentioned you rather more than she mentions most people." (book-01, ch-07) On first read: charming hospitality. On re-read: Thomas sizing up his replacement.
 
 ### Eve <-> Morgan
 - **Type**: Student → Colleague → 6+ Year Partnership

@@ -22,12 +22,15 @@
 - **Period description**: A forest of ship masts, cobblestones, cargo stacks, gaslights, carriages. The smell of tar, rope, salt, and violence. A large city that "used to be that everyone knew each other. Now it seemed a large city full of strangers."
 - **Historical notes**: Major American port city; center of commerce, medicine, and culture in the mid-19th century. Home to the Woman's Medical College of Pennsylvania (founded 1850).
 - **Key sub-locations**:
-  - **Clara's townhouse**: Elegant but practical. Thomas's ground-floor office with Persian rugs, tactical maps disguised as decorative artwork, marble fireplace, mahogany desk acquired from a governor's office, grandfather clock.
-  - **Clara's private dock**: Where she patrols at night.
-  - **The Golden Compass**: Music hall and art gallery. Modest exterior hiding an extraordinary interior. Houses a Rembrandt, a possible Michelangelo, and an ocean painting. Perfect acoustics. Includes a private gallery and dining room. Owned by Clara through proxy ownership.
+  - **Clara's townhouse**: Corner of Spruce Street. Exterior: red brick, white shutters, green (old copper) front door. Interior hallway: personal paintings (not museum-quality), staircase, sitting room with heavy curtains. A middle-aged, efficient housekeeper answers the door. Thomas's ground-floor office with Persian rugs, tactical maps disguised as decorative artwork, marble fireplace, mahogany desk acquired from a governor's estate auction three years prior, grandfather clock. Walled courtyard behind the townhouse: brick and ivy walls (ten feet high) on three sides, packed earth and flat stone surface, weapons rack, table for Colts, clay pots for target practice along eastern wall — shows marks of solitary practice. (book-01, ch-02, ch-03, ch-07)
+  - **Clara's private dock**: On the northern end of Philadelphia's port. Harper's team works a north/south patrol split with Clara. (book-01, ch-01)
+  - **The Golden Compass**: Private subscription society — membership by invitation, performances for subscribers. Modest exterior hiding an extraordinary interior. Performance hall seats approximately sixty. Houses a Rembrandt in an alcove at eye level (public gallery), ocean painting (private gallery), and a possible Michelangelo (not yet shown). Perfect acoustics. Includes a private gallery behind the performance hall and a private dining room. Owned by Clara through proxy ownership. (book-01, ch-04)
+  - **Chestnut Street parlor**: Clara's tea venue. East-facing windows, afternoon light. Owned by Clara through a holding company. (book-01, ch-03)
+  - **Samuel's warehouse**: Three stories of Pennsylvania limestone on Front Street, near the docks. Second-floor office: walnut desk (not mahogany), commercial maps (shipping routes, harbor depths, Chesapeake coastline), a small landscape painting. Employees greet visitors with careful respect. (book-01, ch-06)
+  - **Southwark**: Neighborhood near the docks. (book-01, ch-01)
   - **A tavern**: Contains hidden art. Sam frequents it for the music.
   - **Anatomy lab**: Smells of camphor and formaldehyde. High windows. Fifty examination stations.
-- **Characters associated**: Clara, Samuel, Thomas, Harper
+- **Characters associated**: Clara, Samuel, Thomas, Harper, Wallace
 - **Sources**: Episode I 1.31, Fix_beginning, Golden_Compass_Stage_Episode, kate_and_clara_in_anatomy_lab, Book 1 Fierce Foundations
 
 ---

@@ -42,6 +42,23 @@ Before writing, summarize:
 
 Ask the user to confirm or adjust before proceeding.
 
+## Step 2.5: Write Compaction Anchor
+
+Before beginning the draft, write a compaction anchor file to protect context if compaction occurs mid-chapter:
+
+**File**: `books/book-0${book}/notes/ch-$(printf '%02d' ${chapter})-anchor.md`
+
+Include:
+- **Chapter**: Book ${book}, Chapter ${chapter}
+- **POV**: The POV character and their current emotional state
+- **Outline beats**: The key beats from the outline for this chapter
+- **Bible facts loaded**: The most important character, relationship, and world facts consulted for this chapter
+- **Previous chapter landing**: How the previous chapter ended (emotional state, last scene, unresolved tension)
+- **Threads active**: Which open threads this chapter advances
+- **Continuity flags**: Any flags from previous chapters that apply here
+
+If compaction occurs mid-draft, reload this file first to recover full drafting context.
+
 ## Step 3: Draft
 
 Write the chapter following these rules:

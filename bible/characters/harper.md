@@ -77,6 +77,8 @@ Professional and restrained. Quiet concern underlies every word. Deferential —
 - Always addresses Clara as "Miss Chen"
 - Resigned to Clara's independence and risk-taking
 - Follows Clara in shadows
+- Team works a north/south patrol split with Clara (book-01, ch-01)
+- Footsteps recognized by George in the hallway — consistent habit (book-01, ch-02)
 - Escorts Irish workers
 - Presents Samuel with flowers backstage at Golden Compass
 - Dies during the voyage west (outline_2_16, Scene 21) — before reaching San Francisco

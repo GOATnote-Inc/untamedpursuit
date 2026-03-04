@@ -4,7 +4,7 @@ aliases: []
 born: ""
 died: ""
 status: alive
-first_appearance: "Era 1 (Fortunes Tide)"
+first_appearance: "book-01, ch-04"
 last_appearance: ""
 pov_character: false
 ---

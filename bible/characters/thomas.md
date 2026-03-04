@@ -19,7 +19,7 @@ Two separate characters sharing a first name. Thomas Mitchell is likely Thomas A
 
 ### Physical Description
 
-30s in 1846. Sharp-dressed with a sharper mind. Silver at the temples. Carries himself with analytical composure. Ground floor office with Persian rugs and tactical maps — his environment reflects his nature: strategic, cultured, precise. Handsome — "handsome as hell" per his own assessment of others, but the description fits him too.
+Early thirties in 1846. Sharp-dressed with a sharper mind. Silver at the temples, sharp-featured, ink on both hands. Carries himself with analytical composure; a boyish grin when pleased. Ground floor office with Persian rugs and tactical maps — his environment reflects his nature: strategic, cultured, precise. Handsome — "handsome as hell" per his own assessment of others, but the description fits him too.
 
 ### Background
 
@@ -123,4 +123,7 @@ Eve Garrett's love interest. A Durand by blood who arrives at the Glass Garden e
 - Jack Garrett distrusts Arlington (vindicated); distrust transfers generationally to Mitchell (overcome)
 - Clara's "knowing reaction" to Mitchell: recognizes his connection to Arlington
 - Arlington's teasing rapport with Clara: "What are you wearing?" / "Sam Taylor is handsome as hell"
+- "I love you, Thomas" / "And well, you should" — established as a rare, genuine exchange between Clara and Thomas (book-01, ch-02)
+- Has managed Clara's social calendar for years, including deflecting suitors and declining marriage proposals on her behalf (book-01, ch-02)
+- Has attended Clara's previous Golden Compass performances — "I haven't heard you sing like that in a while" (book-01, ch-05)
 - Arlington's betrayal specifics TBD — but motivation is jealousy after being sidelined by Samuel and Jack

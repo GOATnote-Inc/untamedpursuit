@@ -2,53 +2,53 @@
 
 ## New Facts Introduced
 
-- ch-01: Clara's private dock is on the northern end of Philadelphia's port — added to bible? no
-- ch-01: Harper's team works a north/south patrol split with Clara — added to bible? no
-- ch-01: Clara's modified percussion caps produce "a sound closer to a sharp cough than a gunshot," effective range ~40 yards for sound concealment — added to bible? no
-- ch-01: George weighs approximately 140 pounds — added to bible? no
-- ch-01: Clara carries cream-stock calling cards with a parlor address for first meetings — added to bible? no
-- ch-01: Samuel Taylor conducted surveillance on the Mercy Jane before the rescue (source says 3 weeks; Clara deduces this in carriage reflection) — added to bible? no
-- ch-01: Two girls rescued (older ~10, younger ~5) — matches source material dialogue — added to bible? no
-- ch-01: Twelve-plus traffickers killed in the rescue — added to bible? no
-- ch-01: Clara's daily schedule: blade practice at dawn, Colts after, Thomas findings over tea with Harper, weapons practice (afternoon), Thomas delivers intel report — added to bible? no
-- ch-01: Clara drops spent Colts and draws fresh ones mid-fight (carries enough for sequential use) — added to bible? no
-- ch-01: Clara uses custom holsters with body-mapped weapon placement ("the way a pianist maps keys") — added to bible? no
-- ch-01: Clara is working on a painting of lamplight on the Delaware River — added to bible? no
-- ch-01: Clara wears kid-leather gloves — added to bible? no
-- ch-01: A carriage and driver wait for Clara at the dock — added to bible? no
-- ch-01: Southwark referenced as a neighborhood near the docks — added to bible? no
-- ch-01: Samuel had recently purchased a warehouse near the docks (from source material; not in chapter but tracked for future use) — added to bible? no
-- ch-02: Thomas's office door is left unlocked when he expects Clara — added to bible? no
-- ch-02: Thomas acquired his mahogany desk from a governor's estate auction three years prior — added to bible? no
-- ch-02: Clara's philanthropy funds: schools in three wards, legal aid in four, harbor patrols, orphanages — added to bible? no
-- ch-02: Thomas uses a pen-holding habit as a readiness signal — added to bible? no
-- ch-02: Clara thinks of Thomas as "indispensable" — a word that becomes thematically charged on re-read — added to bible? no
-- ch-02: Clara's preferred tea venue is a parlor on Chestnut Street (east-facing windows, afternoon light) — added to bible? no
-- ch-02: Thomas has managed Clara's social calendar for years, including deflecting suitors and declining marriage proposals — added to bible? no
-- ch-02: Clara's network sold Samuel a warehouse last year at below-market price — added to bible? no
-- ch-02: Samuel's property acquisitions follow a pattern that mirrors Clara's early strategy — added to bible? no
-- ch-02: Clara has never previously asked Thomas to research a man before tea — this opening is unprecedented — added to bible? no
-- ch-02: "I love you, Thomas" / "And well, you should" — established as a rare exchange, genuine — added to bible? no
-- ch-02: George takes position near the marble fireplace in Thomas's office (customary spot) — added to bible? no
-- ch-02: Harper's footsteps recognized by George in the hallway — consistent with Ch1 establish — added to bible? no
-- ch-03: Clara practices with the blade in a walled courtyard behind her townhouse — added to bible? no
-- ch-03: She uses clay pots as targets for Colt practice — added to bible? no
-- ch-03: Thomas's leather portfolio with labeled sections and summary sheet — organizational detail — added to bible? no
-- ch-03: Samuel Taylor's father was an Irish dock worker — added to bible? no
-- ch-03: Samuel's immediate reserves could fund a year of losses without touching property — added to bible? no
-- ch-03: Samuel's employees receive profit-sharing and decision-making authority — added to bible? no
+- ch-01: Clara's private dock is on the northern end of Philadelphia's port — added to bible? yes
+- ch-01: Harper's team works a north/south patrol split with Clara — added to bible? yes
+- ch-01: Clara's modified percussion caps produce "a sound closer to a sharp cough than a gunshot," effective range ~40 yards for sound concealment — added to bible? yes
+- ch-01: George weighs approximately 140 pounds — added to bible? yes
+- ch-01: Clara carries cream-stock calling cards with a parlor address for first meetings — added to bible? skip — atmospheric tradecraft detail
+- ch-01: Samuel Taylor conducted surveillance on the Mercy Jane before the rescue (source says 3 weeks; Clara deduces this in carriage reflection) — added to bible? yes
+- ch-01: Two girls rescued (older ~10, younger ~5) — matches source material dialogue — added to bible? yes
+- ch-01: Twelve-plus traffickers killed in the rescue — added to bible? yes
+- ch-01: Clara's daily schedule: blade practice at dawn, Colts after, Thomas findings over tea with Harper, weapons practice (afternoon), Thomas delivers intel report — added to bible? yes
+- ch-01: Clara drops spent Colts and draws fresh ones mid-fight (carries enough for sequential use) — added to bible? yes
+- ch-01: Clara uses custom holsters with body-mapped weapon placement ("the way a pianist maps keys") — added to bible? yes
+- ch-01: Clara is working on a painting of lamplight on the Delaware River — added to bible? skip — scene-specific artistic detail
+- ch-01: Clara wears kid-leather gloves — added to bible? skip — scene-specific clothing
+- ch-01: A carriage and driver wait for Clara at the dock — added to bible? skip — scene logistics
+- ch-01: Southwark referenced as a neighborhood near the docks — added to bible? yes
+- ch-01: Samuel had recently purchased a warehouse near the docks (from source material; not in chapter but tracked for future use) — added to bible? yes
+- ch-02: Thomas's office door is left unlocked when he expects Clara — added to bible? skip — atmospheric detail
+- ch-02: Thomas acquired his mahogany desk from a governor's estate auction three years prior — added to bible? yes
+- ch-02: Clara's philanthropy funds: schools in three wards, legal aid in four, harbor patrols, orphanages — added to bible? yes
+- ch-02: Thomas uses a pen-holding habit as a readiness signal — added to bible? skip — character quirk prose handles
+- ch-02: Clara thinks of Thomas as "indispensable" — a word that becomes thematically charged on re-read — added to bible? skip — thematic narrative beat
+- ch-02: Clara's preferred tea venue is a parlor on Chestnut Street (east-facing windows, afternoon light) — added to bible? yes
+- ch-02: Thomas has managed Clara's social calendar for years, including deflecting suitors and declining marriage proposals — added to bible? yes
+- ch-02: Clara's network sold Samuel a warehouse last year at below-market price — added to bible? yes
+- ch-02: Samuel's property acquisitions follow a pattern that mirrors Clara's early strategy — added to bible? yes
+- ch-02: Clara has never previously asked Thomas to research a man before tea — this opening is unprecedented — added to bible? skip — narrative beat
+- ch-02: "I love you, Thomas" / "And well, you should" — established as a rare exchange, genuine — added to bible? yes
+- ch-02: George takes position near the marble fireplace in Thomas's office (customary spot) — added to bible? yes
+- ch-02: Harper's footsteps recognized by George in the hallway — consistent with Ch1 establish — added to bible? yes
+- ch-03: Clara practices with the blade in a walled courtyard behind her townhouse — added to bible? yes
+- ch-03: She uses clay pots as targets for Colt practice — added to bible? skip — training detail
+- ch-03: Thomas's leather portfolio with labeled sections and summary sheet — organizational detail — added to bible? skip — prop detail
+- ch-03: Samuel Taylor's father was an Irish dock worker — added to bible? yes
+- ch-03: Samuel's immediate reserves could fund a year of losses without touching property — added to bible? yes
+- ch-03: Samuel's employees receive profit-sharing and decision-making authority — added to bible? yes
 - ch-03: Samuel trains nightly with a weapons master — consistent with bible — added to bible? yes, already there
-- ch-03: Samuel frequents a tavern for the music, has noticed hidden art — added to bible? no
-- ch-03: Clara owns the Chestnut Street parlor through a holding company — added to bible? no
-- ch-03: Clara's tea preference: ginger tea in porcelain service — consistent with bible (ginger tea) — added to bible? no
-- ch-03: Clara deliberately leaves George at home for the tea — first scene without George present — added to bible? no
-- ch-03: Clara wears a dark green silk dress to the tea (no leather coat, no holsters, sword cane only) — added to bible? no
-- ch-03: Samuel arrived at tea with no cravat — either casual confidence or convention unfamiliarity — added to bible? no
-- ch-03: Wallace named as antagonist — rejected partnership offer on western port control from Samuel — added to bible? no
-- ch-03: Wallace integrating trafficking with port control; ambition spans war supply and insider mineral intelligence from California geological surveys — added to bible? no
-- ch-03: Geological reports on California mineral wealth circulating among the ultra-wealthy before public knowledge — Clara has seen fragments through her own channels; Samuel has access to the same whispers — added to bible? no
-- ch-03: Clara carries a leather folder with a shipping summary (fraction of holdings) for disclosure — added to bible? no
-- ch-03: Handshake between Clara and Samuel at the end of tea — added to bible? no
+- ch-03: Samuel frequents a tavern for the music, has noticed hidden art — added to bible? yes
+- ch-03: Clara owns the Chestnut Street parlor through a holding company — added to bible? yes
+- ch-03: Clara's tea preference: ginger tea in porcelain service — consistent with bible (ginger tea) — added to bible? skip — ginger tea already noted
+- ch-03: Clara deliberately leaves George at home for the tea — first scene without George present — added to bible? skip — scene-specific choice
+- ch-03: Clara wears a dark green silk dress to the tea (no leather coat, no holsters, sword cane only) — added to bible? skip — scene-specific clothing
+- ch-03: Samuel arrived at tea with no cravat — either casual confidence or convention unfamiliarity — added to bible? skip — scene-specific clothing
+- ch-03: Wallace named as antagonist — rejected partnership offer on western port control from Samuel — added to bible? yes
+- ch-03: Wallace integrating trafficking with port control; ambition spans war supply and insider mineral intelligence from California geological surveys — added to bible? yes
+- ch-03: Geological reports on California mineral wealth circulating among the ultra-wealthy before public knowledge — Clara has seen fragments through her own channels; Samuel has access to the same whispers — added to bible? skip — world-building prose handles
+- ch-03: Clara carries a leather folder with a shipping summary (fraction of holdings) for disclosure — added to bible? skip — scene prop
+- ch-03: Handshake between Clara and Samuel at the end of tea — added to bible? skip — scene event
 - ch-03: Samuel's speech: "The honest way isn't usually the easy way" — matches bible example phrase — added to bible? yes, already there
 
 ## Outline Deviations
@@ -87,8 +87,8 @@
 - ch-03: Weapons practice in courtyard vs. source material's "farm shooting" — changed for simplicity; no farm in bible. — resolved? yes, intentional deviation (logged above)
 - ch-03: George absent from tea scene — first scene where Clara is without George. Deliberate character choice. — resolved? yes, intentional
 - ch-03: Clara wears dark green silk to tea (no leather coat) — first time she is not in her armored coat. Consistent with the domestic/social register of the scene. — resolved? yes
-- ch-03: Samuel's father as Irish dock worker — combines two separate bible facts. Check if bible entry for Samuel should be updated. — resolved? no, needs bible update
-- ch-03: Wallace as antagonist — drawn from Clara_rescues_Sam.md screenplay. Not yet in bible. Needs profile creation. — resolved? no, needs bible entry
+- ch-03: Samuel's father as Irish dock worker — combines two separate bible facts. Check if bible entry for Samuel should be updated. — resolved? yes, bible updated
+- ch-03: Wallace as antagonist — drawn from Clara_rescues_Sam.md screenplay. Not yet in bible. Needs profile creation. — resolved? yes, wallace.md created
 - ch-03: Clara's holding companies structure — new detail (she owns properties through holding companies to keep her name out of records). Consistent with bible's "proxy ownership" pattern for the Golden Compass. — resolved? yes, consistent
 - ch-03: "Homo sum" Latin motto NOT used — still reserved for bigger moment. — resolved? yes, held per Ch2 plan
 - ch-03: Thomas excluded from tea but stays working — continues the "man at the desk" pattern from Ch2. No negative emotion shown. — resolved? yes, dual-frequency seed maintained
@@ -208,26 +208,26 @@
 
 ## New Facts Introduced
 
-- ch-04: First Samuel Taylor POV chapter — shifts from Clara's third-person limited to Samuel's — added to bible? no (bible has pov_character: false; needs update)
-- ch-04: Samuel's carriage is freshly polished for the evening — added to bible? no
-- ch-04: Samuel's jaw bruise has faded from purple to yellow (~one week after Ch1) — added to bible? no
-- ch-04: Samuel's ribs still ache but are manageable — consistent with Ch1 beating — added to bible? no
-- ch-04: Clara wears a midnight blue performance gown to the Golden Compass — added to bible? no
-- ch-04: Clara carries no sword cane to the Golden Compass — first time she's unarmed — added to bible? no
-- ch-04: Samuel first found the Golden Compass three months ago, drawn by a cello through an open window — added to bible? no
-- ch-04: Samuel has visited the Golden Compass four times before this evening — added to bible? no
+- ch-04: First Samuel Taylor POV chapter — shifts from Clara's third-person limited to Samuel's — added to bible? yes
+- ch-04: Samuel's carriage is freshly polished for the evening — added to bible? skip — scene atmosphere
+- ch-04: Samuel's jaw bruise has faded from purple to yellow (~one week after Ch1) — added to bible? skip — scene-specific injury
+- ch-04: Samuel's ribs still ache but are manageable — consistent with Ch1 beating — added to bible? skip — scene-specific injury
+- ch-04: Clara wears a midnight blue performance gown to the Golden Compass — added to bible? skip — scene-specific clothing
+- ch-04: Clara carries no sword cane to the Golden Compass — first time she's unarmed — added to bible? skip — disarmament pattern tracked in prose
+- ch-04: Samuel first found the Golden Compass three months ago, drawn by a cello through an open window — added to bible? yes
+- ch-04: Samuel has visited the Golden Compass four times before this evening — added to bible? yes
 - ch-04: The Golden Compass has a Rembrandt hung in an alcove at eye level — consistent with bible (locations.md) — added to bible? yes, already there
 - ch-04: The Golden Compass has an ocean painting — consistent with bible — added to bible? yes, already there
-- ch-04: The performance hall seats approximately sixty — added to bible? no
-- ch-04: Clara plays cello, then duets with Lily (violin), then sings Italian arias, then plays piano, then performs an original composition — added to bible? no
+- ch-04: The performance hall seats approximately sixty — added to bible? yes
+- ch-04: Clara plays cello, then duets with Lily (violin), then sings Italian arias, then plays piano, then performs an original composition — added to bible? yes
 - ch-04: Samuel weeps openly during Clara's performance — consistent with bible — added to bible? yes, already there
-- ch-04: George's head settles in Samuel's lap during the performance — added to bible? no
+- ch-04: George's head settles in Samuel's lap during the performance — added to bible? yes
 - ch-04: Harper presents Samuel with autumn-colored flowers backstage — consistent with bible (Harper Key Scene #2) — added to bible? yes, already there
-- ch-04: The Golden Compass has a private gallery behind the performance hall — added to bible? no
+- ch-04: The Golden Compass has a private gallery behind the performance hall — added to bible? yes
 - ch-04: The Golden Compass has a private dining room — consistent with bible — added to bible? yes, already there
-- ch-04: Lily Montgomery introduced as Clara's closest friend and the violinist — first appearance — added to bible? no
-- ch-04: Lily observes Samuel before speaking — "We notice many things. Though perhaps not as many as Clara." — added to bible? no
-- ch-04: Clara did not expect Samuel's tears — her first undefended admission from his perspective — added to bible? no
+- ch-04: Lily Montgomery introduced as Clara's closest friend and the violinist — first appearance — added to bible? yes
+- ch-04: Lily observes Samuel before speaking — "We notice many things. Though perhaps not as many as Clara." — added to bible? skip — scene dialogue moment
+- ch-04: Clara did not expect Samuel's tears — her first undefended admission from his perspective — added to bible? skip — narrative beat
 
 ## Outline Deviations
 
@@ -241,7 +241,7 @@
 
 ## Continuity Flags
 
-- ch-04: First Samuel POV chapter — bible has pov_character: false. Needs bible update to reflect POV status. — resolved? no, needs bible update
+- ch-04: First Samuel POV chapter — bible has pov_character: false. Needs bible update to reflect POV status. — resolved? yes, bible updated (pov_character: true)
 - ch-04: George absent in Ch3 (deliberate), present in Ch4 at the Golden Compass — consistent progression (Clara is now ready for Samuel to meet the full Clara including George). — resolved? yes, intentional
 - ch-04: Clara unarmed (no sword cane) for the first time — she was armed in Ch1 (full combat), Ch2 (leather coat + sword cane), Ch3 (sword cane only, dark green silk). Ch4 continues the pattern of progressive disarmament with Samuel. — resolved? yes, intentional pattern
 - ch-04: Samuel refers to Clara's holster positions "the way a pianist maps keys" — direct echo of Ch1 narration (Clara's POV). Samuel wouldn't know this exact metaphor. However, he observed her holsters on the docks and could independently draw the pianist comparison. — resolved? yes, independent observation, not POV leak
@@ -299,20 +299,20 @@
 
 ## New Facts Introduced
 
-- ch-05: Clara dresses before dawn — leather coat, holsters (multiple Colts), sword cane. Rearming ritual after the unarmed Golden Compass evening — added to bible? no
-- ch-05: Thomas has been working through the night (or never stopped) — cravat absent, shirtsleeves rolled, ink on both hands — added to bible? no
-- ch-05: Clara sang at the Golden Compass (Thomas: "I haven't heard you sing like that in a while. Confident. Bold.") — implies Thomas has heard her sing before — added to bible? no
-- ch-05: Thomas's ten-item strategic plan delivered (Task 1 from Ch2) — ranked by impact and feasibility — added to bible? no
-- ch-05: Short-term plan items: tighter dock inspections, legal advocacy for trafficking penalties, expansion of informant reach among dock workers — added to bible? no
-- ch-05: Long-term plan items: education, cultural change, legal reform at the state level — added to bible? no
-- ch-05: Wallace's power rests on social respectability purchased through art-world patronage — concert subscriptions, charitable contributions, donations to cultural institutions — added to bible? no
-- ch-05: Wallace has been cultivating Philadelphia's commercial elite through the same cultural circuit Samuel attends — art tours, subscription concerts, philanthropic gatherings — added to bible? no
-- ch-05: Wallace's commercial alliances (dock operators, shipping agents, harbormaster's staff) are built on his reputation as a gentleman — added to bible? no
-- ch-05: Samuel Taylor has been attending the same art-world events as Wallace — his visibility at the Golden Compass may have connected him to Clara in Wallace's intelligence — added to bible? no
-- ch-05: Clara orders a full map of Wallace's respectability network — every event, institution, merchant he has cultivated — added to bible? no
-- ch-05: Clara orders a briefing prepared for Samuel on the Wallace art-world connection — added to bible? no
+- ch-05: Clara dresses before dawn — leather coat, holsters (multiple Colts), sword cane. Rearming ritual after the unarmed Golden Compass evening — added to bible? skip — disarmament pattern tracked in prose
+- ch-05: Thomas has been working through the night (or never stopped) — cravat absent, shirtsleeves rolled, ink on both hands — added to bible? skip — scene-specific, consistent with pattern
+- ch-05: Clara sang at the Golden Compass (Thomas: "I haven't heard you sing like that in a while. Confident. Bold.") — implies Thomas has heard her sing before — added to bible? yes
+- ch-05: Thomas's ten-item strategic plan delivered (Task 1 from Ch2) — ranked by impact and feasibility — added to bible? skip — plot event
+- ch-05: Short-term plan items: tighter dock inspections, legal advocacy for trafficking penalties, expansion of informant reach among dock workers — added to bible? skip — plot detail
+- ch-05: Long-term plan items: education, cultural change, legal reform at the state level — added to bible? skip — plot detail
+- ch-05: Wallace's power rests on social respectability purchased through art-world patronage — concert subscriptions, charitable contributions, donations to cultural institutions — added to bible? yes
+- ch-05: Wallace has been cultivating Philadelphia's commercial elite through the same cultural circuit Samuel attends — art tours, subscription concerts, philanthropic gatherings — added to bible? yes
+- ch-05: Wallace's commercial alliances (dock operators, shipping agents, harbormaster's staff) are built on his reputation as a gentleman — added to bible? yes
+- ch-05: Samuel Taylor has been attending the same art-world events as Wallace — his visibility at the Golden Compass may have connected him to Clara in Wallace's intelligence — added to bible? yes
+- ch-05: Clara orders a full map of Wallace's respectability network — every event, institution, merchant he has cultivated — added to bible? skip — plot action
+- ch-05: Clara orders a briefing prepared for Samuel on the Wallace art-world connection — added to bible? skip — plot action
 - ch-05: Lily Montgomery referenced by Clara as "the violinist" — consistent with Ch4 — added to bible? yes, already there
-- ch-05: Thomas describes his investigation as "not trivial" — week-long intelligence effort to trace Wallace beyond the docks — added to bible? no
+- ch-05: Thomas describes his investigation as "not trivial" — week-long intelligence effort to trace Wallace beyond the docks — added to bible? skip — scene detail
 
 ## Outline Deviations
 
@@ -384,21 +384,21 @@
 
 ## New Facts Introduced
 
-- ch-06: Samuel's warehouse is three stories of Pennsylvania limestone on Front Street, near the docks — added to bible? no
-- ch-06: Samuel's office on the second floor — walnut desk (not mahogany), commercial maps (shipping routes, harbor depths, Chesapeake coastline), a small landscape painting — added to bible? no
-- ch-06: Samuel's employees greet Clara with careful respect; a foreman touches his cap — added to bible? no
-- ch-06: Clara wears the dark green silk under the leather coat — blending registers for the first time — added to bible? no
-- ch-06: Thomas's Wallace report contains 37 events, 14 institutions, 9 merchants of significant standing — added to bible? no
-- ch-06: Samuel agrees to help dismantle Wallace's respectability network — "When do we begin?" — added to bible? no
+- ch-06: Samuel's warehouse is three stories of Pennsylvania limestone on Front Street, near the docks — added to bible? yes
+- ch-06: Samuel's office on the second floor — walnut desk (not mahogany), commercial maps (shipping routes, harbor depths, Chesapeake coastline), a small landscape painting — added to bible? yes
+- ch-06: Samuel's employees greet Clara with careful respect; a foreman touches his cap — added to bible? skip — scene atmosphere
+- ch-06: Clara wears the dark green silk under the leather coat — blending registers for the first time — added to bible? skip — scene-specific clothing
+- ch-06: Thomas's Wallace report contains 37 events, 14 institutions, 9 merchants of significant standing — added to bible? skip — plot detail
+- ch-06: Samuel agrees to help dismantle Wallace's respectability network — "When do we begin?" — added to bible? skip — plot action
 - ch-06: Samuel's father was an Irish dock worker who came to America with nothing — consistent with Ch3 (bible combined fact) — added to bible? yes, already logged
-- ch-06: Samuel decided young to "own the docks" so no worker would fear the man who signed his wages — added to bible? no
+- ch-06: Samuel decided young to "own the docks" so no worker would fear the man who signed his wages — added to bible? yes
 - ch-06: Clara's father was Buddhist with Japanese elements (kami, harmony with nature); mother was Christian — consistent with bible — added to bible? yes, already there
 - ch-06: Family trading connections: Canton, Japan, Philadelphia — consistent with bible — added to bible? yes, already there
-- ch-06: "A Chen does not fail" — Clara's father's phrase, heard often enough that she cannot hear the words without hearing his voice — added to bible? no
-- ch-06: Clara says "I can remember what others said about my father. At first I did not think it was true." — first disclosure of a wound beneath the empire — added to bible? no
-- ch-06: Samuel offers patience rather than probing: "I hope to build something between us where you feel safe enough to share what you carry" — added to bible? no
-- ch-06: Clara chooses not to tell Thomas about the river conversation or the father disclosure — "She had never shown Thomas the wound. She had shown him the empire built over it." — added to bible? no
-- ch-06: Thomas's lamplight visible in the ground-floor window when Clara returns at night — consistent with "man at the desk" pattern — added to bible? no
+- ch-06: "A Chen does not fail" — Clara's father's phrase, heard often enough that she cannot hear the words without hearing his voice — added to bible? yes
+- ch-06: Clara says "I can remember what others said about my father. At first I did not think it was true." — first disclosure of a wound beneath the empire — added to bible? skip — scene dialogue, deliberately vague
+- ch-06: Samuel offers patience rather than probing: "I hope to build something between us where you feel safe enough to share what you carry" — added to bible? skip — scene dialogue
+- ch-06: Clara chooses not to tell Thomas about the river conversation or the father disclosure — "She had never shown Thomas the wound. She had shown him the empire built over it." — added to bible? yes
+- ch-06: Thomas's lamplight visible in the ground-floor window when Clara returns at night — consistent with "man at the desk" pattern — added to bible? skip — scene atmosphere, pattern already documented
 
 ## Outline Deviations
 
@@ -415,7 +415,7 @@
 - ch-06: Samuel's father as Irish dock worker — established in Ch3 (Thomas's dossier). Ch6 has Samuel himself share this with Clara directly. She already knew from Thomas's report but hears it from Samuel for the first time. — resolved? yes, consistent
 - ch-06: Thomas hands Clara the report "without asking why" she's delivering it herself — this is a dual-frequency beat. First read: Thomas trusts Clara's judgment. Re-read: Thomas is being excluded from the meeting with Samuel and does not protest, banking the grievance. — resolved? yes, dual-frequency seed
 - ch-06: Clara tells Samuel the Wallace patronage details from Ch5 — all facts consistent (art patronage, charitable contributions, concert subscriptions, commercial alliances). — resolved? yes, consistent
-- ch-06: "A Chen does not fail" — new phrase from Clara's father. Not yet in bible. Should be added to Clara's continuity notes. — resolved? no, needs bible update
+- ch-06: "A Chen does not fail" — new phrase from Clara's father. Not yet in bible. Should be added to Clara's continuity notes. — resolved? yes, bible updated
 - ch-06: Clara's father wound — "what others said about him" left deliberately vague. The full story is reserved for a later chapter. — resolved? yes, intentional partial disclosure
 - ch-06: "Homo sum" Latin motto still NOT used — reserved for bigger moment. — resolved? yes, held per plan
 - ch-06: Thomas dual-frequency seeds in Ch6: (1) hands Clara the report without comment — trust or exclusion; (2) his work delivered by Clara to another man; (3) Clara returns carrying something she will not share with Thomas; (4) "She had never shown Thomas the wound" — the moment Clara's inner world begins to migrate from Thomas to Samuel; (5) Thomas's lamplight in the window — the man at the desk, waiting, unknowing. Total seeds across Ch1–6: Ch2 (5), Ch4 (1), Ch5 (5), Ch6 (5). — resolved? yes, all invisible on first read
@@ -472,20 +472,20 @@
 
 ## New Facts Introduced
 
-- ch-07: Clara's townhouse exterior — red brick, white shutters, green (old copper) front door, corner of Spruce Street — added to bible? no
-- ch-07: Clara's courtyard — walled on three sides (brick and ivy, ten feet high), packed earth and flat stone surface, weapons rack, table for Colts, clay targets along eastern wall — added to bible? no
-- ch-07: Thomas and Samuel meet for the first time — Thomas greets Samuel in his office, shakes hands, makes a joke about Clara mentioning him, compliments exchanged on the Wallace report — added to bible? no
-- ch-07: Thomas described: early thirties, silver at temples, sharp-featured, ink on both hands, boyish grin — consistent with Ch2 and Ch5 — added to bible? no (no Thomas profile exists yet)
-- ch-07: Clara in practice clothes — dark linen trousers tucked into low boots, cotton shirt with sleeves rolled, hair pulled back and tied. Most physically unguarded version of Clara seen in the series. — added to bible? no
+- ch-07: Clara's townhouse exterior — red brick, white shutters, green (old copper) front door, corner of Spruce Street — added to bible? yes
+- ch-07: Clara's courtyard — walled on three sides (brick and ivy, ten feet high), packed earth and flat stone surface, weapons rack, table for Colts, clay targets along eastern wall — added to bible? yes
+- ch-07: Thomas and Samuel meet for the first time — Thomas greets Samuel in his office, shakes hands, makes a joke about Clara mentioning him, compliments exchanged on the Wallace report — added to bible? yes
+- ch-07: Thomas described: early thirties, silver at temples, sharp-featured, ink on both hands, boyish grin — consistent with Ch2 and Ch5 — added to bible? yes
+- ch-07: Clara in practice clothes — dark linen trousers tucked into low boots, cotton shirt with sleeves rolled, hair pulled back and tied. Most physically unguarded version of Clara seen in the series. — added to bible? skip — scene-specific clothing
 - ch-07: Clara's martial arts described as Japanese, learned through family trading connections (Canton, Nagasaki, Philadelphia). Principle: yielding to redirect force. — consistent with bible (Clara trained in Japanese martial arts through family connections) — added to bible? already there
-- ch-07: Samuel has trained in English boxing for six years with a weapons master — added to bible? no
-- ch-07: Clara puts Samuel on the ground three times in three minutes using different techniques (entry, wrist lock, sweep) — added to bible? no
-- ch-07: Samuel begins learning Clara's yielding principle and achieves a successful redirect (pivot behind her) — added to bible? no
-- ch-07: Wallace auction house intelligence — Chestnut Street, fourteen lots in six months, contemporary American paintings purchased through agents — added to bible? no
-- ch-07: Clara's housekeeper — middle-aged, efficient, unsmiling woman who answers the door — added to bible? no
-- ch-07: Clara's hallway has personal paintings (not museum-quality), a staircase, and a sitting room with heavy curtains — added to bible? no
-- ch-07: The courtyard shows marks of solitary practice — one set of marks in the earth. Samuel's footprints are new. — added to bible? no
-- ch-07: Clara and Samuel use wooden practice blades for blade work after the martial arts training — added to bible? no
+- ch-07: Samuel has trained in English boxing for six years with a weapons master — added to bible? yes
+- ch-07: Clara puts Samuel on the ground three times in three minutes using different techniques (entry, wrist lock, sweep) — added to bible? skip — scene action
+- ch-07: Samuel begins learning Clara's yielding principle and achieves a successful redirect (pivot behind her) — added to bible? skip — scene action
+- ch-07: Wallace auction house intelligence — Chestnut Street, fourteen lots in six months, contemporary American paintings purchased through agents — added to bible? yes
+- ch-07: Clara's housekeeper — middle-aged, efficient, unsmiling woman who answers the door — added to bible? skip — minor character, unnamed
+- ch-07: Clara's hallway has personal paintings (not museum-quality), a staircase, and a sitting room with heavy curtains — added to bible? yes
+- ch-07: The courtyard shows marks of solitary practice — one set of marks in the earth. Samuel's footprints are new. — added to bible? skip — atmospheric
+- ch-07: Clara and Samuel use wooden practice blades for blade work after the martial arts training — added to bible? skip — scene action
 
 ## Outline Deviations
 

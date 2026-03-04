@@ -95,10 +95,13 @@
 - **Resolution plan**: Thomas Mitchell's loyalty is tested. He chooses Eve's side. Durands defeated in Act III.
 
 ### 9. Wallace Betrayal
-- **Status**: planted
-- **Planted**: Outline_episode_Fierce_Book1_Season1
-- **Description**: Wallace is introduced as an art-using cover figure who becomes corrupt and betrays Clara in San Francisco.
+- **Status**: developing
+- **Planted**: Outline_episode_Fierce_Book1_Season1; first named in book-01, ch-03
+- **Description**: Wallace is introduced as an art-using cover figure who becomes corrupt and betrays Clara in San Francisco. Named by Samuel during the first tea as the man who offered a western port-control partnership (rejected by Samuel); the Mercy Jane attack was retaliation.
 - **Clues given so far**:
+  - book-01, ch-03: Wallace named as antagonist — rejected partnership with Samuel, integrates trafficking with port control, ambition spans war-supply contracts and insider California mineral intelligence
+  - book-01, ch-05: Wallace's power mapped — social respectability purchased through art-world patronage (concert subscriptions, charitable contributions, cultural institutions). Commercial alliances built on gentleman reputation. Attends same cultural circuit as Samuel.
+  - book-01, ch-07: Auction house intelligence — Chestnut Street, 14 lots in 6 months, contemporary American paintings purchased through agents
   - Ep3: Wallace uses art as cover
   - Ep5: Wallace's corruption revealed; conflict with Clara
   - Ep9: Arrival in San Francisco; Wallace's betrayal
@@ -137,6 +140,21 @@
 - **Status**: This potential thread is resolved and abandoned. No further action needed.
 
 ---
+
+### 11. Clara's Progressive Disarmament Pattern
+- **Status**: developing
+- **Planted**: book-01, ch-01 through ch-07
+- **Description**: Clara's armament tracks her emotional openness with Samuel. Ch-01: fully armed (combat). Ch-02: leather coat + sword cane. Ch-03: dark green silk, sword cane only (no coat, no holsters). Ch-04: midnight blue performance gown, unarmed. Ch-05: rearmed (leather coat, holsters, Colts, sword cane). Ch-06: dark green silk under leather coat (blending registers). Ch-07: practice clothes (linen trousers, cotton shirt — most physically unguarded).
+- **Thematic resonance**: The courtship told through what Clara carries. Each chapter's armament reflects how much of herself she is willing to show Samuel.
+
+### 12. Clara's Father Wound
+- **Status**: planted
+- **Planted**: book-01, ch-06
+- **Description**: Clara partially discloses a wound connected to her father — "I can remember what others said about my father. At first I did not think it was true." The full story is deliberately vague, reserved for a later chapter.
+- **Clues given so far**:
+  - "A Chen does not fail" — her father's phrase, deeply embedded (book-01, ch-06)
+  - Clara chose to share this with Samuel, not Thomas — "She had never shown Thomas the wound. She had shown him the empire built over it."
+- **Resolution plan**: Full disclosure of the father's story reserved for a future chapter.
 
 ## Resolved Threads
 
