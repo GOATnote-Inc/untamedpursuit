@@ -201,3 +201,94 @@
 - Samuel: Matches bible profile — direct speech, ethical framework, strategic mind. Leads with honesty. Does not compliment the tea. Injury management without advertising — consistent with Ch1 observations.
 - Thomas: Dual-frequency clean — delivers intel with professional satisfaction, excluded from tea, stays in the chair working. "Quite the find" reads as warm encouragement on first pass. Re-read: the man watching her dress for someone else. Pattern maintained.
 - Handshake: Earned — follows mutual disclosure and honest exchange. "Not yet trust, but the ground where trust could grow" — appropriate weight for first real conversation.
+
+---
+
+# Chapter 4 — The Artist's Touch
+
+## New Facts Introduced
+
+- ch-04: First Samuel Taylor POV chapter — shifts from Clara's third-person limited to Samuel's — added to bible? no (bible has pov_character: false; needs update)
+- ch-04: Samuel's carriage is freshly polished for the evening — added to bible? no
+- ch-04: Samuel's jaw bruise has faded from purple to yellow (~one week after Ch1) — added to bible? no
+- ch-04: Samuel's ribs still ache but are manageable — consistent with Ch1 beating — added to bible? no
+- ch-04: Clara wears a midnight blue performance gown to the Golden Compass — added to bible? no
+- ch-04: Clara carries no sword cane to the Golden Compass — first time she's unarmed — added to bible? no
+- ch-04: Samuel first found the Golden Compass three months ago, drawn by a cello through an open window — added to bible? no
+- ch-04: Samuel has visited the Golden Compass four times before this evening — added to bible? no
+- ch-04: The Golden Compass has a Rembrandt hung in an alcove at eye level — consistent with bible (locations.md) — added to bible? yes, already there
+- ch-04: The Golden Compass has an ocean painting — consistent with bible — added to bible? yes, already there
+- ch-04: The performance hall seats approximately sixty — added to bible? no
+- ch-04: Clara plays cello, then duets with Lily (violin), then sings Italian arias, then plays piano, then performs an original composition — added to bible? no
+- ch-04: Samuel weeps openly during Clara's performance — consistent with bible — added to bible? yes, already there
+- ch-04: George's head settles in Samuel's lap during the performance — added to bible? no
+- ch-04: Harper presents Samuel with autumn-colored flowers backstage — consistent with bible (Harper Key Scene #2) — added to bible? yes, already there
+- ch-04: The Golden Compass has a private gallery behind the performance hall — added to bible? no
+- ch-04: The Golden Compass has a private dining room — consistent with bible — added to bible? yes, already there
+- ch-04: Lily Montgomery introduced as Clara's closest friend and the violinist — first appearance — added to bible? no
+- ch-04: Lily observes Samuel before speaking — "We notice many things. Though perhaps not as many as Clara." — added to bible? no
+- ch-04: Clara did not expect Samuel's tears — her first undefended admission from his perspective — added to bible? no
+
+## Outline Deviations
+
+- ch-04: Source material (Golden_Compass_Stage_Episode.md) has a pre-departure scene with Harper asking "He still doesn't suspect?" — omitted for pacing; the reveal unfolds through Samuel's pattern recognition instead.
+- ch-04: Source has Samuel "uncharacteristically speechless" at Clara's appearance — adapted to Clara cutting off his compliment, which is more in character for both (she reads his face; he doesn't need to perform).
+- ch-04: Source material includes a Michelangelo in the gallery — not mentioned in chapter; kept to Rembrandt and ocean painting for focus. The Michelangelo can appear in a future visit.
+- ch-04: Wallace "art as cover" thread from episode outline (Ep3: "Artists Touch") not included in this chapter — the Golden Compass scene is already dense. Wallace thread deferred to a subsequent chapter.
+- ch-04: Thomas absent from chapter — no debrief scene. Source material (Fix_beginning) has Thomas commenting "I haven't heard you sing like that in a while" post-performance. Reserved for Ch5 or later — another dual-frequency seed.
+- ch-04: The dinner scene (from dinner_with_sam_and_clara_drafts.md) not included — chapter ends at the threshold of the dining room. The dinner itself (Clara beginning to discuss her father) reserved for a subsequent chapter.
+- ch-04: Scene 7 ("Dinner date with San Fran Lead Magnet") and Scene 9 ("Another Clara night saving episode") from outline_2_16.md not incorporated — the Golden Compass needed the full chapter. These beats may be covered in Ch5 or later.
+
+## Continuity Flags
+
+- ch-04: First Samuel POV chapter — bible has pov_character: false. Needs bible update to reflect POV status. — resolved? no, needs bible update
+- ch-04: George absent in Ch3 (deliberate), present in Ch4 at the Golden Compass — consistent progression (Clara is now ready for Samuel to meet the full Clara including George). — resolved? yes, intentional
+- ch-04: Clara unarmed (no sword cane) for the first time — she was armed in Ch1 (full combat), Ch2 (leather coat + sword cane), Ch3 (sword cane only, dark green silk). Ch4 continues the pattern of progressive disarmament with Samuel. — resolved? yes, intentional pattern
+- ch-04: Samuel refers to Clara's holster positions "the way a pianist maps keys" — direct echo of Ch1 narration (Clara's POV). Samuel wouldn't know this exact metaphor. However, he observed her holsters on the docks and could independently draw the pianist comparison. — resolved? yes, independent observation, not POV leak
+- ch-04: "Homo sum" Latin motto still NOT used — reserved for bigger moment. — resolved? yes, held per plan
+- ch-04: Thomas dual-frequency seeds deferred — Thomas absent from this chapter. His exclusion from the Golden Compass evening is itself a seed (Clara shared her most intimate performance with Samuel, not Thomas). The Fix_beginning debrief ("I haven't heard you sing like that in a while") belongs in the next Thomas scene. — resolved? yes, reserved for Ch5+
+- ch-04: Rembrandt hangs in public gallery; ocean painting moved to private gallery for the backstage scene — resolves spatial ambiguity (one Rembrandt, stays in public gallery alcove). — resolved? yes, fixed in revision
+- ch-04: Golden Compass reframed as private subscription society (membership by invitation, performances for subscribers) — resolves historian flag about a woman of standing performing publicly in 1846. — resolved? yes, fixed in revision
+
+---
+
+## Chapter 4 — Subagent Review Log
+
+### Style Reviewer
+- POV: Two hard breaches fixed — (1) "She had not needed to hear it. She had seen it in his face." → re-anchored as Samuel's suspicion; (2) "who found the recognition welcome" → replaced with observable behavior. Three soft breaches fixed — Lily's inner light ("seemed to carry"), composition intent ("He heard in it"), Harper's emotional ceiling ("what looked to Samuel like").
+- Tense: Clean pass, no slips
+- Dialogue tags: Clean — chapter defaults to "said" and action beats throughout
+- Pacing: Performance section slightly compressed vs. target (620 words vs. 900 target); accepted at current length given the chapter's overall balance and word count target. The emotional beats land despite compression.
+- Beat structure: Anticipation → Recognition → Overwhelm → Threshold progression works. "Your tears — those I did not expect" identified as chapter's best line — inverts the power dynamic briefly.
+
+### Continuity Checker
+- All character descriptions verified against bible — Samuel, Clara, George, Harper, Lily
+- Samuel's injuries: jaw fading yellow, ribs manageable — consistent with ~1 week post-Ch1
+- George absent in Ch3, present in Ch4: intentional progression confirmed
+- George's 140-pound weight consistent with Ch1
+- Harper flowers: exact match to bible Key Scene #2
+- Lily's violin: consistent with bible (plays violin and cello)
+- Golden Compass interior: all elements verified against locations.md
+- Rembrandt spatial ambiguity: FIXED — Rembrandt stays in public gallery; ocean painting now in private gallery backstage scene
+- Samuel's "pianist maps keys" metaphor: independently defensible (not POV leak)
+- No contradictions with Ch1–Ch3
+
+### Historian
+- **CRITICAL FIX**: Golden Compass reframed as private subscription society — resolves the issue of a woman of standing performing publicly before a mixed audience in 1846. Membership by invitation, performances for subscribers. One line added to establish the private nature.
+- "Curatorial mind" → "collector's eye" (curatorial is 20th-century art world discourse)
+- "Concert master" → "master musician" (not standardized in American English until later)
+- "Wrap" → "shawl" (period-appropriate term)
+- "Professional alertness" → "sentinel's alertness" (avoids modern organizational sense)
+- Multi-instrument program (cello, voice, piano): flagged as unusual for one performer in a formal program — accepted as establishing Clara as exceptional rather than typical
+- Rembrandt in a private Philadelphia collection: flagged as extraordinary but defensible given Clara's established wealth scale
+- Gaslight, carriages, brass plaques, flower customs: all period-accurate
+
+### Character Analyst
+- Samuel's voice: Convincingly distinct from Clara's. Art collector's eye used as genuine characterization tool — he reads rooms for beauty and meaning, not threat. More open to surprise than Clara's narration.
+- Samuel's speech: Matches bible — candid, direct declarative sentences, formal when moved. Silence as speech during the performance is the bible's own example rendered correctly.
+- Clara through Samuel's eyes: Produces new information without idealization. The partial opacity of her expressions from outside is handled correctly. "Your tears — those I did not expect" is the chapter's most revealing moment about Clara — she admits surprise, which her own narration never would.
+- George dual nature: Observed rather than explained. The head-in-lap comfort gesture juxtaposed with combat lethality is the chapter's strongest animal characterization.
+- Harper flowers: Earned and character-consistent. Warmth as operational competence.
+- Lily introduction: Economical — establishes her as perceptive, warm, and intimately familiar with Clara's capabilities in ~150 words. Plants enough for future recognition without overloading.
+- Thomas absence: Invisible on first read, resonant on re-read. Clara gave her most vulnerable artistic self to Samuel, not Thomas. Correct dual-frequency craft.
+- Courtship progression (combat → handshake → hand-take): Escalation sound and threshold earned.

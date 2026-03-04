@@ -125,3 +125,45 @@
 - Clara's calculated disclosure — the shipping summary, a fraction of her holdings
 - The handshake — "not yet trust, but the ground where trust could grow"
 - Clara recognizing Thomas's phrase as her own feeling — "he sits at our table"
+
+---
+
+## Chapter 4: The Artist's Touch
+
+- **POV**: Samuel Taylor (first Samuel POV chapter)
+- **Location**: Clara's townhouse (brief), carriage, the Golden Compass
+- **Time**: Evening, ~one week after Ch3, Autumn 1846
+- **Word count target**: 2,800–3,200
+
+### Scene Beats
+
+1. **The Carriage** (~450 words): Samuel collects Clara from her townhouse. She appears in a midnight blue performance gown — he reads it as evening elegance, not performance wear. His jaw is fading yellow, ribs manageable. In the carriage: he tells her about a music hall he frequents with extraordinary art most people miss. "Art and music can help people access parts of themselves that they would not be able to otherwise." Clara's contained amusement. She knows exactly where they are going.
+
+2. **The Gallery** (~650 words): The Golden Compass — modest exterior, extraordinary interior. Samuel leads Clara in, notices she does not react to the interior (files this away). The Rembrandt draws him first. He moves through the gallery with a collector's eye: ocean painting, portraits, the curatorial design system. Pattern recognition clicks — the curation bears the same signature as Clara's fighting. George materializes beside him. Clara: "He'll keep you company during the performance." Samuel's realization: "You're not just attending the performance. Are you."
+
+3. **The Performance** (~900 words): The chapter's heart. Samuel in the audience, George at his feet. Clara plays cello — each note precise and intense. A violinist joins (Lily, not yet named). The duet weaves together with years of intimacy. Samuel weeps — "not the stinging of surprise but the kind that arrive when something profound is recognized." George's head settles in his lap. Clara transitions to Italian arias, then piano, then an original composition about journeys and the risk of being seen. The audience holds the silence before applauding. Samuel understands he is seeing Clara for the first time.
+
+4. **After the Music** (~800 words): Harper appears with a bouquet — arranged with specific care. "Miss Chen will receive visitors in the private gallery." Samuel follows Harper backstage. Clara near the Rembrandt, performance gown with elegant wrap. Samuel offers the flowers (Harper's provision, Samuel's gesture — both understood). Lily introduced — "one of my dearest friends." Lily's observation: "We notice many things. Though perhaps not as many as Clara." Lily's warm embrace of Clara and departure. Samuel and Clara alone. "You orchestrated this entire evening." Clara: "I may have arranged certain aspects." The dinner invitation. "Your tears — those I did not expect." The courtship exchange: "Most people would consider this evening quite unusual." / "I think it is perfectly suited to us." Clara extends her hand. He takes it. George follows.
+
+### Threads Advanced
+
+- Clara-Samuel courtship (from handshake to threshold — deepens significantly)
+- Clara's network scope (Golden Compass revealed as proxy-owned institution)
+
+### Threads Introduced
+
+- Lily Montgomery (Clara's closest friend, violinist, first appearance)
+- Samuel's emotional life (weeps openly — man of violence drawn to beauty)
+- Harper's quiet approval of Samuel (flowers backstage — the network's human bonds)
+- The Golden Compass interior (private gallery, Rembrandt, ocean painting, dining room)
+
+### Key Character Moments
+
+- Samuel's pattern recognition in the gallery — seeing Clara's signature in the curation
+- George materializing beside Samuel, then comforting him during the performance (head in lap)
+- Clara cutting off Samuel's compliment — "Thank you" before he can finish
+- Samuel weeping openly, unashamed — the man of violence undone by beauty
+- Harper's flowers — the small gesture within the larger orchestration
+- Lily's brief, luminous introduction — warmth and observation in equal measure
+- "Your tears — those I did not expect" — Clara's first undefended moment from Samuel's perspective
+- The closing hand — "She extended her hand. He took it. George rose to follow."
