@@ -412,3 +412,60 @@
 - The dinner invitation — not a handshake, not a holding. A home opened.
 - Thomas's pause before the teasing — the fraction of silence Clara hears but does not interpret
 - "You have never invited anyone to dinner here." — Thomas stating what Clara already knows, making it real
+
+---
+
+## Chapter 10: The Good Silver
+
+- **POV**: Samuel Taylor (third Samuel POV chapter)
+- **Location**: Clara's townhouse — the dining room
+- **Time**: Same evening as Ch9 (7 PM), Autumn 1846
+- **Word count target**: 3,000–3,500
+
+### Scene Beats
+
+1. **The Arrival** (~350 words): Samuel arrives at seven. Dark blue wool coat, the one for subscription concerts. The townhouse at dusk — a register between daylight and darkness. George inside the hallway, settled, accepting. Past Thomas's office (desk cleared, lamp low, chair pushed back — Thomas not at the desk for once). Into the dining room.
+
+2. **The Room and Clara** (~600 words): The dining room — smaller than expected, dark wood paneling, plaster, candles. The good silver — old, used, not display pieces. Chrysanthemums. Two paintings: a European harbor scene (Boston) and a Chinese landscape scroll (Huangshan mountains, ink on silk, older than the house). Clara enters — dark wine-colored dress, shawl, hair softer. Wrist bruise visible — chosen not to hide it. "My father's" — the scroll, the only thing he would not sell. Mountains present whether visible or not. Thomas enters before Samuel can respond.
+
+3. **Three at the Table** (~1,000 words): The chapter's heart. Thomas transformed — fresh cravat, boyish energy, practiced charm. Pours wine (three-quarters fill, knows Clara's preference without checking). The dinner conversation: harbormaster's new schedule, French consul reception, bookseller's Roman aqueducts treatise. Clara's dry wit about Thomas's Roman water theory. The silver story — Boston 1842, merchant's estate, stuffed egret. Thomas and Clara's conversational fluency — finishing subjects, knowing preferences (bread torn not cut, fish left unfinished). Samuel watches: the partnership in its native element, four years of shared life made visible. Thomas: "You're quiet, Mr. Taylor." Samuel: "I have been trying to determine which of you leads." Clara: "Nobody leads. We take turns."
+
+4. **The Scroll** (~450 words): Samuel mentions the harbor painting. Clara: Boston, her father's Pacific harbor mornings. Thomas contributes the father's story — Cape of Good Hope, oilcloth, three ocean crossings. Thomas knows the facts (brilliant trader, taught Clara to build). But Samuel has heard the undertow — what others said about her father, the river walk's unfinished disclosure. Thomas's version is accurate but not complete. Thomas pours more wine; the conversation moves on.
+
+5. **Thomas's Departure** (~300 words): Thomas folds his napkin with precise timing. Port complaint for the Baltimore courier. Shakes Samuel's hand. Looks back at the table from the doorway — memorizing the arrangement. "Good night." Office door. The pen finding paper.
+
+6. **Two at the Table** (~550 words): The room settles. "Thomas told the story well" / "He always does" / "But it is not his story." Clara shares: "A Chen does not fail" reinterpreted — from stubbornness to discernment, from enduring to choosing carefully. "The people." Samuel says "Clara" — first name, deliberate, in her dining room. She says "Samuel." Hand across the table, palm up. Bruised wrist against scabbed knuckles. Grandfather clock strikes nine. George at the threshold. Candles, silver, pen behind the wall, mountains in their mist.
+
+### Threads Advanced
+
+- Clara-Samuel courtship (from dinner invitation to first-name address — the most intimate domestic encounter yet; hands across the table)
+- Thomas Arlington's jealousy seeds (brilliant at the table but limited to facts, not feelings; graceful departure that reads as generosity on first pass and farewell on re-read; pen working while Clara and Samuel find first names)
+- Clara's father wound (the scroll, the Huangshan mountains, "A Chen does not fail" reinterpreted — advancing from Ch6's aborted disclosure)
+
+### Threads Introduced
+
+- Clara's father's Chinese landscape scroll (the only thing he would not sell — personal, not commercial)
+- Clara's dining room (first appearance — domestic register, smaller and more personal than expected)
+- The first-name threshold (Samuel and Clara cross from formal to personal address)
+- Thomas's limited knowledge of Clara's father (he knows the trading story, not the wound)
+
+### Key Character Moments
+
+- Samuel choosing his coat — the care of a man who reads what is not said
+- George's settled acceptance — no inspection, no greeting; the visitor is expected
+- Thomas's office desk cleared for the first time — he left the desk for Clara's dinner
+- Clara's wrist bruise visible below the sleeve — chose not to hide the evidence
+- The scroll adjusted every evening — the habit of someone touching her father daily
+- Thomas filling Clara's glass to the exact level she prefers without looking at her face
+- Thomas's silver story — Boston 1842, the stuffed egret, staking his claim to the longer history
+- Thomas and Clara finishing each other's thoughts — beautiful shorthand that is also a wall
+- "Nobody leads. We take turns." — the partnership described at its warmest
+- Thomas telling the father's Cape of Good Hope story — accurate, admiring, and incomplete
+- Samuel hearing the undertow Thomas's version does not contain
+- Thomas's departure look — memorizing a room's arrangement before it changes
+- "Thomas told the story well" / "He always does" / "But it is not his story"
+- "A Chen does not fail" reinterpreted — from endurance to discernment
+- "Clara" / "Samuel" — first names across the table, deliberate, earned
+- The grandfather clock at nine — earlier than other chapters' strikes (midnight, three, one)
+- George at the threshold — nose toward the hallway, guarding what is within
+- The pen behind the wall while the new partnership finds its name

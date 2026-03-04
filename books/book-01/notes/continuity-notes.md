@@ -715,3 +715,88 @@
 - Courtship arc: Dinner invitation fully earned after 8 chapters of progression. Logical escalation from professional venues → public performance → private training → shared combat → private home.
 - George: Fully consistent, zero verbal commands, appropriate contextual responses. The abbreviated greeting ("nosing his wrist once — the greeting abbreviated now, familiar") shows relationship evolution.
 - Three-way working scene: Role differentiation clear and convincing. Thomas as analyst, Samuel as commercial expert, Clara as decision-maker. The power geometry (Clara integrating two complementary intelligences) creates the conditions for Thomas's jealousy without ever allowing it to surface.
+
+---
+
+# Chapter 10 — The Good Silver
+
+## New Facts Introduced
+
+- ch-10: Clara's dining room — oval walnut table, dark wood paneling to chair height, plaster walls (old cream), two windows with curtains, fireplace, six silver candlesticks — added to bible? yes
+- ch-10: The good silver — old, acquired from a merchant's estate in Boston in 1842 alongside navigation charts and a stuffed egret. Listed as "miscellaneous household." Thomas purchased the contents while Clara purchased a warehouse — added to bible? yes
+- ch-10: Clara's father's Chinese landscape scroll — Huangshan mountains, ink on silk, older than the house. Brought from Canton when his family first sailed for America; the one thing he would not sell. Survived three ocean crossings including a near-foundering off the Cape of Good Hope (wrapped in oilcloth, strapped to his body during the storm). Clara adjusts it every evening. The nail is still her father's (from Ch9). — added to bible? yes
+- ch-10: Clara's dining room has a European harbor scene painting — Boston inner harbor, ships at anchor, flat grey light — added to bible? skip — scene-specific art detail
+- ch-10: Thomas fills Clara's wine glass to three-quarters without checking with her — added to bible? skip — scene behavior, supports dual-frequency
+- ch-10: Clara prefers bread torn rather than cut — added to bible? skip — character detail, minor
+- ch-10: Samuel and Clara cross from "Miss Chen" / "Mr. Taylor" to "Clara" / "Samuel" — first-name address, deliberate — added to bible? yes
+- ch-10: Clara's father described Pacific harbor mornings — light flattening everything to silver and grey, honest before the day's commerce — added to bible? skip — scene dialogue
+- ch-10: Clara's father's trading concern stretched from Canton to Philadelphia with approximately one-tenth the capital of comparable ventures — added to bible? yes (Thomas's claim)
+- ch-10: Clara's father survived three ocean crossings with the scroll — added to bible? yes (part of scroll entry above)
+- ch-10: Clara's dress for the dinner is dark wine-colored, simple, no ornament, with embroidered shawl — added to bible? skip — scene-specific clothing (disarmament pattern)
+- ch-10: Clara does not wear perfume — added to bible? yes
+- ch-10: "A Chen does not fail" reinterpreted by Clara: from stubbornness/endurance to careful choosing — routes, cargoes, alliances, people — added to bible? yes
+- ch-10: The grandfather clock strikes nine — running tally: midnight (Ch2), three (Ch8), one (Ch9), nine (Ch10) — added to bible? skip — motif tracking
+
+## Outline Deviations
+
+- ch-10: No outline existed for Ch10 prior to drafting. Source material: dinner_with_sam_and_clara_drafts.md (Clara discussing father, Samuel's patience) and Unit_creation_Shifting_Light.md (team dinner format). The dinner is entirely original — no source depicts Thomas, Clara, and Samuel dining together at Clara's home.
+- ch-10: The father's scroll is invented — no source mentions a Chinese landscape scroll. Added to give Clara's dining room a personal anchor and to advance the father wound thread without repeating Ch6's specific dialogue.
+- ch-10: Thomas's silver acquisition story (Boston 1842, merchant's estate, stuffed egret) is invented. Establishes four-year partnership timeline (consistent with Ch8's "approximately four years"), gives Thomas a charming anecdote that dual-frequencies as territorial claim-staking.
+- ch-10: Thomas's version of Clara's father (Cape of Good Hope, three crossings, oilcloth) is invented. Designed to be accurate but incomplete — Thomas knows facts, Samuel knows feelings. The gap between their knowledge is the chapter's key dual-frequency beat.
+- ch-10: The first-name exchange ("Clara" / "Samuel") is placed here rather than earlier or later. In Ch6, Samuel used "Clara" once at an emotional peak (continuity flag). In Ch10, it is deliberate — spoken in her dining room with full awareness of what it means.
+
+## Continuity Flags
+
+- ch-10: Samuel's coat — dark blue wool for subscription concerts. Established: he attends subscription concerts (Ch5 mention of Wallace's art-world circuit; Samuel attends the same events). Consistent. — resolved? yes
+- ch-10: George greeting — no muzzle press, no inspection, just "settled confidence of acceptance." Progressive evolution: Ch1 (combat), Ch4 (materializes beside), Ch6 (muzzle greeting), Ch7 (leads through house), Ch8 (combat), Ch9 (noses wrist briefly), Ch10 (settled, doesn't rise). Correct trajectory. — resolved? yes
+- ch-10: Thomas's office desk cleared — first time Thomas is NOT at his desk when Samuel passes. He cleared the desk for the dinner. On re-read: Thomas leaving the desk is the sacrifice; the desk is where he lives. — resolved? yes, intentional dual-frequency
+- ch-10: Clara's dining room — new space. Not contradicted by any previous chapter (no chapter previously describes the dining room). — resolved? yes, new, non-contradictory
+- ch-10: The good silver is from 1842 — this puts Clara at approximately 21 purchasing a warehouse in Boston. Consistent with bible: "By age 25 she had built a shipping empire." At 21 she was already building. — resolved? yes, consistent
+- ch-10: Thomas pours wine at three-quarters without checking — implies thousands of shared meals. Consistent with four-year partnership. — resolved? yes
+- ch-10: "Miss Chen" / "Mr. Taylor" formality maintained throughout dinner. Thomas uses "Clara" (first name). The formality between Samuel and Clara persists through Thomas's departure. First names only when alone. — resolved? yes, deliberate escalation
+- ch-10: Clara's father's scroll — new object. The bible mentions father's Buddhist/Shinto heritage and Canton trading connections but not a specific scroll. This is an addition, not a contradiction. — resolved? yes, consistent expansion
+- ch-10: "A Chen does not fail" — first introduced in Ch6 as father's phrase. Ch10 reinterprets it (endurance → discernment). Not a repetition — a development. — resolved? yes, thread advancement
+- ch-10: Grandfather clock strikes nine — previous strikes at midnight (Ch2), three (Ch8), one (Ch9). Nine o'clock is the earliest strike in the series. The clock continues to mark transitions. — resolved? yes, pattern consistent
+- ch-10: Thomas dual-frequency seeds: running total update. New seeds in Ch10: (1) Desk cleared — left his territory for her dinner. (2) Wine poured to exact level — ownership through intimate knowledge. (3) "I am a valued domestic fixture. Like the silver" — self-deprecation that is also a claim. (4) Bread basket passed at the exact moment — anticipation as service and as demonstration. (5) Thomas tells the father story (Cape of Good Hope) — claims the longer history, speaks for Clara. (6) Thomas pours wine when conversation deepens — smooth social grace or closing a door. (7) Departure look — memorizing the room's arrangement before it changes. (8) Pen finding paper after "Good night" — the old work resuming while the new relationship forms. Total seeds across Ch1-10: Ch2 (5), Ch4 (1), Ch5 (5), Ch6 (5), Ch7 (7), Ch8 (8), Ch9 (6), Ch10 (8) = 45 total.
+- ch-10: "Homo sum" Latin motto still NOT used — reserved for bigger moment. — resolved? yes, held per plan
+- ch-10: Progressive disarmament pattern: Ch10 = dark wine dress, shawl, no weapons, wrist bruise visible. Most domestically unguarded Samuel has seen Clara. The pattern continues: Ch1 (full combat) → Ch3 (silk, sword cane) → Ch4 (gown, unarmed) → Ch5 (rearmed) → Ch6 (silk under leather) → Ch7 (practice clothes) → Ch8 (full combat) → Ch9 (unarmed for dinner invitation) → Ch10 (dinner dress, shawl, no weapons). — resolved? yes, pattern consistent
+
+## Subagent Review Log
+
+### Style Reviewer
+- POV: 3 MODERATE fixes applied (line 99 joke mechanics over-explained → compressed; line 105 Thomas's intent stated as fact → anchored in Samuel's suspicion; line 167 omniscient "memorizing before the arrangement changed" → softened to Samuel's uncertain read). 3 MINOR fixes applied (line 117 "shared pleasure" → "what Samuel read as"; line 149 "Thomas had never been invited" → "Thomas's version had not reached"; line 189 Thomas silence-as-tool contrast → cut entirely).
+- Verbal tic: "someone who / a man who" reduced from ~15 to ~10 instances. Removed at lines 89, 99, 111, 151, 157. Remaining instances are spaced and functional.
+- Tell-after-show: 4 passages compressed (line 89 Thomas-silence gloss → cut; line 99 joke mechanics → compressed; line 155-157 napkin fold → stripped; line 189 Thomas contrast → cut).
+- Near-duplicate: "scratch of a pen finding paper" (echoed Ch9's "scratch of nib on paper") → "the faint industry of a pen on paper." Ch9 echo "room held without effort" → investigated, no actual Ch9 match found, kept.
+- Tense: Clean pass.
+- Dialogue tags: Clean pass.
+
+### Continuity Checker
+- CLEAN PASS. Zero contradictions across all categories.
+- All Ch9 promises delivered: good silver (present), table for three (present), dinner invitation (fulfilled).
+- Housekeeper ADVISORY: Ch10 says "the same efficient, unsmiling woman who had answered the door three days ago." Ch7 line 34 confirms: "a woman he did not recognize — middle-aged, efficient, unsmiling." Description matches. "Three days ago" timing consistent with Ch7-Ch10 compressed autumn timeline.
+- George greeting progression verified: Ch1 (combat) → Ch4 (materializes) → Ch6 (muzzle greeting) → Ch7 (leads through house) → Ch8 (combat) → Ch9 (noses wrist briefly) → Ch10 (settled, doesn't rise). Correct trajectory.
+- All 14 new facts non-contradictory. Silver timeline (1842) consistent with four-year partnership.
+
+### Historian
+- ANACHRONISM fixes applied (2): "analyst" (occupational, 20th c.) → "figure bent over manifests that morning." "submitted through channels that disguised its origin" (bureaucratic/covert idiom) → "submitted through intermediaries who concealed his hand."
+- QUESTIONABLE fix applied (1): "acquiring the Wallace auction house intelligence" → "how they had learned the Wallace auction house's secrets." ("Intelligence" as information is period-valid but register was too espionage-modern in context.)
+- "Redirect" in Wallace metaphor (line 93) retained — used in physical/water-flow context, not espionage register.
+- Chinese landscape scroll: ACCURATE. Huangshan ink-on-silk tradition well established by 1846. Canton-to-America provenance plausible.
+- Social customs: First-name threshold at private dinner with no chaperone — DEFENSIBLE given Clara's established unconventionality and the period's flexibility among equals in private settings.
+- Material culture: Silver patterns, chrysanthemums, Bordeaux/Madeira, walnut table, gaslight, candlesticks — all ACCURATE.
+- Added to series anachronism tracking list: "analyst" (occupational), "submitted through channels" (bureaucratic idiom).
+
+### Character Analyst
+- Thomas dual-frequency: 5 seeds examined. 4 PASS, 1 CAUTION.
+  - (A) Wine glass level — PASS. Reads as devotion first, catalogued ownership on re-read.
+  - (B) "I am a valued domestic fixture. Like the silver." — PASS. Self-deprecating charm first, territorial claim on re-read.
+  - (C) Thomas knows the father's facts but not the wound — PASS. Finest dual-frequency achievement in the chapter.
+  - (D) Doorway exit — CAUTION. Original "memorizing a room's arrangement before the arrangement changed" risked first-read detection. FIXED: softened to "something Samuel could not quite name. The quiet attention of a man taking careful account of a room."
+  - (E) Pen behind the wall — PASS. Work resuming while the new relationship forms.
+- Thomas reads as wholly charming and generous on first read. All seeds invisible or benign.
+- Samuel voice: Consistent with Ch4, Ch7. Collector's eye, patience, emotional directness. First-name exchange earned.
+- Clara: Reveals new dimensions (domestic, personal, father's philosophy) without contradicting earlier presentations.
+- Courtship arc: Fully earned progression. Dinner → first-name threshold → hand across the table.
+- George: Consistent. Settled acceptance, threshold post at end.
+- Father thread: Advances without repeating Ch6. New vehicle (scroll), new interpretation ("A Chen does not fail" reframed), Thomas's version as the incomplete public record.
