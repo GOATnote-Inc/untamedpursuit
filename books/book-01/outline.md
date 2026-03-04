@@ -469,3 +469,55 @@
 - The grandfather clock at nine — earlier than other chapters' strikes (midnight, three, one)
 - George at the threshold — nose toward the hallway, guarding what is within
 - The pen behind the wall while the new partnership finds its name
+
+---
+
+## Chapter 11: The Reach
+
+- **POV**: Clara Chen
+- **Location**: Clara's townhouse — Thomas's office
+- **Time**: Morning after Ch10, Autumn 1846
+- **Word count target**: 2,800–3,200
+
+### Scene Beats
+
+1. **Dawn Arrival** (~400 words): Clara arrives at Thomas's office before sunrise, fully rearmed — leather coat, holsters, Colts, sword cane. The morning-after contrast with last night's wine-colored dress. Thomas is rested (unusual — he slept after the dinner instead of working through the night). Fresh cravat, no new ink stains. The Baltimore courier envelope is sealed and ready. Coffee, not tea. The routine is intact. Clara carries something new into the room — Samuel's hand, his name, the mountains in their mist.
+
+2. **Thomas's Legal Work** (~750 words): Thomas presents the legal complaints for three ports. The labor-fraud angle: trafficking victims listed as hired dock workers on legitimate payroll records — civil fraud, actionable in three states. Model complaints as templates for local attorneys. The brilliance of the civil approach (harder to corrupt than criminal prosecution). Clara reviews and approves with three adjustments. Thomas observes: "The chrysanthemums lasted through the night." Then: "Mr. Taylor has good taste. In art." Clara hears professional observations; the reader, on re-read, hears a man cataloguing the evidence of what happened after he left. Thomas calls himself indispensable in Clara's thoughts — the word that will prove wrong. Operational review: Marsh cooperating, activation sequence for three-port legal campaign.
+
+3. **Harper's News** (~600 words): Harper arrives from the docks. Wallace has filed harbor complaints against three of Clara's ships — the Meridian, the Cathay, and the Osprey — using the inspection schedule Thomas drafted. Ships held at dock until inspection. The Osprey carries hidden compartments below the waterline: the physical infrastructure of Clara's coastal rescue network (supplies, documents, blankets for passages). Clara built the specifications herself, tested the seals, sat in the compartments to understand the experience. If found: her dual life collapses.
+
+4. **The Solution** (~700 words): Clara at the window, Thomas at the maps. They identify the geography: Clara's docks under scrutiny, Samuel's dock section adjacent, his workers trusted. Thomas can delay inspections five days through procedural counter-complaints. But the Osprey must be emptied. Clara must bring Samuel into the deepest layer — the ships, the compartments, the passages. "You need his dock section." "I need him to understand what the ships carry." Thomas: "Then show him." Pen resumes. Clara watches Thomas work — the friend who would not leave.
+
+5. **Departure** (~350 words): Clara passes the closed dining room door (last night behind it). Courtyard — training prints, no practice today. Turns back to see Thomas at the desk, pen moving. "The dinner was well done." / "The egret sends its regards." Clara walks into autumn morning carrying the Wallace counterstrike to Samuel. Grandfather clock strikes seven — same hour Samuel arrived last night.
+
+### Threads Advanced
+
+- Anti-trafficking campaign (legal complaints drafted for three ports using labor-fraud angle; Wallace counter-attacks through harbor commission complaints; Clara's fleet exposed)
+- Thomas Arlington's jealousy seeds (chrysanthemums observation, "good taste" qualifier, pen set down at pivotal moment, "Then show him," "the friend who would not leave")
+- Clara-Samuel courtship (Clara preparing to reveal the Osprey — her deepest operational secret — to Samuel)
+
+### Threads Introduced
+
+- Clara's fleet named (the Meridian, the Cathay, the Osprey)
+- The Osprey's hidden compartments (passage infrastructure for Clara's coastal rescue network)
+- Wallace's commercial warfare (harbor complaints through shell firm, legal instruments instead of violence)
+- Ashford and Crane (Wallace's newly registered shell firm)
+
+### Key Character Moments
+
+- Clara rearmed — leather coat, Colts, sword cane. The contrast with last night's disarmament is the morning's first statement
+- Thomas slept the night of the dinner — unusual, noted by Clara through his appearance
+- Coffee not tea — the morning's war footing
+- The labor-fraud angle — Thomas's genius for finding the civilian weapon in a military problem
+- "The chrysanthemums lasted through the night" — Thomas cataloguing the dining room's evidence
+- "Good taste. In art." — the pause between sentence and qualifier
+- Clara thinks "indispensable" — the word that will prove wrong
+- Wallace turning the inspection schedule against Clara — the weapon's designer must now build the defense
+- The Osprey's compartments — Clara built the specifications, tested the seals, sat in darkness to understand
+- Thomas sets down his pen for the first time during a working session — the gravity of "You need his dock section"
+- "Then show him" — professional advice that is also an accounting of what Thomas is losing
+- "The friend who would not leave" — Clara's certainty, the reader's knowledge
+- The closed dining room door — last night held behind it, not yet revisited
+- "The egret sends its regards" — Thomas's humor intact, the callback connecting this morning to last night's dinner
+- The grandfather clock at seven — mirroring Samuel's arrival hour, marking the morning after

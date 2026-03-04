@@ -28,7 +28,7 @@
 
 | Book | Title | Era | Setting | Status |
 |---|---|---|---|---|
-| 1 | Fortune's Tide | Era 1 | Philadelphia, ~1846 | Drafting — 10 of 10 chapters outlined |
+| 1 | Fortune's Tide | Era 1 | Philadelphia, ~1846 | Drafting — 11 of 11 chapters outlined |
 | 2 | *(TBD)* | Era 1 | The Voyage West | Planned |
 | 3–4 | *(TBD)* | Era 1 | Building the Network | Planned |
 | 5–9 | *(TBD)* | Era 2 | FIERCE — Eve's Story | Planned |
@@ -51,8 +51,9 @@ The series is free to read. Start here:
 | 8 | [The Boundary](books/book-01/chapters/ch-08.md) | Clara Chen | 3,111 |
 | 9 | [The Reckoning](books/book-01/chapters/ch-09.md) | Clara Chen | 3,297 |
 | 10 | [The Good Silver](books/book-01/chapters/ch-10.md) | Samuel Taylor | 3,188 |
+| 11 | [The Reach](books/book-01/chapters/ch-11.md) | Clara Chen | 2,941 |
 
-*Book 1: ~30,120 words drafted* · *Series total: ~30,120 words*
+*Book 1: ~33,060 words drafted* · *Series total: ~33,060 words*
 <!-- PROGRESS:END -->
 
 ### Themes

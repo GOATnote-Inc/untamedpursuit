@@ -800,3 +800,67 @@
 - Courtship arc: Fully earned progression. Dinner → first-name threshold → hand across the table.
 - George: Consistent. Settled acceptance, threshold post at end.
 - Father thread: Advances without repeating Ch6. New vehicle (scroll), new interpretation ("A Chen does not fail" reframed), Thomas's version as the incomplete public record.
+
+---
+
+# Chapter 11 — The Reach
+
+## New Facts Introduced
+
+- ch-11: Clara's fleet includes three named ships: the Meridian, the Cathay, and the Osprey — added to bible? yes
+- ch-11: The Osprey carries hidden compartments below the waterline — built into the hull's framing, concealed beneath ballast stone. Used for passage: medical supplies, clothing, forged documents, blankets. Moves people from Baltimore to Boston via Philadelphia. Clara designed the specifications, tested the seals, sat in the forward compartment to understand the experience — added to bible? yes
+- ch-11: Thomas's legal strategy: labor-fraud angle — trafficking victims listed as hired dock workers on legitimate payroll records, constituting civil fraud under PA/MA/NY labor statutes. Civil suits harder to corrupt than criminal prosecution — added to bible? skip — operational detail
+- ch-11: Ashford and Crane — Wallace's shell firm, registered six weeks ago, address on Walnut Street purchased through Wallace's agents. Used to file harbor complaints — added to bible? yes
+- ch-11: Wallace filed harbor complaints against the Meridian, Cathay, and Osprey — alleging undeclared cargo and inspection schedule violations. Three-day compliance window — added to bible? yes
+- ch-11: Thomas wrote a maritime inspector affidavit requirement into the inspection protocol — a safeguard against abuse that he now uses as the basis for counter-complaints — added to bible? skip — legal detail
+- ch-11: Clara's Quaker abolition network contacts in New York — added to bible? skip — mentioned in passing
+- ch-11: Clara uses coffee for war-planning mornings, tea for afternoon meetings — added to bible? skip — minor habit
+- ch-11: Thomas slept the night of the dinner (instead of working through the night) — noted by Clara through his appearance — added to bible? skip — scene-specific behavior, supports dual-frequency
+- ch-11: Clara thinks of Thomas as "indispensable" — echoes Ch2's "the machinery she trusted most" — added to bible? skip — thematic/narrative beat
+
+## Outline Deviations
+
+- ch-11: No outline existed for Ch11 prior to drafting. No source material directly depicts a Wallace commercial counter-attack. The harbor complaints plot is entirely original — designed to escalate Wallace from physical violence (Ch8) to legal/commercial warfare, and to force Clara to reveal the Osprey's compartments to Samuel.
+- ch-11: The Osprey's hidden compartments are invented — no source mentions Clara's ships having passage infrastructure. This is a logical extension of her established coastal network (Baltimore and Boston contacts, Ch6/Ch9) and her proxy ownership strategy (bible).
+- ch-11: Ship names (Meridian, Cathay, Osprey) are invented. "Cathay" connects to Clara's Chinese heritage. "Osprey" — a fishing hawk — connects to the ship's dual nature (commerce above the waterline, rescue below).
+- ch-11: The "chrysanthemums lasted" observation is invented as a dual-frequency seed. Thomas passing through the dining room the morning after the dinner, cataloguing what remained.
+
+## Continuity Flags
+
+- ch-11: Clara's armament — full rearming: leather coat, holsters, Colts, sword cane. Progressive disarmament pattern continues: Ch1 (full combat) → Ch3 (silk, sword cane) → Ch4 (gown, unarmed) → Ch5 (rearmed) → Ch6 (silk under leather) → Ch7 (practice clothes) → Ch8 (full combat) → Ch9 (unarmed) → Ch10 (dinner dress) → Ch11 (rearmed). Matches Ch5 pattern: rearming after intimacy. — resolved? yes, pattern consistent
+- ch-11: Thomas slept after the dinner — first time in the series Thomas is described as having slept instead of working through the night. Previous chapters: Ch2 (working at midnight), Ch5 (never stopped working), Ch8 (working when Clara arrives post-battle), Ch9 (not slept). Ch11's sleep is the anomaly. — resolved? yes, intentional dual-frequency
+- ch-11: Coffee vs. tea — Clara's coffee/tea distinction is new but not contradicted. Ch3 established ginger tea for the Chestnut Street parlor meeting with Samuel. Ch2 and Ch5 morning sessions with Thomas don't specify the beverage. — resolved? yes, non-contradictory addition
+- ch-11: Baltimore courier — Thomas said at Ch10's dinner "The courier leaves for Baltimore at nine tomorrow." Ch11's sealed envelope on the desk corner is consistent. — resolved? yes, direct continuity from Ch10
+- ch-11: George greeting pattern — not described as greeting Clara this chapter (she enters the office; George goes to the hearth). Consistent with George's behavior in Clara's own home vs. greeting visitors. — resolved? yes, non-issue
+- ch-11: "Indispensable" — Clara thinks this word about Thomas. In Ch2, she thought of him as "the machinery she trusted most" and internally used "indispensable." The word carries dramatic irony: Thomas's arc is discovering he is dispensable. — resolved? yes, intentional thematic echo
+- ch-11: Boundary raid was "five nights ago" — Harper's footsteps pass the water pump "where Samuel had washed blood from his hands five nights ago." Timeline: Ch8 (Boundary raid, night) → Ch9 (next morning) → Ch10 (same evening, dinner) → Ch11 (next morning). That's approximately 2 days, not 5. — resolved? yes, FIXED to "two nights ago"
+- ch-11: Thomas tracking the Osprey's berth on his harbor maps — Clara notices a notation she hadn't seen before. Consistent with Thomas tracking all of Clara's holdings (established Ch2, Ch5). — resolved? yes
+- ch-11: Grandfather clock strikes seven — running tally: midnight (Ch2), three (Ch8), one (Ch9), nine (Ch10), seven (Ch11). The seven o'clock strike mirrors Samuel's arrival hour from Ch10. — resolved? yes, pattern consistent
+- ch-11: Thomas dual-frequency seeds: running total update. New seeds in Ch11: (1) Thomas slept — unusual; chose not to sit at the desk after the dinner. (2) "Chrysanthemums lasted through the night" — cataloguing the dining room's evidence. (3) "Good taste. In art." — the pause between sentence and qualifier. (4) Pen set down for the first time during a working session — at the moment of "You need his dock section." (5) "Then show him" — professional counsel that is also surrender of exclusive access. (6) "The friend who would not leave" — Clara's certainty, the reader's dramatic irony. Total seeds across Ch1-11: Ch2 (5), Ch4 (1), Ch5 (5), Ch6 (5), Ch7 (7), Ch8 (8), Ch9 (6), Ch10 (8), Ch11 (6) = 51 total.
+- ch-11: Progressive disarmament: Ch11 = full rearming (leather coat, holsters, Colts, sword cane). Pattern: intimacy followed by rearming (Ch4 unarmed → Ch5 rearmed; Ch10 dinner dress → Ch11 rearmed). The courtship's emotional openness and the operational reality require opposite postures. — resolved? yes, pattern consistent
+- ch-11: "Five days shorter" timeline error — originally wrote "The two-week window before Wallace rebuilt was five days shorter now." This contradicts "two nights ago" in the same chapter. Fixed to "two days shorter now." — resolved? yes, FIXED
+
+## Subagent Review Log — Chapter 11
+
+**Style reviewer**: 3 CRITICAL, 6 MODERATE, 7 MINOR. Applied 22 fixes total.
+- CRITICAL: "machinery she trusted most" (line 167) → "man she trusted most" (Ch9 echo); "machinery she relied on" (line 181) → "man she relied on" (same); Samuel's workers' motivations asserted as fact → reframed through Clara's observation ("loyalty that did not look compelled")
+- MODERATE: George "catalogued" → "learned"; Harper's understanding explanation trimmed; civil-court tell-after-show opener cut; "indispensable" declaration compressed; "particular quality of" reduced from 3x to 1x; second "silver at his temples" cut
+- MINOR: "He did not need to explain what it meant" cut (redundant); "Four years. A thousand mornings" near-duplicate with line 75 cut from line 169
+
+**Continuity checker**: 1 CONTRADICTION, 1 ADVISORY. Applied 1 fix.
+- CONTRADICTION: "five days shorter now" → "two days shorter now" (timeline math)
+- ADVISORY: "twelve hours ago" (line 193) — defensible at ~10-12 hours; left as Clara's approximate reckoning
+
+**Historian**: 5 MUST-FIX anachronisms, 3 QUESTIONABLE. Applied 10 fixes.
+- "infrastructure" → "apparatus" (banned list, 1875+)
+- "network" (organizational sense, x4) → "work" (x2), "circles" (x1), "cause" (x1)
+- "activation sequence" → "order of approach" (1902+)
+- "operational review" → "remaining business" (1880s+)
+- "shell firms/firm" → "front firms/firm" (frontmatter only; prose was clean)
+- "templates" → "forms" (abstract sense is 20th century)
+- "procedural challenges" → "challenges of form"; "procedural objections" → "objections"; "procedural arguments" → "legal arguments"
+- DEFENSIBLE (left): "architecture" (figurative, attested 1600s), "complementary" (attested 1794), "harbor commission" (established series usage)
+
+**Character analyst**: All 6 dual-frequency Thomas seeds PASS. Clara voice CONSISTENT across all five markers (measured assessment, sensory grounding, strategic thinking, generous interpretation of Thomas, controlled emotional processing). Harper CONSISTENT with profile. George CONSISTENT. Courtship arc fully earned through 10-chapter progression. No fixes required.
+
+Word count: 3,032 → 2,941 (net -91 words from cuts)
