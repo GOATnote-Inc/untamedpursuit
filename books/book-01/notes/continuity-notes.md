@@ -74,9 +74,9 @@
 - ch-01: Children count: resolved to two girls, matching source material dialogue. — resolved? yes
 - ch-01: Colt Patersons were five-shot revolvers. Changed "six shots, six bullseyes" to "five shots, five bullseyes." — resolved? yes
 - ch-01: George's "hold" command changed from verbal to hand signal (raised open palm) to match bible's "no verbal commands" protocol. — resolved? yes
-- ch-01: "Continental Shepherd" as a breed name is anachronistic (~1880s). Bible establishes it as canonical. Historian flagged for author awareness. — resolved? no, deferred to author
-- ch-01: Japanese martial arts training in 1846 — Japan was under sakoku until 1853. Bible establishes this through "family trading connections" (plausible via Dutch Dejima channel). — resolved? no, deferred to author
-- ch-01: Clara's leather coat — unusual for 1840s women's fashion. Bible establishes as canonical. Historian flagged for author awareness. — resolved? no, deferred to author
+- ch-01: "Continental Shepherd" as a breed name is anachronistic (~1880s). — resolved? yes — replaced with Newfoundland cross with continental European stock (Swiss Metzgerhund/Sennenhund). No established breed name in 1846; characters refer to George descriptively. Marked `[deliberate anachronism]` in bible. Prose in ch-01 updated.
+- ch-01: Japanese martial arts training in 1846 — Japan was under sakoku until 1853. — resolved? yes — replaced with Chen family martial art: Southern Chinese tradition (Chin Na, Shuai Jiao, Fujian White Crane) with Japanese influences absorbed through the family's generations in the Nagasaki Tojin Yashiki Chinese merchant compound. Historically grounded channel. Bible and all chapter prose updated.
+- ch-01: Clara's leather coat — unusual for 1840s women's fashion. — resolved? yes — confirmed as canonical with origin note added to bible. London-tailored commission for weapon concealment and protection. Defensible through military buff-coat tradition, bespoke tailoring, and maritime context. Marked `[deliberate anachronism]` in bible. No prose changes needed.
 - ch-02: George does not receive verbal commands in Ch2 — consistent with bible's hand-signal protocol and Ch1 fix. He rises and follows Clara without being told. — resolved? yes
 - ch-02: Clara is gloveless in Ch2 (removed blood-spotted gloves in carriage during Ch1) — consistent with Ch1 ending. — resolved? yes
 - ch-02: Thomas uses Clara's first name throughout — consistent with bible (familiar, not "Miss Chen"). — resolved? yes
@@ -116,7 +116,7 @@
 - "Perimeter" → "wider darkness"
 - "Sight lines" → "lines of sight"
 - "Tea house" → "parlor"
-- Continental Shepherd, Japanese techniques, leather coat: deferred to author (bible canon)
+- Continental Shepherd, Japanese techniques, leather coat: resolved — see entries at lines 77–79
 
 ### Character Analyst
 - Clara: Strong. Fatal flaw (control) planted subtly. Save the Cat effective. Physical awareness beat added post-fight.
@@ -194,7 +194,7 @@
 - "Surveillance" → "observation"
 - "Holding companies" → "private companies" / "companies"
 - "Top five percent" → "Among the wealthiest" (modern percentile framing)
-- Continental Shepherd, Japanese techniques, leather coat: deferred to author (bible canon, per Ch1)
+- Continental Shepherd, Japanese techniques, leather coat: resolved — see entries at lines 77–79
 
 ### Character Analyst
 - Clara: Consistent voice with Ch1–Ch2. Dawn practice establishes physical discipline. Tea scene shows controlled vulnerability — calculated disclosure that carries unexpected emotional weight. Departure warmth earned.
@@ -477,7 +477,7 @@
 - ch-07: Thomas and Samuel meet for the first time — Thomas greets Samuel in his office, shakes hands, makes a joke about Clara mentioning him, compliments exchanged on the Wallace report — added to bible? yes
 - ch-07: Thomas described: early thirties, silver at temples, sharp-featured, ink on both hands, boyish grin — consistent with Ch2 and Ch5 — added to bible? yes
 - ch-07: Clara in practice clothes — dark linen trousers tucked into low boots, cotton shirt with sleeves rolled, hair pulled back and tied. Most physically unguarded version of Clara seen in the series. — added to bible? skip — scene-specific clothing
-- ch-07: Clara's martial arts described as Japanese, learned through family trading connections (Canton, Nagasaki, Philadelphia). Principle: yielding to redirect force. — consistent with bible (Clara trained in Japanese martial arts through family connections) — added to bible? already there
+- ch-07: Clara's martial arts described as family tradition learned through Canton–Nagasaki trading connections. Principle: yielding to redirect force. — consistent with bible (Chen family martial art) — added to bible? already there
 - ch-07: Samuel has trained in English boxing for six years with a weapons master — added to bible? yes
 - ch-07: Clara puts Samuel on the ground three times in three minutes using different techniques (entry, wrist lock, sweep) — added to bible? skip — scene action
 - ch-07: Samuel begins learning Clara's yielding principle and achieves a successful redirect (pivot behind her) — added to bible? skip — scene action
@@ -500,7 +500,7 @@
 - ch-07: Thomas's office consistent with Ch2 and Ch5 — mahogany desk, maps, ledgers, Persian rugs, fire in grate, grandfather clock. PASS.
 - ch-07: Thomas's appearance — silver at temples, sharp eyes, shirtsleeves, ink on hands — consistent with Ch2 and Ch5 descriptions. PASS.
 - ch-07: Samuel's boxing training — established in Ch3 (Thomas's dossier: "trains nightly with a weapons master"). Ch7 renders this as six years of English boxing. Not contradicted — bible says "boxing-trained" and "trains nightly with weapons master." The six-year detail is new but consistent. — resolved? yes
-- ch-07: Clara's martial arts — bible says "Japanese martial arts through family trading connections." Ch7 elaborates: the principle of yielding to redirect force, learned through Canton-Nagasaki-Philadelphia trade routes. Consistent with Ch6's "Canton, Japan, Philadelphia" trading connections. — resolved? yes, consistent
+- ch-07: Clara's martial arts — bible says Chen family martial art (Southern Chinese with Japanese influences, Canton–Nagasaki corridor). Ch7 elaborates: the principle of yielding to redirect force, learned through Canton-Nagasaki-Philadelphia trade routes. Consistent with Ch6's "Canton, Japan, Philadelphia" trading connections. — resolved? yes, consistent
 - ch-07: "Miss Chen" / "Mr. Taylor" formality maintained in direct address. Neither uses the other's first name in Ch7 — appropriate for the training context (professional, physical, not yet intimate enough for first names in person). — resolved? yes, formality tracks courtship
 - ch-07: George greets Samuel at the front steps and leads him through the house — consistent with George's established behavior toward Samuel (Ch4: head in lap, Ch6: muzzle greeting). George has decided Samuel belongs. PASS.
 - ch-07: Clara's sword cane present in the courtyard (leaning against the weapons rack) — she has it but is not using it during training with Samuel. Consistent with her progressive disarmament pattern. PASS.
@@ -540,7 +540,7 @@
 - QUESTIONABLE fixed: "Clay targets" (1880 invention) → "Clay pots."
 - All other vocabulary clean — no previously flagged anachronisms appear ("dossier," "briefing," "infrastructure," "debrief," "network," "asset," "strategic," "design philosophy" all absent).
 - Material culture: All items period-accurate (Colts, sword cane, wooden practice blades, Persian rugs, mahogany desk, clay pitcher, beeswax, linen towels).
-- Martial arts history: Japanese martial arts via Canton-Nagasaki trade route is defensible. Jujutsu techniques described (joint locks, sweeps, redirection) match real koryu traditions. Water metaphor blends Chinese and Japanese martial philosophy — defensible given Clara's mixed heritage.
+- Martial arts history: Chen family art via Canton–Nagasaki trade corridor is historically grounded. Techniques described (joint locks, sweeps, redirection) match Southern Chinese Chin Na and Shuai Jiao traditions with Japanese cross-influences documented through the Tojin Yashiki Chinese merchant compound. Water metaphor blends Chinese and Japanese martial philosophy — defensible given Clara's mixed heritage.
 - English boxing: Stance, training, terminology all accurate for 1840s bare-knuckle boxing.
 - Philadelphia geography: Spruce Street as wealthy residential address — ACCURATE. Corner lot for prominent residence — ACCURATE.
 - Architecture: Red brick with white shutters, three stories, green-painted door, walled courtyard — all quintessential 1846 Philadelphia.
@@ -630,3 +630,88 @@
 - George: PASS. Fully consistent across 8 chapters. "Guarded, not fought" — best George moment in Ch8; role evolution from Ch1 (active combatant) to Ch8 (defensive guardian).
 - Courtship arc: Earned. Logical progression through 8 chapters. "We are going to need each other" arrives from evidence (shared combat, seven ships), not sentiment.
 - Closing handshake echo: Works on four levels — physical (bruised knuckles evolving from received to given), structural (Samuel extends, Clara accepts), content (from promise to evidence), and dual-frequency (Thomas included as "the man at his desk inside").
+
+---
+
+# Chapter 9 — The Reckoning
+
+## New Facts Introduced
+
+- ch-09: Clara slept three hours between the Ch8 battle (3 AM) and dawn — added to bible? skip — scene-specific detail
+- ch-09: The captured clerk's name is Edward Marsh — accountant, not a fighter; kept Wallace's secondary books — added to bible? yes
+- ch-09: Marsh surrendered intelligence: Haverford (Baltimore shipping agent arranging manifest alterations), unnamed warehouse operator near the East River wharves south of Fulton Market (New York), harbor official in Boston ensuring clean inspections — added to bible? yes
+- ch-09: Wallace's trafficking circuit runs Baltimore → New York → Boston → Philadelphia, human cargo disguised as dock laborers in crew rosters on return legs; earliest manifest dated three years ago — added to bible? yes
+- ch-09: Wallace does not run the ships himself — he owns the routes; captains are contracted, agents paid, Marsh kept the books; Wallace's hands never touch the cargo — added to bible? yes
+- ch-09: Harper's wounded man is named Nolan — approximately twenty-five, dock worker's hands; wife and two children on Seventh Street — added to bible? skip — minor character
+- ch-09: Knife wound between Nolan's fourth and fifth ribs — muscle, not organ; stitched by lantern light — added to bible? skip — scene-specific medical detail
+- ch-09: Harper's quarters are above the garden gate — a room Clara furnished years ago for a man who refused to live more than fifty yards from her door — added to bible? yes
+- ch-09: Clara has agents in Baltimore and Boston who have been watching trafficking patterns since before the Mercy Jane — first time the extent of her coastal network is revealed to Samuel — added to bible? yes
+- ch-09: Samuel's commercial relationship with Haverford — handled cotton shipments through Baltimore twice — added to bible? skip — plot detail
+- ch-09: Samuel has a shipping agent in New York familiar with the East River warehouse section — added to bible? skip — plot detail
+- ch-09: Thomas estimates a two-week window before Wallace rebuilds his Philadelphia waterfront presence — added to bible? skip — plot timeline
+- ch-09: Clara invites Samuel to dinner at her townhouse — seven o'clock — the first time she has ever invited a man to dine at her home; Thomas notes this explicitly — added to bible? yes
+- ch-09: Thomas has managed Clara's social calendar for years, including declining suitors — already in bible from Ch2 — added to bible? already there
+- ch-09: Dinner will be set for three — Clara, Samuel, Thomas; the good silver — added to bible? skip — scene logistics
+
+## Outline Deviations
+
+- ch-09: No outline existed for Ch9 prior to drafting. Chapter developed as aftermath of Ch8's battle, drawing from Fix_beginning_follow_up_from_Clara.md (Thomas analyzing Samuel, the "sits at our table" dynamic) and the logical consequences of the captured seven-ship intelligence.
+- ch-09: The Latin motto "Homo sum, humani nihil a me alienum puto" was considered for Ch9 but held — still reserved for a bigger moment. The chapter is about strategic reckoning, not philosophical declaration.
+- ch-09: The three-way working scene (Clara, Thomas, Samuel) is new — no source material depicts this configuration. Previous scenes kept Thomas separate from Clara-Samuel interactions. Ch9 merges them for the first time, creating the conditions for Thomas's deeper assessment of their partnership.
+- ch-09: Samuel's commercial shipping knowledge filling intelligence gaps is new — derived from his established profile (top 5% wealth, shipping/warehouse business, dock operations) but not present in any source material.
+- ch-09: Harper's wounded man named "Nolan" with wife and two children on Seventh Street — not in source material. Added to give Harper a personal depth moment (character analyst flagged need for this before his death scene).
+
+## Continuity Flags
+
+- ch-09: Clara's right wrist aches from "too many Colt discharges in three minutes" — consistent with Ch8's fight but new detail about physical cost. Not previously established as recurring injury. — resolved? yes, new, non-contradictory
+- ch-09: Thomas has not slept — consistent with Ch8's ending (pen moving at 3 AM over captured manifests). Three hours between Ch8's ending and Clara's dawn arrival; Thomas working continuously. — resolved? yes, consistent
+- ch-09: Edward Marsh as clerk's name — the Ch8 clerk was unnamed. "Marsh" is a new designation. No contradiction. — resolved? yes, new fact
+- ch-09: Haverford as Baltimore contact — Samuel says he dealt with him twice for cotton shipments. This is consistent with Samuel's shipping business and the Baltimore route in Wallace's circuit. — resolved? yes, consistent
+- ch-09: Clara's coastal network (Baltimore and Boston agents) — first time revealed to Samuel. Previous chapters (Ch2-3) established Clara's funding of harbor patrols and schools in multiple wards but did not specify agents in other cities. This is an expansion, not a contradiction. — resolved? yes, expansion of established scope
+- ch-09: "Miss Chen" / "Mr. Taylor" / "Mr. Arlington" formality maintained throughout. No first-name slippage in direct address between Clara and Samuel. Thomas uses Clara's first name. — resolved? yes, consistent
+- ch-09: The dinner invitation — Thomas says "You have never invited anyone to dinner here." This establishes a new fact about Clara's social habits. Consistent with Thomas managing her social calendar and deflecting suitors (Ch2 bible note). — resolved? yes, consistent
+- ch-09: Thomas dual-frequency seed count: 6 new seeds in Ch9. Running total across Ch1-9: Ch2 (5), Ch4 (1), Ch5 (5), Ch6 (5), Ch7 (7), Ch8 (8), Ch9 (6) = 37 total. Seeds: (1) Sleepless night at the desk — dedication or compulsive need to remain central. (2) "Sit" — directive to Clara in his space, the host of the information. (3) Watches Clara and Samuel's synergy at his desk — admiration or assessment of what he is losing. (4) "Positioning... the marksmen were adequate. The positioning was excellent." — wit that claims credit (his positioning). (5) Thomas's brief pause before the dinner teasing — warmth or the first chill. (6) "You have never invited anyone to dinner here" — observation or accounting of what is new and therefore threatening.
+- ch-09: "Homo sum" Latin motto still NOT used — reserved for bigger moment. — resolved? yes, held per plan
+- ch-09: Grandfather clock strikes one (Clara goes to prepare) — previous strikes: midnight (Ch2), three (Ch8). The clock continues to mark transitions. — resolved? yes, pattern consistent
+- ch-09: Harper timeline — sat with Nolan since the fight (3 AM), left at first light to walk the waterfront, returned before Clara's visit. Clarified in revision to avoid ambiguity. — resolved? yes
+
+---
+
+## Chapter 9 — Subagent Review Log
+
+### Style Reviewer
+- POV: Three CRITICAL breaches fixed. (1) Thomas's "the work had consumed everything else" — stated internal state; rewritten to "she associated with the nights when nothing existed for him but the page." (2) Thomas's "the question he was asking without words — how much to reveal, how far to open the apparatus" — stated Thomas's exact internal question; rewritten to "the look she knew — his way of asking, without words, how far to go." (3) Samuel's "still processing what he had done and what it meant" — "processing" is both POV-break and anachronism; rewritten to "still reckoning with what the darkness had asked of him."
+- POV MODERATE (3 of 5 fixed): (1) George "understood that certain stillnesses" → "patient as only he could be when his person was thinking." (2) Nolan's "the particular steadiness of someone who had chosen this work knowing what it asked" → "what she read in them: the quiet steadiness of someone who understood the work and had chosen it anyway." (3) Samuel "She saw him register what she was offering" → "She watched his expression shift — something settling behind his eyes as the offer reached him." Two MODERATE findings (Thomas's "professional satisfaction contained" and Harper's "weight of" voice) left as defensible.
+- "a man who" construction: Reduced from 8 to 3 instances (kept Wallace, Samuel at emotional peak, Thomas at close). Five replaced with varied constructions.
+- "held" verb: Reduced from 8 to 3 instances (kept Thomas eyes → rewritten, courtyard quiet, Wallace picture). Five replaced with "bore," "ached with," "drawn pale," "wore," "lay in."
+- "particular": Reduced from 3 to 0 in prose. Replaced with "stale warmth," "drawn pale," "quiet steadiness."
+- "carried" / "carrying": Reduced from 5 to 2 (kept Thomas warmth, Thomas teasing). Three replaced with "were clean," "ached with," "wore."
+- Thomas pen: Reduced from 4 to 2 (cut "pen was in his hand" at line 152, cut "pen found the page" at close; kept debrief pen and "pen resume its rhythm").
+- Near-duplicates from Ch7/8: 8 addressed. (1) "looked like what he was: a man who had fought" → "the night's work was written on him." (2) "silver at his temples caught the lamplight" → replaced with "ink on both hands" detail. (3) Thomas footsteps → replaced with "the chair creak and the scratch of the pen resuming." (4) George muzzle-press → varied to "nosing his wrist once — the greeting abbreviated now, familiar." (5) "packed earth holding" palimpsest → rewritten as "marked twice over" with different syntax. (6) "machinery" kept x2 (well-separated, both earned). (7) "Chestnut Street parlor" → cut one of two references ("that first tea" instead). (8) Thomas pen count reduced per above.
+- Tell-after-show: 2 fixed. (1) "Clara recognized the principle" cut. (2) "Then it was a question about willingness. Now it was a question about readiness" cut.
+- Pacing: Thomas briefing accepted at current length (necessary exposition). Nolan scene accepted — brief by design.
+
+### Continuity Checker
+- CLEAN PASS. Zero contradictions, zero inconsistencies.
+- All character facts, physical spaces, timeline, knowledge consistency, relationship dynamics, and George behavior verified against bible and Ch1-8.
+- Harper timeline clarified in revision (sat with Nolan from fight to dawn, walked docks at first light, returned before Clara's visit).
+- George: zero verbal commands throughout Ch9. All autonomous behavior. Fully compliant with hand-signal protocol.
+- New facts (Marsh, Haverford, circuit, Harper's quarters, dinner invitation) all non-contradictory.
+- Progressive disarmament pattern continues: Clara does not draw her blade, does not practice. For the dinner invitation she is unarmed.
+
+### Historian
+- ANACHRONISM fixes applied (3): "debriefs" → "councils" (line 230). "processing" → "reckoning with" (line 126). "surveil" → "watch" (line 174).
+- QUESTIONABLE fixes applied (5): "analytical grid" → cut, kept "the system." "leveraged" → "brought to bear." "activated" → "set to watch." "continuing source" → "continuing witness." "network" in prose → "everything she had built."
+- YAML fixes applied: "synergy" → "partnership." "strategic session" → "planning council."
+- Material culture, geography (Pratt Street, Fulton Market, Seventh Street, Callowhill), medical details, shipping/customs framework — all rated ACCURATE.
+- Social customs: Dinner invitation handled with appropriate period gravity. Thomas as third party provides defensible chaperoning.
+- Added to series anachronism tracking list: "debriefs" (regression), "processing" (psychological), "surveil" (back-formation), "leveraged" (verb), "activated" (espionage), "analytical grid" (modern compound), "source" (espionage).
+
+### Character Analyst
+- Thomas dual-frequency: 20 seeds identified. 17 PASS, 3 CAUTION, 0 FAIL. Strongest: Seed 11 ("a conversation between two"), Seed 13 ("the machinery she trusted most"), Seed 15 (pen resumes before she reaches hallway), Seed 19 ("The machinery she relied on. The friend she loved."). CAUTION seeds 5, 16, 18 all defensible — Seeds 16 and 18 cluster within 10 lines but are insulated by Clara's narration providing benign interpretations.
+- Clara voice: STRONG consistency with Ch1-8. Sensory grounding, measured assessment, controlled openness, grace masking capability — all present. Speech patterns match bible.
+- Samuel voice: Consistent with profile and Ch1-8. Candid, comfortable with silence, physically present, emotionally honest. "I would be honored" noted as slightly formal but defensible for the moment's gravity.
+- Harper: Strongest moment in the book. Overnight vigil with Nolan, pre-dawn waterfront walk, pre-dawn message to Nolan's family. Deferential register maintained ("Miss Chen"). Character analyst rates this scene as providing the personal depth needed before his death on the voyage west.
+- Courtship arc: Dinner invitation fully earned after 8 chapters of progression. Logical escalation from professional venues → public performance → private training → shared combat → private home.
+- George: Fully consistent, zero verbal commands, appropriate contextual responses. The abbreviated greeting ("nosing his wrist once — the greeting abbreviated now, familiar") shows relationship evolution.
+- Three-way working scene: Role differentiation clear and convincing. Thomas as analyst, Samuel as commercial expert, Clara as decision-maker. The power geometry (Clara integrating two complementary intelligences) creates the conditions for Thomas's jealousy without ever allowing it to surface.

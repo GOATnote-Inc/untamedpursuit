@@ -273,7 +273,7 @@
 
 2. **The Courtyard** (~350 words): Samuel enters the walled training yard. Weapons rack, Colts laid out, shattered clay targets. Clara in the center — practice clothes (dark linen trousers, cotton shirt, sleeves rolled). No coat, no silk, no holsters. The most unguarded Samuel has seen her. "You train nightly with a weapons master. I thought it was time we compared methods."
 
-3. **The Test** (~600 words): Samuel takes his boxing stance. Clara circles, studies, then moves — no telegraphing. She puts him on the ground three times in three minutes. Each from a different angle (entry, wrist lock, sweep). She fights like water. On the fourth attempt, Samuel stops trying to hit her. "The lesson is that I have been fighting against. You fight with." Clara teaches the principle: yielding to redirect force. Japanese martial arts through family trading connections.
+3. **The Test** (~600 words): Samuel takes his boxing stance. Clara circles, studies, then moves — no telegraphing. She puts him on the ground three times in three minutes. Each from a different angle (entry, wrist lock, sweep). She fights like water. On the fourth attempt, Samuel stops trying to hit her. "The lesson is that I have been fighting against. You fight with." Clara teaches the principle: yielding to redirect force. The Chen family martial art — learned from her father, rooted in Southern Chinese and Japanese traditions from the family's Canton–Nagasaki trading connections.
 
 4. **The Teaching** (~600 words): Clara corrects his form — hands on his body adjusting posture. Professional contact that carries emotional weight. Samuel learns to follow force, redirect, pivot. A moment of proximity after a successful redirect — her back against his chest. She steps through. Physical chemistry acknowledged through restraint, not declaration. George watches from the door. Samuel notes: one set of marks in the earth. His footprints beside hers are new.
 
@@ -359,3 +359,56 @@
 - "We are going to need each other" — Clara's most direct statement, offered where strategy ends
 - The closing handshake — echoing Ch3's parlor handshake, deepened by shared violence
 - The grandfather clock at three — Thomas working, Clara and Samuel joined, the boundary dissolved
+
+---
+
+## Chapter 9: The Reckoning
+
+- **POV**: Clara Chen
+- **Location**: Clara's townhouse — Thomas's office, Harper's quarters, the courtyard
+- **Time**: Morning after Ch8, Autumn 1846
+- **Word count target**: 2,800–3,500
+
+### Scene Beats
+
+1. **Dawn Without Practice** (~350 words): Clara in the courtyard at first light — awake from three hours' sleep. The packed earth holds training prints and combat boot marks, layered. She does not draw the blade. George beside her, unbothered. Her shoulders ache, her wrist protests. She goes to find Thomas.
+
+2. **The Seven Ships** (~700 words): Thomas has not slept. The captured documents are organized in his analytical grid — seven ships named, routes mapped, coded ledger decoded. The circuit: Baltimore → New York → Boston → Philadelphia, human cargo on return legs disguised as extra dock laborers in crew rosters. Three years of operation. The clerk (Edward Marsh) talked overnight from terror, not interrogation — Wallace sent him to a battle unarmed. Names surrendered: Haverford (Baltimore shipping agent), anonymous warehouse operator (New York), harbor official (Boston). Wallace's architecture: contracted captains, paid agents, distance as protection. Thomas estimates two weeks before Wallace rebuilds.
+
+3. **The Wounded** (~400 words): Clara visits Harper's quarters above the garden gate. His man Nolan: conscious, pale, knife wound between fourth and fifth ribs — muscle, not organ. Clara sits with him, thanks him. Harper reports: wife and two children on Seventh Street, word sent before dawn. The waterfront knows — twenty-three of Wallace's people met something unexpected. "They know it was you, Miss Chen. Not a rumor now. A certainty." Clara: "Let them know."
+
+4. **Three at the Table** (~800 words): The chapter's heart. Samuel arrives at midmorning — bruise along his jaw, split knuckles, careful shoulder. George greets him. Thomas greets him from the office door — warmth and assessment in one gesture. The three of them around Thomas's desk with the documents for the first time. Samuel recognizes contacts: Haverford handled his cotton shipments; the New York warehouse section is near his agent's territory. His commercial knowledge fills gaps Thomas's intelligence cannot reach. Thomas drafts the plan: legal complaints in three ports, Clara's Baltimore and Boston contacts activated for the remaining four, Samuel's commercial relationships as verification. Clara reveals her network's coastal reach — first time Samuel has seen the full scope. Samuel: "When do we begin?" Clara: "We have already begun."
+
+5. **The Courtyard** (~500 words): After Thomas returns to work, Clara walks Samuel out. Afternoon light, the water pump, the space where they stood at 3 AM. Samuel's shoulder — a club he did not redirect. His workers came to the warehouse early, unprompted. "That is why I build the way I build. When trouble arrives, the people you serve choose to come." Clara recognizes the shared principle — different methods, same architecture. "Dinner. Tonight. Here." Samuel accepts. His hand closes around hers — not a handshake. A hold.
+
+6. **Weather Change** (~300 words): Samuel departs. Thomas's voice from inside — teasing, warm: "Shall I arrange the dining room?" Clara: "The good silver. And you are joining us." Thomas: "You have never invited anyone to dinner here." Clara: "No. I have not." Thomas's expression returns to the grin. Whatever lived in the pause is gone, or stored, or never there at all. The grandfather clock strikes one. Clara goes to prepare for an evening she has never had before.
+
+### Threads Advanced
+
+- Anti-trafficking campaign (seven-ship fleet mapped: three routes targetable through legal channels, four requiring direct action; two-week window before Wallace rebuilds; Edward Marsh as continuing intelligence source)
+- Clara-Samuel courtship (from shared combat to shared strategy to dinner invitation — Clara's most unprecedented gesture)
+- Thomas Arlington's jealousy seeds (works all night, watches Clara-Samuel synergy at his desk, registers the dinner invitation as a first)
+
+### Threads Introduced
+
+- The captured clerk Edward Marsh as intelligence source (accountant, not criminal — talks from fear)
+- Wallace's coastal network mapped (Baltimore–New York–Boston–Philadelphia circuit; three years' operation)
+- Clara's network beyond Philadelphia revealed to Samuel (agents in Baltimore and Boston)
+- Harper's man Nolan wounded (wife and two children on Seventh Street — the personal cost)
+- The dinner invitation (Clara has never invited a man to dine at her house)
+
+### Key Character Moments
+
+- Clara skipping dawn practice — the first break in her physical ritual, measuring the night's cost
+- Thomas sleepless at the desk — dedication that doubles as need to remain central (dual-frequency)
+- Edward Marsh's terror — the accountant sent to a battlefield by his employer
+- Clara sitting with Nolan, touching his hand — "recognition of the instrument and gratitude for its service"
+- Harper: "His wife and two children. Seventh Street." — the security chief who knows his men as people
+- The three-way working scene — Thomas, Clara, Samuel as complementary intelligences for the first time
+- Samuel's commercial knowledge filling gaps Thomas cannot reach — a capability Thomas does not possess
+- Clara revealing her coastal network to Samuel — the picture is always larger than he thought
+- "When do we begin?" / "We have already begun." — echoing Ch6's exchange, heavier now
+- Samuel's workers coming to the warehouse unprompted — the shared principle of loyalty earned through care
+- The dinner invitation — not a handshake, not a holding. A home opened.
+- Thomas's pause before the teasing — the fraction of silence Clara hears but does not interpret
+- "You have never invited anyone to dinner here." — Thomas stating what Clara already knows, making it real
