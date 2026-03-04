@@ -927,3 +927,59 @@ Wallace has the report — four days. No new complaint, no authorities. Commerci
 - Clara and Samuel's eyes meeting across the pier — no gesture needed
 - "Some mornings, once they ended, did not come again" — Samuel's discovery at the pier
 - "Three days." — the final line, echoing the opening
+
+---
+
+## Chapter 19: Morning Tide
+
+- **POV**: Clara Chen (thirteenth Clara POV chapter)
+- **Location**: Clara's townhouse — the south wharf — aboard the Caroline — the Delaware River
+- **Time**: April 3, 1847 — dawn, morning tide
+- **Word count target**: 2,600–2,900
+
+### Scene Beats
+
+1. **Before Dawn** (~450 words): Clara moves through the townhouse in the dark. Stocking feet, boots in hand, leather coat over her arm. The garden room already given up. Thomas's office — the door open, the lamp burning, the desk cleared. The leather case gone. The chair pushed back. Thomas has gone to the dock without telling her, without waiting. Mrs. Aldridge at the door with Clara's case. Clara puts on the leather coat — holsters, blades, the full armament returning. George first through the door. The lock catches. She walks south toward the wharves.
+
+2. **Thomas at the Pier** (~550 words): Thomas at the end of the south wharf — apart from the loading, leather case under his arm, cataloguing every detail. Clara approaches. Thomas delivers last confirmations — correspondence schedule, commission filing, Callaghan. Clara stops him. A beat between two people and an ocean. "Go build something in the west, Clara. I'll hold the east." Clara sees her oldest friend: the sharp features, the ink, the mind she trusted with everything. "I have nothing left to give you that isn't already aboard." Clara touches his arm. Walks toward the gangway. Thomas does not follow.
+
+3. **The Company** (~500 words): Clara boards. The ship's motion beneath her feet. Harper and the captain on the quarterdeck. His men at stations. Samuel at the port rail watching the city — self-deprecating humor about salt pork. Lily emerging from below with Ajax and an easel case. Clara watches Lily — two years since the hold, steady on the deck, hand on a shroud line, learning the ship. George and Ajax regarding each other.
+
+4. **Casting Off** (~500 words): The captain calls the tide at six. Lines cast. The hull catches the current. Clara at the stern rail. Philadelphia separating — pier, warehouses, wharves, the forest of masts. Thomas on the pier, not moving. His fixed gaze — studying the departure like a document he intends to remember. Hands raised across widening water. Samuel joins her at the rail. The city diminishes. Thomas becomes a shape, then the pier is gone. Harper: "Open water by evening."
+
+5. **The Bow** (~250 words): Clara turns forward. The company settling — Harper's men, crew in the rigging, Lily sketching, Samuel at the stern. George at Clara's feet, attention on the sea ahead. The wind, the salt, the Pacific her father sailed. "Behind her, everything she had built. Ahead, everything she would." The Caroline bears her west.
+
+### Threads Advanced
+
+- Thomas Arlington's jealousy seeds (Thomas at the dock before Clara — needing to witness; "I'll hold the east"; the fixed gaze on the departing ship — studying, not mourning; Clara's complete trust — the blindspot)
+- Clara-Samuel courtship (standing at the rail without words; his humor about salt pork; the shared silence as the city disappears)
+- Anti-trafficking campaign (the voyage begins — fleet transition enacted, the campaign carried west)
+
+### Threads Introduced
+
+- The departure from Philadelphia (April 3, morning tide — the city shrinking behind the stern)
+- Clara's full armament returns (the London-tailored leather coat with holsters and blades — progressive disarmament reversed)
+- The captain of the Caroline (unnamed, Thomas-selected, broad-shouldered, few words)
+- Lily on a ship (first time since the kidnapping — steady, curious, drawing before they clear the bay)
+
+### Key Character Moments
+
+- The empty chair in Thomas's office — the first time Clara has found it vacant
+- Thomas at the dock before Clara — he changed the pattern of their departures
+- Thomas delivering confirmations instead of a farewell — "He conducted farewells in the language of preparation"
+- "Go build something in the west, Clara. I'll hold the east." — generous first-read; territorial second-read
+- "I have nothing left to give you that isn't already aboard" — devotion or accounting
+- Thomas's gaze on the departing ship — "how Thomas read documents: completely, missing nothing"
+- Clara's trust stated: "She had trusted him with everything she owned, and he had not once given her cause to doubt" — the blindspot
+- Samuel: "I've contributed the salt pork" / "The salt pork was the more valuable contribution" — self-deprecating warmth
+- Lily appearing with an easel case — the artist arriving on a ship with her instruments
+- Lily's hand on the shroud line — "not for balance but for knowledge, learning the ship through her palm"
+- Clara remembering the hold — "Six days in the dark, a metal shard pressed into Clara's hand"
+- Lily's smile — "the smile that had survived everything"
+- Two dogs regarding each other across the deck
+- Philadelphia separating "by degrees" — Clara watching Thomas shrink
+- Thomas and Clara raising hands across widening water — the last gesture
+- Harper: "Open water by evening" — the professional voice continuing
+- George's attention forward, not behind — "He had never required an explanation for where they were going"
+- "Behind her, everything she had built. Ahead, everything she would."
+- The final line: "Clara put her hand on the rail, and the Caroline bore her west."

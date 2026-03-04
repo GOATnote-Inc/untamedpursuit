@@ -1391,3 +1391,63 @@ Word count: 3,032 → 2,941 (net -91 words from cuts)
 - VERIFIED: Power of attorney (feme sole, 1847), commission standing, Baltimore registration, mail travel times, Kingston hub, Chesapeake trade, spring phenology, gaslights, all vocabulary clean
 
 **Word count:** 2721 → 2638 (net -83 words from cuts)
+
+### Ch19: Morning Tide
+
+- ch-19: Departure date: April 3, 1847, morning tide. Consistent with Ch18 ("April third, morning tide") and Ch16/Ch17 April references.
+- ch-19: Thomas's office empty before dawn — desk cleared, folios and leather case gone, chair pushed back. First time Clara has found the office empty. Thomas went to the dock without telling her.
+- ch-19: Clara wears the leather coat with full armament (holsters, blades, Colts, percussion caps) — first time since Ch1/Ch5 that the full combat kit returns. Progressive disarmament reversed as she leaves safe territory.
+- ch-19: Mrs. Aldridge appears by name — consistent with Ch18 naming. Provides Clara's case: writing paper, ink, father's compass, ginger root sachet.
+- ch-19: Clara's father's compass — new detail. Her father sailed the Pacific (established in bible, referenced in Ch16). The compass is a personal connection to him. Track for future use.
+- ch-19: Thomas at the south wharf — leather case under arm, cataloguing the loading. Delivers last confirmations: correspondence (Kingston, 3–4 weeks), commission filing, Callaghan's May report.
+- ch-19: "Go build something in the west, Clara. I'll hold the east." — Thomas's farewell line. Dual-frequency: generosity / territorial claim.
+- ch-19: "I have nothing left to give you that isn't already aboard." — Thomas's final personal statement. Dual-frequency: devotion / the accounting of what he's given vs. received.
+- ch-19: Three sets of correspondence codes placed in three separate ship locations by Harper — Thomas's thoroughness. Consistent with Ch18 correspondence system.
+- ch-19: The captain of the Caroline — unnamed (consistent with Ch18 continuity advisory; "Briggs" remains authorial tracking only). Described as broad-shouldered, few words, immaculate vessel. Met once before in Thomas's office.
+- ch-19: Harper: "All hands accounted for. Provisions stowed. Arms secured below." — addresses Clara as "Miss Chen" (consistent with bible and all chapters).
+- ch-19: Harper's four men at stations — consistent with Ch18 "David Harper and four men."
+- ch-19: Samuel's humor: "I've contributed the salt pork" and "The salt pork was the more valuable contribution" — self-deprecating candor consistent with bible and Ch15 voice.
+- ch-19: Lily emerges from below with Ajax and easel case — first time on a ship since the kidnapping (6 days, 2 years ago). She is steady. Hand on shroud line — grip easy, fingers reading the rope.
+- ch-19: Clara remembers the kidnapping — "Six days in the dark, a metal shard pressed into Clara's hand, twelve men dead before Harper found them on that island." Consistent with bible (Lily profile: "6 days captivity," "12 crew members killed") and Ch17 references.
+- ch-19: The Caroline departs at six — tide called, lines cast, bow swings south. Consistent with tidal departure protocol (historian verified in Ch18).
+- ch-19: Thomas on the pier — does not move, does not wave. "The fixed attention of a man studying something he intended to remember in its every detail." Dual-frequency: loyalty / possessive surveillance.
+- ch-19: Clara and Thomas raise hands across widening water — the last gesture between them.
+- ch-19: Philadelphia recedes: pier → warehouses → wharves → spires → chimney smoke → gone.
+- ch-19: Harper: "We'll clear the bay by noon, Miss Chen. Open water by evening." — establishes travel timeline for next chapter.
+- ch-19: George adjusts to the deck — ears forward, attention on the sea ahead. First time aboard in the narrative (though he'd have been on ships given Clara's maritime world).
+- ch-19: Thomas dual-frequency seeds: 5 seeds this chapter. (1) Gone to dock without telling Clara — changed their departure pattern; (2) "I'll hold the east" — territorial claim as generosity; (3) The fixed gaze on the departing ship — studying, not mourning; (4) "I have nothing left to give you that isn't already aboard" — the accounting; (5) Clara's complete trust — "She had trusted him with everything she owned, and he had not once given her cause to doubt" — the blindspot stated. Running total: 91 + 5 = 96 total.
+- ch-19: Jack Garrett has not been introduced. Step outline scenes 11-12 (Jack at farm, Jack at debrief) were not drafted. Jack appears later on a separate boat (step outline scene 30: "I don't trust Thomas"). His introduction is deferred.
+- ch-19: South wharf vs. private dock — Clara's private dock is on the northern end (Ch1, bible). The south wharf is a separate commercial pier where the Caroline is berthed. No contradiction; two different locations.
+- ch-19: Thomas's banter about Samuel's salt pork dispatches — added during revision to restore Ch2 teasing register. Dual-frequency: dismissing Samuel's competence beneath affectionate humor.
+
+### Ch19 Subagent Review Log
+
+**Historian** (2 MUST-FIX, 4 CONSIDER):
+- FIXED: "correspondence schedule" → "Your first dispatch leaves Kingston" (bureaucratic abstraction removed)
+- FIXED: "incoming tide" → "ebbing tide" (southbound departure requires ebb)
+- FIXED: "three spars" → "three masts" (precision); also resolved "masts...three masts" duplication
+- FIXED: "boatswain's whistle" → "boatswain's pipe" (period-correct)
+- FIXED: "Kingston in six weeks" → "Three weeks, perhaps four" (Kingston precedes Isthmus)
+- NOTED: South wharf vs. private dock — different locations, no contradiction (clarified above)
+
+**Style Reviewer** (1 CRITICAL, 7 MODERATE, 7 MINOR):
+- FIXED: POV break line 135 — "not for balance but for knowledge" → "her grip easy, her fingers moving along the tarred rope the way they moved across a sketchbook page" (observable)
+- FIXED: 3 tell-after-show cuts (lines 95, 99, 117-118)
+- FIXED: "stood" 12→4 instances (door, Thomas-at-pier x2, kept for structural purpose)
+- FIXED: Garden room paragraph compressed (cut 30+ words)
+- FIXED: Departure beats de-duplication — spires/chimney smoke removed from second recession
+- FIXED: Line 133 omniscient gloss → grounded in Clara's perception
+- FIXED: Line 179 Samuel's interior → "the city he had closed behind him" (observable fact)
+- FIXED: "leather case" 5→varied (case, folio after 2nd use); "morning" 8→4; tricolon 5→4
+
+**Continuity Checker** (27 VERIFIED, 10 ADVISORIES, 1 CONTRADICTION):
+- FIXED: Kingston timing contradiction (6 weeks → 3-4 weeks)
+- 27 facts verified; 10 advisories logged as new canon
+- South wharf/private dock distinction clarified
+
+**Character Analyst** (all PASS, 1 CONCERN):
+- FIXED: Missing Ch2 teasing register — added Thomas banter about Samuel's dispatches ("The man will fill six pages on the merit of salt pork")
+- All characters PASS: Clara voice, Thomas 5 dual-frequency seeds, Samuel, Harper, Lily, George/Ajax
+- Running total: 96 dual-frequency seeds
+
+**Word count:** 2710 → 2643 (net -67 words from cuts, +banter beat)
