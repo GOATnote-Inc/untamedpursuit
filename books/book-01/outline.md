@@ -209,3 +209,51 @@
 - Wallace as architect of respectability, not brute — the art world as battlefield
 - Thomas's eyes lingering "a beat longer than usual" — dual-frequency seed
 - "This is your finest work" — delivered at the moment Clara's world is expanding beyond Thomas
+
+---
+
+## Chapter 6: The Current
+
+- **POV**: Clara Chen
+- **Location**: Samuel's warehouse offices — the Delaware riverfront
+- **Time**: A few days after Ch5, Autumn 1846
+- **Word count target**: 2,800–3,200
+
+### Scene Beats
+
+1. **The Carriage** (~250 words): Clara carrying Thomas's Wallace report to Samuel's offices. George beside her. Dressed between registers — dark green silk under leather coat. Thomas handed her the report without asking why she was delivering it herself. She's approaching the docks from a new direction — Samuel's direction.
+
+2. **Samuel's World** (~500 words): Clara enters Samuel's warehouse for the first time. Three stories of Pennsylvania limestone. She reads the operation the way he read her gallery — materials, arrangement, design philosophy. His employees greet her with careful respect. His office: walnut desk, commercial maps, a small landscape painting bought because it moved him. George greets Samuel. Clara sets the report on his desk: "I have something for you. And I owe you a conversation we have not yet had."
+
+3. **The Wallace Intelligence** (~700 words): Clara delivers Thomas's findings: Wallace's patronage mapped — 37 events, 14 institutions, 9 merchants. Samuel recognizes the events he has attended. The realization: the concerts he loves are part of a trafficker's social armor. Clara explains the plan — disrupt the respectability. Samuel's dual position: he knows the art-world circuit from the inside (asset) and is now associated with Clara (target). Samuel: "When do we begin?"
+
+4. **The Walk** (~400 words): They walk the Delaware riverfront at dusk. Unplanned. Samuel suggested air; Clara agreed. The river, the ships at anchor, the autumn light. Clara tells Samuel she read his operation and found "care — deliberate care, the kind that cannot be purchased." Samuel shares: his father was an Irish dock worker. He decided young to own the docks so no one who worked for him would fear the man who signed his wages.
+
+5. **The Father** (~700 words): The chapter's emotional core. Clara begins to tell Samuel about her father. "My father was Buddhist. With Japanese elements — the kami, the attention to harmony." The family trading connections — Canton, Japan, Philadelphia. "A Chen does not fail." Then the harder truth: "I can remember what others said about my father. At first I did not think it was true." She can't finish. Samuel doesn't push: "I hope to build something between us where you feel safe enough to share what you carry." Clara is moved by the patience — a quality Thomas does not possess.
+
+6. **Departure** (~350 words): The carriage home. Clara realizes she has shown Samuel the edge of a wound she has never shown Thomas. Not the empire built over it — the wound itself. Thomas's lamplight in the ground-floor window. She will tell him the report was delivered. She will not tell him about the river.
+
+### Threads Advanced
+
+- Clara-Samuel courtship (from threshold to vulnerability — Clara begins disclosing her past)
+- Anti-trafficking campaign (Wallace's patronage map delivered; Samuel recruited to dismantle respectability)
+- Thomas Arlington's jealousy seeds (his work delivered to Samuel; Clara reveals to Samuel what she's never revealed to Thomas)
+
+### Threads Introduced
+
+- Clara's father (Buddhist with Japanese elements, trading connections, "A Chen does not fail," what others said about him)
+- Samuel's offices as mirror of Clara's empire (smaller in scale, equal in care)
+- Samuel as safe harbor (patience offered without demand)
+- Samuel's father (Irish dock worker — motivation for ethical empire-building)
+
+### Key Character Moments
+
+- Clara reading Samuel's warehouse the way he read her gallery — the reciprocal assessment
+- George greeting Samuel at the offices — the dog's settled decision that Samuel belongs
+- Samuel recognizing the concerts he loves as Wallace's social armor — genuine art contaminated by manufactured respectability
+- "When do we begin?" — Samuel's decisive commitment
+- Clara's father fragments — "A Chen does not fail" / "what others said about my father"
+- Samuel's hallway metaphor — standing patiently, not reaching for what must be freely offered
+- "Mr. 'I hope to build something'" — Clara's thin humor over deep emotion
+- The carriage reflection: "She had never shown Thomas the wound. She had shown him the empire built over it."
+- Thomas's lamplight in the window — the man at the desk, still working, as Clara returns carrying something she will not share with him

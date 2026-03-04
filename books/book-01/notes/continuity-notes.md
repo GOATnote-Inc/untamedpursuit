@@ -377,3 +377,91 @@
 - Clara-Thomas dynamic: Trust shown through behavior (entering without knocking, shedding armor, processing vulnerability in his presence). Partnership feels earned.
 - Samuel absent but well-handled: Clara reveals strategic intel, keeps intimate dimensions private. Tears consistent with Ch4.
 - George: PASS — no verbal commands, positioned correctly, dual nature present.
+
+---
+
+# Chapter 6 — The Current
+
+## New Facts Introduced
+
+- ch-06: Samuel's warehouse is three stories of Pennsylvania limestone on Front Street, near the docks — added to bible? no
+- ch-06: Samuel's office on the second floor — walnut desk (not mahogany), commercial maps (shipping routes, harbor depths, Chesapeake coastline), a small landscape painting — added to bible? no
+- ch-06: Samuel's employees greet Clara with careful respect; a foreman touches his cap — added to bible? no
+- ch-06: Clara wears the dark green silk under the leather coat — blending registers for the first time — added to bible? no
+- ch-06: Thomas's Wallace report contains 37 events, 14 institutions, 9 merchants of significant standing — added to bible? no
+- ch-06: Samuel agrees to help dismantle Wallace's respectability network — "When do we begin?" — added to bible? no
+- ch-06: Samuel's father was an Irish dock worker who came to America with nothing — consistent with Ch3 (bible combined fact) — added to bible? yes, already logged
+- ch-06: Samuel decided young to "own the docks" so no worker would fear the man who signed his wages — added to bible? no
+- ch-06: Clara's father was Buddhist with Japanese elements (kami, harmony with nature); mother was Christian — consistent with bible — added to bible? yes, already there
+- ch-06: Family trading connections: Canton, Japan, Philadelphia — consistent with bible — added to bible? yes, already there
+- ch-06: "A Chen does not fail" — Clara's father's phrase, heard often enough that she cannot hear the words without hearing his voice — added to bible? no
+- ch-06: Clara says "I can remember what others said about my father. At first I did not think it was true." — first disclosure of a wound beneath the empire — added to bible? no
+- ch-06: Samuel offers patience rather than probing: "I hope to build something between us where you feel safe enough to share what you carry" — added to bible? no
+- ch-06: Clara chooses not to tell Thomas about the river conversation or the father disclosure — "She had never shown Thomas the wound. She had shown him the empire built over it." — added to bible? no
+- ch-06: Thomas's lamplight visible in the ground-floor window when Clara returns at night — consistent with "man at the desk" pattern — added to bible? no
+
+## Outline Deviations
+
+- ch-06: No formal plan or outline beat existed for Ch6. Scene 7 of outline_2_16.md ("Dinner date with San Fran Lead Magnet") provided a general direction; adapted as Clara delivering the Wallace intelligence to Samuel at his offices rather than a formal dinner with a third party.
+- ch-06: The setting is Samuel's warehouse offices and the Delaware riverfront, not a dinner or restaurant. The "dinner" beat was already consumed by Ch4's Golden Compass evening (which ended with Clara inviting Samuel to the dining room). Ch6 needed a new venue.
+- ch-06: Father disclosure drawn from dinner_with_sam_and_clara_drafts.md fragments — "I don't know where to start," "I can remember what others said about my dad," "At first I thought it wasn't true," "I don't usually talk about my father for a reason." Samuel's response ("I support whatever you decide / I hope to create a safe place") also adapted from this source.
+- ch-06: Samuel's warehouse described for the first time — no source material specified the interior. Details invented to mirror Clara's Golden Compass (quality materials, deliberate care, art on walls) while reflecting Samuel's different personality (practical, not concealed).
+- ch-06: The carriage reflection comparing Thomas and Samuel — "She had never shown Thomas the wound. She had shown him the empire built over it." — not in source. Added to sharpen the dual-frequency Thomas thread and mark the moment Clara begins to give Samuel something she has never given Thomas.
+
+## Continuity Flags
+
+- ch-06: Clara wears dark green silk under leather coat — Ch3 she wore dark green silk WITHOUT the coat (sword cane only). Ch6 layers them. This is a new combination, not a contradiction. — resolved? yes, intentional
+- ch-06: Clara uses "Miss Chen" / "Mr. Taylor" with Samuel — they used these forms at tea (Ch3) and the Golden Compass (Ch4). They haven't yet shifted to first names in direct address, though Thomas and Clara use first names. — resolved? yes, the formality tracks their courtship stage
+- ch-06: Samuel's father as Irish dock worker — established in Ch3 (Thomas's dossier). Ch6 has Samuel himself share this with Clara directly. She already knew from Thomas's report but hears it from Samuel for the first time. — resolved? yes, consistent
+- ch-06: Thomas hands Clara the report "without asking why" she's delivering it herself — this is a dual-frequency beat. First read: Thomas trusts Clara's judgment. Re-read: Thomas is being excluded from the meeting with Samuel and does not protest, banking the grievance. — resolved? yes, dual-frequency seed
+- ch-06: Clara tells Samuel the Wallace patronage details from Ch5 — all facts consistent (art patronage, charitable contributions, concert subscriptions, commercial alliances). — resolved? yes, consistent
+- ch-06: "A Chen does not fail" — new phrase from Clara's father. Not yet in bible. Should be added to Clara's continuity notes. — resolved? no, needs bible update
+- ch-06: Clara's father wound — "what others said about him" left deliberately vague. The full story is reserved for a later chapter. — resolved? yes, intentional partial disclosure
+- ch-06: "Homo sum" Latin motto still NOT used — reserved for bigger moment. — resolved? yes, held per plan
+- ch-06: Thomas dual-frequency seeds in Ch6: (1) hands Clara the report without comment — trust or exclusion; (2) his work delivered by Clara to another man; (3) Clara returns carrying something she will not share with Thomas; (4) "She had never shown Thomas the wound" — the moment Clara's inner world begins to migrate from Thomas to Samuel; (5) Thomas's lamplight in the window — the man at the desk, waiting, unknowing. Total seeds across Ch1–6: Ch2 (5), Ch4 (1), Ch5 (5), Ch6 (5). — resolved? yes, all invisible on first read
+
+---
+
+## Chapter 6 — Subagent Review Log
+
+### Style Reviewer
+- POV: Two MODERATE breaches fixed. Line 60 — Samuel's internal state ("reassembling what he already knew") re-anchored with "she thought." Line 114 — Samuel's understanding narrated as fact; reframed as Clara's recognition ("a silence she recognized — the silence of someone who knew").
+- "Man who understood/knew" construction: Reduced from 8 instances to 4 (kept opener, dialogue, key moment, and one in father backstory). Variants replaced with "someone accustomed to," "long familiarity," "someone unused to."
+- "Particular" frequency: Reduced from 6 to 3 (kept lines 30, 114, 146 — strongest sensory and emotional uses).
+- "Reading" metaphor redundancy: Line 36 narration softened from "Clara read the operation the way Samuel had read her gallery" to "Clara took in the operation the way she took in any new territory" — avoids duplicating dialogue at line 98.
+- "Hallway" metaphor: Reduced from 3 to 2 — cut middle instance (line 128) to avoid dilution. Kept defining metaphor (line 114) and closing echo (line 156).
+- Tense: Clean pass, no slips.
+- Dialogue tags: Clean pass. "Said" default maintained.
+- Pacing: Six-section structure holds well. Riverfront walk earns its length.
+
+### Continuity Checker
+- Samuel's warehouse: New location — no contradictions with existing canon. Interior details (limestone, walnut desk, commercial maps, landscape painting) logged for future reference.
+- George: Correct weight (140 lbs), no verbal commands, behavioral cues consistent (muzzle greeting, flank press, head turning between Clara and Samuel).
+- Clara's armament: Dark green silk + leather coat + sword cane — new combination, consistent with progressive disarmament pattern (between registers).
+- Wallace intelligence: All facts match Ch5 (art patronage, charitable contributions, concert subscriptions, commercial alliances, 37 events, 14 institutions, 9 merchants). PASS.
+- Samuel's father: Irish dock worker — consistent with Ch3 Thomas dossier. Samuel shares it directly with Clara for the first time. PASS.
+- Clara's father: Buddhist with Japanese elements, Canton/Japan/Philadelphia trading connections — consistent with bible. PASS.
+- "Miss Chen" / "Mr. Taylor" formality: Maintained in direct address. Samuel uses "Clara" once at emotional peak (line 128) — first-name use is a courtship progression marker. PASS.
+- Thomas's report described as "his finest work" — consistent with Ch5 line 154. PASS.
+- Golden Compass references: "the evening," "the private entrance" — consistent with Ch4. PASS.
+- "Man at the desk" pattern: Thomas's lamplight in ground-floor window — consistent with Ch2, Ch5. PASS.
+- Zero contradictions found.
+
+### Historian
+- CRITICAL vocabulary fix applied: "briefing" (line 94) → "conversation." Regression from Ch5 fix caught and corrected.
+- MODERATE vocabulary fixes applied: "strategic work" → "exacting work"; "design philosophy" → "governing sensibility."
+- YAML frontmatter fixes: "network" → "apparatus"; "asset" → "ally."
+- "Reliable machinery" → "dependable clockwork" — minor improvement, both period-plausible but "clockwork" more evocative of the era.
+- "Architecture of competence" → "edifice of competence" — avoids overuse of "architecture" as figurative (already used for Thomas's analytical mind in Ch2/Ch5).
+- Material culture: Pennsylvania limestone, walnut desk, loading bay, gaslight, cobblestones, ship rigging — all period-accurate. PASS.
+- Riverfront details: Salt, tar, mineral cold, ship's bells, cart on cobblestones, rigging creaking — good sensory grit. PASS.
+- Japan/Sakoku awareness: Clara says family came "through trading connections — Canton, Japan, Philadelphia." Historically, the Nagasaki Chinese trading community provides a plausible mechanism. Current phrasing is vague enough to be defensible. Noted for future chapters that may elaborate.
+- Previously deferred items unchanged: leather coat (bible canon), grandfather clock (readability).
+
+### Character Analyst
+- Clara voice: STRONG consistency with Ch1–Ch5. The carriage opening, sensory grounding, measured assessment of Samuel's world, controlled vulnerability with the father disclosure — all match established patterns. Speech cadence and internal register shifts consistent with bible.
+- Samuel voice: Authentic — candid ("When do we begin?"), comfortable with silence, art-literate, physically present. Bible-consistent. The father backstory (Irish dock worker, "own the docks instead") adds depth without contradicting Ch3 dossier.
+- Father disclosure: Earned by five chapters of courtship progression. Clara's partial disclosure ("I can remember what others said... At first I did not think it was true") matches established pattern of calibrated revelation.
+- Samuel's patience: "I hope to build something between us where you feel safe enough to share" — contrasted with Thomas's analytical approach without declaring it. Clara draws the comparison internally in the closing carriage scene.
+- Dual-frequency: ALL 5 SEEDS PASS — invisible on first read. (1) Thomas hands report without asking why — trust/exclusion. (2) His finest work delivered by Clara to another man — respect/displacement. (3) Clara returns with something she won't share — partnership continuing/partnership eroding. (4) "She had never shown Thomas the wound" — new insight/the moment of migration. (5) Lamplight in the window — the reliable man/the man left behind.
+- George: PASS — no verbal commands. Behavioral cues appropriate (greeting Samuel, flank press during vulnerability, head turning between them at river's edge).
