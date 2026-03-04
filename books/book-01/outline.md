@@ -81,3 +81,47 @@
 - Thomas always at the desk when Clara arrives and when she leaves
 - George's tail thump at Clara's laugh
 - George alerting toward the window — Clara already moving
+
+---
+
+## Chapter 3: Ginger and Steel
+
+- **POV**: Clara Chen
+- **Location**: Clara's courtyard / grounds; Chestnut Street parlor
+- **Time**: Dawn through late afternoon (day after Ch1–2), Autumn 1846
+- **Word count target**: 2,800–3,200
+
+### Scene Beats
+
+1. **Dawn Practice** (~350–400 words): Clara in the courtyard behind her townhouse — blade work at first light, then Colts against clay targets. Physical ritual that transforms the previous night's violence into discipline. George watching from the gate. Two hours of sleep. The body loosening through repetition.
+
+2. **Thomas's Dossier** (~700–800 words): Thomas arrives with his leather portfolio, ink-stained and sharp-eyed after an all-night investigation. Delivers the full Samuel Taylor report: self-made, top five percent wealth, employees are loyal and respected, financial philosophy of empowerment, trains nightly with a weapons master, frequents a tavern for the music and has noticed the hidden art. Thomas's professional register with the teasing breaking through at the end: "You stumbled into quite the find." Clara departs to dress for tea. Thomas stays in the chair, already working on the next task — the strategic plan.
+
+3. **Tea at Chestnut Street** (~1,200–1,400 words): The chapter's heart. Clara arrives early, arranges the table — ginger tea, two cups, shortbread. Deliberately leaves George at home (Samuel met George in combat; she wants him to meet her in conversation). No leather coat, no holsters — dark green silk dress, sword cane only. Samuel arrives at three precisely: cleaned up, well-dressed, jaw swollen and bruised, ribs troubling him, but eyes clear. Ginger tea. He does not compliment it — just drinks with honest appreciation. His questions have changed overnight: from "what I saw" to "why." He identifies her harbor patrols, her network's capability, her funding. Clara: "Because someone must. And because I can." Samuel reveals his three weeks of surveillance, the Wallace connection — refused Wallace's partnership offer on western port control, the dock attack was retaliation. Wallace integrating trafficking with port control — war supply now, insider mineral intelligence positioning him for what comes after. Clara discloses a fraction of her shipping holdings. Samuel's jaw drops. Handshake across the table — "not yet trust, but the ground where trust could grow."
+
+4. **Departure** (~300–350 words): Clara in the carriage. Replays what she learned — Wallace as the shape of the disease, Samuel's directness as strategy, the weight of what she disclosed. Recognizes Thomas's phrase ("he sits at our table") but feels something beyond intellectual assessment. Gaslights coming on. Permits herself the unfamiliar warmth.
+
+### Threads Advanced
+
+- Clara-Samuel courtship (first real conversation, mutual assessment, handshake)
+- Anti-trafficking campaign (Wallace named, port control and mineral intelligence, trafficking integration)
+- Thomas Arlington's jealousy seeds (delivers intel, excluded from tea, stays working)
+
+### Threads Introduced
+
+- Wallace's port-control play (war supply and insider knowledge of western mineral wealth)
+- Samuel's financial philosophy (amass wealth, empower employees)
+- Samuel trains nightly with a weapons master
+- The tavern with hidden art (Samuel frequents it for the music)
+- Clara's Chestnut Street parlor (holding company ownership, east-facing windows)
+
+### Key Character Moments
+
+- Clara's dawn practice — violence transformed into discipline, the body as instrument
+- Thomas's "dossier face" — the contained satisfaction of thorough work
+- Thomas excluded from tea — stays in the chair, already working (the pattern)
+- Samuel does not compliment the tea — just drinks it honestly
+- Samuel leads with intelligence freely given — no leverage, no negotiation
+- Clara's calculated disclosure — the shipping summary, a fraction of her holdings
+- The handshake — "not yet trust, but the ground where trust could grow"
+- Clara recognizing Thomas's phrase as her own feeling — "he sits at our table"

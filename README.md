@@ -102,10 +102,10 @@ Every chapter passes through four parallel subagent reviews before revisions are
 
 | Subagent | What It Checks | Example Findings |
 |---|---|---|
-| **Style Reviewer** | POV discipline, tense consistency, dialogue tags, Save the Cat beats, pacing | "Line 114: POV break — narrator is inside Thomas's head. Re-anchor in Clara's observation." |
+| **Style Reviewer** | POV discipline, tense consistency, dialogue tags, narrative beat structure, pacing | "Line 114: POV break — narrator is inside Thomas's head. Re-anchor in Clara's observation." |
 | **Continuity Checker** | Cross-references every fact against the bible, previous chapters, and a per-chapter checklist | "Thomas's desk described as 'governor's estate auction' but bible says 'governor's office.' Update bible to match (more specific)." |
-| **Historian** | Period vocabulary, interior details, legal/social frameworks, anachronism flags | "'Operational' is a 20th-century coinage. Replace with action: 'the Clara who moved through the night.'" |
-| **Character Analyst** | Voice consistency, dual-frequency checks (do betrayal seeds read as charming on first pass?), emotional truth | "Thomas reads as warm and lovable. 'Not once — not once' is the most dual-frequency line. Defensible; monitor in beta." |
+| **Historian** | Period vocabulary, interior details, legal/social frameworks, anachronism flags | "'Operational' is a 20th-century coinage — removed label; surrounding prose already conveys the shift." |
+| **Character Analyst** | Voice consistency, re-read checks (do betrayal seeds read as charming on first pass?), emotional truth | "Thomas reads as warm and lovable. 'Not once — not once' works as teasing on first read; edge visible only on re-read. Defensible; monitor in beta." |
 
 The subagents run in parallel, return structured reports, and their findings are triaged by severity:
 

@@ -31,6 +31,25 @@
 - ch-02: "I love you, Thomas" / "And well, you should" — established as a rare exchange, genuine — added to bible? no
 - ch-02: George takes position near the marble fireplace in Thomas's office (customary spot) — added to bible? no
 - ch-02: Harper's footsteps recognized by George in the hallway — consistent with Ch1 establish — added to bible? no
+- ch-03: Clara practices with the blade in a walled courtyard behind her townhouse — added to bible? no
+- ch-03: She uses clay pots as targets for Colt practice — added to bible? no
+- ch-03: Thomas's leather portfolio with labeled sections and summary sheet — organizational detail — added to bible? no
+- ch-03: Samuel Taylor's father was an Irish dock worker — added to bible? no
+- ch-03: Samuel's immediate reserves could fund a year of losses without touching property — added to bible? no
+- ch-03: Samuel's employees receive profit-sharing and decision-making authority — added to bible? no
+- ch-03: Samuel trains nightly with a weapons master — consistent with bible — added to bible? yes, already there
+- ch-03: Samuel frequents a tavern for the music, has noticed hidden art — added to bible? no
+- ch-03: Clara owns the Chestnut Street parlor through a holding company — added to bible? no
+- ch-03: Clara's tea preference: ginger tea in porcelain service — consistent with bible (ginger tea) — added to bible? no
+- ch-03: Clara deliberately leaves George at home for the tea — first scene without George present — added to bible? no
+- ch-03: Clara wears a dark green silk dress to the tea (no leather coat, no holsters, sword cane only) — added to bible? no
+- ch-03: Samuel arrived at tea with no cravat — either casual confidence or convention unfamiliarity — added to bible? no
+- ch-03: Wallace named as antagonist — rejected partnership offer on western port control from Samuel — added to bible? no
+- ch-03: Wallace integrating trafficking with port control; ambition spans war supply and insider mineral intelligence from California geological surveys — added to bible? no
+- ch-03: Geological reports on California mineral wealth circulating among the ultra-wealthy before public knowledge — Clara has seen fragments through her own channels; Samuel has access to the same whispers — added to bible? no
+- ch-03: Clara carries a leather folder with a shipping summary (fraction of holdings) for disclosure — added to bible? no
+- ch-03: Handshake between Clara and Samuel at the end of tea — added to bible? no
+- ch-03: Samuel's speech: "The honest way isn't usually the easy way" — matches bible example phrase — added to bible? yes, already there
 
 ## Outline Deviations
 
@@ -40,6 +59,13 @@
 - ch-02: Expanded philanthropy list (schools, legal aid, harbor patrols, orphanages) not in source material — added to deepen Save the Cat beat per plan. Compatible with bible's "fortune of many kings" scale.
 - ch-02: Chestnut Street parlor detail not in source material — source only says "tea." Added to support teasing scene and establish a specific location. Ch1 established Clara carries calling cards with a parlor address.
 - ch-02: Thomas noting Clara has never asked him to research a man before tea — not in source. Added per plan to highlight the novelty of Clara's openness about Samuel.
+- ch-03: No formal plan document existed for Ch3 — chapter structure designed from source material: Fix_beginning_follow_up_from_Clara.md (Thomas's dossier), Clara_rescues_Sam.md (tea beats), outline_2_16.md (scene sequence), and bible profiles.
+- ch-03: Weapons practice set in a courtyard behind the townhouse. Source material (outline_2_16.md) says "farm shooting" — changed to courtyard for simplicity and continuity (no farm established in bible). If a shooting range/farm is needed later, flag for bible addition.
+- ch-03: Wallace introduced as antagonist — drawn from Clara_rescues_Sam.md screenplay. Source has Wallace's men attacking the docks; adapted to Samuel refusing Wallace's western port-control partnership offer (war supply + insider mineral intelligence) and the Mercy Jane attack being retaliation.
+- ch-03: Clara discloses a fraction of her holdings at first tea — from Fix_beginning source: "His jaw dropped when she revealed a fraction of her holdings over ginger tea when they first spoke." Rendered as a leather folder with shipping summary.
+- ch-03: Thomas's "report face" — invented for character texture. Not in source. ("Dossier" replaced as anachronistic — ~1880s English entry.)
+- ch-03: Samuel's father described as Irish dock worker — from bible: "Samuel's father was a dock worker" + "Irish dock workers on Philadelphia's waterfront" (technology-and-daily-life.md). Combined these facts.
+- ch-03: George deliberately absent from tea scene — not in source. Added to create contrast: Samuel met George in combat (Ch1); Clara wants him to meet her in conversation.
 
 ## Continuity Flags
 
@@ -58,6 +84,14 @@
 - ch-02: Thomas does NOT have full Samuel dossier — only pre-existing knowledge from property records as holdings manager. Full dossier reserved for weapons practice scene. — resolved? yes
 - ch-02: No Latin motto ("Homo sum…") used — reserved for bigger moment per plan. — resolved? yes
 - ch-02: Clara's daily schedule referenced ("morning practice") — consistent with Ch1's established schedule (blade at dawn). — resolved? yes
+- ch-03: Weapons practice in courtyard vs. source material's "farm shooting" — changed for simplicity; no farm in bible. — resolved? yes, intentional deviation (logged above)
+- ch-03: George absent from tea scene — first scene where Clara is without George. Deliberate character choice. — resolved? yes, intentional
+- ch-03: Clara wears dark green silk to tea (no leather coat) — first time she is not in her armored coat. Consistent with the domestic/social register of the scene. — resolved? yes
+- ch-03: Samuel's father as Irish dock worker — combines two separate bible facts. Check if bible entry for Samuel should be updated. — resolved? no, needs bible update
+- ch-03: Wallace as antagonist — drawn from Clara_rescues_Sam.md screenplay. Not yet in bible. Needs profile creation. — resolved? no, needs bible entry
+- ch-03: Clara's holding companies structure — new detail (she owns properties through holding companies to keep her name out of records). Consistent with bible's "proxy ownership" pattern for the Golden Compass. — resolved? yes, consistent
+- ch-03: "Homo sum" Latin motto NOT used — still reserved for bigger moment. — resolved? yes, held per Ch2 plan
+- ch-03: Thomas excluded from tea but stays working — continues the "man at the desk" pattern from Ch2. No negative emotion shown. — resolved? yes, dual-frequency seed maintained
 
 ## Subagent Review Log
 
@@ -134,3 +168,36 @@
 - Clara voice: Consistent with Ch1 — sensory, measured, strategic, with controlled vulnerability. Ch2 enriches by showing domestic Clara briefly unlocking then re-locking. Same simile style and sensory register.
 - "I love you, Thomas": Earned — follows Clara's rare self-exposure and Thomas's warmth. Not romantic; reads as gratitude of a private woman for the one person she lets in.
 - Trust: Shown, not declared — through access (unlocked door, opened coat), assignment (Samuel dossier), and permission to be seen (genuine laughter, admitting the parlor choice).
+
+---
+
+## Chapter 3 — Subagent Review Log
+
+### Style Reviewer
+- POV: Two borderline lines flagged — (1) "the teasing register from last night banked for now beneath the professional" (Clara reading his tone, accepted); (2) "his voice carried the particular energy of a man delivering good news" (Clara's interpretation of observable demeanor, accepted)
+- Tense: Clean pass, no slips
+- Dialogue tags: Clean
+- Pacing: Balanced — four sections at appropriate weights
+
+### Continuity Checker
+- All character descriptions verified against bible
+- George absent from tea scene: intentional, logged
+- Thomas portfolio details consistent with Ch2
+- Samuel's injuries (jaw, ribs) consistent with Ch1 fight
+- Clara's sword cane present throughout
+- 19 new facts logged above
+
+### Historian
+- **CRITICAL FIX**: "Gold Rush" as public event removed — Sutter's Mill discovery was January 1848; chapter set Autumn 1846. However, geological reports on California mineral wealth circulated among the ultra-wealthy before public knowledge (gold found in Placerita Canyon 1842; mineral surveys in elite circles). Reframed: Wallace's ambition combines active war-supply contracts with insider positioning for western mineral wealth. Samuel and Clara both have access to these whispers — consistent with their 0.1% intelligence networks. The Mexican-American War (declared May 1846) provides the active military context.
+- "Dossier" → "report" (dossier entered English ~1880s)
+- "Network" (×2) → "apparatus" (organizational sense anachronistic)
+- "Surveillance" → "observation"
+- "Holding companies" → "private companies" / "companies"
+- "Top five percent" → "Among the wealthiest" (modern percentile framing)
+- Continental Shepherd, Japanese techniques, leather coat: deferred to author (bible canon, per Ch1)
+
+### Character Analyst
+- Clara: Consistent voice with Ch1–Ch2. Dawn practice establishes physical discipline. Tea scene shows controlled vulnerability — calculated disclosure that carries unexpected emotional weight. Departure warmth earned.
+- Samuel: Matches bible profile — direct speech, ethical framework, strategic mind. Leads with honesty. Does not compliment the tea. Injury management without advertising — consistent with Ch1 observations.
+- Thomas: Dual-frequency clean — delivers intel with professional satisfaction, excluded from tea, stays in the chair working. "Quite the find" reads as warm encouragement on first pass. Re-read: the man watching her dress for someone else. Pattern maintained.
+- Handshake: Earned — follows mutual disclosure and honest exchange. "Not yet trust, but the ground where trust could grow" — appropriate weight for first real conversation.
