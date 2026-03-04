@@ -19,7 +19,7 @@ Powerful build with calloused hands — the hands of a man who works and fights,
 
 ## Background
 
-Father was an Irish dock worker who came to America with nothing. Samuel decided young to "own the docks" so no worker would fear the man who signed his wages. Already embedded in the intelligence community when he meets Clara Chen in 1846 Philadelphia. Conducted three weeks of surveillance on the Mercy Jane before Clara's Night Watch rescue. Art collector with a discerning eye — recognizes a Rembrandt on sight, suggesting extensive education and cultural refinement. First found the Golden Compass three months before the pivotal evening performance, drawn by a cello through an open window; visited four times before Clara's invitation. Intellectually curious and deeply ethical. Trained in English boxing for six years with a weapons master, maintaining combat readiness as discipline rather than hobby. His financial philosophy centers on amassing wealth not for its own sake but to empower employees and build something lasting — employees receive profit-sharing and decision-making authority; his immediate reserves could fund a year of losses without touching property. Met Clara during the Mercy Jane rescue (book-01, ch-01); their courtship evolved from mutual evaluation to marriage. Canon Samuel is the hero — Clara's husband and ethical businessman. The antagonist version belongs to the abandoned Fierce_Untamed_Pursuit_Series_1 (non-canon supernatural treasure plot).
+Father was an Irish dock worker from Wexford who came to America with nothing. Samuel decided young to "own the docks" so no worker would fear the man who signed his wages. Already embedded in the intelligence community when he meets Clara Chen in 1846 Philadelphia. Conducted three weeks of surveillance on the Mercy Jane before Clara's Night Watch rescue. Art collector with a discerning eye — recognizes a Rembrandt on sight, suggesting extensive education and cultural refinement. First found the Golden Compass three months before the pivotal evening performance, drawn by a cello through an open window; visited four times before Clara's invitation. Intellectually curious and deeply ethical. Trained in English boxing for six years with a weapons master, maintaining combat readiness as discipline rather than hobby. His financial philosophy centers on amassing wealth not for its own sake but to empower employees and build something lasting — employees receive profit-sharing and decision-making authority; his immediate reserves could fund a year of losses without touching property. Met Clara during the Mercy Jane rescue (book-01, ch-01); their courtship evolved from mutual evaluation to marriage. Canon Samuel is the hero — Clara's husband and ethical businessman. The antagonist version belongs to the abandoned Fierce_Untamed_Pursuit_Series_1 (non-canon supernatural treasure plot).
 
 ## Personality
 
@@ -76,7 +76,7 @@ Candid and self-aware. Speaks with directness that disarms — not verbose, not 
 ## Continuity Notes
 
 - Met Clara during the Mercy Jane rescue, 1846 Philadelphia — he was in his 30s
-- Father was an Irish dock worker; Samuel decided young to "own the docks" (book-01, ch-03, ch-06)
+- Father was an Irish dock worker from Wexford; Samuel decided young to "own the docks" (book-01, ch-03, ch-06, ch-12)
 - Already in intelligence community before meeting Clara
 - Conducted 3 weeks of surveillance on the Mercy Jane before the rescue (book-01, ch-01)
 - Boxing-trained — six years of English boxing with a weapons master; trains nightly (book-01, ch-07)

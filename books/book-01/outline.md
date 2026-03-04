@@ -521,3 +521,59 @@
 - The closed dining room door — last night held behind it, not yet revisited
 - "The egret sends its regards" — Thomas's humor intact, the callback connecting this morning to last night's dinner
 - The grandfather clock at seven — mirroring Samuel's arrival hour, marking the morning after
+
+---
+
+## Chapter 12: What the Ships Carry
+
+- **POV**: Samuel Taylor (fourth Samuel POV chapter)
+- **Location**: Samuel's warehouse — Philadelphia docks — the Osprey
+- **Time**: Same morning as Ch11, Autumn 1846
+- **Word count target**: 3,000–3,200
+
+### Scene Beats
+
+1. **Samuel at the Warehouse** (~400 words): Samuel at his counting table near the loading doors before six. Can't focus on ledgers — last night's dinner in his body ("Clara" in his mouth, the warmth of her hand). His workers arriving. Callaghan reporting overnight receipts. The night-shift men still at their posts. George arrives from the river side — advance guard. Clara thirty seconds behind.
+
+2. **Clara's Arrival** (~500 words): Clara from the river side, leather coat, fully armed. Samuel reads the Colts through the leather the way he reads cargo through manifest paper. She uses his first name. Asks to walk — not inside. They walk along the dock fronting his warehouse section.
+
+3. **The Harbor Complaints** (~400 words): Clara explains Wallace's harbor complaints — three ships, Ashford and Crane, the inspection schedule turned against her. Samuel understands the commercial warfare immediately. Two ships carry standard cargo. The third — the Osprey — carries something else. Clara: "I need to show you something. On the ship."
+
+4. **The Osprey** (~800 words): The chapter's heart. The Osprey at its berth — unremarkable coastal trader. Below decks: past the forward cargo hold to the aft section, narrow companionway, ballast stone. Clara opens a concealed panel in the hull framing. Blankets. Medical supplies. Clothing — a child's coat patched at the elbows. Forged documents in oilcloth. A second compartment: room for three or four people. Clara: "Passage from Baltimore to the Delaware Bay. Twelve hours in the hold." Samuel stands in the compartment and understands: this is the rescue, not the war. The Mercy Jane and Boundary were the war. This is what Clara saves. Sixty-three people through this darkness.
+
+5. **The Response** (~500 words): Back on deck. Samuel commits without hesitation — his dock section, his workers, tonight. Clara sees the immediate decision rather than the businessman's calculation. They plan the logistics: Callaghan, Brennan, loading doors facing the Osprey's berth, third-floor storage. Samuel: "My father was a dock worker. He came from Wexford with nothing. He would have carried those blankets himself." Clara's hand on his at the rail — operational grip, not romantic gesture. She departs with George.
+
+6. **Samuel Alone** (~400 words): Samuel on the Osprey's deck. Thomas at the desk writing counter-complaints. Clara's other ships held. The harbor bell at eight o'clock. Samuel goes below one more time — stands in the compartment, lets the darkness close around him. The child's coat. Then he climbs to the light and walks to his warehouse. The work is waiting — ordinary work, and tonight, the other work.
+
+### Threads Advanced
+
+- Clara-Samuel courtship (from first names to operational trust — Samuel enters the deepest layer of Clara's double life)
+- Anti-trafficking campaign (Osprey's cargo must be moved through Samuel's dock section; Wallace's commercial warfare forces Clara's hand)
+- Thomas Arlington's jealousy seeds (Thomas absent — working the counter-complaint at the desk while Samuel boards the Osprey; the displacement is structural)
+
+### Threads Introduced
+
+- Samuel's dock section as operational asset (workers, schedule, territory integrated into Clara's rescue work)
+- Samuel's father echo (Irish dock worker — the Osprey's compartments connect to Samuel's origin)
+- The child's coat (patched, soap-smelling — the human detail at the center of the rescue apparatus)
+
+### Key Character Moments
+
+- Samuel unable to read his ledger — last night's dinner filling his rooms, driving him to the warehouse
+- George arriving thirty seconds before Clara — the advance guard
+- Samuel reading the Colts through the leather coat — the collector's eye applied to the woman he now calls by first name
+- Clara's first name used in the warehouse — the threshold held through daylight
+- Clara choosing open air over indoor privacy — motion as processing
+- Samuel recognizing the commercial siege: three ships held at dock
+- The word Clara does not say — "two of the ships... their holds will survive any inspection"
+- The Osprey: unremarkable from outside, extraordinary below the waterline
+- The child's coat patched at the elbows and smelling of soap — the chapter's emotional center
+- Samuel's hand on the blanket — rough wool, used, washed, returned for the next passage
+- "How many?" / "Sixty-three."
+- Samuel's immediate commitment — no calculation, no weighing of risk
+- Callaghan, Brennan, Doyle — the workers named, trusted, humanized
+- "My father was a dock worker" — the Osprey's compartments connect to Samuel's origin story
+- Clara's hand on his at the rail — operational grip, the trust that comes through action
+- Samuel going below a second time alone — sitting in the compartment, breathing the darkness
+- The harbor bell at eight — the shift change calling him back to ordinary work
+- The Osprey "carrying what it always carried whether anyone knew or not" — echoing Ch10's mountains "present whether anyone could see them or not"

@@ -864,3 +864,76 @@
 **Character analyst**: All 6 dual-frequency Thomas seeds PASS. Clara voice CONSISTENT across all five markers (measured assessment, sensory grounding, strategic thinking, generous interpretation of Thomas, controlled emotional processing). Harper CONSISTENT with profile. George CONSISTENT. Courtship arc fully earned through 10-chapter progression. No fixes required.
 
 Word count: 3,032 → 2,941 (net -91 words from cuts)
+
+---
+
+# Chapter 12 — What the Ships Carry
+
+## New Facts Introduced
+
+- ch-12: Samuel's counting table near the warehouse loading doors — a second work surface besides the walnut desk upstairs; faces the river — added to bible? skip — minor interior detail
+- ch-12: Samuel's workers named: Callaghan (ground-floor crew manager, served in grandfather's warehouse in Cork), Brennan (night watch), Doyle (wife sews dockmen's coats, daughter brings bread Saturdays) — added to bible? yes, minor character entries
+- ch-12: The Osprey described: ~90 feet at waterline, two-masted coastal trader, dark hull, faded gunwale paint — added to bible? yes
+- ch-12: Osprey compartments detailed: concealed behind hull framing beneath ballast stone, opened by pressing specific point. Port-side compartment fits 3-4 people. Contains blankets, medical supplies (bandages, salve, glass bottle), clothing (men's shirts, women's shawls, child's coat), forged documents in oilcloth — added to bible? yes (extends Ch11 description)
+- ch-12: Clara's rescue count: 17 this season, 63 total since the Osprey's compartments were built — added to bible? yes
+- ch-12: Samuel's father from Wexford, Ireland — previously established as "Irish dock worker" (Ch3, Ch6). Wexford is a new specific detail — added to bible? yes, update samuel-taylor.md
+- ch-12: The cargo move plan: tonight after watch change, through Samuel's loading doors to third-floor storage. Medical stores first, documents second, personal effects third, blankets last — added to bible? skip — scene-specific plan
+- ch-12: Harbor bell at eight o'clock as time marker — added to bible? skip — incidental detail
+
+## Outline Deviations
+
+- ch-12: No outline existed for Ch12 prior to drafting. No source material directly depicts Clara showing Samuel the Osprey's compartments. The closest source (Book 1 Fierce Foundations, Ch5-6) depicts Clara explaining "legitimate business providing cover for certain operations" in a tea shop — entirely different register. Ch12 is original.
+- ch-12: Samuel goes below the Osprey a second time alone (not planned in the design sketch) — arose organically during drafting. The second descent into the compartment mirrors Clara's own experience sitting in the darkness (Ch11, line 115).
+- ch-12: Samuel's father specified as from Wexford — original detail; bible says only "Irish dock worker." The specificity grounds the connection between Samuel's origin and the Osprey's passengers.
+- ch-12: The Osprey echo of the mountains — "carrying what it always carried whether anyone knew or not" deliberately echoes Ch10's "present whether anyone could see them or not." Connects Clara's father's philosophy to the ship's function.
+
+## Continuity Flags
+
+- ch-12: Samuel's warehouse — described as Pennsylvania limestone on Front Street (Ch6). The loading doors face the river (Ch6: "salt and tar and the particular mineral coldness of the Delaware"). The counting table near the loading doors is new but non-contradictory. Second-floor office with walnut desk established in Ch6. — resolved? yes, consistent
+- ch-12: Workers who came unprompted — Samuel references men who came after "the trouble three nights ago." Timeline: Ch8 (Boundary raid, night) → Ch9 (next morning) → Ch10 (same evening) → Ch11 (next morning) → Ch12 (same morning as Ch11). The Boundary raid was two nights ago (established in Ch11). "Three nights ago" is incorrect — should be "two nights ago" or "the trouble two nights ago." — resolved? yes, FIXED to "two nights ago"
+- ch-12: George's behavior at the warehouse — previously established in Ch6: workers give him wide berth, recognized by the foreman. Ch12: Callaghan "had seen George before" and "merely nodded." The dockmen step aside. — resolved? yes, consistent
+- ch-12: Clara's armament — fully armed (leather coat, Colts, sword cane). Matches Ch11's rearming. Progressive disarmament pattern: Ch12 continues the "armed AND vulnerable" register — operational trust rather than physical disarmament. — resolved? yes, pattern extended
+- ch-12: First-name threshold — Samuel and Clara use first names throughout, consistent with Ch10's crossing. — resolved? yes
+- ch-12: Thomas's counter-complaint giving five days — from Ch11. Clara tells Samuel "five days." Consistent. — resolved? yes
+- ch-12: The Osprey's berth "two hundred yards south of Samuel's dock" — Ch11 established that Samuel's "dock section shared a berth boundary with the Osprey." "Two hundred yards south" is consistent with a shared boundary. — resolved? yes
+- ch-12: Osprey rescue count: 63 total, 17 this season — new fact, not contradicted by any prior chapter. The season is autumn 1846; the Osprey's age/build date not specified. — resolved? yes, non-contradictory
+- ch-12: Thomas dual-frequency seeds: Thomas is absent. The displacement is structural: Thomas works the counter-complaint at the desk while Samuel boards the Osprey with Clara. One explicit reference to Thomas: "Thomas Arlington was bent over a desk writing the legal arguments that would buy them five days." This frames Thomas as the supporting machinery — essential but removed from the intimate moment. Running total: Ch2 (5), Ch4 (1), Ch5 (5), Ch6 (5), Ch7 (7), Ch8 (8), Ch9 (6), Ch10 (8), Ch11 (6), Ch12 (1 structural) = 52 total.
+- ch-12: Harbor bell at eight o'clock — new time marker. Running tally of time-marking devices: grandfather clock midnight (Ch2), three (Ch8), one (Ch9), nine (Ch10), seven (Ch11); harbor bell eight (Ch12). The bell is a Samuel-world marker vs. the grandfather clock in Clara's townhouse. — resolved? yes, good variation
+- ch-12: The child's coat — "patched at the elbows and still smelling of soap." This detail has no prior reference and introduces a concrete human element to the rescue apparatus. Not a continuity issue. — resolved? yes, new detail
+- ch-12: The Osprey echo of the mountains — final line "carrying what it always carried whether anyone knew or not" echoes Ch10's Huangshan scroll: "the mountains are always present whether you can see them or not." Deliberate thematic connection between Clara's father's philosophy and the ship's hidden purpose. — resolved? yes, intentional
+
+## Subagent Review Log — Ch12
+
+**Style reviewer** (6 CRITICAL, 9 MODERATE, 8 MINOR):
+- C1: Clara's voice motivation ("not from secrecy but from the weight") — POV break. FIXED: reframed through physical environment ("Her voice was low in the close space").
+- C2: Clara's pause ("not hesitation but the precise interval") — borderline POV. FIXED: reframed as Samuel's read.
+- C3: "across a distance she had measured" — Clara's interiority. FIXED: "a distance he could feel her measuring."
+- C4: "something she had hoped for and found" — Clara's internal state. FIXED: cut to "not surprise but recognition."
+- C5: Thomas "was bent over a desk" — stated as fact. FIXED: "would be bent over a desk."
+- C6: "he knew it without being told" — FIXED: "he was certain of it without being told."
+- M1: "He understood" tell-after-show. FIXED: cut.
+- M2: "That was Clara" over-explaining. FIXED: cut declaration, kept contrast.
+- M4: "the particular" x3. FIXED: kept line 181 only; line 29 → "the close attention," line 101 → "the stale closeness."
+- M6: Face description near-identical to Ch10. FIXED: new descriptors (directness, composure) replacing repeated "fine bones, dark eyes, patience."
+- M7: Hand-size leitmotif too close to Ch10. FIXED: compressed to "Her hand was smaller than her grip suggested — it always was."
+- M8: Opening could tighten. ADDRESSED: varied "loading doors" repetition in opening cluster.
+- N2-N4: "cobblestones" x3 (acceptable), "loading doors" x6 FIXED to x4 by varying two instances, "twelve hours" x4 → "eighteen hours" x4 (historian fix).
+
+**Continuity checker** (1 CONTRADICTION fixed, 2 ADVISORY):
+- Line 147 "three nights ago" — FIXED: "two nights ago."
+- ADVISORY: Ch11 "tonight" vs Ch12 morning delivery — FIXED in Ch11: "what she would show him tonight" → "what she was about to show him."
+- ADVISORY: "two hundred yards south" vs Ch11 "shared berth boundary" — consistent, no change needed.
+- "Wexford" logged as new canon detail. Needs bible update.
+
+**Historian** (3 MUST-FIX, 5 CONSIDER):
+- "front firm" — anachronism. FIXED: "sham concern" (Ch12 prose and Ch11 YAML).
+- "operational" x3 in frontmatter — FIXED: "working" or rephrased.
+- "perimeter" security sense — FIXED: "keep the watch."
+- "rearmored" — FIXED: "the armor was back."
+- "shift change"/"night shift" — FIXED: "watch change"/"night watch."
+- "mapped the warehouse" — FIXED: "learned the warehouse."
+- Twelve-hour passage time Baltimore→Delaware Bay too short — FIXED: "eighteen hours" in both Ch11 and Ch12 (all instances).
+
+**Character analyst**: All PASS. No fixes required.
+
+**Net result**: 3,077 → 3,033 words. Status: revised. Cross-fixes applied to Ch11 (3 edits: passage time, "tonight" timeline, YAML "front firms").
