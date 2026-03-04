@@ -28,7 +28,7 @@
 
 | Book | Title | Era | Setting | Status |
 |---|---|---|---|---|
-| 1 | Fortune's Tide | Era 1 | Philadelphia, ~1846 | Drafting — 14 of 14 chapters outlined |
+| 1 | Fortune's Tide | Era 1 | Philadelphia, ~1846 | Drafting — 15 of 15 chapters outlined |
 | 2 | *(TBD)* | Era 1 | The Voyage West | Planned |
 | 3–4 | *(TBD)* | Era 1 | Building the Network | Planned |
 | 5–9 | *(TBD)* | Era 2 | FIERCE — Eve's Story | Planned |
@@ -55,8 +55,9 @@ The series is free to read. Start here:
 | 12 | [What the Ships Carry](books/book-01/chapters/ch-12.md) | Samuel Taylor | 3,033 |
 | 13 | [The Night's Work](books/book-01/chapters/ch-13.md) | Clara Chen | 3,551 |
 | 14 | [Below the Waterline](books/book-01/chapters/ch-14.md) | Clara Chen | 2,720 |
+| 15 | [The Ledger](books/book-01/chapters/ch-15.md) | Samuel Taylor | 2,789 |
 
-*Book 1: ~42,360 words drafted* · *Series total: ~42,360 words*
+*Book 1: ~45,150 words drafted* · *Series total: ~45,150 words*
 <!-- PROGRESS:END -->
 
 ### Themes

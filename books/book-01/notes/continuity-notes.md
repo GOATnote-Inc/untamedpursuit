@@ -1105,3 +1105,75 @@ Word count: 3,032 → 2,941 (net -91 words from cuts)
 - Closing section rewritten (differentiated from Ch13)
 - Cross-chapter duplications addressed (Brennan, lamplight, Virginia capes, clearances/seals)
 - Repetition patterns thinned (Not X — Y, sixty-three, architecture)
+
+---
+
+# Chapter 15 — The Ledger
+
+## New Facts Introduced
+
+- ch-15: Wallace's response to the inspection report is commercial warfare — pulling contracts from Samuel's dock section and approaching Clara's shipping partners with favorable terms through intermediaries. — added to bible? skip — plot action
+- ch-15: Commission clerk "Wilkins" visited Samuel's warehouse asking about the third floor — may be genuine or Wallace's instrument. Harbor commission, Office of the Inspector General. — added to bible? skip — minor plot detail
+- ch-15: Watchers near the coal depot, three days running — "not dockmen, their shoes are wrong" (Callaghan's observation). Surveillance of Samuel's warehouse. — added to bible? skip — scene detail
+- ch-15: The new fleet design: six rotating commercial vessels with temporary timber frames (set in two hours, strike in one) replace the Osprey's permanent concealed compartments. Each vessel under different registration through agents and trustees. Concealment moves from the ship to the pattern. — added to bible? yes — major operational change
+- ch-15: Samuel's shore trade counter-strategy — Chesapeake provisions trade, oyster boats, Maryland tobacco runs. Firms beyond Wallace's social reach. — added to bible? skip — tactical detail
+- ch-15: The Germantown timber firm is being courted by Wallace's consortium — considering transferring from Samuel. Contract worth eight hundred dollars a season. — added to bible? skip — plot pressure
+- ch-15: Clara's townhouse has a housekeeper (unnamed, middle-aged, efficient). — added to bible? skip — background detail
+- ch-15: Thomas's office has rear windows onto a walled garden (new detail, consistent with row house architecture). — added to bible? skip — setting detail
+- ch-15: The Osprey was Clara's third rescue vessel design. The first two failed — compartments too small, ventilation inadequate. — added to bible? yes — Clara's design history
+- ch-15: "Bainbridge's wharf" named as an alternate berth staging location. — added to bible? skip — geographic detail
+
+## Outline Deviations
+
+- ch-15: Step outline scene 13 ("Thomas Clara and Sam meet with local business heads") adapted as a private three-person strategy session rather than a group meeting. The "business heads" concept is addressed through Samuel's shore trade proposal — reaching out to smaller firms rather than rallying existing allies.
+- ch-15: The commission clerk (Wilkins) probing the warehouse is original — not in any source material. Creates escalating surveillance pressure.
+- ch-15: Clara's failed previous designs (two ships before the Osprey) are new details — not in source material. Deepens the engineering history.
+
+## Continuity Flags
+
+- ch-15: Samuel's warehouse layout — counting table, loading doors facing the river, window (established Ch14). Third floor with evidence (established Ch13). Callaghan's tally sheet, Brennan at the river doors. All consistent. — resolved? yes
+- ch-15: Thomas's office — Persian rugs, tactical maps, marble fireplace, grandfather clock, mahogany desk. All match Ch2 description. Ink on both hands — matches bible ("ink on both hands"). Cravat loosened — variation from Ch14's "cravat knotted with care" (appropriate: different day, different register). — resolved? yes
+- ch-15: Clara's progressive disarmament — leather coat open at throat (warehouse visit, semi-public), dark green silk with no weapons (townhouse, private working room). Consistent with pattern: Ch3 silk/cane, Ch4 performance gown, Ch6 silk under coat. — resolved? yes
+- ch-15: George positions — near Samuel's feet at warehouse (new: between Samuel and door), near fireplace at townhouse (consistent with Ch2). No verbal commands. — resolved? yes
+- ch-15: Samuel's father as dock worker — consistent with Ch3 (Thomas's dossier), Ch6 (Samuel tells Clara), Ch12 (Samuel tells Clara on the Osprey). "He came from Wexford with nothing" (Ch12). Now: "loaded ships for other men his entire life. He never chose the cargo." Consistent, new extension. — resolved? yes
+- ch-15: The Cathay "sails with the afternoon tide" — Ch14 established all three ships released from inspection. The Cathay returning to commercial service is consistent. — resolved? yes
+- ch-15: Thomas dual-frequency seeds: 10 seeds this chapter. (1) Already at desk when Samuel arrives — always there first; (2) "She's changing" — monitors Clara's domestic movements; (3) Proprietary gesture offering Samuel a chair in Clara's house; (4) "Welcome to the factory" — claiming Clara's vocabulary; (5) Leaning against desk rather than behind it — negotiation Samuel files; (6) "I told you he'd see it" — discussing Samuel before he arrived, managing introduction; (7) Presenting "his finest work" — the designer positioning; (8) Pen pausing to watch Clara watch Samuel — sharpest seed; (9) Quick inventory of room before leaving — cataloguing everything; (10) "Your berth calculations were useful" — grading Samuel's contribution. Running total: Ch2 (5), Ch4 (1), Ch5 (5), Ch6 (5), Ch7 (7), Ch8 (8), Ch9 (6), Ch10 (8), Ch11 (6), Ch12 (1), Ch13 (6), Ch14 (6), Ch15 (10) = 74 total.
+- ch-15: Clara-Samuel courtship progression — from the warehouse pattern (Ch13-14: Clara comes to Samuel after crisis) to the townhouse invitation (Samuel enters Clara's strategic space). The geography of their partnership expands: his territory → her territory. "I choose the cargo" echoes and extends Ch12's "My father was a dock worker" and "He would have carried those blankets himself." — resolved? yes, intentional progression
+- ch-15: Samuel's ledger as metaphor — mirrors Ch12's counting-table opening. His POV chapters begin with the arithmetic of his world. The "ledger" frame connects: contracts lost (commerce), evidence held (rescue), Clara's corrections in the margins (partnership). — resolved? yes, POV signature
+
+## Subagent Review Log — Ch15
+
+**Reviewed**: Historian, Style Reviewer, Continuity Checker, Character Analyst
+**Status**: All fixes applied. Status updated to `revised`. Word count: 3,226 → 2,789.
+
+### Fixes Applied
+
+**Continuity (3 CRITICAL, 1 MODERATE, 1 MINOR)**:
+- "dark shutters" → "white shutters" (contradicted Ch7, Ch10, bible)
+- "row house" → "corner property" (contradicted Ch7, bible)
+- "the parlor for tea" → "the dining room for dinner" (tea was at Chestnut Street, not townhouse)
+- "narrower than Samuel had expected" → reworked (Samuel has visited 3+ times)
+- "the boyish grin Clara had described" → "Samuel remembered" (he saw it firsthand in Ch7)
+
+**Historian (3 MUST-FIX, 1 CONSIDER)**:
+- "one point of failure" → "one weakness" (20th-c. systems engineering)
+- "Thomas had designed the architecture" → "Thomas had drawn the plans" (abstract sense anachronistic)
+- "crew rotations" → "crew assignments" (20th-c. organizational jargon)
+- "consortium" → "combination" (more period-natural)
+
+**Style (7 POV breaks, 3 tell-after-show, structural tics)**:
+- Callaghan POV break (line 48) — rewritten through observable behavior
+- Thomas POV breaks (lines 122, 154) — reframed through Samuel's impression
+- Clara POV breaks (lines 160, 198, 242) — rewritten through Samuel's observation
+- Tell-after-show cut at lines 90-91, 142, 150
+- "a man who" / "a woman who": 10 → 4 instances
+- "the way": 7 → 4 instances
+- "Not X — Y": 5 → 2 instances
+- "green silk": 3 → 1 (first mention only)
+- "sixty-three": 2 → 1 (opening only)
+- Cross-chapter duplications: George arrival template differentiated, "not surprise but recognition" repeat removed, clothing taxonomy trimmed, closing walk compressed
+- Coda compressed (cut restated material: contracts, Wallace arithmetic, sixty-three passages)
+
+**Character Analyst (1 minor concern)**:
+- "proprietary" → "familiar" at line 122 (dual-frequency slightly too visible)
+- All other checks PASS: Samuel voice, Thomas dual-frequency, Clara from outside, courtship progression, George

@@ -695,3 +695,63 @@
 - "They'll need to get past Callaghan. And me." — Samuel's quiet commitment
 - The lamplighter making his rounds — the infrastructure of ordinary life proceeding above the darker work
 - "Five lines that described what sixty-three people once needed" — the Osprey's loss measured in its purpose
+
+## Chapter 15: The Ledger
+
+- **POV**: Samuel Taylor (third Samuel POV chapter)
+- **Location**: Samuel's warehouse — Clara's townhouse (Thomas's office)
+- **Time**: One week after inspections; Wallace has the report. Autumn 1846.
+- **Word count target**: 2,800–3,200
+
+### Scene Beats
+
+1. **The Warehouse at Dawn** (~260 words): Samuel at his counting table. Two contracts quietly gone — the cotton broker on Third Street and the provisions firm on Callowhill. Both redirected to Wallace's territory. The erosion began the week since the inspections. Samuel keeps careful records. The warehouse sounds, Callaghan counting, the Delaware grey under cloud. Above him, the third floor holds sixty-three passages' worth of evidence.
+
+2. **Callaghan's Report** (~330 words): Morning count — barrels, dry goods, Germantown timber order. Then: a clerk from the harbor commission visited yesterday, asking about the third floor. Callaghan gave him "winter provisions, salt pork, seasonal stores." Card: Wilkins, Office of the Inspector General. Brennan reports watchers near the coal depot — three days, wrong shoes ("not dockmen"). "Keep counting."
+
+3. **Clara's Invitation** (~370 words): George arrives first (the pattern). Clara a minute behind — leather coat open at the throat, sword cane against her shoulder. A new register: between armor and grace. She reads Samuel's ledger in a glance. "Two contracts." "Wallace." "The pattern is the proof." George settles near Samuel's feet — new position, between him and the door. Clara: Thomas has new specifications. She wants Samuel to see them. At her townhouse. Thomas's office. The strategic inner sanctum.
+
+4. **Thomas's Office — Specifications and Wallace** (~1,250 words): The chapter's heart. Samuel enters the ground-floor office for the first time. Through his eyes: Persian rugs (muffled footsteps), tactical maps in gilt frames (annotations that aren't ornamental), marble fireplace, grandfather clock, mahogany desk. Thomas: ink on both hands, cravat loosened, "Welcome to the factory." Clara's word. Thomas knows she's changing upstairs. Samuel in the visitor's chair. Thomas reports on the clerk — "If he's genuine, Wallace is using the commission. If not, he's printing credentials."
+
+Clara arrives — dark green silk, no weapons, George to the fireplace. "Show him." Thomas presents: six rotating commercial vessels, temporary timber frames, no permanent concealment. Each vessel under different registration. Thomas designed it to resist inquiry. Samuel contributes: two berths simultaneously, not three (three draws attention). Thomas: "I told you he'd see it."
+
+Wallace has the report — four days. No new complaint, no authorities. Commercial warfare: three of Clara's shipping partners approached, one considering. The Germantown firm. "He's trying to make you too costly to support." Samuel proposes the shore trade counter-strategy: Chesapeake provisions, oyster boats, Maryland tobacco — firms beyond Wallace's social reach. "Shore trade fills the gap." Clara: "Do it." Thomas's pen pauses — he watches Clara's face as she looks at Samuel. The pen resumes.
+
+5. **After Thomas** (~500 words): Thomas leaves — "Your berth calculations were useful." His quick inventory of the room before departing. Samuel and Clara alone. She at the window, green silk catching firelight. He asks about the Osprey — how long? Four years, third design, first two failed. "People cannot cross water in a space where they cannot breathe." Thomas's design is better — concealment in the fleet, not the hull. "And the fleet moves through my dock section." "Yes." Samuel: "My father loaded ships for other men his entire life. He never chose the cargo." Pause. "I choose the cargo." The ledger between them balanced without naming the entry.
+
+6. **Closing** (~240 words): Samuel walks south. Specifications in his coat — Thomas's hand, Clara's corrections. Two contracts lost, Germantown considering. The warehouse waiting. Above him, evidence of sixty-three passages. He opens the ledger to a fresh page. Tomorrow the new entries begin.
+
+### Threads Advanced
+
+- Anti-trafficking campaign (Wallace's response is commercial warfare, not prosecution — pulling contracts, probing the warehouse, squeezing shipping partners; the new fleet system designed to replace the Osprey's compromised single-ship approach)
+- Thomas Arlington's jealousy seeds (Samuel enters Thomas's territory for the first time; Thomas monitors Clara's domestic movements; "I told you he'd see it" — Thomas managing the introduction; pen pauses watching Clara watch Samuel; the quick inventory before leaving; "your berth calculations were useful" — grading Samuel's contribution)
+- Clara-Samuel courtship (Clara brings Samuel into the strategic inner sanctum; she needs his dock section, his relationships, his knowledge; "I choose the cargo" — Samuel commits through his father's legacy; the ledger balancing between them)
+
+### Threads Introduced
+
+- Wallace's commercial squeeze (contracts pulled, shipping partners approached through intermediaries, commission clerk probing the warehouse — economic warfare to defund the rescue work)
+- The fleet system (six rotating vessels with temporary timber frames replace single-ship concealment; Thomas's legal architecture, Samuel's dock section, Clara's funding)
+- Shore trade counter-strategy (Samuel proposes Chesapeake and Eastern Shore routes — firms beyond Wallace's social influence)
+- Commission clerk Wilkins (genuine or Wallace's instrument — surveillance escalating)
+
+### Key Character Moments
+
+- "Samuel kept careful records" — the chapter's thesis in four words
+- Callaghan: "Not dockmen. Their shoes are wrong." — the detail man's gift for what breaks the pattern
+- George settling near Samuel's feet — new position, the dog accounting for the room
+- Clara's leather coat "open at the throat" — a register between: the crisis equilibrium
+- Thomas: "Welcome to the factory" — proprietary wit, claiming Clara's vocabulary
+- Samuel seeing the tactical maps for what they are — "annotations that were not ornamental"
+- Thomas: "She's changing" — the man who monitors Clara's movements (dual-frequency)
+- Thomas leaning against the desk rather than sitting behind it — the negotiation Samuel files for future reference
+- Thomas presenting the fleet design — "the care of a man presenting his finest work"
+- Samuel: "Two. Three draws attention." — the practical correction from the dock floor
+- Thomas: "I told you he'd see it" — discussing Samuel before he arrived (dual-frequency: managing the introduction)
+- Thomas's pen pausing to watch Clara's face as she looks at Samuel — the chapter's sharpest dual-frequency seed
+- Clara: "Do it" — two words of command that carry the weight of partnership
+- Thomas's inventory of the room before leaving — "a man who catalogued everything"
+- Clara in dark green silk, no weapons — the most exposed Samuel has seen her in a working room
+- "The Osprey was brute craft" — Clara's clear-eyed assessment of her own design
+- "My father loaded ships for other men his entire life. He never chose the cargo." / "I choose the cargo." — the chapter's emotional core
+- Thomas's hand and Clara's corrections — the specifications in Samuel's coat, the intellectual property migrating
+- The ledger opened to a fresh page — tomorrow
