@@ -872,3 +872,58 @@ Wallace has the report — four days. No new complaint, no authorities. Commerci
 - Clara standing on Spruce Street looking at Thomas's lamp — not entering
 - "One more name on the departure list. One more person leaving" — Thomas's displacement accumulating
 - The January night closing "like a hand around a lamp" — the final image: light contained by darkness
+
+---
+
+## Chapter 18: The Manifest
+
+- **POV**: Samuel Taylor (sixth Samuel POV chapter)
+- **Location**: Samuel's warehouse — Clara's townhouse (Thomas's office) — the south wharf
+- **Time**: Late March 1847 — three days before departure
+- **Word count target**: 2,700–2,900
+
+### Scene Beats
+
+1. **The Last Morning** (~400 words): Samuel at his warehouse. The ice has broken on the Delaware. The floor is half empty — shore trade transferred to Callaghan, provisions shipped. Callaghan delivers the morning tally and the message: two o'clock at the townhouse. Samuel closes his father's drawer for the last time. Three more days.
+
+2. **The Walk North** (~250 words): Samuel walks through a changed Philadelphia — the city sharpened by the knowledge of leaving it. Spring arriving. The sensory detail of a man recording what he is about to lose. George meets him at the townhouse steps.
+
+3. **The Office Transformed** (~600 words): Thomas's office covered in documents — the mind made visible. Thomas is leaner, tighter, something burned away by the winter. The meeting begins. Thomas presents the transition: power of attorney (three attorneys), fleet registrations (six vessels, four layers of trustees), correspondence system (three receiving ports), commission inquiry (delayed to September), Wallace (quiet), shore trade (sustaining). Thomas confirms he'll correspond directly with Callaghan. Clara reads, approves. Samuel observes Thomas's mastery — complete command of every detail.
+
+4. **The Manifest** (~400 words): Thomas produces the sailing manifest in his own hand. The Caroline, the route, the departure date: April third. The names — everyone going. Thomas reads Lily's training status. Clara signs without hesitating. Samuel signs below her. The names in Thomas's darker ink. Thomas's own name absent from the document he wrote.
+
+5. **Alone** (~450 words): Clara leaves to check the loading with Harper. Thomas and Samuel alone — the sealed packet (correspondence codes, Panama City agent), the smaller envelope for Clara (alternate routes if the chain breaks). Thomas's composure. "She builds. I hold what she builds. It's a reasonable arrangement." The grin comes and goes faster than it used to. Thomas turns back to his desk. The conversation is over.
+
+6. **The South Wharf** (~400 words): Samuel at the Caroline's berth. Loading underway — arms crates, water barrels, provisions from his own shore trade. Clara on deck with Harper. Their eyes meet across the pier. Samuel walks home through the March evening. The warehouse locked, the ledger closed, the father's drawer sealed. The Caroline waiting. Three days.
+
+### Threads Advanced
+
+- Thomas Arlington's jealousy seeds (Thomas alone with his documents; manifest in his hand, his name absent; "She builds. I hold what she builds"; the grin arriving and leaving faster; the winter has burned something in him)
+- Anti-trafficking campaign (fleet transition complete — six vessels registered, commission delayed to September, Wallace quiet, shore trade sustaining)
+- Clara-Samuel courtship (Samuel signs the manifest below Clara's name; leaving his world to follow her vision; their eyes meeting across the pier)
+
+### Threads Introduced
+
+- The Caroline (first fleet vessel named — coastal trader refitted for the Pacific, registered through Baltimore)
+- Callaghan as warehouse manager (Samuel's operation transferred — Thomas will correspond with him directly)
+- Thomas's correspondence system (coded letters through Kingston, Panama City, Monterey; alternate agents as backup)
+- April third departure (morning tide — the date set, three days away)
+
+### Key Character Moments
+
+- "The ice had broken on the Delaware" — the opening: winter releasing its grip, everything beginning to move
+- Samuel closing his father's drawer for the last time — the physical weight of leaving
+- Callaghan: "I expect I will" — no questions, no sentiment, just competence
+- Thomas leaner, tighter — "the winter had burned something in him that had not been replaced"
+- Thomas's office as mind made visible — every surface covered in the paper machinery of Clara's empire
+- Thomas on the commission: "I've buried them in procedure" — the analytical satisfaction
+- Samuel hearing Clara's "I know it won't" — the weight of years in three words
+- Thomas writing names in darker ink — starting from the people, adding the provisions after
+- Clara signing without hesitating — "the authority of a woman who did not reconsider"
+- Thomas and Samuel alone: "She builds. I hold what she builds. It's a reasonable arrangement."
+- The grin coming and going faster — "what remained was quieter"
+- Thomas turning back to the desk — the conversation over, the work continuing
+- Samuel's provisions from his own shore trade being stowed on the Caroline — his ledger made into a voyage
+- Clara and Samuel's eyes meeting across the pier — no gesture needed
+- "Some mornings, once they ended, did not come again" — Samuel's discovery at the pier
+- "Three days." — the final line, echoing the opening

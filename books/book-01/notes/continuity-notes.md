@@ -1292,6 +1292,24 @@ Word count: 3,032 → 2,941 (net -91 words from cuts)
 - ch-17: Clara-Lily courtship parallel — Lily's "Not out of fear. Out of choice" mirrors Samuel's "I choose the cargo" (Ch15). Both are declarations of agency, choosing to enter Clara's dangerous world. The parallel is intentional.
 - ch-17: Clara's progressive disarmament — not tracked. Clara is on horseback in the countryside; her armament is not described. The chapter's focus is on Lily's choice, not Clara's vulnerability. Consistent with public/outdoor settings where Clara would be armed.
 
+### Ch18: The Manifest
+
+- ch-18: The first fleet vessel is named: the Caroline. Coastal trader, ~100 feet, refitted for the Pacific, registered through an agent in Baltimore. Berthed at the south wharf. — added to bible? yes — first fleet vessel named
+- ch-18: The captain is unnamed in the chapter text (referred to only as "a captain Thomas had selected through three months of inquiry"). "Briggs" is an authorial tracking name only — not yet canon. — added to bible? skip — unnamed in prose
+- ch-18: Departure date set: April third, morning tide. — added to bible? yes — key timeline event
+- ch-18: Route confirmed: south to Jamaica, west to the Isthmus, overland to Panama City, north along the coast to California. — added to bible? yes — voyage route
+- ch-18: Company confirmed on manifest: Clara Chen, Samuel Taylor, David Harper and four men, Lily Montgomery, crew of twelve under Captain Briggs. Dogs: George, Ajax. Provisions for five months. — added to bible? yes — expedition roster
+- ch-18: Thomas's correspondence system: coded letters through three receiving ports (Kingston, Panama City, Monterey). Commercial addresses at each. Nothing names sender or recipient. Travel time: 6 weeks from Isthmus, 8-12 from Pacific. Backup: alternate agents in sealed envelope held by Clara. — added to bible? yes — critical intelligence infrastructure
+- ch-18: Thomas will correspond directly with Callaghan monthly — tallies, contracts, commission/Wallace activity. — added to bible? skip — operational detail
+- ch-18: Commission inquiry delayed to September by Thomas's legal objections (must establish standing). — added to bible? yes — timeline update
+- ch-18: Wallace quiet since January — commercial squeeze leveled, shore trade compensated. — added to bible? skip — status update
+- ch-18: Callaghan given full warehouse operation — contracts, accounts, keys to every floor. Takes over seamlessly. — added to bible? yes — Callaghan's expanded role
+- ch-18: Samuel's father's counting-table drawer — salvaged from the Wexford counting house. Closed for the last time. — added to bible? cross-reference — consistent with ch-03, ch-06 (Wexford father)
+- ch-18: Mrs. Aldridge named as Clara's housekeeper. — added to bible? yes — first naming of the housekeeper
+- ch-18: Thomas has an agent in Panama City — used for Clara's Pacific trade since the route opened. — added to bible? yes — network detail
+- ch-18: Clara wears dark blue silk to the meeting — no coat, no visible weapons. Hair gathered simply. — added to bible? skip — consistent with progressive disarmament in safe settings
+- ch-18: Thomas dual-frequency seeds: 6 seeds this chapter. (1) Thomas leaner — "the winter had burned something in him that had not been replaced"; (2) Office covered in documents — mind made visible, every detail catalogued; (3) Manifest written in his own hand, names in darker ink — started from the people who were leaving; (4) "She builds. I hold what she builds. It's a reasonable arrangement"; (5) The grin "came and went more quickly now"; (6) Thomas turning back to the desk — the conversation over, the work continuing. Running total: 85 + 6 = 91 total.
+
 ## Subagent Review Log — Ch17
 
 **Style Reviewer (3 CRITICAL, 6 MODERATE, 8 MINOR):**
@@ -1327,3 +1345,49 @@ Word count: 3,032 → 2,941 (net -91 words from cuts)
 - VERIFIED: Apple varieties (all pre-1847), geography (Ridge Pike, Germantown, Wissahickon), travel time (1hr plausible), firearms (percussion-cap muzzleloader consistent), monkshood/foxglove (period-appropriate), gaslights (1836+), gouache (period-appropriate)
 
 **Word count:** 2774 → 2672 (net -102 words from cuts)
+
+## Subagent Review Log — Ch18
+
+**Style Reviewer (0 CRITICAL, 7 MODERATE, 5 MINOR):**
+- M1 FIXED: Compressed transition briefing — cut tell-after-show at lines 83 ("Nothing in Clara's world escaped that attention...") and 89 ("and his mastery of it was complete")
+- M2 FIXED: POV at line 115 ("a woman who did not reconsider what she had decided") → "without pause — name, date, already done" (stays in Samuel's observation)
+- M3 FIXED: Gaslight ending varied — "sky above Market Street turning the color of old copper" replaces 3rd consecutive gaslight mention
+- M4 FIXED: Tricolons reduced — "every folio, every registration, every contingency" → "every folio and contingency" at line 135
+- M5 FIXED: "desk" 6→4 instances — cut at lines 85 ("before Samuel") and 141 (removed)
+- M6 FIXED: "winter" 6→3 — removed at lines 29, 89 (cut), 127 (rephrased), 143 ("the months ahead")
+- M7 FIXED: POV at line 123 ("not affection but habit") → "the gesture of someone who had stopped noticing it years ago"
+- MINOR FIXED: "weight" 5→3 — varied at line 67 ("ease"), removed at line 143
+- MINOR FIXED: "ink on both hands" verbatim from Ch15 → "ink staining his fingers"
+- MINOR FIXED: "[noun] who" family 7→5 — removed at lines 89, 115, 119; line 127 rephrased to dual-frequency version ("organized other people's departures")
+- MINOR FIXED: Samuel self-deprecation — line 119 "ten years of dock receipts had left their mark" (wry understatement)
+- MINOR NOTED: "containment" addressed under historian
+
+**Continuity Checker (0 CONTRADICTIONS, 8 ADVISORIES):**
+- All 22 verified facts clean — office description, Thomas physical, warehouse, fleet system, commission, shore trade, Wallace, George, Clara clothing, Callaghan role, manifest roster, townhouse, Spruce Street, Wexford, ten years
+- ADVISORY NOTED: Mrs. Aldridge first naming (no contradiction, track for bible)
+- ADVISORY FIXED: Captain Briggs name only in continuity notes, not in prose — clarified in notes
+- ADVISORY NOTED: Jamaica waypoint adds to route (consistent with earlier summaries, tracks for future)
+- ADVISORY NOTED: Jan-to-March gap (2 months, largest inter-chapter skip — intentional winter preparation)
+- ADVISORY NOTED: Harper "four men" — new specificity, track for consistency
+- ADVISORY NOTED: Thomas's Pacific agent — consistent with family trade connections
+- ADVISORY NOTED: Thomas upper/ground floor territory — no contradiction
+
+**Character Analyst (all PASS):**
+- Samuel voice: PASS (consistent with Ch15 and bible)
+- Thomas dual-frequency: PASS (6 seeds, all functional on both frequencies; manifest-in-his-handwriting strongest)
+- Clara's presence: PASS (decisive, generous, trusting of Thomas)
+- Callaghan: PASS (precisely consistent with Ch15)
+- Thomas-Samuel dynamic: PASS (authentic, professional respect as surface)
+- The leaving arc: PASS (emotional weight earned through accumulated specificity)
+
+**Historian (1 MUST-FIX, 6 CONSIDER, 19+ VERIFIED):**
+- MUST-FIX FIXED: "architecture" (banned abstract sense) at line 75 → "its bones"
+- CONSIDER FIXED: "containment" (banned-term proximity) → "a restraint" at line 63
+- CONSIDER FIXED: "transition folios" (modern management feel) → "transfer folios" at line 99
+- CONSIDER FIXED: "since the route opened" (implies established trade, pre-Gold Rush) → "since Clara first sent cargo through the Isthmus"
+- CONSIDER NOTED: Monterey as receiving port — plausible but unreliable in 1847; addressed by Thomas's contingency envelope
+- CONSIDER NOTED: Four layers of trustees — slightly aggressive but justified by narrative necessity
+- CONSIDER NOTED: Caroline route logic (Atlantic leg vs. full Pacific) — deferred for future clarification
+- VERIFIED: Power of attorney (feme sole, 1847), commission standing, Baltimore registration, mail travel times, Kingston hub, Chesapeake trade, spring phenology, gaslights, all vocabulary clean
+
+**Word count:** 2721 → 2638 (net -83 words from cuts)
