@@ -167,3 +167,45 @@
 - Lily's brief, luminous introduction — warmth and observation in equal measure
 - "Your tears — those I did not expect" — Clara's first undefended moment from Samuel's perspective
 - The closing hand — "She extended her hand. He took it. George rose to follow."
+
+---
+
+## Chapter 5: The Measure
+
+- **POV**: Clara Chen
+- **Location**: Clara's townhouse — Thomas's ground-floor office
+- **Time**: Morning after Ch4, Autumn 1846
+- **Word count target**: 2,400–2,800
+
+### Scene Beats
+
+1. **Dawn Dressing** (~250 words): Clara dresses before dawn — leather coat, holsters, Colts, sword cane. The ritual of rearming after an unarmed evening. George at her side. Brief reflection on Samuel's tears and her own surprise at them. The blade work can wait — Thomas is expecting her.
+
+2. **Thomas's Office** (~300 words): The familiar room — old paper, fresh ink, Thomas working since before dawn (or never stopped). Shirtsleeves rolled, cravat absent, ink-stained hands. One beat of assessment. "You look rested. Which tells me the evening went as planned." Clara: "The evening exceeded its plan."
+
+3. **The Debrief and the Plan** (~1,400 words): The chapter's heart. Clara reports the Golden Compass evening — Samuel chose her own establishment, recognized the Rembrandt, identified the curation's design. Thomas: "He reads rooms the way you do." Clara: "Differently. I read for threats. He reads for beauty." Clara sits, sheds armored posture. "He wept." Thomas's expression shifts — "I haven't heard you sing like that in a while. Confident. Bold. What can you say about that?" Clara admits Samuel surprised her. Thomas turns to the strategic plan — Task 1 from Ch2, now complete. Ten items ranked by impact and feasibility. Short-term: dock inspections, legal advocacy, informant expansion. Long-term: education, cultural change, legal reform. The most important item: Wallace. Thomas reveals Wallace's power rests on social respectability built through art-world patronage — concert subscriptions, charitable contributions, cultural institution donations. Wallace has cultivated Philadelphia's commercial elite through the same circuit Samuel attends. Remove his respectability, his commercial alliances collapse, his port-control infrastructure fails. Complication: Samuel has been attending the same events. Wallace's people may have connected Samuel to Clara after the Golden Compass evening. Clara orders a briefing for Samuel and a full map of Wallace's respectability network.
+
+4. **Departure** (~350 words): Clara collects her weapons and George. At the door, she pauses. "This is your finest work." Thomas's eyes stay on her face a beat longer than usual — memorizing, measuring, holding something against a standard only he can see. Then back to work. Clara steps through the door. The morning is bright. She has her week's work, the shape of the enemy's armor, and somewhere in the city, Samuel is waking with the memory of music.
+
+### Threads Advanced
+
+- Anti-trafficking campaign (strategic plan delivered — ten items, most important identified)
+- Thomas Arlington's jealousy seeds (the singing observation, the man at the desk)
+- Wallace escalation (art-world patronage as social cover revealed)
+
+### Threads Introduced
+
+- Wallace's art-world patronage circuit (cultural institutions as influence apparatus)
+- Samuel's art-world exposure as security concern (Wallace's people may have noted the connection)
+- The most important item: disrupting Wallace's social respectability
+
+### Key Character Moments
+
+- Clara's rearming ritual — the hinge between the woman who played cello and the woman who carries Colts
+- Thomas's "I haven't heard you sing like that in a while. Confident. Bold." — warm on first read, cataloguing on re-read
+- Clara admitting Samuel surprised her — rare vulnerability in Thomas's presence
+- "He reads rooms the way you do" / "Differently. I read for threats. He reads for beauty."
+- Thomas's ten-item plan — the culmination of Task 1 from Ch2
+- Wallace as architect of respectability, not brute — the art world as battlefield
+- Thomas's eyes lingering "a beat longer than usual" — dual-frequency seed
+- "This is your finest work" — delivered at the moment Clara's world is expanding beyond Thomas

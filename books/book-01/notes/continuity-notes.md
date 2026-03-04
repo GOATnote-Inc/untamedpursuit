@@ -292,3 +292,88 @@
 - Lily introduction: Economical — establishes her as perceptive, warm, and intimately familiar with Clara's capabilities in ~150 words. Plants enough for future recognition without overloading.
 - Thomas absence: Invisible on first read, resonant on re-read. Clara gave her most vulnerable artistic self to Samuel, not Thomas. Correct dual-frequency craft.
 - Courtship progression (combat → handshake → hand-take): Escalation sound and threshold earned.
+
+---
+
+# Chapter 5 — The Measure
+
+## New Facts Introduced
+
+- ch-05: Clara dresses before dawn — leather coat, holsters (multiple Colts), sword cane. Rearming ritual after the unarmed Golden Compass evening — added to bible? no
+- ch-05: Thomas has been working through the night (or never stopped) — cravat absent, shirtsleeves rolled, ink on both hands — added to bible? no
+- ch-05: Clara sang at the Golden Compass (Thomas: "I haven't heard you sing like that in a while. Confident. Bold.") — implies Thomas has heard her sing before — added to bible? no
+- ch-05: Thomas's ten-item strategic plan delivered (Task 1 from Ch2) — ranked by impact and feasibility — added to bible? no
+- ch-05: Short-term plan items: tighter dock inspections, legal advocacy for trafficking penalties, expansion of informant reach among dock workers — added to bible? no
+- ch-05: Long-term plan items: education, cultural change, legal reform at the state level — added to bible? no
+- ch-05: Wallace's power rests on social respectability purchased through art-world patronage — concert subscriptions, charitable contributions, donations to cultural institutions — added to bible? no
+- ch-05: Wallace has been cultivating Philadelphia's commercial elite through the same cultural circuit Samuel attends — art tours, subscription concerts, philanthropic gatherings — added to bible? no
+- ch-05: Wallace's commercial alliances (dock operators, shipping agents, harbormaster's staff) are built on his reputation as a gentleman — added to bible? no
+- ch-05: Samuel Taylor has been attending the same art-world events as Wallace — his visibility at the Golden Compass may have connected him to Clara in Wallace's intelligence — added to bible? no
+- ch-05: Clara orders a full map of Wallace's respectability network — every event, institution, merchant he has cultivated — added to bible? no
+- ch-05: Clara orders a briefing prepared for Samuel on the Wallace art-world connection — added to bible? no
+- ch-05: Lily Montgomery referenced by Clara as "the violinist" — consistent with Ch4 — added to bible? yes, already there
+- ch-05: Thomas describes his investigation as "not trivial" — week-long intelligence effort to trace Wallace beyond the docks — added to bible? no
+
+## Outline Deviations
+
+- ch-05: No formal plan document existed for Ch5 — chapter structure designed from source material: Fix_beginning_follow_up_from_Clara.md (Thomas post-performance debrief, singing observation), outline_2_16.md (scenes 7–9), and the strategic plan delivery (Task 1 from Ch2).
+- ch-05: Thomas's "I haven't heard you sing like that in a while" — adapted from Fix_beginning source. In source, Thomas comments on Clara's singing quality. Rendered as a full exchange with Clara's response about Samuel's tears and being surprised.
+- ch-05: Wallace art-world cover thread — deferred from Ch4 (where it was too dense) to Ch5 where it integrates naturally with the strategic plan delivery.
+- ch-05: Samuel security concern (art-world exposure) — not explicitly in source material but follows logically from Wallace's patronage circuit overlapping with Samuel's attendance. Added to create stakes and forward momentum.
+- ch-05: "Seen by you. Tip of the hat." — Thomas's line not in source. Added to provide warmth before the strategic pivot, and to give Thomas a moment of genuine friendship that dual-frequencies on re-read.
+- ch-05: The chapter does not include the dinner debrief or any Samuel direct appearance — kept focused on Clara-Thomas working relationship and strategic plan delivery.
+
+## Continuity Flags
+
+- ch-05: Clara rearming (leather coat, holsters, Colts, sword cane) after being unarmed at the Golden Compass (Ch4) — continues the progressive disarmament/rearming pattern established across Ch1–Ch4. — resolved? yes, intentional
+- ch-05: Thomas working all night — consistent with Ch2 pattern (always at the desk, always working when Clara arrives/leaves). — resolved? yes, pattern maintained
+- ch-05: Thomas's "I haven't heard you sing like that in a while" implies he has heard Clara sing before — needs to be consistent with established Clara-Thomas history. — resolved? yes, they've been partners for years; plausible he's attended previous Golden Compass performances
+- ch-05: Clara sits at Thomas's desk and "sheds armored posture" — echoes the domestic gesture from Ch2 (opening her coat). — resolved? yes, intentional echo
+- ch-05: "He reads rooms the way you do" — Thomas comparing Samuel to Clara. On first read: intellectual assessment. On re-read: Thomas identifying the man who will replace him in Clara's estimation. — resolved? yes, dual-frequency seed
+- ch-05: Wallace art-world patronage — consistent with Ch3's Wallace introduction (port control, war supply, mineral intelligence). Ch5 adds the social respectability layer. — resolved? yes, escalation not contradiction
+- ch-05: Samuel attending art-world events — consistent with Ch3 (frequents a tavern for the music, noticed hidden art) and Ch4 (Golden Compass subscriber for three months). — resolved? yes, established pattern
+- ch-05: "Homo sum" Latin motto still NOT used — reserved for bigger moment. — resolved? yes, held per plan
+- ch-05: Thomas dual-frequency seeds: (1) "I haven't heard you sing like that in a while" — warm observation or cataloguing what Clara shared with Samuel and not him; (2) "He reads rooms the way you do" — admiration or identification of his replacement; (3) eyes lingering "a beat longer than usual" — affection or measurement; (4) "This is your finest work" delivered as Clara's world expands beyond him — gratitude received at the moment of displacement; (5) the man always at the desk when Clara leaves. Total seeds across Ch1–5: Ch2 (5), Ch4 (1 — absence), Ch5 (5). — resolved? yes, all invisible on first read
+
+---
+
+## Chapter 5 — Subagent Review Log
+
+### Style Reviewer
+- POV: One CRITICAL breach fixed — closing paragraph narrated Samuel's internal state as fact; reframed as Clara's imagination ("or so she let herself imagine"). Two MODERATE breaches fixed — Thomas's internal motivation (line 42) re-anchored in Clara's perception; Thomas's recognition (line 96) re-anchored with "She could see." One MINOR breach fixed — "recalculation" (line 74) → "a shift she registered without being able to name."
+- Meta-reference: CRITICAL — "in Chapter Two" drafting artifact removed from line 70. Fourth-wall break eliminated.
+- Tense: Clean pass, no slips.
+- Dialogue tags: "softly" adverb removed from line 82. Chapter now uses "said" exclusively.
+- Pacing: Office description noted as echoing Ch2 — accepted (second visit to established space; the echo is intentional grounding). Arming ritual noted as covering familiar ground — accepted (the river metaphor is fresh, and the ritual carries new emotional weight post-Golden Compass).
+- Voice: Consistent with Ch1–Ch3 Clara. Minor "hinge" passage noted as slightly philosophical — accepted as earned by the emotional stakes.
+
+### Continuity Checker
+- Thomas's office: ALL elements match Ch2 (Persian rugs, tactical maps, marble fireplace, mahogany desk, grandfather clock, fire in grate, paper/ink smell). PASS.
+- Thomas's appearance: Silver at temples, sharp eyes, analytical composure — all bible-consistent. PASS.
+- George: No verbal commands, fireplace position, tail movement cues. PASS.
+- Clara's armament: Leather coat, holsters, Colts, silver-handled sword cane. PASS.
+- Golden Compass debrief vs. Ch4: All claims verified — three months, four visits, Rembrandt, curation design, weeping, George's head in lap. PASS.
+- Samuel references: Consistent with Ch3–Ch4 facts (employees loyal, trains nightly, art appreciation). PASS.
+- Wallace information: Builds on Ch3 (adds social respectability layer), no contradictions. PASS.
+- "And well, you should" callback: Handled as variation ("And well, you should think so"), properly flagged as echo. PASS.
+- "He sits at our table" attribution: FIXED — Ch3 established as Thomas's phrase; Ch5 now reads "using Thomas's phrase." Aligned.
+- Clara's daily schedule: Blade work deferred with reason given ("Thomas was expecting her"). PASS.
+- Timeline: Morning after Ch4 evening. Thomas had time to complete the plan. PASS.
+- Meta-reference "Chapter Two": FIXED — removed.
+- Thomas's knowledge of singing quality: FLAGGED — "I haven't heard you sing like that in a while" implies direct witness. Defensible as inference from Clara's demeanor + years of partnership. Accepted without change — Thomas knows Clara's singing from previous performances; the "confident, bold" assessment is his reading of her current bearing projected onto what he knows of her artistry.
+
+### Historian
+- CRITICAL vocabulary fixes applied: "dossier" → "portfolio" (regression from Ch3 fix); "infrastructure" → "foundation"; "briefing" → "report"; "debrief" (×2) → removed/replaced with "conversation" and "the night of the Mercy Jane."
+- MODERATE vocabulary fixes applied: "asset and vulnerability" → "strength and danger"; "impact and feasibility" → "consequence and practicability"; "inspection mechanisms" → "inspections"; "patronage operations" → "patronage"; "legal advocacy" → "legal campaigns"; "at the state level" → "through the legislature"; "scope" → "shape" / "extent."
+- MINOR: "exposure mapped" → "every connection traced"; "strategist" → "woman who calculated."
+- Material culture: All period-accurate (lamplight, Persian rugs, mahogany, leather portfolio, Colts, sword cane). PASS.
+- Social customs: Pre-dawn visit plausible within established framework. Wallace art-world patronage as social cover is historically excellent. PASS.
+- Previously deferred items unchanged: leather coat (bible canon), grandfather clock (accepted for readability).
+
+### Character Analyst
+- Clara voice: STRONG consistency with Ch1–Ch3. Sensory grounding, measured thinking, controlled vulnerability all present. Speech patterns match bible.
+- Thomas dual-frequency: ALL 13 SEEDS PASS — invisible on first read. Key seeds: "I haven't heard you sing like that in a while" (warm/cataloguing), "He reads rooms the way you do" (generous/measuring), "seems fascinating as hell" (enthusiastic/"seems" hedge), Clara's "finest quality" assessment (love/tragic blindspot), lingering eyes (wistfulness/betrayer's gaze). Seed 12 (lingering eyes) rated as strongest — reads as poignancy on first pass, not threat.
+- Thomas speech: Matches bible — analytical precision, dry wit, professional/teasing register distinction. Consistent with Ch2 Thomas.
+- Clara-Thomas dynamic: Trust shown through behavior (entering without knocking, shedding armor, processing vulnerability in his presence). Partnership feels earned.
+- Samuel absent but well-handled: Clara reveals strategic intel, keeps intimate dimensions private. Tears consistent with Ch4.
+- George: PASS — no verbal commands, positioned correctly, dual nature present.
