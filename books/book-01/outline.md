@@ -1048,3 +1048,60 @@ Wallace has the report — four days. No new complaint, no authorities. Commerci
 - Thomas's correspondence codes — "Thomas had mapped a route he would never travel"
 - "The people who had left him on the pier" — dual-frequency: factual first-read, abandonment second-read
 - "The ocean asked nothing of him that he could not give. The giving was the thing."
+
+---
+
+## Chapter 21: The Windward Passage
+
+- **POV**: Clara Chen (eighth Clara POV chapter)
+- **Location**: The Caribbean Sea — the Windward Passage
+- **Time**: April 15–16, 1847
+- **Word count target**: 2,800–3,200
+
+### Scene Beats
+
+1. **The Caribbean** (~300 words): Changed waters — color, air, vegetation on the wind. Clara's dawn forms shortened to close-quarters work. George staying near. Harper has doubled the watch since the Bahamas. Clara cleans her Colts in the grey light.
+
+2. **The Sail** (~500 words): Schooner spotted on the southeastern horizon. Captain identifies: fore-and-aft rigged, fast, closing directly. Clara takes the glass — dark hull, no flag, twenty-five men visible. Harper's tactical assessment: boarding attempt, starboard lee side. "They'll expect a cargo crew. Frightened men." Clara: "They'll be wrong."
+
+3. **Preparation** (~600 words): Clara addresses the company. Harper's men at the starboard rail with rifles. Crew with boarding pikes. Clara sends Samuel below — provisions, arms locker, Lily and the dogs. Samuel's face: the restraint of a man who wants to fight. "I understand." Clara checks the Colts. George at her left heel.
+
+4. **The Fight** (~800 words): Schooner closes, warning shot, grappling hooks. Harper's first rifle volley breaks the initial wave. Clara draws — the modified Colts, sharp coughs, clean geometry. George takes a man off the rail. Second volley. Crew with pikes. Brennan (Thomas's recommendation) at the port rail, pike unused, watching — then the moment passes. Pirates cut grappling lines and retreat. Clara's observation: they came directly, not on a patrol pattern. She dismisses it.
+
+5. **The Reckoning** (~400 words): Dead over the side. Minor casualties — cut forearm, graze on Jennings. Clara checks below: Samuel with a pistol, Lily against the bulkhead with Ajax. Clara cleans the Colts at the taffrail. Harper sits across from her: "They were organized. Not opportunists." Jamaica two days south. Clara watches Harper walk away — four years, the same competence. She finishes and goes below.
+
+### Threads Advanced
+
+- Clara-Samuel courtship (Clara sends Samuel below — trust as deployment; his restraint; the wordless exchange)
+- Thomas Arlington's jealousy seeds (Brennan's hesitation; the direct approach; Clara notices and dismisses both)
+- Harper's arc before death (combat commander at his finest — the man Clara trusts with violence and silence)
+
+### Threads Introduced
+
+- Caribbean violence (the passage as threshold — from open water to harbors that lie)
+- Clara's combat interiority (geometry of killing — what she sees, what she counts, what she sets aside)
+- The Caroline's vulnerability (a cargo vessel surviving by capability, not design)
+- Brennan (Thomas's last hire — the quiet one at the port rail)
+
+### Key Character Moments
+
+- "The Caribbean announced itself in color" — the opening: changed waters, changed rules
+- Clara's shortened dawn forms — close-quarters, tight spaces, readiness
+- George staying near since the Bahamas — the dog's instinct preceding human assessment
+- Harper doubling the watch "without being asked" — professional attunement
+- Clara cleaning Colts in grey light — ritual of preparation
+- "She's not on a crossing course — she's aimed at us" — the captain's read
+- Harper: "They'll expect a cargo crew... They'll be wrong." / "Yes, Miss Chen."
+- Clara addressing the company without raising her voice — "Shouting was for captains who did not trust their crews"
+- Samuel's face when ordered below — "not argument but the effort of restraining one"
+- "I understand" — Samuel's response, the wordless conversation at the stern rail invoked
+- Clara's Colts: "the modified percussion cap producing its sharp cough"
+- George: "One hundred and forty pounds of silent black force"
+- Harper directing fire: "Each name, each target, each instruction delivered as though the violence around him were weather"
+- Brennan at the port rail — pike unused, watching, weight back — the hesitation that dissolves
+- "This had not felt random" — Clara's thought, dismissed as coincidence
+- Clara checking below before anything else — finding Samuel with a pistol, Lily with her sketchbook closed
+- Cleaning the Colts at the taffrail — "the difference between a weapon that fired and one that did not was a tablespoon of neglect"
+- Harper: "They were organized. Not opportunists. Someone is running them."
+- Clara watching Harper walk away — "Four years. More mornings than she could count"
+- "Open water was honest. It was the people on it she was learning not to trust."

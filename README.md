@@ -28,7 +28,7 @@
 
 | Book | Title | Era | Setting | Status |
 |---|---|---|---|---|
-| 1 | Fortune's Tide | Era 1 | Philadelphia, ~1846 | Drafting — 20 of 20 chapters outlined |
+| 1 | Fortune's Tide | Era 1 | Philadelphia, ~1846 | Drafting — 21 of 21 chapters outlined |
 | 2 | *(TBD)* | Era 1 | The Voyage West | Planned |
 | 3–4 | *(TBD)* | Era 1 | Building the Network | Planned |
 | 5–9 | *(TBD)* | Era 2 | FIERCE — Eve's Story | Planned |
@@ -61,8 +61,9 @@ The series is free to read. Start here:
 | 18 | [The Manifest](books/book-01/chapters/ch-18.md) | Samuel Taylor | 2,638 |
 | 19 | [Morning Tide](books/book-01/chapters/ch-19.md) | Clara Chen | 2,643 |
 | 20 | [Open Water](books/book-01/chapters/ch-20.md) | Samuel Taylor | 2,833 |
+| 21 | [The Windward Passage](books/book-01/chapters/ch-21.md) | Clara Chen | 2,361 |
 
-*Book 1: ~58,740 words drafted* · *Series total: ~58,740 words*
+*Book 1: ~61,100 words drafted* · *Series total: ~61,100 words*
 <!-- PROGRESS:END -->
 
 ### Themes

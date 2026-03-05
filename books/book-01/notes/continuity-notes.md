@@ -872,7 +872,7 @@ Word count: 3,032 → 2,941 (net -91 words from cuts)
 ## New Facts Introduced
 
 - ch-12: Samuel's counting table near the warehouse loading doors — a second work surface besides the walnut desk upstairs; faces the river — added to bible? skip — minor interior detail
-- ch-12: Samuel's workers named: Callaghan (ground-floor crew manager, served in grandfather's warehouse in Cork), Brennan (night watch), Doyle (wife sews dockmen's coats, daughter brings bread Saturdays) — added to bible? yes, minor character entries
+- ch-12: Samuel's workers named: Callaghan (ground-floor crew manager, served in grandfather's warehouse in Cork), Tierney (night watch), Doyle (wife sews dockmen's coats, daughter brings bread Saturdays) — added to bible? yes, minor character entries
 - ch-12: The Osprey described: ~90 feet at waterline, two-masted coastal trader, dark hull, faded gunwale paint — added to bible? yes
 - ch-12: Osprey compartments detailed: concealed behind hull framing beneath ballast stone, opened by pressing specific point. Port-side compartment fits 3-4 people. Contains blankets, medical supplies (bandages, salve, glass bottle), clothing (men's shirts, women's shawls, child's coat), forged documents in oilcloth — added to bible? yes (extends Ch11 description)
 - ch-12: Clara's rescue count: 17 this season, 63 total since the Osprey's compartments were built — added to bible? yes
@@ -966,7 +966,7 @@ Word count: 3,032 → 2,941 (net -91 words from cuts)
 - ch-13: Thomas's appearance — ink on both hands, pen rhythm, boyish grin. Consistent with profile and Ch2/Ch9/Ch11. Silver at temples not mentioned (avoiding repetition from Ch11). — resolved? yes
 - ch-13: Harper — "Miss Chen," weathered face, professional deference, unfinished sentences. Consistent with profile and all prior chapters. — resolved? yes
 - ch-13: Samuel's warehouse — Pennsylvania limestone, loading doors facing the river, counting table downstairs, walnut desk upstairs. All consistent with Ch6, Ch12. — resolved? yes
-- ch-13: Workers — Callaghan (ground floor manager), Brennan (watch). Consistent with Ch12. Doyle not mentioned (not present at the night operation — no flag). — resolved? yes
+- ch-13: Workers — Callaghan (ground floor manager), Tierney (watch). Consistent with Ch12. Doyle not mentioned (not present at the night operation — no flag). — resolved? yes
 - ch-13: The Osprey — 200 yards south, dark, rigging visible. Consistent with Ch12. — resolved? yes
 - ch-13: Cargo order — medical stores, documents, personal effects, blankets last. Matches Ch12 plan exactly. — resolved? yes
 - ch-13: Eighteen-hour passage — not directly referenced in Ch13 prose (the passage time doesn't come up in the cargo move scene). No conflict. — resolved? yes, N/A
@@ -1071,7 +1071,7 @@ Word count: 3,032 → 2,941 (net -91 words from cuts)
 - "A man who" construction: Reduced from 6 instances to 0. Replaced with observable behavior, Clara's inferences, or restructured sentences.
 - Closing walk: Fully rewritten to differentiate from Ch13. Fragment list ("The leather coat. The cane. George steady at her side.") replaced with continuous sentence. Ch13 ends on "The night's work was done"; Ch14 ends on "Something else had already begun."
 - "Not X — Y" pattern: Reduced. "Not prevention but containment" → "containment" (dash construction cut).
-- Cross-chapter duplications addressed: Brennan description thinned (was near-identical to Ch13); "across the low lamplight" → "over the counting table"; Virginia capes/Osprey design memory cut (paraphrased Ch11); "clearances, the seals" doublet freshened.
+- Cross-chapter duplications addressed: Tierney description thinned (was near-identical to Ch13); "across the low lamplight" → "over the counting table"; Virginia capes/Osprey design memory cut (paraphrased Ch11); "clearances, the seals" doublet freshened.
 - "Sixty-three" reduced from 4 to 3 (lines 125, 147, 225). Third occurrence (Osprey memory section) cut with the Virginia capes passage.
 - "Architecture" reduced from 4 to 1 (line 125 only — physical, literal use). Removed from closing.
 - Back-half recap compressed: Closing section thinned from 9 lines to 5. Removed repetitive cargo inventory and Thomas recap.
@@ -1082,7 +1082,7 @@ Word count: 3,032 → 2,941 (net -91 words from cuts)
 - ADVISORY: Warehouse ground-floor window — new detail, not contradicted. Logged.
 - ADVISORY: George's post-danger gesture — new behavioral detail, consistent with character. Changed "after operations" to "when the danger had passed" (also historian fix).
 - ADVISORY: Thomas authored Section Fourteen — consistent with Ch11 (the inspection schedule he drafted).
-- ADVISORY: Brennan description thinned to avoid echo with Ch13.
+- ADVISORY: Tierney description thinned to avoid echo with Ch13.
 - All core facts verified: four years, inspection timeline, Osprey layout, sixty-three count, child's coat, cargo move. PASS.
 
 ### Historian
@@ -1103,7 +1103,7 @@ Word count: 3,032 → 2,941 (net -91 words from cuts)
 - 2 tell-after-show passages cut
 - 6 "a man who" constructions eliminated
 - Closing section rewritten (differentiated from Ch13)
-- Cross-chapter duplications addressed (Brennan, lamplight, Virginia capes, clearances/seals)
+- Cross-chapter duplications addressed (Tierney, lamplight, Virginia capes, clearances/seals)
 - Repetition patterns thinned (Not X — Y, sixty-three, architecture)
 
 ---
@@ -1131,7 +1131,7 @@ Word count: 3,032 → 2,941 (net -91 words from cuts)
 
 ## Continuity Flags
 
-- ch-15: Samuel's warehouse layout — counting table, loading doors facing the river, window (established Ch14). Third floor with evidence (established Ch13). Callaghan's tally sheet, Brennan at the river doors. All consistent. — resolved? yes
+- ch-15: Samuel's warehouse layout — counting table, loading doors facing the river, window (established Ch14). Third floor with evidence (established Ch13). Callaghan's tally sheet, Tierney at the river doors. All consistent. — resolved? yes
 - ch-15: Thomas's office — Persian rugs, tactical maps, marble fireplace, grandfather clock, mahogany desk. All match Ch2 description. Ink on both hands — matches bible ("ink on both hands"). Cravat loosened — variation from Ch14's "cravat knotted with care" (appropriate: different day, different register). — resolved? yes
 - ch-15: Clara's progressive disarmament — leather coat open at throat (warehouse visit, semi-public), dark green silk with no weapons (townhouse, private working room). Consistent with pattern: Ch3 silk/cane, Ch4 performance gown, Ch6 silk under coat. — resolved? yes
 - ch-15: George positions — near Samuel's feet at warehouse (new: between Samuel and door), near fireplace at townhouse (consistent with Ch2). No verbal commands. — resolved? yes
@@ -1492,3 +1492,38 @@ Word count: 3,032 → 2,941 (net -91 words from cuts)
 - **Character analyst**: All PASS. "shaping"→"sustaining" (Thomas seed softened). Lily given one spoken line (quiet post-music moment). "[noun] who" triple-stack at line 159 broken into parallel fragments.
 - **Continuity checker**: "company of twelve" arithmetic error (8 crew + 7 company = 15) → fixed to "fifteen souls." Harper's origin story, pipe tobacco, training sequence, Clara's father Pacific crossing, Wallace positioning all flagged as new facts (no contradictions). "wet planking... wet planking" duplication caught and fixed post-edit.
 - Word count: 2,983 → 2,833. Status: draft → revised.
+
+### Ch21: The Windward Passage
+
+- ch-21: Clara POV. April 15–16, 1847. Pirate encounter in the Windward Passage (between Cuba and Hispaniola).
+- ch-21: Clara shortened her dawn forms since entering Caribbean waters — close-quarters work, wrist cuts, half-turns.
+- ch-21: George has stayed near Clara (quarterdeck rail, not mainmast) since passing the Bahamas — new behavioral detail.
+- ch-21: Harper doubled the watch three days before the encounter — four-hour watches instead of six. Spends nights topside, dozing against the capstan.
+- ch-21: Clara carries four Colts for the sea fight (six on the Mercy Jane in Ch1). Leather case, oiled, loaded, percussion caps seated.
+- ch-21: Pirate vessel: schooner, fore-and-aft rigged, two masts raked sharply aft, dark hull, no flag. Twenty-five men visible. Shallow draft, fast in light air.
+- ch-21: Harper's tactical prediction — boarding from starboard (lee side) — exactly correct.
+- ch-21: Clara sends Samuel below to secure provisions, arms locker, protect Lily. Samuel restrains his objection. "I understand."
+- ch-21: Harper's men named: Davis, Marsh, Cole, Jennings. Davis and Marsh at starboard rail, Cole at stern, Jennings at foremast. Jennings grazed on left shoulder.
+- ch-21: Crew armed with boarding pikes. One crewman cut on forearm by cutlass.
+- ch-21: Tierney — crew member, "the quiet one, the last hired before they sailed, Thomas's recommendation." During the fight: at port rail, pike unused, weight back, watching. Moved toward an aft-rail pirate too late (Cole handled it). Dual-frequency: on first read, a scared man; on re-read, Thomas's agent.
+- ch-21: George attacks a pirate off the rail — "one hundred and forty pounds of silent black force." Blood on his muzzle afterward.
+- ch-21: Fight duration: minutes. Pirates cut their own grappling lines and retreat south.
+- ch-21: Three dead pirates left on Caroline's deck — put over the side. Five-seven visible dead on the schooner's retreating deck.
+- ch-21: Clara's observation: "They came directly. Not cruising the passage, not working a patrol line." She attributes it to coincidence — a pirate with a glass on the Hispaniola coast. Dual-frequency: on re-read, Thomas leaked the route.
+- ch-21: Harper post-fight: "They were organized. Not opportunists. Crewed, armed, practiced. Someone is running them." Clara: "Someone is always running them, Mr. Harper."
+- ch-21: Jamaica two days south from the Windward Passage. Starboard bulwark needs carpentry.
+- ch-21: Clara went below before anything else after the fight — found Samuel with a pistol, Lily against the bulkhead with Ajax, sketchbook closed in her lap.
+- ch-21: Clara heard Harper's "open water is honest" line to Samuel through the planking from her berth — new detail (she was listening).
+- ch-21: Thomas dual-frequency seeds: 2 this chapter. (1) Tierney at the port rail — Thomas's recommendation, didn't fire. (2) Pirates' direct approach — "This had not felt random," Clara thinks, then dismisses. Running total: 98 + 2 = 100.
+- ch-21: George drives pirate "over the side" (revised from "off the rail") — "one hundred and forty pounds of silent black force."
+- ch-21: Captain's mate mentioned for first time (bandages crewman's forearm).
+- ch-21: Caroline established as "a hundred feet" of timber and canvas (consistent with Ch18 ~100 feet).
+- ch-21: Crew "twelve days at sea" (revised from "two weeks") — April 3 departure to April 15 encounter.
+- ch-21: NOTE — Tierney renamed from Brennan to avoid collision with Samuel's warehouse night watchman (Chs 12-15).
+
+### Ch21 Subagent Review Log (revised)
+- **Style reviewer**: 3 CRITICAL (POV breaks lines 92, 96, 158 — all fixed), 2 MODERATE (tell-after-show lines 80, 134 — both cut), 1 MODERATE POV mild (line 162 — fixed). Tricolons 9→4. "the way" 3→0. "deck" 14→9, "rail" 12→10, "man/men" 18→12.
+- **Continuity checker**: 3 CONTRADICTIONS fixed (sixty→hundred feet, two weeks→twelve days, "the dogs"→"Ajax"), 22 ADVISORIES logged. 40+ items VERIFIED.
+- **Historian**: 1 MUST-FIX ("shifts"→"watches" — fixed). 15 items VERIFIED (schooner, boarding pikes, capstan, bulwark, lee-side tactics, Colt availability, vegetation smell, deck washing, percussion caps). 0 anachronisms from banned list. Piracy in 1847 assessed as plausible given narrative framing as hired raiders.
+- **Character analyst**: All PASS. Clara voice, combat, Samuel deployment, Harper pre-eulogy, George, Lily. Both dual-frequency seeds PASS ("platonic ideal" for direct-approach seed). Tierney name collision flagged and resolved.
+- **Status**: draft → revised. Word count: 2361.
