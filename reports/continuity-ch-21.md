@@ -137,7 +137,7 @@ The Caroline enters the Caribbean. Clara shifts to close-quarters readiness. A p
 
 ## Errors (must fix)
 
-### 1. Crew size discrepancy: eight vs. twelve
+### 1. Crew size discrepancy: eight vs. twelve ✓ RESOLVED (2026-03-05): Ch-18 corrected from "twelve" to "eight" and "twenty people" to "seventeen people." Ch-21's "eight men" is now consistent across all chapters.
 
 - **Draft says (line 76)**: "The crew stood in a loose line -- eight men, rope-roughened and tanned from twelve days at sea."
 - **Ch-18 says (line 107)**: "A crew of twelve under a captain Thomas had selected through three months of inquiry."

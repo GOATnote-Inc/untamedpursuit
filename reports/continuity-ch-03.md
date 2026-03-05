@@ -50,7 +50,7 @@
   - **Location**: ch-03, line 137
   - **Note**: Samuel is the speaker in both cases. His own recollection of the same event has changed between chapters. One of these must be corrected for consistency.
 
-- **[Physics / Setting]**: East-facing windows cannot produce warm afternoon light at 3 PM. The sun is in the west during the afternoon; east-facing windows would be in shadow.
+- **[Physics / Setting]** ✓ FIXED (2026-03-05): Changed "east-facing" to "west-facing" in ch-02 (2 instances), ch-03 (2 instances), and bible/world/locations.md. — East-facing windows cannot produce warm afternoon light at 3 PM. The sun is in the west during the afternoon; east-facing windows would be in shadow.
   - **Draft says**: "east-facing windows, which filled the room with afternoon light that was warm without being interrogative" (ch-03, line 87); "The afternoon light fell through the east-facing windows" (ch-03, line 119)
   - **Reality**: East-facing windows receive direct sunlight in the morning. For warm 3 PM light, the windows should face west or southwest.
   - **Location**: ch-03, lines 87 and 119; also present in ch-02, lines 94 and 98

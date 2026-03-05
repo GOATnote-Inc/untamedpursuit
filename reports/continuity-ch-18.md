@@ -62,7 +62,7 @@ Ch-18 contains four scenes separated by section breaks. POV: Samuel Taylor throu
 
 ## Errors (must fix)
 
-### 1. Crew Count Discrepancy: 12 vs. 8
+### 1. Crew Count Discrepancy: 12 vs. 8 ✓ FIXED (2026-03-05): Changed "twelve" to "eight" (line 107) and "twenty people" to "seventeen people" (line 157). Matches ch-20 and ch-21.
 - **Category**: Factual inconsistency (cross-chapter)
 - **Draft says**: "A crew of twelve under a captain Thomas had selected through three months of inquiry" (line 107). Samuel also calculates "twenty people for five months at sea" (line 157), which requires 12 crew + 8 passengers = 20.
 - **Later chapters say**: Ch-20 (line 59): "The crew -- eight men, all chosen by Thomas." Ch-20 (line 61): "how much water fifteen souls consumed per day." Ch-21 (line 76): "The crew stood in a loose line -- eight men."

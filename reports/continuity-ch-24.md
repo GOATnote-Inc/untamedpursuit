@@ -60,7 +60,7 @@
 
 ## Errors (must fix)
 
-### 1. Trail Distance Contradiction: "Eighteen miles" vs. "Twenty miles"
+### 1. Trail Distance Contradiction: "Eighteen miles" vs. "Twenty miles" ✓ FIXED (2026-03-05): Changed all three "eighteen miles" instances to "twenty miles" in ch-24 body text (lines 68, 134, 162) and YAML frontmatter. Outline also updated.
 
 - **[continuity -- cross-chapter]**: Ch-24 states the mule trail is eighteen miles (line 68: "Eighteen miles"), and Samuel later reflects on "eighteen miles of mud" (line 134). Ch-23 states "Twenty miles of jungle" (ch-23, line 99) in its prose text, and the ch-23 frontmatter also says "twenty miles."
 - **Draft says (ch-24)**: "Eighteen miles" (lines 68, 134, 162)
@@ -69,7 +69,7 @@
 - **Location**: Lines 68, 134, 162 of ch-24; line 99 of ch-23
 - **Note**: The historian's revision of ch-23 changed 18 to 20 miles (per the continuity notes revision record). Ch-24 was drafted after that revision but uses the pre-revision figure. One or the other must be corrected for consistency.
 
-### 2. "Eighteen miles of mud" Before Completing Eighteen Miles
+### 2. "Eighteen miles of mud" Before Completing Eighteen Miles ✓ FIXED (2026-03-05): Changed "eighteen miles of mud" to "twelve miles of mud" (20 total - 8 remaining = 12 walked). Arithmetic now correct.
 
 - **[scene-internal logic]**: At the night camp (line 134), Samuel reflects that he "had walked eighteen miles of mud without complaint." However, at dawn the next morning, Harper announces "Eight miles" to Panama City (line 156). If the trail is eighteen miles total and eight remain, Samuel has only walked approximately ten miles by the time of his nighttime reflection. The "eighteen miles" claim is premature.
 - **Draft says**: "how he had walked eighteen miles of mud without complaint" (line 134, during the night camp scene)
