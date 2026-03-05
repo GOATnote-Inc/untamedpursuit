@@ -56,7 +56,7 @@ Ch-05 contains a single continuous scene with one section break (Thomas's office
 - **Issue**: Thomas promised the plan the same evening he delivered Samuel's dossier (Ch-03). Ch-05 is set approximately a week later (morning after Ch-04, which is ~one week after Ch-01). The plan appears to have taken significantly longer than promised. Thomas's Ch-05 statement explains this ("the investigation required to support it has not been trivial"), but the missed deadline is never acknowledged on-page. Given Thomas's characterization as meticulous and reliable, it would be in character for either Thomas to note the delay or Clara to notice the discrepancy.
 - **Location**: Line 98
 
-### 2. [Scene-internal knowledge] Clara's claim about Samuel recognizing the Rembrandt "on his first visit"
+### 2. [Scene-internal knowledge] Clara's claim about Samuel recognizing the Rembrandt "on his first visit" ✓ FIXED (2026-03-05): Removed "on his first visit" — now reads "Four visits — and he spent each one studying the Rembrandt before anything else." Visit count defensible (Clara owns the venue).
 
 - **Draft says** (line 62): Clara tells Thomas "He recognized the Rembrandt on his first visit."
 - **Issue**: This specific detail -- that it was his *first* visit -- was never stated on-page in Ch-04. Ch-04 says Samuel studied the Rembrandt on "four separate visits" (ch-04, line 58) but does not specify when he first recognized it as a Rembrandt. Clara could have learned this during the off-page dinner conversation (Ch-04 ends at the threshold of the private dining room), which is a plausible source. However, since the dinner itself was never narrated, this is unattributed knowledge unless the author considers the off-page dinner sufficient justification.

@@ -69,7 +69,7 @@ Ch-09 contains six scenes separated by section breaks. The POV character through
 | Fact stated | Who states it | Source / How they know | Verdict |
 |-------------|---------------|----------------------|---------|
 | Samuel's workers came to the warehouse early, unprompted | Samuel | Samuel's own knowledge of his employees | Valid |
-| Clara knows about the workers arriving | Clara | States "Harper walks the waterfront before dawn. He saw your workers arriving." | **WARNING** (see below) |
+| Clara knows about the workers arriving | Clara | States "Harper walks the waterfront before dawn. He mentioned your workers arriving." ✓ FIXED | **WARNING** resolved |
 
 **WARNING — Off-page knowledge attribution**: Clara tells Samuel "Harper walks the waterfront before dawn. He saw your workers arriving" (lines 205-206). Harper's on-page dialogue in Scene 3 does not mention Samuel's workers — he discusses Wallace's men scattering and the dock workers' awareness. Clara attributes this knowledge to Harper's pre-dawn walk, which is plausible (Harper could have mentioned it during a fuller conversation not fully rendered on-page), but the information is not acquired on-page. This is defensible as a reasonable off-page briefing but worth the author's attention.
 

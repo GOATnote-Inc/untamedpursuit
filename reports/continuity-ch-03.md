@@ -58,7 +58,7 @@
 
 ## Warnings (review needed)
 
-- **[Scene-internal knowledge / Unattributed phrase]**: Clara thinks "He sits at our table" and attributes the phrase to Thomas ("recognized the phrase as Thomas's"), but Thomas never says this phrase on-page in ch-02 or ch-03. His closest statement is: "He is wealthy, strategic, ethical, brave, trains every night, and appreciates art that most people walk past without seeing" (ch-03, line 69).
+- **[Scene-internal knowledge / Unattributed phrase]**: ✓ FIXED (2026-03-05): Changed "recognized the phrase as Thomas's" to "heard it in Thomas's register" — now Clara's projection of Thomas's sensibility, not a direct quote attribution. Clara thinks "He sits at our table" and attributes the phrase to Thomas ("recognized the phrase as Thomas's"), but Thomas never says this phrase on-page in ch-02 or ch-03. His closest statement is: "He is wealthy, strategic, ethical, brave, trains every night, and appreciates art that most people walk past without seeing" (ch-03, line 69).
   - **Location**: ch-03, line 167
   - **Assessment**: The phrase could be read as Clara compressing Thomas's sentiment into a formulation, or as something Thomas said off-page. However, ch-05 later references it as "Thomas's phrase" explicitly (ch-05, line 86). The author may want to have Thomas say this phrase on-page in ch-03 (perhaps in his summary at line 69) to anchor the attribution, or have Clara's interiority frame it more clearly as her paraphrase.
 

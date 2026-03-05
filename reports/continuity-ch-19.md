@@ -165,7 +165,7 @@ None found. All factual claims in the chapter check out against the bible, timel
 - **Assessment**: If the Mercy Jane rescue occurred in September 1846, then seven months to April 1847 is correct. If it occurred in October or November, the count would be closer to 5-6 months. The ch-01 frontmatter says "Autumn 1846" without specifying the month. The ch-02 frontmatter also says "Autumn 1846." Ch-16 is "Late Autumn 1846." This is consistent with "seven months" only if the rescue is placed in September. The same "seven months" reference appears in ch-20. The author should verify the intended month for the ch-01 rescue; if September, seven months is accurate. If October or later, adjust to "six months" or "half a year."
 - **Location**: Line 119
 
-### W3 -- Clara knowing about "Samuel's father's drawer" (line 131)
+### W3 -- ✓ FIXED (2026-03-05): Changed "Samuel's father's drawer" to "the doors of Samuel's warehouse" — observable fact, no private psychology. Clara knowing about "Samuel's father's drawer" (line 131)
 
 - **Category**: Scene-internal knowledge / POV knowledge
 - **Draft says**: "Somewhere in that mass of brick and stone, Callaghan was opening Samuel's father's drawer." (line 131). Clara thinks this in her POV interiority.
@@ -180,7 +180,7 @@ None found. All factual claims in the chapter check out against the bible, timel
 - **Assessment**: The object is the same -- Thomas's leather case established in ch-18 (line 127). The revision notes (continuity-notes.md, line 1441) indicate this was a deliberate variation: "leather case 5->varied (case, folio after 2nd use)." However, a "folio" is a book or folder of loose sheets, while a "leather case" is a container. Thomas packed folios *into* the leather case (ch-18, lines 127-128). Calling the case itself a "folio" conflates the container with its contents. The author may want to use "the case still under his arm" or "the leather case" for clarity, since the shift could confuse attentive readers.
 - **Location**: Line 161
 
-### W5 -- POV projection onto Samuel (line 181)
+### W5 -- ✓ FIXED (2026-03-05): Changed "the city he had closed behind him three days ago" to "the city he had not stopped watching since they cast off" — now pure external observation. POV projection onto Samuel (line 181)
 
 - **Category**: POV discipline
 - **Draft says**: "Samuel still at the stern, watching the last of Philadelphia disappear -- the city he had closed behind him three days ago." (line 181).

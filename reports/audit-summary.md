@@ -12,10 +12,10 @@
 |--------|-------|
 | Chapters audited | 24 (ch-01 through ch-24) |
 | Errors found | 38 |
-| Errors fixed | 38 |
+| Errors fixed | 49 (38 original + 11 promoted warnings) |
 | Errors remaining | 0 |
 | Warnings logged | 95+ |
-| Warnings recommended for promotion | 13 |
+| Warnings promoted and fixed | 11 (of 13 reviewed; 2 false positives) |
 | Reports generated | 24 continuity + 5 regression + 2 character-analyst |
 | Files changed | 14 chapter files, 3 bible files, outline, continuity-notes |
 
@@ -214,25 +214,28 @@ All 10 remaining errors were fixed and regression-checked. Details:
 
 ---
 
-## Warnings Recommended for Promotion to Errors (13)
+## Promoted Warnings — Now Fixed (11 of 13 promoted; 2 determined false positives)
 
-These warnings involve characters possessing knowledge, memories, or emotional reactions with no on-page source — the exact class of error the upgraded presence-map and experiential-grounding engines were designed to catch.
+| # | Ch | Warning | Fix Applied |
+|---|-----|---------|-------------|
+| 39 | 03 | Clara attributes "He sits at our table" to Thomas — unattributed phrase | "heard it in Thomas's register" — now Clara's projection, not a quote (line 167) |
+| 40 | 05 | Clara says Samuel recognized Rembrandt "on his first visit" — unverifiable | Removed "on his first visit"; now "Four visits — and he spent each one studying the Rembrandt before anything else" (line 62) |
+| 41 | 05 | Clara knows Samuel's exact visit count | Combined with #40 — visit count defensible (Clara owns the venue), but "first visit" specificity removed |
+| 42 | 06 | Clara describes Samuel weeping "in a room full of strangers" — she was on stage | "the eyes that had been wet when she met him after the performance" (line 130) |
+| 43 | 07 | Samuel remembers "the gesture she had used at the riverfront" — attribution reversed | "as he had at the riverfront, but with the understanding now of what it carried" (line 192) |
+| 44 | 09 | Clara says Harper "saw" workers arriving — no on-page report | "He mentioned your workers arriving" — implies off-page security report (line 204) |
+| 45 | 13 | Clara names Callaghan and Brennan without shown acquisition | Added "I've spoken with both of them" — establishes first-hand knowledge (line 75) |
+| 46 | 14 | Clara says Samuel watched ships "built and broken" — his father loaded ships | "ships loaded and emptied and loaded again" — corrects to dock work (line 199) |
+| 47 | 19 | Clara references "Samuel's father's drawer" — private interiority detail | "the doors of Samuel's warehouse" — observable fact (line 131) |
+| 48 | 19 | Clara characterizes "the city he had closed behind him" — psychological projection | "the city he had not stopped watching since they cast off" — external observation (line 181) |
+| 49 | 22 | Samuel identifies "George's weight" from below decks | "what must have been George's weight" — now phrased as inference (line 38) |
 
-| Ch | Warning | Issue | Recommended Fix |
-|----|---------|-------|-----------------|
-| 3 | W1 | Clara attributes "He sits at our table" to Thomas — Thomas never says this on-page | Have Thomas say it on-page, or frame as Clara's paraphrase |
-| 5 | W2 | Clara says Samuel recognized the Rembrandt "on his first visit" — never stated to her | Source to off-page dinner ("Samuel mentioned...") or remove specificity |
-| 5 | W3 | Clara knows Samuel's exact visit count and timeline ("three months... four times") | Same as above |
-| 6 | W1 | Clara describes Samuel weeping "in a room full of strangers" — she was on stage | Change to inference from his wet face backstage, or attribute to Harper |
-| 7 | W1 | Samuel remembers "the gesture she had used at the riverfront" — but in ch-06 it was Samuel who inclined his head, not Clara | Fix the attribution or add Clara's reciprocal gesture in ch-06 |
-| 9 | W1 | Clara tells Samuel that Harper saw his workers arriving — Harper never says this on-page | Add to Harper's dialogue in the preceding scene |
-| 13 | W1 | Clara names Callaghan and Brennan to Harper without on-page acquisition | Add a brief attribution ("Samuel's man Callaghan") |
-| 13 | W2 | Clara states inspection order not established on-page | Add a line establishing the sequence was discussed |
-| 14 | W1 | Clara's interiority says Samuel "watching ships built and broken" — his father loaded ships, not built them | Change "built and broken" to "loaded and launched" or similar |
-| 16 | W3 | Thomas references mineral reports from ch-03 tea where he was not present | Attribute to Clara relaying, or Thomas's independent network |
-| 19 | W3 | Clara references "Samuel's father's drawer" — detail from Samuel's private interiority never shared | Soften to what Clara could observe, or add a scene where Samuel shares this |
-| 19 | W5 | Clara characterizes "the city he had closed behind him" — projects into Samuel's psychology | Reframe as external observation |
-| 22 | W1 | Samuel identifies "George's weight" from below decks, in a passage about inability to identify sounds | Phrase as inference: "What must have been George's weight" |
+### False positives (reviewed, no fix needed)
+
+| Ch | Warning | Determination |
+|----|---------|---------------|
+| 13 | W2: Clara states inspection order | Clara is giving operational orders as commander in real-time — not reciting a pre-established plan. No unattributed knowledge. |
+| 16 | W3: Thomas references mineral reports | The passage is Clara's italicized interiority (her memory of ch-03 tea, line 68), not Thomas's dialogue. Clara was present when Samuel discussed the mineral surveys (ch-03, line 125). Correctly sourced. |
 
 ---
 
@@ -261,4 +264,4 @@ The experiential-grounding addition to the character-analyst caught the remainin
 
 ---
 
-*Generated 2026-03-05. Updated same day: all 38 errors fixed and regression-checked. Next action: evaluate the 13 warnings recommended for promotion.*
+*Generated 2026-03-05. Updated same day: all 38 errors + 11 promoted warnings fixed and regression-checked. Book 1 continuity audit complete — 49 total fixes across 7 commits.*

@@ -61,7 +61,7 @@ The chapter has been through revision (status: revised per frontmatter). Previou
 
 ## Warnings (review needed)
 
-### W1. **[Scene-internal knowledge]**: Clara names Callaghan and Brennan to Harper without on-page source
+### W1. **[Scene-internal knowledge]**: ✓ FIXED (2026-03-05): Added "I've spoken with both of them" — establishes Clara's first-hand knowledge. Clara names Callaghan and Brennan to Harper without on-page source
 
 - **Draft says** (line 75): "Callaghan manages the warehouse floor. Brennan keeps the watch outside. Their workers handle the cargo inside."
 - **On-page source**: In ch-12 (Samuel's POV, lines 145 and 157), Samuel thinks about Callaghan and Brennan by name, but their names are never spoken in dialogue to Clara during the on-page conversation. Clara and Samuel's dialogue in ch-12 (lines 139-168) discusses "your dock section," "your workers," and "the ones you trust completely" -- but Callaghan and Brennan are never named to her on-page.

@@ -36,7 +36,7 @@ Ch-07 is a single continuous sequence (Samuel's arrival, training, departure) wi
 
 ## Warnings (review needed)
 
-### 1. [Scene-internal knowledge]: "the gesture she had used at the riverfront"
+### 1. [Scene-internal knowledge]: "the gesture she had used at the riverfront" ✓ FIXED (2026-03-05): Changed to "as he had at the riverfront, but with the understanding now of what it carried" — corrects attribution (Samuel used the gesture, not Clara).
 
 - **Draft says** (line 192): "He inclined his head -- the gesture she had used at the riverfront, returned now with the understanding of its weight."
 - **Ch-06 says** (line 138): "Samuel inclined his head." (Clara's POV -- only Samuel's head-incline is narrated.)

@@ -74,7 +74,7 @@ POV: Samuel Taylor. Timeline: April 17-18, 1847. Location: Kingston, Jamaica. Th
 
 ## Warnings (review needed)
 
-### 1. [Scene-internal knowledge]: Samuel identifying "George's weight" from below
+### 1. [Scene-internal knowledge]: ✓ FIXED (2026-03-05): Changed to "what must have been George's weight hitting the deck above" — now phrased as inference. Samuel identifying "George's weight" from below
 
 - **Draft says** (line 38): "George's weight hitting something above him."
 - **Concern**: Samuel is in the hold during the fight, listening to ambiguous sounds above. In the same passage, he emphasizes how the sounds were questions he could not answer -- "whose weapon, whose target, whose body falling." Then he identifies George's impact specifically. A 140-pound dog hitting a man hard enough to drive him over the side would produce a distinctive thud, plausibly different from human-on-human combat, so Samuel might reasonably identify it. However, the identification sits oddly in a passage whose entire point is Samuel's inability to identify what he heard.
