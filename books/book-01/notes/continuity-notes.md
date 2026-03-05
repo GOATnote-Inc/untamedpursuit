@@ -1581,3 +1581,36 @@ Word count: 3,032 → 2,941 (net -91 words from cuts)
 - **Historian**: 2 MUST-FIX (bungos "flat-bottomed boats" → dugout canoes; mosquito-disease link reframed as empirical knowledge without germ theory), 5 CONSIDER (18→20 miles applied; 2→3 days applied; boatmen 2→3 applied; "contamination" → "reckoning" applied; "defensive priority" kept — Harper's military background). 18 VERIFIED.
 - **Character analyst**: All PASS. Clara voice distinct from Samuel Ch22. Harper pre-eulogy "strongest character work." Thomas seed "technically accomplished — invisible on first read."
 - **Status**: draft → revised. Word count: 2189.
+
+---
+
+## Chapter 24: The Mule Trail
+
+- ch-24: Samuel POV. April 25–26, 1847. Cruces to the mule trail toward Panama City.
+- ch-24: Cruces — mud village at the end of the Chagres River. Dozen structures, thatched palm, mule corrals of stripped poles. Bungos run aground on gravel bank.
+- ch-24: Clara distributes weapons at Cruces — rifle for Davis, ammunition for Marsh, checks Cole's pistol, powder flask for Jennings. "She distributed the weapons as though they were provisions. Because they were."
+- ch-24: Samuel's pistol — .36 caliber Colt Paterson, issued by Harper in Kingston (ch-22), cleaned and loaded by Harper. Carried for thirteen days by this point.
+- ch-24: Clara's appearance consistent with ch-23 — linen shirt, canvas trousers, Colts in shoulder rig, sword cane. No leather coat (shed at Chagres).
+- ch-24: Reyes negotiates mules at Cruces — twelve mules for the company.
+- ch-24: The Camino de Cruces — Road of Crosses. Spanish colonial highway, three centuries old. Dressed stone blocks erupting through mud. Built for Peruvian gold/silver transport. Half-reclaimed by jungle.
+- ch-24: Trail: eighteen miles, single file. Mud knee-deep in places. Cobblestones at intervals.
+- ch-24: Company formation on trail — Reyes front with machete, Clara/Harper/George behind, Samuel middle on mule, Lily behind on mule with Ajax alongside, Cole/Jennings, Davis/Marsh at rear.
+- ch-24: Harper confirms Lily has been shooting mornings since Kingston — consistent with ch-20 (weapons training sequence: rifle, knife, dog).
+- ch-24: Harper on Lily's training: "She asked me to teach her. I did not refuse." — teaching as hope.
+- ch-24: Trail signs — broken branches at man-height, recent fire ash poorly concealed. Harper and Reyes assess together. "Someone passed here. Within the day. Not one man. Several. On foot, not mounted."
+- ch-24: Harper's assessment: "The fire was built to be hidden. A man running from something doesn't hide his fire. A man waiting for something does." — foreshadows ch-25 ambush.
+- ch-24: Night camp — hollow where stream crosses trail. No fire (Reyes insists — recent passage ahead). Dried provisions: salted meat, hard bread.
+- ch-24: Watch positions: Cole and Davis on trail (both directions), Jennings and Marsh at flanks.
+- ch-24: Clara sits beside Samuel at night — not touching, just present. "Not comfort. Presence." Twelve inches of space between them.
+- ch-24: Correspondence codes in Samuel's pocket — Thomas's handwriting described: "precise, angular, each letter formed with the deliberation of a man who understood that penmanship was a form of self-presentation." Second checkpoint: Panama City.
+- ch-24: "You'll write." — Clara's certainty. Not a question, not a hope. Samuel identifies this certainty as what he loves — "the absolute, ungovernable refusal to admit the possibility of being stopped."
+- ch-24: Clara's certainty described as river-stubbornness — does not consider the stone an obstacle, only a shape to move around. Echoes Samuel-as-river metaphor from bible.
+- ch-24: Dawn — Samuel checks pistol mimicking Clara's sequence: breach, caps, cylinder rotation. Unconscious imitation, not taught. Harper sees it, says nothing. "The compliment he would never deliver."
+- ch-24: Reyes scouts ahead at dawn — silent departure and return. Reports eight miles to Panama City by midday.
+- ch-24: George panting, body low, ears flat — still struggling with jungle sounds (consistent with ch-23).
+- ch-24: Harper's pipe tobacco — carried but never smoked (consistent with ch-20).
+- ch-24: Harper smells of sweat and quinine and pipe tobacco (consistent with ch-20: "salt and wet wool and pipe tobacco").
+- ch-24: Tierney not mentioned by name — present in company but not foregrounded (consistent with dual-frequency approach; Thomas's agent aboard but invisible this chapter).
+- ch-24: Thomas dual-frequency seeds: 2 this chapter. (1) Correspondence codes — Thomas's handwriting, Thomas's cipher, Thomas's wax, Thomas's diagram; "the people who had left him behind." (2) Samuel will write from Panama City — Thomas's infrastructure sustaining the journey, his reach across the Isthmus. Running total: 102 + 2 = 104.
+- ch-24: No deviations from outline. All five beats hit. Word count 3,687 (above target range of 2,600–3,000 — the trail and night camp scenes ran longer than outlined).
+- added to bible? no

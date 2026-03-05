@@ -28,7 +28,7 @@
 
 | Book | Title | Era | Setting | Status |
 |---|---|---|---|---|
-| 1 | Fortune's Tide | Era 1 | Philadelphia, ~1846 | Drafting — 23 of 36 chapters outlined |
+| 1 | Fortune's Tide | Era 1 | Philadelphia, ~1846 | Drafting — 24 of 36 chapters outlined |
 | 2 | *(TBD)* | Era 1 | The Voyage West | Planned |
 | 3–4 | *(TBD)* | Era 1 | Building the Network | Planned |
 | 5–9 | *(TBD)* | Era 2 | FIERCE — Eve's Story | Planned |
@@ -64,8 +64,9 @@ The series is free to read. Start here:
 | 21 | [The Windward Passage](books/book-01/chapters/ch-21.md) | Clara Chen | 2,361 |
 | 22 | [The Harbor](books/book-01/chapters/ch-22.md) | Samuel Taylor | 2,207 |
 | 23 | [The Chagres](books/book-01/chapters/ch-23.md) | Clara Chen | 2,189 |
+| 24 | [The Mule Trail](books/book-01/chapters/ch-24.md) | Samuel Taylor | 3,687 |
 
-*Book 1: ~65,500 words drafted* · *Series total: ~65,500 words*
+*Book 1: ~69,180 words drafted* · *Series total: ~69,180 words*
 <!-- PROGRESS:END -->
 
 ### Themes
