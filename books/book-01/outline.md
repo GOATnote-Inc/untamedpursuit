@@ -983,3 +983,68 @@ Wallace has the report — four days. No new complaint, no authorities. Commerci
 - George's attention forward, not behind — "He had never required an explanation for where they were going"
 - "Behind her, everything she had built. Ahead, everything she would."
 - The final line: "Clara put her hand on the rail, and the Caroline bore her west."
+
+---
+
+## Chapter 20: Open Water
+
+- **POV**: Samuel Taylor (seventh Samuel POV chapter)
+- **Location**: Aboard the Caroline — Delaware Bay — the Atlantic Ocean
+- **Time**: April 3–7, 1847
+- **Word count target**: 2,800–3,200
+
+### Scene Beats
+
+1. **The Bay** (~350 words): Samuel's first experience as the bay opens. The shore thinning, the swells rolling from the southeast. His feet unsure on the moving deck. The captain's spare competence. George adjusting before Samuel does. By noon the shore is a memory; by evening, a rumor.
+
+2. **Three Days Out** (~500 words): Clara training with the sword cane at dawn — barefoot, linen shirt, blade through forms Samuel cannot name. Harper beside Samuel, watching: "Four years, Mr. Taylor. Give or take a morning." Clara sees them — "Audience." / "Paying customers." Shipboard rhythm: captain, crew of eight (chosen by Thomas), Harper's four men in rotating pairs. Samuel finds his usefulness — provisions, water casks, the arithmetic of sustaining twelve people. Lily sketching in charcoal. Clara and Samuel at the stern rail in the evenings — silence as language.
+
+3. **The Squall** (~650 words): Hard Atlantic squall, third afternoon. Samuel below checking lashings when the hull's sound changes. On deck: sky closed, rain in bands, the Caroline heeled broadside. Crew in the rigging. Harper securing hatches. Clara in a soaked shirt hauling a line taut at the mainmast. Samuel catches a loose coil, ties it to a belaying pin. Harper: "That'll hold." Two hours. The squall passes — sky opens, gold light. Nothing broken. The company held. "Not a company — a living thing."
+
+4. **The Evening** (~600 words): Sunset. Clara carries her cello up from aft storage. Lily with her violin. They play on the deck — slow, spare, a duet that finds itself the way the two women found each other in the hold. The crew stops working. Harper at the mainmast with an expression near grief. The stars appearing. Samuel watches Clara play — the same hands that hauled the rigging now drawing beauty from catgut and wood. "The beauty was not separate from the violence — it was its answer." No one applauds.
+
+5. **Harper** (~600 words): Night. Harper and Samuel at the rail. Phosphorescence in the wake. Harper reveals himself: "I was guarding a man who didn't deserve guarding. She showed me someone who did." On Lily: "She is the bravest person on this ship, Mr. Taylor. And Miss Chen is on this ship." On what lies ahead: "Open water is honest. It shows you what it has. The trouble is what waits in the harbors." Samuel alone with the correspondence codes — Thomas's handwriting, Kingston, Panama City, Monterey. Thomas mapped a route he would never travel. "The ocean asked nothing of him that he could not give. The giving was the thing."
+
+### Threads Advanced
+
+- Clara-Samuel courtship (shared silences at the stern rail; Samuel watching Clara train and play; the proximity of ship life deepening what seven months of visits began)
+- Thomas Arlington's jealousy seeds (Thomas's crew aboard but Thomas absent; correspondence codes as mapped route Thomas will never travel; the company complete without its Philadelphia manager)
+- Harper's arc before death (human depth revealed — keeper of people, not just security chief; his bond with Lily; the Isthmus warning)
+
+### Threads Introduced
+
+- Shipboard life and the company's rhythm (each person's role — the living thing that holds together)
+- Clara's cello aboard the Caroline (the Golden Compass stripped to open water — music as answer to violence)
+- Harper-Samuel bond (the conversation at the rail; Harper's origin with Clara; "Open water is honest — it's the harbors that lie")
+- The Isthmus ahead (Harper's warning — jungle worse than sea, fever worse than fighting)
+
+### Key Character Moments
+
+- "The bay opened like a door" — the opening: threshold crossed
+- Samuel's feet not sure on the moving deck — "He had built his life on surfaces that did not move"
+- George adjusting before Samuel — the dog's competence as gentle rebuke
+- Clara training at dawn — barefoot, blade through forms Samuel cannot name
+- Harper appearing beside Samuel "without sound" — the gift of seeming to have always been there
+- "Four years, Mr. Taylor. Give or take a morning" — Harper's quiet devotion measured in dawns
+- "Audience." / "Paying customers. I'll add it to the ledger." — Clara-Samuel banter, his self-deprecation
+- "A man who counted for a living did not forget what he had counted" — Samuel's competence as identity
+- Silence at the stern rail — "not the absence of words but the decision that words were not yet needed"
+- Samuel below checking lashings when the storm hits — useful rather than ornamental
+- Clara barefoot on the wet deck where Samuel's boots slid — her element, not his
+- Harper: "That'll hold" — the closest thing to a compliment the man seemed to carry
+- George bracing at the mainmast — "as though the ocean were something he had been born to"
+- "Not a company — a living thing" — Samuel's recognition of how Clara builds
+- The cello appearing from aft storage — Samuel had mistaken it for navigational instruments
+- Clara tuning "with fingers that had hauled rigging two hours before" — the convergence
+- Lily joining without consultation — "as though they had rehearsed this"
+- The music braiding — "the two instruments finding each other the way the two women had found each other in a hold in the dark"
+- Harper at the mainmast, "something nearer to grief held at a careful distance"
+- "No one applauded. Applause would have broken something."
+- Harper smelling of salt and wet wool and pipe tobacco he carried but never smoked
+- "I was guarding a man who didn't deserve guarding. She showed me someone who did."
+- "People are harder than ships" — Harper's quiet truth
+- "She is the bravest person on this ship, Mr. Taylor. And Miss Chen is on this ship." — Harper on Lily
+- "Open water is honest. It shows you what it has. The trouble is what waits in the harbors."
+- Thomas's correspondence codes — "Thomas had mapped a route he would never travel"
+- "The people who had left him on the pier" — dual-frequency: factual first-read, abandonment second-read
+- "The ocean asked nothing of him that he could not give. The giving was the thing."

@@ -1451,3 +1451,44 @@ Word count: 3,032 → 2,941 (net -91 words from cuts)
 - Running total: 96 dual-frequency seeds
 
 **Word count:** 2710 → 2643 (net -67 words from cuts, +banter beat)
+
+### Ch20: Open Water
+
+- ch-20: Samuel POV. April 3–7, 1847. First days at sea aboard the Caroline.
+- ch-20: Delaware Bay cleared afternoon of April 3 (consistent with Ch19 — Harper: "clear the bay by noon, open water by evening").
+- ch-20: Clara trains with sword cane at dawn each morning aboard — bare feet, linen shirt, blade through forms. "Since she was a girl, I'm told" (Harper).
+- ch-20: Harper confirms "four years" with Clara — consistent with Ch19 ("four years on the cobblestones of Philadelphia").
+- ch-20: The captain runs the ship with spare competence, few words — consistent with Ch19 description (broad-shouldered, few words, tightly ordered).
+- ch-20: Crew of eight men, "all chosen by Thomas" — new detail. Dual-frequency: Thomas's agents aboard.
+- ch-20: Harper's four men in rotating pairs — two awake, two asleep, stations at hatches and stern. Consistent with Ch19 ("four of them, positioned along the rail and near the hatches").
+- ch-20: Samuel finds his role — provisions expert, water casks, counting. The captain consults him on the third morning.
+- ch-20: Lily sketches in charcoal at the port rail each afternoon. Ajax sleeps at her feet or wanders with George.
+- ch-20: Clara and Samuel at the stern rail in evenings — silence as language, the wake disappearing.
+- ch-20: Hard Atlantic squall, third afternoon (April 6). Caroline heels broadside, port rail kissing waves. Foremast sail brought down. Two hours duration. Nothing broken, nothing lost.
+- ch-20: Samuel ties a knot from fifteen years ago on a cargo dock. Harper: "That'll hold."
+- ch-20: Clara plays cello on deck after the storm at sunset. Lily joins with violin. The cello was packed in a case Samuel mistook for navigational instruments, lashed in aft storage.
+- ch-20: The music — slow, spare, unadorned. "A thing written for a church or a room where someone was grieving." No piece named.
+- ch-20: Harper at the mainmast during the music — "something nearer to grief held at a careful distance."
+- ch-20: Harper and Samuel conversation at the rail, night. Harper reveals his origin: "I was guarding a man who didn't deserve guarding. She showed me someone who did. I never went back."
+- ch-20: Harper on Lily: "She is the bravest person on this ship, Mr. Taylor. And Miss Chen is on this ship."
+- ch-20: Harper on the Isthmus: "The jungle is worse than the sea. The fever takes more than the fighting." Foreshadows Harper's death and cholera (step outline scenes 21-22).
+- ch-20: Harper's key line: "Open water is honest, Mr. Taylor. It shows you what it has. The trouble is what waits in the harbors."
+- ch-20: Harper smells of salt and wet wool and pipe tobacco he carries but never smokes — new detail.
+- ch-20: Correspondence codes in Samuel's cabin — Thomas's handwriting, instructions for Kingston, Panama City, Monterey. Thomas mapped a route he would never travel.
+- ch-20: "The people who had left him on the pier" — dual-frequency: factual/abandonment.
+- ch-20: Thomas dual-frequency seeds: 2 this chapter. (1) Crew "all chosen by Thomas" — on re-read: Thomas's agents aboard. (2) Correspondence codes — Thomas mapping a route he'll never travel, his hand reaching across water, "sustaining the journey from the desk where they had left him." Running total: 96 + 2 = 98.
+- ch-20: Clara's father crossed the Pacific — first direct statement. Consistent with Canton-Nagasaki trading connections in bible.
+- ch-20: Wallace "already building" on the Pacific coast — antagonist positioning established before company arrives.
+- ch-20: Lily's weapons training sequence from Harper: rifle first, then knife, then dog. New specificity (bible confirmed training happened but not sequence).
+- ch-20: Harper has prior intelligence about Panama Isthmus from men who survived the crossing.
+- ch-20: George remains on deck during the squall — body low, weight shifting with the ship. First depiction of maritime stability (consistent with Newfoundland cross heritage).
+
+### Ch-20 Subagent Review Log
+
+**4 subagents run after draft. All returned. Fixes applied.**
+
+- **Style reviewer**: 4 CRITICAL POV breaks fixed (lines 55, 95, 119, 153). Tell-after-show cuts (3). "[noun] who" 10→6. "the way" 4→1. "rail" thinned (taffrail, port side, cuts). "deck" thinned (topside, planking, cuts). Tricolons held at 4. Stern-rail section ending compressed to avoid duplication. Ending trimmed ("The giving was the thing" cut).
+- **Historian**: "four bells"→"two bells" (5 AM, before dawn). "mainmast shrouds"→"a brace at the mainmast." "foremast sail came down"→"foresail clewed up." "assets" (banned)→"inventory."
+- **Character analyst**: All PASS. "shaping"→"sustaining" (Thomas seed softened). Lily given one spoken line (quiet post-music moment). "[noun] who" triple-stack at line 159 broken into parallel fragments.
+- **Continuity checker**: "company of twelve" arithmetic error (8 crew + 7 company = 15) → fixed to "fifteen souls." Harper's origin story, pipe tobacco, training sequence, Clara's father Pacific crossing, Wallace positioning all flagged as new facts (no contradictions). "wet planking... wet planking" duplication caught and fixed post-edit.
+- Word count: 2,983 → 2,833. Status: draft → revised.
