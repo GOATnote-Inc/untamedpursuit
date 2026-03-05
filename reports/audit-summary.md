@@ -264,4 +264,30 @@ The experiential-grounding addition to the character-analyst caught the remainin
 
 ---
 
-*Generated 2026-03-05. Updated same day: all 38 errors + 11 promoted warnings fixed and regression-checked. Book 1 continuity audit complete — 49 total fixes across 7 commits.*
+---
+
+## Clara Voice Revision Pass (character-analyst findings)
+
+**Date**: 2026-03-05
+**Scope**: ~45 line-level revisions across 12 chapters (ch-01, ch-03, ch-05, ch-09, ch-13, ch-14, ch-16, ch-17, ch-19, ch-21, ch-23)
+**Commits**: 3 batches (`f2bfdbd`, `c3ff48a`, `d0d698f`)
+
+| Pattern | Chapters Affected | Fix Type |
+|---------|-------------------|----------|
+| Narrator Clara (thesis statements, literary criticism as interiority) | ch-01, ch-09, ch-13, ch-14, ch-16, ch-17, ch-19, ch-21, ch-23 | Replaced with felt experience, concrete detail, specific thought |
+| Curiosity collapsing into competence | ch-19, ch-23 | Added breathing room — observation before threat assessment |
+| Courtship convergence without friction | ch-09 | Replaced neat parallel with genuine tension (transparency vs. compartmentalization) |
+| Gallows wit absent | ch-13, ch-14, ch-19, ch-21, ch-23 | Restored dark humor consistent with Clara's stress-response profile |
+| Thomas dual-frequency seeds | ch-03, ch-05 | Planted early flickers Clara notices but doesn't pursue |
+| Delegation friction | ch-16 | Added control-reflex beat (bible fatal flaw: need for control) |
+| Courtship physical proximity | ch-23 | Added fire-side boot contact |
+| Below-deck emotional climax buried | ch-21 | Expanded parenthetical into shown scene |
+| Cognitive verb monotony | ch-01, ch-05, ch-23 | Replaced catalogs/registers with emotional verbs |
+| "Same architecture" echo | ch-09, ch-13 | Killed both instances |
+| Closing aphorisms | ch-14, ch-19, ch-21 | Replaced with concrete sensory detail |
+
+**No new continuity errors introduced.** All revisions verified against bible profiles and established chapter facts.
+
+---
+
+*Generated 2026-03-05. Updated same day: all 38 errors + 11 promoted warnings fixed and regression-checked. Clara voice revision pass complete — ~45 revisions across 12 chapters in 3 commits. Book 1 continuity audit complete — 49 continuity fixes + voice revision pass across 10 commits.*

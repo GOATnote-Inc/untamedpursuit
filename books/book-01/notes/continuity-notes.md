@@ -1614,3 +1614,36 @@ Word count: 3,032 → 2,941 (net -91 words from cuts)
 - ch-24: Thomas dual-frequency seeds: 2 this chapter. (1) Correspondence codes — Thomas's handwriting, Thomas's cipher, Thomas's wax, Thomas's diagram; "the people who had left him behind." (2) Samuel will write from Panama City — Thomas's infrastructure sustaining the journey, his reach across the Isthmus. Running total: 102 + 2 = 104.
 - ch-24: No deviations from outline. All five beats hit. Word count 3,687 (above target range of 2,600–3,000 — the trail and night camp scenes ran longer than outlined).
 - added to bible? no
+
+---
+
+# Clara Voice Revisions — Character-Analyst Findings
+
+**Date**: 2026-03-05
+**Scope**: 12 chapters (ch-01, ch-03, ch-05, ch-09, ch-13, ch-14, ch-16, ch-17, ch-19, ch-21, ch-23)
+**Commits**: 3 batches
+
+## Patterns Addressed
+
+1. **"Narrator Clara"** — interiority rewritten from literary criticism to lived experience across all targeted chapters
+2. **Curiosity → Competence collapse** — added breathing room (ch-23 jungle observation, ch-19 ship curiosity, ch-14 wit during inspection)
+3. **Courtship convergence without friction** — replaced "Different methods. The same architecture." (ch-09) with genuine tension about transparency vs. compartmentalization
+4. **Gallows wit restored** — added to ch-13 (blanket-carrying armament), ch-14 (tape-measure undoing), ch-19 (dresses vs. revolvers), ch-21 (polite woman/polite dog, gull altitude), ch-23 (insects investigating Colts)
+
+## New Facts or Changes
+
+- ch-09: Clara's network now explicitly described as compartmentalized — "no one knew all of it except Clara" — consistent with bible fatal flaw (need for control)
+- ch-21: Below-deck scene now shown (Samuel with pistol at provision hatch, Lily with sketchbook, exchange of looks). Previously a parenthetical.
+- ch-23: Clara identifies two mosquito species via Canton training — grounded in bible (Canton Missionary Hospital, 3 years)
+- ch-23: Physical proximity beat added (boots touching at fire). Sustains Kingston momentum.
+- ch-23: Correspondence code limit now triggers "relief" — foreshadows Thomas displacement thread
+- ch-03: Thomas flicker planted (stillness after portfolio closing)
+- ch-05: Thomas flicker planted (pen-tap during celebration)
+- ch-16: Clara's delegation friction shown (control reflex overridden)
+- ch-17: Samuel absence noted physically (phantom weight in grip)
+
+## Continuity Flags
+
+- None introduced. All new interiority consistent with established facts and bible profiles.
+- ch-09 friction scene: Samuel's "enough to choose" dialogue is consistent with his financial philosophy (ch-03: "profit-sharing, decision-making authority distributed through the ranks")
+- ch-23 relief at Thomas's absence: consistent with bible fatal flaw (control) and jealousy-seed thread
