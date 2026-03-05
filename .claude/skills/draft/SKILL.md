@@ -64,6 +64,14 @@ Write the chapter following these rules:
 - Aspire to prose vitality: curiosity, wit, surprising imagery, varied rhythm (see `.claude/rules/prose-craft.md`)
 - Target the word count suggested in the outline, or 3,000-5,000 words if unspecified
 
+## Step 3.5: Quick Verification
+
+Run the continuity-checker against the just-drafted chapter as a lightweight sanity check. Launch it as a subagent:
+
+- Prompt: "Check `books/book-0${book}/chapters/ch-$(printf '%02d' ${chapter}).md` for continuity errors against the series bible. Follow your agent instructions in `.claude/agents/continuity-checker.md`."
+
+Don't block on revision — report the results alongside the draft summary. The goal is to catch catastrophic errors (wrong character present, timeline contradiction, unattributed knowledge) before they compound into the next chapter. If critical errors surface, flag them but let the user decide whether to fix now or defer to `/revise`.
+
 ## Step 4: Post-Draft Bookkeeping
 
 After completing the draft:
@@ -71,7 +79,7 @@ After completing the draft:
 1. **Update frontmatter**: Set word_count, summary, threads_advanced, threads_introduced, and any continuity_flags
 2. **Log new facts**: If the chapter introduced any new facts not in the bible (character details, place descriptions, timeline events), log them in `books/book-0${book}/notes/continuity-notes.md`
 3. **Log deviations**: If the chapter deviated from the outline, note how and why in `books/book-0${book}/notes/continuity-notes.md`
-4. **Report**: Summarize what was written, any flags raised, and threads advanced
+4. **Report**: Summarize what was written, any flags raised, and threads advanced. Include the continuity-checker results from Step 3.5.
 
 ## Step 5: Remind About Progress
 

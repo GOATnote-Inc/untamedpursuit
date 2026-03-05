@@ -16,6 +16,7 @@ Use subagents to keep analysis work out of the main context window:
 - **historian**: Run when a chapter references specific historical events, dates, or period details.
 - **style-reviewer**: Run during revision. Catches POV breaks, tense slips, dialogue tag issues.
 - **character-analyst**: Run when a character's behavior feels off or when introducing a character in a new book.
+- **prose-brilliance**: Run during revision. Pressure-tests for competence traps, admiration problems, voice blurring, and unearned narrative claims.
 
 Always run subagents via the `/revise` skill to get parallel analysis.
 
@@ -28,6 +29,10 @@ Always run subagents via the `/revise` skill to get parallel analysis.
   - `main` branch: bible, series-arc, finalized content
   - Drafting worktree: active chapter work
   - Research worktree: historical research sessions
+
+## Compact Focus
+
+When compacting, always preserve: current scene state, POV character's psychological state, active plot threads, unresolved continuity flags, chapter frontmatter, and any pending subagent feedback not yet addressed. Full compaction instructions in root `CLAUDE.md`.
 
 ## File Conventions
 

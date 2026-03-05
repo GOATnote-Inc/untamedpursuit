@@ -1,20 +1,20 @@
 ---
 name: revise
-description: Revise a chapter using all four subagents in parallel
+description: Revise a chapter using all five subagents in parallel
 argument-hint: <book> <chapter>
 ---
 
 # /revise — Chapter Revision Workflow
 
-Revise chapter ${chapter} of book ${book} using all four analysis subagents.
+Revise chapter ${chapter} of book ${book} using all five analysis subagents.
 
 ## Step 1: Read the Chapter
 
 Read `books/book-0${book}/chapters/ch-$(printf '%02d' ${chapter}).md` to understand what needs revision.
 
-## Step 2: Run All Four Subagents in Parallel
+## Step 2: Run All Five Subagents in Parallel
 
-Launch all four subagents simultaneously, each analyzing the chapter from their specialty:
+Launch all five subagents simultaneously, each analyzing the chapter from their specialty:
 
 1. **continuity-checker** (Opus): Check all facts against the bible
    - Prompt: "Check `books/book-0${book}/chapters/ch-$(printf '%02d' ${chapter}).md` for continuity errors against the series bible. Follow your agent instructions in `.claude/agents/continuity-checker.md`."
@@ -27,6 +27,9 @@ Launch all four subagents simultaneously, each analyzing the chapter from their 
 
 4. **character-analyst** (Opus): Check voice and arc consistency
    - Prompt: "Analyze the characters in `books/book-0${book}/chapters/ch-$(printf '%02d' ${chapter}).md`. Follow your agent instructions in `.claude/agents/character-analyst.md`."
+
+5. **prose-brilliance** (Opus): Pressure-test for character honesty and narrative aliveness
+   - Prompt: "Pressure-test `books/book-0${book}/chapters/ch-$(printf '%02d' ${chapter}).md` for character honesty, competence traps, admiration problems, and voice independence. Follow your agent instructions in `.claude/agents/prose-brilliance.md`."
 
 ## Step 3: Synthesize Findings
 

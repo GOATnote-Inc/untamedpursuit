@@ -5,8 +5,38 @@
       "Glob",
       "Grep",
       "Write",
-      "Edit"
+      "Edit",
+      "Agent",
+      "WebSearch",
+      "WebFetch",
+      "Bash(git *)",
+      "Bash(python scripts/*)",
+      "Bash(wc *)"
     ],
     "deny": []
+  },
+  "hooks": {
+    "Notification": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "osascript -e 'display notification \"Claude needs your input\" with title \"Untamed Pursuit\"'"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "FLAG_COUNT=$(grep -r '<!-- FLAG:' books/book-*/chapters/*.md 2>/dev/null | wc -l | tr -d ' '); if [ \"$FLAG_COUNT\" -gt 0 ]; then echo \"$FLAG_COUNT unresolved <!-- FLAG: --> comments remain in chapter files\"; fi"
+          }
+        ]
+      }
+    ]
   }
 }

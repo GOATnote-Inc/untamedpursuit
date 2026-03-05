@@ -1,6 +1,7 @@
 ---
 name: progress
 description: Regenerate the README progress section from chapter frontmatter
+disable-model-invocation: true
 ---
 
 # /progress — Update README Progress Section
