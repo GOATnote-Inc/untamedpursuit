@@ -23,7 +23,7 @@
 - ch-02: Clara's philanthropy funds: schools in three wards, legal aid in four, harbor patrols, orphanages — added to bible? yes
 - ch-02: Thomas uses a pen-holding habit as a readiness signal — added to bible? skip — character quirk prose handles
 - ch-02: Clara thinks of Thomas as "indispensable" — a word that becomes thematically charged on re-read — added to bible? skip — thematic narrative beat
-- ch-02: Clara's preferred tea venue is a parlor on Chestnut Street (east-facing windows, afternoon light) — added to bible? yes
+- ch-02: Clara's preferred tea venue is a parlor on Chestnut Street (west-facing windows, afternoon light) — added to bible? yes
 - ch-02: Thomas has managed Clara's social calendar for years, including deflecting suitors and declining marriage proposals — added to bible? yes
 - ch-02: Clara's network sold Samuel a warehouse last year at below-market price — added to bible? yes
 - ch-02: Samuel's property acquisitions follow a pattern that mirrors Clara's early strategy — added to bible? yes
@@ -872,7 +872,7 @@ Word count: 3,032 → 2,941 (net -91 words from cuts)
 ## New Facts Introduced
 
 - ch-12: Samuel's counting table near the warehouse loading doors — a second work surface besides the walnut desk upstairs; faces the river — added to bible? skip — minor interior detail
-- ch-12: Samuel's workers named: Callaghan (ground-floor crew manager, served in grandfather's warehouse in Cork), Tierney (night watch), Doyle (wife sews dockmen's coats, daughter brings bread Saturdays) — added to bible? yes, minor character entries
+- ch-12: Samuel's workers named: Callaghan (ground-floor crew manager, served in grandfather's warehouse in Cork), Brennan (night watch), Doyle (wife sews dockmen's coats, daughter brings bread Saturdays) — added to bible? yes, minor character entries
 - ch-12: The Osprey described: ~90 feet at waterline, two-masted coastal trader, dark hull, faded gunwale paint — added to bible? yes
 - ch-12: Osprey compartments detailed: concealed behind hull framing beneath ballast stone, opened by pressing specific point. Port-side compartment fits 3-4 people. Contains blankets, medical supplies (bandages, salve, glass bottle), clothing (men's shirts, women's shawls, child's coat), forged documents in oilcloth — added to bible? yes (extends Ch11 description)
 - ch-12: Clara's rescue count: 17 this season, 63 total since the Osprey's compartments were built — added to bible? yes
@@ -1503,7 +1503,7 @@ Word count: 3,032 → 2,941 (net -91 words from cuts)
 - ch-21: Pirate vessel: schooner, fore-and-aft rigged, two masts raked sharply aft, dark hull, no flag. Twenty-five men visible. Shallow draft, fast in light air.
 - ch-21: Harper's tactical prediction — boarding from starboard (lee side) — exactly correct.
 - ch-21: Clara sends Samuel below to secure provisions, arms locker, protect Lily. Samuel restrains his objection. "I understand."
-- ch-21: Harper's men named: Davis, Marsh, Cole, Jennings. Davis and Marsh at starboard rail, Cole at stern, Jennings at foremast. Jennings grazed on left shoulder.
+- ch-21: Harper's men named: Davis, Ward, Cole, Jennings. Davis and Ward at starboard rail, Cole at stern, Jennings at foremast. Jennings grazed on left shoulder.
 - ch-21: Crew armed with boarding pikes. One crewman cut on forearm by cutlass.
 - ch-21: Tierney — crew member, "the quiet one, the last hired before they sailed, Thomas's recommendation." During the fight: at port rail, pike unused, weight back, watching. Moved toward an aft-rail pirate too late (Cole handled it). Dual-frequency: on first read, a scared man; on re-read, Thomas's agent.
 - ch-21: George attacks a pirate off the rail — "one hundred and forty pounds of silent black force." Blood on his muzzle afterward.
@@ -1538,7 +1538,7 @@ Word count: 3,032 → 2,941 (net -91 words from cuts)
 - ch-22: Harper's Isthmus briefing: 47 miles, Chagres River (flat-bottomed boats), mule trail through jungle to Panama City. 5 days good weather, 7 bad, 10 if illness. Fever, bad water, insects carrying disease. Trail not maintained since Spanish left.
 - ch-22: Harper spoke to three captains who crossed — two lost men, one lost half his company to fever.
 - ch-22: Harper requesting firearms for Samuel and Lily for the Isthmus crossing.
-- ch-22: Harper's men: Davis and Marsh sent ashore with supply list, Cole at gangway, Jennings on bollard with bandaged shoulder and rifle.
+- ch-22: Harper's men: Davis and Ward sent ashore with supply list, Cole at gangway, Jennings on bollard with bandaged shoulder and rifle.
 - ch-22: Samuel asked Harper not to be sent below again. Harper: "Miss Chen gives the orders. But I will note your preference."
 - ch-22: Clara told Samuel: "I did not send you below because you cannot fight." Reason: Lily needed someone she trusted; provisions and arms worth more than a boarding line.
 - ch-22: Clara: "The Isthmus will be different. There will be no below." — foreshadows Samuel fighting at the Isthmus.
@@ -1560,7 +1560,7 @@ Word count: 3,032 → 2,941 (net -91 words from cuts)
 - ch-23: Clara sheds the leather coat at Chagres — too hot for the jungle. Wears linen shirt, canvas trousers, Colts in a shoulder rig Harper adapted for the crossing. Sword cane in hand.
 - ch-23: Guide: Reyes. Lean, sun-darkened, English learned from captains. Found through Harper's "third captain" referral. Carries a machete and nothing else.
 - ch-23: Two bungos — dugout canoes hollowed from single trunks, wide as a man is tall. Three local boatmen per bungo working with padded poles.
-- ch-23: Company split: Bungo 1 — Clara, Harper, George, Davis, Marsh. Bungo 2 — Samuel, Lily, Ajax, Cole, Jennings.
+- ch-23: Company split: Bungo 1 — Clara, Harper, George, Davis, Ward. Bungo 2 — Samuel, Lily, Ajax, Cole, Jennings.
 - ch-23: River journey = three days. Then mule trail from the village of Cruces — twenty miles through jungle to Panama City.
 - ch-23: Harper enforces water discipline (boiled only), mosquito netting at rest, quinine. Maps positions by defensive priority.
 - ch-23: George overwhelmed by the jungle — ears swiveling without settling, unable to sort sounds. Clara watching him closely. (Revised: filtered through Clara's observation, not George's interiority.)
@@ -1588,19 +1588,19 @@ Word count: 3,032 → 2,941 (net -91 words from cuts)
 
 - ch-24: Samuel POV. April 25–26, 1847. Cruces to the mule trail toward Panama City.
 - ch-24: Cruces — mud village at the end of the Chagres River. Dozen structures, thatched palm, mule corrals of stripped poles. Bungos run aground on gravel bank.
-- ch-24: Clara distributes weapons at Cruces — rifle for Davis, ammunition for Marsh, checks Cole's pistol, powder flask for Jennings. "She distributed the weapons as though they were provisions. Because they were."
+- ch-24: Clara distributes weapons at Cruces — rifle for Davis, ammunition for Ward, checks Cole's pistol, powder flask for Jennings. "She distributed the weapons as though they were provisions. Because they were."
 - ch-24: Samuel's pistol — .36 caliber Colt Paterson, issued by Harper in Kingston (ch-22), cleaned and loaded by Harper. Carried for thirteen days by this point.
 - ch-24: Clara's appearance consistent with ch-23 — linen shirt, canvas trousers, Colts in shoulder rig, sword cane. No leather coat (shed at Chagres).
 - ch-24: Reyes negotiates mules at Cruces — twelve mules for the company.
 - ch-24: The Camino de Cruces — Road of Crosses. Spanish colonial highway, three centuries old. Dressed stone blocks erupting through mud. Built for Peruvian gold/silver transport. Half-reclaimed by jungle.
-- ch-24: Trail: eighteen miles, single file. Mud knee-deep in places. Cobblestones at intervals.
-- ch-24: Company formation on trail — Reyes front with machete, Clara/Harper/George behind, Samuel middle on mule, Lily behind on mule with Ajax alongside, Cole/Jennings, Davis/Marsh at rear.
+- ch-24: Trail: twenty miles, single file. Mud knee-deep in places. Cobblestones at intervals.
+- ch-24: Company formation on trail — Reyes front with machete, Clara/Harper/George behind, Samuel middle on mule, Lily behind on mule with Ajax alongside, Cole/Jennings, Davis/Ward at rear.
 - ch-24: Harper confirms Lily has been shooting mornings since Kingston — consistent with ch-20 (weapons training sequence: rifle, knife, dog).
 - ch-24: Harper on Lily's training: "She asked me to teach her. I did not refuse." — teaching as hope.
 - ch-24: Trail signs — broken branches at man-height, recent fire ash poorly concealed. Harper and Reyes assess together. "Someone passed here. Within the day. Not one man. Several. On foot, not mounted."
 - ch-24: Harper's assessment: "The fire was built to be hidden. A man running from something doesn't hide his fire. A man waiting for something does." — foreshadows ch-25 ambush.
 - ch-24: Night camp — hollow where stream crosses trail. No fire (Reyes insists — recent passage ahead). Dried provisions: salted meat, hard bread.
-- ch-24: Watch positions: Cole and Davis on trail (both directions), Jennings and Marsh at flanks.
+- ch-24: Watch positions: Cole and Davis on trail (both directions), Jennings and Ward at flanks.
 - ch-24: Clara sits beside Samuel at night — not touching, just present. "Not comfort. Presence." Twelve inches of space between them.
 - ch-24: Correspondence codes in Samuel's pocket — Thomas's handwriting described: "precise, angular, each letter formed with the deliberation of a man who understood that penmanship was a form of self-presentation." Second checkpoint: Panama City.
 - ch-24: "You'll write." — Clara's certainty. Not a question, not a hope. Samuel identifies this certainty as what he loves — "the absolute, ungovernable refusal to admit the possibility of being stopped."

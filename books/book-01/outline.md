@@ -113,7 +113,7 @@
 - Samuel's financial philosophy (amass wealth, empower employees)
 - Samuel trains nightly with a weapons master
 - The tavern with hidden art (Samuel frequents it for the music)
-- Clara's Chestnut Street parlor (holding company ownership, east-facing windows)
+- Clara's Chestnut Street parlor (holding company ownership, west-facing windows)
 
 ### Key Character Moments
 
@@ -1066,14 +1066,14 @@ Wallace has the report — four days. No new complaint, no authorities. Commerci
 
 3. **Preparation** (~600 words): Clara addresses the company. Harper's men at the starboard rail with rifles. Crew with boarding pikes. Clara sends Samuel below — provisions, arms locker, Lily and the dogs. Samuel's face: the restraint of a man who wants to fight. "I understand." Clara checks the Colts. George at her left heel.
 
-4. **The Fight** (~800 words): Schooner closes, warning shot, grappling hooks. Harper's first rifle volley breaks the initial wave. Clara draws — the modified Colts, sharp coughs, clean geometry. George takes a man off the rail. Second volley. Crew with pikes. Brennan (Thomas's recommendation) at the port rail, pike unused, watching — then the moment passes. Pirates cut grappling lines and retreat. Clara's observation: they came directly, not on a patrol pattern. She dismisses it.
+4. **The Fight** (~800 words): Schooner closes, warning shot, grappling hooks. Harper's first rifle volley breaks the initial wave. Clara draws — the modified Colts, sharp coughs, clean geometry. George takes a man off the rail. Second volley. Crew with pikes. Tierney (Thomas's recommendation) at the port rail, pike unused, watching — then the moment passes. Pirates cut grappling lines and retreat. Clara's observation: they came directly, not on a patrol pattern. She dismisses it.
 
 5. **The Reckoning** (~400 words): Dead over the side. Minor casualties — cut forearm, graze on Jennings. Clara checks below: Samuel with a pistol, Lily against the bulkhead with Ajax. Clara cleans the Colts at the taffrail. Harper sits across from her: "They were organized. Not opportunists." Jamaica two days south. Clara watches Harper walk away — four years, the same competence. She finishes and goes below.
 
 ### Threads Advanced
 
 - Clara-Samuel courtship (Clara sends Samuel below — trust as deployment; his restraint; the wordless exchange)
-- Thomas Arlington's jealousy seeds (Brennan's hesitation; the direct approach; Clara notices and dismisses both)
+- Thomas Arlington's jealousy seeds (Tierney's hesitation; the direct approach; Clara notices and dismisses both)
 - Harper's arc before death (combat commander at his finest — the man Clara trusts with violence and silence)
 
 ### Threads Introduced
@@ -1081,7 +1081,7 @@ Wallace has the report — four days. No new complaint, no authorities. Commerci
 - Caribbean violence (the passage as threshold — from open water to harbors that lie)
 - Clara's combat interiority (geometry of killing — what she sees, what she counts, what she sets aside)
 - The Caroline's vulnerability (a cargo vessel surviving by capability, not design)
-- Brennan (Thomas's last hire — the quiet one at the port rail)
+- Tierney (Thomas's last hire — the quiet one at the port rail)
 
 ### Key Character Moments
 
@@ -1098,7 +1098,7 @@ Wallace has the report — four days. No new complaint, no authorities. Commerci
 - Clara's Colts: "the modified percussion cap producing its sharp cough"
 - George: "One hundred and forty pounds of silent black force"
 - Harper directing fire: "Each name, each target, each instruction delivered as though the violence around him were weather"
-- Brennan at the port rail — pike unused, watching, weight back — the hesitation that dissolves
+- Tierney at the port rail — pike unused, watching, weight back — the hesitation that dissolves
 - "This had not felt random" — Clara's thought, dismissed as coincidence
 - Clara checking below before anything else — finding Samuel with a pistol, Lily with her sketchbook closed
 - Cleaning the Colts at the taffrail — "the difference between a weapon that fired and one that did not was a tablespoon of neglect"
@@ -1175,13 +1175,13 @@ Wallace has the report — four days. No new complaint, no authorities. Commerci
 
 1. **Chagres** (~400 words): The Caroline arrives at the mouth of the Chagres River. Not a port — thatched huts, ruined Spanish fort, a leaning pier. The jungle starts at the waterline. Clara sheds the leather coat — linen, canvas, Colts in a shoulder rig. The Caroline returns to Kingston under the captain. Harper's guide is waiting.
 
-2. **The Guide and the River** (~400 words): Reyes — lean, sun-darkened, English learned from captains. "How many have crossed before?" "None." Two bungos, two boatmen each. Company splits: Clara/Harper/George/Davis/Marsh in first; Samuel/Lily/Ajax/Cole/Jennings in second. The jungle closes around them within the first mile. Canopy blocks the sky. Sound changes from open-water silence to layered density.
+2. **The Guide and the River** (~400 words): Reyes — lean, sun-darkened, English learned from captains. "How many have crossed before?" "None." Two bungos, two boatmen each. Company splits: Clara/Harper/George/Davis/Ward in first; Samuel/Lily/Ajax/Cole/Jennings in second. The jungle closes around them within the first mile. Canopy blocks the sky. Sound changes from open-water silence to layered density.
 
 3. **The Crossing Begins** (~600 words): Harper enforcing discipline — boiled water, mosquito netting, positional mapping. The heat enclosed, inescapable. Clara's Colts absorbing the jungle's temperature. George overwhelmed — a dock dog with no grammar for the jungle's sounds. Lily sketching in the second bungo. Clara recognizes: the threat is not a man with a weapon but the air, the water, the slow accumulation of heat and disease. Caiman slides from the bank. Reyes: "They know the difference between a meal and a problem." Harper: "A quality I wish were more universal."
 
 4. **First Night** (~500 words): Camp on a gravel bar. Smoky green-wood fire — smoke for mosquitoes, not warmth. Clara cleans the Colts — the routine transported from Philadelphia to jungle. George tight against her leg, unable to rest. Samuel writing by firelight — not the correspondence, something for himself. Clara notices: the correspondence code reaches its limit. Thomas's system assumes ports and regularity; the jungle has none. For the first time, the company exists outside Thomas's reach.
 
-5. **Harper** (~400 words): Harper at the treeline with Reyes, consulting over a map drawn in dirt — Cruces, the mule trail, eighteen miles. Clara watches: four years, the steadiest presence in her life. His forearms scarred — marks she has never catalogued. He looks like a man doing the work he was built for. Tomorrow, mules. The jungle breathes around them. Clara sleeps to the sound of Harper's voice asking the right questions.
+5. **Harper** (~400 words): Harper at the treeline with Reyes, consulting over a map drawn in dirt — Cruces, the mule trail, twenty miles. Clara watches: four years, the steadiest presence in her life. His forearms scarred — marks she has never catalogued. He looks like a man doing the work he was built for. Tomorrow, mules. The jungle breathes around them. Clara sleeps to the sound of Harper's voice asking the right questions.
 
 ### Threads Advanced
 
@@ -1194,7 +1194,7 @@ Wallace has the report — four days. No new complaint, no authorities. Commerci
 - The Chagres River crossing (bungos, boatmen, the guide Reyes — Harper's "third captain" referral)
 - The jungle as enemy (not hostile — worse; heat, insects, disease, indifference; "a place that simply did not notice whether the things inside it lived or died")
 - George out of his element (a dock dog in tropical jungle; the sounds he cannot sort; Clara watching him)
-- The mule trail ahead (Cruces, eighteen miles, dangers with shape and without)
+- The mule trail ahead (Cruces, twenty miles, dangers with shape and without)
 
 ### Key Character Moments
 
@@ -1233,7 +1233,7 @@ Wallace has the report — four days. No new complaint, no authorities. Commerci
 
 1. **Cruces** (~400 words): The river ends at a mud village — thatched roofs, mule corrals, the Camino de Cruces. The bungos pulled up on a gravel bank. Reyes negotiating mules. Samuel watching Clara inventory weapons — every member armed for the trail. Harper has been teaching Lily to shoot. Samuel has his own pistol now. The jungle here is not river-jungle but trail-jungle — the path cut centuries ago by the Spanish, half-reclaimed.
 
-2. **The Trail** (~500 words): Eighteen miles. Mules in single file. The mud knee-deep in places. Samuel's merchant body protesting every step. Clara in front with Harper and Reyes, Samuel in the middle, Lily behind him on a mule with Ajax. The heat a physical weight. George panting, staying close to Clara. Samuel thinks: he traded a ledger for this. Watches Clara ahead — she moves through the jungle the way she moves through Philadelphia's docks: alert, reading what's there, not what she hopes is there.
+2. **The Trail** (~500 words): Twenty miles. Mules in single file. The mud knee-deep in places. Samuel's merchant body protesting every step. Clara in front with Harper and Reyes, Samuel in the middle, Lily behind him on a mule with Ajax. The heat a physical weight. George panting, staying close to Clara. Samuel thinks: he traded a ledger for this. Watches Clara ahead — she moves through the jungle the way she moves through Philadelphia's docks: alert, reading what's there, not what she hopes is there.
 
 3. **Signs** (~500 words): Reyes stops the column. Something on the trail — not animal. Broken branches at man-height, recent fire ash. Harper reads the sign with Reyes. Samuel watches Harper work: the same care he brought to the ship, the docks, the watch rotation. "Someone passed here. Within the day." The company tightens formation. Clara distributes loaded weapons to the crew. Samuel's pistol in his belt — the weight of it unfamiliar but no longer foreign.
 
@@ -1410,7 +1410,7 @@ Wallace has the report — four days. No new complaint, no authorities. Commerci
 
 1. **The Resolute** (~400 words): A different ship. Smaller, Pacific-rigged, the timber different, the captain's habits different. Clara assessing the new vessel the way she assesses everything — what works, what doesn't, what could kill them. The captain (name TBD) is competent but not Harper's kind of competent. No one is. George adjusting — new smells, new planking, new captain to evaluate. Clara assigns the watch rotation herself. Harper's job is now hers.
 
-2. **The Company Diminished** (~500 words): The company is smaller — Harper gone, the crew of the Resolute not hers. Davis and Marsh remain, Jennings and Cole recovering. Lily and Ajax below. Samuel at the bow. Clara inventories what she has: fewer hands, fewer weapons, the same mission. She cleans the Colts at the taffrail — the routine transported from the Caroline to the Resolute. The same hands, different wood beneath them.
+2. **The Company Diminished** (~500 words): The company is smaller — Harper gone, the crew of the Resolute not hers. Davis and Ward remain, Jennings and Cole recovering. Lily and Ajax below. Samuel at the bow. Clara inventories what she has: fewer hands, fewer weapons, the same mission. She cleans the Colts at the taffrail — the routine transported from the Caroline to the Resolute. The same hands, different wood beneath them.
 
 3. **The Pacific** (~400 words): A different ocean. Warmer currents, different birds, different light on the water. Clara's father crossed this ocean. The compass he gave her — she takes it from the case for the first time at sea. The needle steady. Her father's hand once held this. Clara allows the connection — briefly, privately, then puts it away. George at her feet.
 
@@ -1452,7 +1452,7 @@ Wallace has the report — four days. No new complaint, no authorities. Commerci
 
 1. **Open Water** (~400 words): Three weeks at sea. The Pacific different from the Atlantic — longer swells, wider sky, the horizon farther in every direction. Samuel has found his sea legs on this second ship. His journal — not the correspondence, the private writing begun by firelight in the jungle — has become a nightly practice. He writes what Thomas's codes cannot hold: the Isthmus, Harper's death, the way Clara's silence sounds different from her speech.
 
-2. **Healing** (~500 words): The company healing. Jennings and Cole recovered. Lily painting on deck — the Pacific light different from anything she has captured before. Ajax sunning. Davis teaching Marsh to tie Pacific-grade knots. The captain keeping his distance from Clara's company — respectful, slightly wary. Samuel sees the crew forming new patterns without Harper. Clara training at dawn — shorter, harder, alone.
+2. **Healing** (~500 words): The company healing. Jennings and Cole recovered. Lily painting on deck — the Pacific light different from anything she has captured before. Ajax sunning. Davis teaching Ward to tie Pacific-grade knots. The captain keeping his distance from Clara's company — respectful, slightly wary. Samuel sees the crew forming new patterns without Harper. Clara training at dawn — shorter, harder, alone.
 
 3. **The Journal** (~400 words): Samuel's private writing. What he records: the smell of Harper's pipe tobacco, the sound of the Colts in the jungle, Clara's hand on his arm. The intelligence operative in him recognizes: he is building a record. Not for Thomas, not for the network. For himself. For whatever comes after. He writes by lantern light in the hold. Lily passes, sees him writing, says nothing. She understands private work.
 
@@ -1724,7 +1724,7 @@ Wallace has the report — four days. No new complaint, no authorities. Commerci
 
 4. **Lily** (~400 words): Lily finds Clara at the waterfront. They look at the coast together — the western light, different from the ship, anchored now in a real place. Lily: "Will we stay?" Clara: "Yes." The single word. Lily nods. She has already begun sketching the bay. Clara watches Lily draw San Francisco — the hills, the fog, the harbor. Lily is already making this place hers. Clara will do the same, but with different instruments.
 
-5. **The Resolve** (~300 words): Evening. Clara with Samuel, Lily, the remaining company. Jack's schooner still in the harbor — he has not left yet. Clara makes her decision: she will build here. The network, the protection, the empire. She will do it without Harper, without Thomas at her side, without certainty about the man who holds the east. She will do it with who she has: Samuel, Lily, Davis, Marsh, George. "It is enough." The bay at sunset. The fog coming in. The first night in San Francisco.
+5. **The Resolve** (~300 words): Evening. Clara with Samuel, Lily, the remaining company. Jack's schooner still in the harbor — he has not left yet. Clara makes her decision: she will build here. The network, the protection, the empire. She will do it without Harper, without Thomas at her side, without certainty about the man who holds the east. She will do it with who she has: Samuel, Lily, Davis, Ward, George. "It is enough." The bay at sunset. The fog coming in. The first night in San Francisco.
 
 ### Threads Advanced
 
@@ -1736,7 +1736,7 @@ Wallace has the report — four days. No new complaint, no authorities. Commerci
 
 - San Francisco as new base (the settlement assessed — harbor, sight lines, commerce, protection needed)
 - Clara's uncoded letter to Thomas (the first personal communication — defending the friendship against the doubt)
-- The company in California (who remains: Samuel, Lily, Davis, Marsh, George, Ajax — diminished but sufficient)
+- The company in California (who remains: Samuel, Lily, Davis, Ward, George, Ajax — diminished but sufficient)
 
 ### Key Character Moments
 
@@ -1766,7 +1766,7 @@ Wallace has the report — four days. No new complaint, no authorities. Commerci
 
 3. **Jack's Departure** (~500 words): Jack Garrett on the waterfront. His schooner being provisioned. He is going south — down the coast, then overland. He will not say where exactly. "Somewhere defensible." Jack shakes Samuel's hand. "Take care of her, Mr. Taylor." Samuel: "She takes care of herself." Jack: "That's why she needs someone to take care of her." Jack looks toward Clara, across the waterfront. His assessment unchanged. He boards. Ruby at his side. The schooner catches the tide.
 
-4. **The Company** (~400 words): The remaining company assembled. Clara addresses them — not formally, not with a speech, but with work assignments. Davis and Marsh: harbor patrol. Samuel: commerce and supply. Lily: free. "Do what you do." Lily: "I intend to." The company is smaller, different, tested by the Isthmus and the Pacific. Everyone present has survived something. Clara: "We start tomorrow." She starts today.
+4. **The Company** (~400 words): The remaining company assembled. Clara addresses them — not formally, not with a speech, but with work assignments. Davis and Ward: harbor patrol. Samuel: commerce and supply. Lily: free. "Do what you do." Lily: "I intend to." The company is smaller, different, tested by the Isthmus and the Pacific. Everyone present has survived something. Clara: "We start tomorrow." She starts today.
 
 5. **The Shore** (~400 words): Sunset. Samuel and Clara at the waterfront. The Pacific burning its nightly gold. Behind them, the settlement. Ahead, the ocean Clara's father crossed. Samuel's hand near Clara's — not touching, not needing to. George between them, facing the water. The correspondence codes in Samuel's pocket — the circuit complete, Kingston to Monterey. Thomas's voice from three thousand miles: "Go build something in the west, Clara. I'll hold the east." Clara has arrived. What she builds here will be hers. Not Thomas's. Not her father's. Hers. The fog comes in. The golden shore fades. The first day ends. The first day begins.
 

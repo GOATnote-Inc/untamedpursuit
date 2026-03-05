@@ -11,7 +11,7 @@
 
 ## Outline Beats
 1. **Cruces** (~400w): River ends at mud village. Mule corrals. Reyes negotiates mules. Clara arms every member. Harper has been teaching Lily to shoot. Samuel has his own pistol. Trail-jungle, half-reclaimed Spanish path.
-2. **The Trail** (~500w): Eighteen miles. Mules single file. Mud knee-deep. Samuel's merchant body protesting. Clara ahead — reads what's there, not what she hopes. George panting, close to Clara.
+2. **The Trail** (~500w): Twenty miles. Mules single file. Mud knee-deep. Samuel's merchant body protesting. Clara ahead — reads what's there, not what she hopes. George panting, close to Clara.
 3. **Signs** (~500w): Reyes stops the column. Broken branches at man-height, recent fire ash. Harper reads sign with Reyes. "Someone passed here. Within the day." Company tightens formation. Clara distributes loaded weapons. Samuel's pistol — unfamiliar but no longer foreign.
 4. **Night Camp** (~400w): No fire. Dried provisions. Jungle louder in darkness. Clara sits beside Samuel — not touching, just present. Correspondence codes in his pocket — Thomas's second checkpoint is Panama City. "You'll write." Clara's certainty = refusal.
 5. **Dawn** (~300w): Samuel checks pistol the way Clara checks hers. Harper notices, says nothing. Reyes: eight miles to Panama City. The company moves.
@@ -23,11 +23,11 @@
 - **Lily**: Artist, violinist. Requested weapons training "Not out of fear... Out of choice." Sketchbook and violin case. Ajax has chosen her.
 - **Reyes**: Lean, sun-darkened, English from captains, machete and nothing else. Harper's "third captain" referral.
 - **George**: 140 lbs Newfoundland cross. Overwhelmed by jungle sounds (ch-23). Hand-signal trained. Silent.
-- **Company members**: Davis, Marsh, Cole, Jennings. Tierney also aboard (Thomas's agent — dual-frequency).
+- **Company members**: Davis, Ward, Cole, Jennings. Tierney also aboard (Thomas's agent — dual-frequency).
 
 ## Previous Chapter Landing (Ch-23: The Chagres)
 - Clara POV. River crossing by bungo. Chagres settlement — thatched huts, ruined Spanish fort.
-- Two bungos: Clara/Harper/George/Davis/Marsh in first; Samuel/Lily/Ajax/Cole/Jennings in second.
+- Two bungos: Clara/Harper/George/Davis/Ward in first; Samuel/Lily/Ajax/Cole/Jennings in second.
 - Harper at peak competence — water discipline, quinine, netting, consulting Reyes.
 - George overwhelmed by jungle sounds, ears swiveling without settling.
 - Clara cleans Colts by firelight. Samuel writes in his own journal (not correspondence).
