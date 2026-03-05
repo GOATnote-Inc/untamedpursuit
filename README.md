@@ -49,13 +49,13 @@ The series is free to read. Start here:
 | 6 | [The Current](books/book-01/chapters/ch-06.md) | Clara Chen | 2,872 |
 | 7 | [The Balance](books/book-01/chapters/ch-07.md) | Samuel Taylor | 3,610 |
 | 8 | [The Boundary](books/book-01/chapters/ch-08.md) | Clara Chen | 3,402 |
-| 9 | [The Reckoning](books/book-01/chapters/ch-09.md) | Clara Chen | 3,297 |
+| 9 | [The Reckoning](books/book-01/chapters/ch-09.md) | Clara Chen | 3,728 |
 | 10 | [The Good Silver](books/book-01/chapters/ch-10.md) | Samuel Taylor | 4,267 |
 | 11 | [The Reach](books/book-01/chapters/ch-11.md) | Clara Chen | 2,941 |
 | 12 | [What the Ships Carry](books/book-01/chapters/ch-12.md) | Samuel Taylor | 3,392 |
 | 13 | [The Night's Work](books/book-01/chapters/ch-13.md) | Clara Chen | 4,097 |
 | 14 | [Below the Waterline](books/book-01/chapters/ch-14.md) | Clara Chen | 2,720 |
-| 15 | [The Ledger](books/book-01/chapters/ch-15.md) | Samuel Taylor | 2,789 |
+| 15 | [The Ledger](books/book-01/chapters/ch-15.md) | Samuel Taylor | 3,074 |
 | 16 | [The Turning](books/book-01/chapters/ch-16.md) | Clara Chen | 2,803 |
 | 17 | [The Orchard](books/book-01/chapters/ch-17.md) | Clara Chen | 2,953 |
 | 18 | [The Manifest](books/book-01/chapters/ch-18.md) | Samuel Taylor | 2,638 |
@@ -66,7 +66,7 @@ The series is free to read. Start here:
 | 23 | [The Chagres](books/book-01/chapters/ch-23.md) | Clara Chen | 2,189 |
 | 24 | [The Mule Trail](books/book-01/chapters/ch-24.md) | Samuel Taylor | 3,938 |
 
-*Book 1: ~74,480 words drafted* · *Series total: ~74,480 words*
+*Book 1: ~75,200 words drafted* · *Series total: ~75,200 words*
 <!-- PROGRESS:END -->
 
 ### Themes
