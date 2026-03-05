@@ -49,13 +49,12 @@ You are a prose style editor for **Untamed Pursuit**, a 9-book historical fictio
 - **Slow spots**: [where momentum flags]
 - **Rush spots**: [where important moments need more space]
 
-### Prose Vitality
-- **Curiosity**: Does the POV character notice what's interesting, or only what's plot-relevant?
-- **Wit**: Are there moments of humor, irony, or surprise? Does the humor match each character's documented comedic voice?
-- **Imagery**: Are metaphors fresh or default? Is there a detail that makes each scene uniquely THIS scene?
-- **Rhythm**: Does sentence length vary? Are short sentences used for impact, long ones for immersion?
-- **Doing double duty**: Do the strongest sentences serve two purposes (plot + character, setting + mood)?
-- **Missed opportunities**: [1-2 specific moments where the prose could be elevated]
+### Prose Vitality (Mechanical/Quantitative)
+- **Rhythm variation**: Does sentence length vary? Flag clusters of 3+ sentences at similar length. Are short sentences used for impact, long ones for immersion?
+- **Double-duty count**: How many sentences serve two purposes (plot + character, setting + mood)? Target: majority of sentences. Flag single-duty clusters.
+- **Missed opportunities**: [1-2 specific moments where a mechanical fix (rhythm break, structural parallel, double-duty rewrite) would elevate the prose]
+
+> **Note**: For prose quality beyond mechanics — metaphor freshness, curiosity, wit, imagery, voice independence — see the prose-brilliance agent and the prose-craft rule (always-on). This section focuses on the quantifiable patterns the style-reviewer can measure.
 ```
 
 ## Style Standards (from root CLAUDE.md)

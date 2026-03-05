@@ -1,5 +1,11 @@
 # Continuity Notes — Book 1
 
+<!-- Quick Reference -->
+<!-- Unprocessed bible entries: 12 (all ch-08 — lines 567-578) -->
+<!-- Unresolved continuity flags: 0 -->
+<!-- Last updated: 2026-03-06 -->
+<!-- Structure: New Facts → Outline Deviations → Continuity Flags → [per-chapter sections] → Subagent Archive -->
+
 ## New Facts Introduced
 
 - ch-01: Clara's private dock is on the northern end of Philadelphia's port — added to bible? yes
@@ -93,7 +99,15 @@
 - ch-03: "Homo sum" Latin motto NOT used — still reserved for bigger moment. — resolved? yes, held per Ch2 plan
 - ch-03: Thomas excluded from tea but stays working — continues the "man at the desk" pattern from Ch2. No negative emotion shown. — resolved? yes, dual-frequency seed maintained
 
-## Subagent Review Log
+---
+
+# Subagent Review Archive
+
+<!-- Below this line: per-chapter subagent review logs from /revise runs. -->
+<!-- These are retained for reference but are not part of the active continuity tracking above. -->
+<!-- Standalone reports also archived in reports/ directory. -->
+
+## Chapter 1 — Subagent Review Log
 
 ### Style Reviewer
 - POV: Clean (one minor breach fixed — line 124 "assembling" → anchored in observable behavior)
@@ -1613,7 +1627,6 @@ Word count: 3,032 → 2,941 (net -91 words from cuts)
 - ch-24: Tierney not mentioned by name — present in company but not foregrounded (consistent with dual-frequency approach; Thomas's agent aboard but invisible this chapter).
 - ch-24: Thomas dual-frequency seeds: 2 this chapter. (1) Correspondence codes — Thomas's handwriting, Thomas's cipher, Thomas's wax, Thomas's diagram; "the people who had left him behind." (2) Samuel will write from Panama City — Thomas's infrastructure sustaining the journey, his reach across the Isthmus. Running total: 102 + 2 = 104.
 - ch-24: No deviations from outline. All five beats hit. Word count 3,687 (above target range of 2,600–3,000 — the trail and night camp scenes ran longer than outlined).
-- added to bible? no
 
 ---
 
