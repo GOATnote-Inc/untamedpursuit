@@ -1161,3 +1161,57 @@ Wallace has the report — four days. No new complaint, no authorities. Commerci
 - Clara leaning against Samuel's shoulder — "Not seen — felt"
 - "Harper is an optimist" — Clara's dark humor about what lies ahead
 - "Tonight it held what it held" — the harbor as temporary shelter
+
+---
+
+## Chapter 23: The Chagres
+
+- **POV**: Clara Chen (ninth Clara POV chapter)
+- **Location**: Chagres, Panama — the Chagres River
+- **Time**: April 22–24, 1847
+- **Word count target**: 2,200–2,600
+
+### Scene Beats
+
+1. **Chagres** (~400 words): The Caroline arrives at the mouth of the Chagres River. Not a port — thatched huts, ruined Spanish fort, a leaning pier. The jungle starts at the waterline. Clara sheds the leather coat — linen, canvas, Colts in a shoulder rig. The Caroline returns to Kingston under the captain. Harper's guide is waiting.
+
+2. **The Guide and the River** (~400 words): Reyes — lean, sun-darkened, English learned from captains. "How many have crossed before?" "None." Two bungos, two boatmen each. Company splits: Clara/Harper/George/Davis/Marsh in first; Samuel/Lily/Ajax/Cole/Jennings in second. The jungle closes around them within the first mile. Canopy blocks the sky. Sound changes from open-water silence to layered density.
+
+3. **The Crossing Begins** (~600 words): Harper enforcing discipline — boiled water, mosquito netting, positional mapping. The heat enclosed, inescapable. Clara's Colts absorbing the jungle's temperature. George overwhelmed — a dock dog with no grammar for the jungle's sounds. Lily sketching in the second bungo. Clara recognizes: the threat is not a man with a weapon but the air, the water, the slow accumulation of heat and disease. Caiman slides from the bank. Reyes: "They know the difference between a meal and a problem." Harper: "A quality I wish were more universal."
+
+4. **First Night** (~500 words): Camp on a gravel bar. Smoky green-wood fire — smoke for mosquitoes, not warmth. Clara cleans the Colts — the routine transported from Philadelphia to jungle. George tight against her leg, unable to rest. Samuel writing by firelight — not the correspondence, something for himself. Clara notices: the correspondence code reaches its limit. Thomas's system assumes ports and regularity; the jungle has none. For the first time, the company exists outside Thomas's reach.
+
+5. **Harper** (~400 words): Harper at the treeline with Reyes, consulting over a map drawn in dirt — Cruces, the mule trail, eighteen miles. Clara watches: four years, the steadiest presence in her life. His forearms scarred — marks she has never catalogued. He looks like a man doing the work he was built for. Tomorrow, mules. The jungle breathes around them. Clara sleeps to the sound of Harper's voice asking the right questions.
+
+### Threads Advanced
+
+- Harper's arc before death (peak competence — water discipline, netting, guide consultation; Clara's trust deepening what the reader will lose; "the most present — the man who was there when she turned around")
+- Clara-Samuel courtship (separate boats by day, shared firelight by night; watching him write without asking; the Kingston intimacy held but not examined)
+- Thomas Arlington's jealousy seeds (correspondence system reaching its limit; Thomas's infrastructure assumes ports and regularity; the company beyond his reach for the first time)
+
+### Threads Introduced
+
+- The Chagres River crossing (bungos, boatmen, the guide Reyes — Harper's "third captain" referral)
+- The jungle as enemy (not hostile — worse; heat, insects, disease, indifference; "a place that simply did not notice whether the things inside it lived or died")
+- George out of his element (a dock dog in tropical jungle; the sounds he cannot sort; Clara watching him)
+- The mule trail ahead (Cruces, eighteen miles, dangers with shape and without)
+
+### Key Character Moments
+
+- "The river found them before they found the river" — the opening: the Chagres as active presence
+- The Caroline returning to Kingston — the company committed to the crossing, no safety net
+- Clara shedding the leather coat — the jungle strips away Philadelphia's armor
+- Reyes: "How many have crossed before?" / Clara: "None" — the company's first admission of vulnerability
+- Harper planning "the way other men breathed — not a decision but a condition"
+- Harper on boiled water: "the distance between discipline and fever was a single swallow"
+- George unable to sort the jungle's sounds — "The jungle had no grammar. Everything spoke at once."
+- Clara's hand on George's head: "The gesture was for both of them"
+- The caiman — silent, fast, gone. Reyes: "They know the difference between a meal and a problem"
+- Harper: "A quality I wish were more universal" — dry humor before death
+- Clara cleaning Colts on a gravel bar — the routine as anchor across all surfaces
+- Samuel writing by firelight — "not the correspondence. Something else."
+- Correspondence code reaching its limit — the company beyond Thomas's reach
+- Clara watching Harper at the treeline: "the most present. The man who was there when she turned around."
+- Harper's scarred forearms — "the accumulated record of a life spent standing between other people and what threatened them"
+- "Not hostile. Worse than hostile. A place that simply did not notice whether the things inside it lived or died."
+- The last sound before sleep: Harper's voice, asking the right questions

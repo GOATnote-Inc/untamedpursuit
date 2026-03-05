@@ -1553,3 +1553,31 @@ Word count: 3,032 → 2,941 (net -91 words from cuts)
 - **Historian**: 2 MUST-FIX resolved (watch bells corrected, "architecture" → "bones"). 3 CONSIDER addressed ("insects that carry disease" → "insects worse than the fever" to avoid anachronistic causation; clock tower kept as plausible). 12+ items VERIFIED (Kingston harbor, emancipation, provisioning, Isthmus crossing details, quinine, chandlery, lighter, seven fathoms).
 - **Character analyst**: All PASS. Samuel voice consistent with Ch20 merchant's eye. Clara through strict exteriority. Harper address forms and Isthmus briefing authentic. Lily battle translation convincing. George positional. Thomas seed "three possessives invisible on first read, damning on second." Clara-Samuel intimacy "precisely calibrated — earned without being premature."
 - **Status**: draft → revised. Word count: 2207.
+
+- ch-23: Clara POV. April 22–24, 1847. Chagres, Panama — the Chagres River.
+- ch-23: Chagres settlement — thatched huts, ruined Spanish fort on the headland (walls black with centuries of growth), single leaning wooden pier. No customs house.
+- ch-23: The Caroline returns to Kingston under the captain's command. Company committed to the Isthmus crossing — no ship on this side.
+- ch-23: Clara sheds the leather coat at Chagres — too hot for the jungle. Wears linen shirt, canvas trousers, Colts in a shoulder rig Harper adapted for the crossing. Sword cane in hand.
+- ch-23: Guide: Reyes. Lean, sun-darkened, English learned from captains. Found through Harper's "third captain" referral. Carries a machete and nothing else.
+- ch-23: Two bungos — dugout canoes hollowed from single trunks, wide as a man is tall. Three local boatmen per bungo working with padded poles.
+- ch-23: Company split: Bungo 1 — Clara, Harper, George, Davis, Marsh. Bungo 2 — Samuel, Lily, Ajax, Cole, Jennings.
+- ch-23: River journey = three days. Then mule trail from the village of Cruces — twenty miles through jungle to Panama City.
+- ch-23: Harper enforces water discipline (boiled only), mosquito netting at rest, quinine. Maps positions by defensive priority.
+- ch-23: George overwhelmed by the jungle — ears swiveling without settling, unable to sort sounds. Clara watching him closely. (Revised: filtered through Clara's observation, not George's interiority.)
+- ch-23: Caiman spotted on the river — slides from the bank, silent and fast. Reyes: "They know the difference between a meal and a problem."
+- ch-23: Camp on a gravel bar. Green-wood fire for smoke (mosquitoes), not heat. Netting strung between trees.
+- ch-23: Clara cleans Colts by firelight — the routine transported from Philadelphia to Caroline to Kingston to jungle.
+- ch-23: Samuel writing in his own journal by firelight — not the correspondence to Thomas, something personal.
+- ch-23: Correspondence code reaches its limit — Thomas's cipher system assumes ports and regularity; the jungle has neither. Company exists outside Thomas's reach for the first time.
+- ch-23: Harper consults Reyes at the treeline — Reyes draws the trail in dirt with a stick. Cruces, mule trail, Panama City. Two professionals finding common ground.
+- ch-23: Clara on Harper: "Not the most brilliant man she knew. The most present. The man who was there when she turned around."
+- ch-23: Harper's forearms: "tanned and scarred — small marks she had never catalogued."
+- ch-23: Last sound before Clara sleeps: Harper's voice asking Reyes about water sources on the trail.
+- ch-23: Thomas dual-frequency seed: 1 this chapter. The correspondence system's limit — Thomas's infrastructure ends at the jungle's edge, the company beyond his reach/surveillance. Running total: 101 + 1 = 102.
+
+### Ch23 Subagent Review Log
+- **Style reviewer**: 4 CRITICAL (POV breaks at George's interiority, Lily detail from 20 yards, Ajax's interior decision, boatman borderline), 4 MODERATE (tell-after-show ×3, pacing ×1), 4 MINOR ("the way" 3→2, tricolons 7→4). All addressed.
+- **Continuity checker**: 1 CONTRADICTION (captain hiring "six months ago" vs Ch18's timeline — removed time reference), 28 VERIFIED. Advisories: Tierney absence (acceptable — implied stays with Caroline), Ajax terrier descriptor (kept — breed TBD), Jennings bandage not mentioned (6–7 days post-injury, acceptable).
+- **Historian**: 2 MUST-FIX (bungos "flat-bottomed boats" → dugout canoes; mosquito-disease link reframed as empirical knowledge without germ theory), 5 CONSIDER (18→20 miles applied; 2→3 days applied; boatmen 2→3 applied; "contamination" → "reckoning" applied; "defensive priority" kept — Harper's military background). 18 VERIFIED.
+- **Character analyst**: All PASS. Clara voice distinct from Samuel Ch22. Harper pre-eulogy "strongest character work." Thomas seed "technically accomplished — invisible on first read."
+- **Status**: draft → revised. Word count: 2189.
