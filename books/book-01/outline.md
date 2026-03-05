@@ -202,7 +202,7 @@
 ### Key Character Moments
 
 - Clara's rearming ritual — the hinge between the woman who played cello and the woman who carries Colts
-- Thomas's "I haven't heard you sing like that in a while. Confident. Bold." — warm on first read, cataloguing on re-read
+- Thomas's "Harper tells me you sang like you used to. Confident. Bold." — warm on first read, cataloguing on re-read
 - Clara admitting Samuel surprised her — rare vulnerability in Thomas's presence
 - "He reads rooms the way you do" / "Differently. I read for threats. He reads for beauty."
 - Thomas's ten-item plan — the culmination of Task 1 from Ch2

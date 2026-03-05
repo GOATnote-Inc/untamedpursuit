@@ -32,7 +32,7 @@
 - **Significance**: Clara unarmed for the first time. Samuel sees her artistic depths. Lily's first appearance. Courtship crosses a threshold (hand-take).
 
 ### Morning After Chapter 4 — Chapter 5
-- **Event**: Clara rearmed (leather coat, holsters, Colts, sword cane). Debriefs with Thomas. Thomas: "I haven't heard you sing like that in a while." Thomas delivers the ten-item strategic plan (anti-trafficking). Wallace's art-world patronage and respectability network revealed. Clara orders Wallace's network fully mapped.
+- **Event**: Clara rearmed (leather coat, holsters, Colts, sword cane). Debriefs with Thomas. Thomas: "Harper tells me you sang like you used to. Confident. Bold." Thomas delivers the ten-item strategic plan (anti-trafficking). Wallace's art-world patronage and respectability network revealed. Clara orders Wallace's network fully mapped.
 - **Location**: Thomas's office, Clara's townhouse
 - **Characters involved**: Clara, Thomas, George
 - **POV**: Clara

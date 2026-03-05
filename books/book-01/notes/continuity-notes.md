@@ -301,7 +301,7 @@
 
 - ch-05: Clara dresses before dawn — leather coat, holsters (multiple Colts), sword cane. Rearming ritual after the unarmed Golden Compass evening — added to bible? skip — disarmament pattern tracked in prose
 - ch-05: Thomas has been working through the night (or never stopped) — cravat absent, shirtsleeves rolled, ink on both hands — added to bible? skip — scene-specific, consistent with pattern
-- ch-05: Clara sang at the Golden Compass (Thomas: "I haven't heard you sing like that in a while. Confident. Bold.") — implies Thomas has heard her sing before — added to bible? yes
+- ch-05: Clara sang at the Golden Compass (Thomas: "Harper tells me you sang like you used to. Confident. Bold.") — Thomas sources assessment from Harper, who was present — added to bible? yes (revised per continuity audit)
 - ch-05: Thomas's ten-item strategic plan delivered (Task 1 from Ch2) — ranked by impact and feasibility — added to bible? skip — plot event
 - ch-05: Short-term plan items: tighter dock inspections, legal advocacy for trafficking penalties, expansion of informant reach among dock workers — added to bible? skip — plot detail
 - ch-05: Long-term plan items: education, cultural change, legal reform at the state level — added to bible? skip — plot detail
@@ -360,7 +360,7 @@
 - Clara's daily schedule: Blade work deferred with reason given ("Thomas was expecting her"). PASS.
 - Timeline: Morning after Ch4 evening. Thomas had time to complete the plan. PASS.
 - Meta-reference "Chapter Two": FIXED — removed.
-- Thomas's knowledge of singing quality: FLAGGED — "I haven't heard you sing like that in a while" implies direct witness. Defensible as inference from Clara's demeanor + years of partnership. Accepted without change — Thomas knows Clara's singing from previous performances; the "confident, bold" assessment is his reading of her current bearing projected onto what he knows of her artistry.
+- Thomas's knowledge of singing quality: RESOLVED (continuity audit) — changed to "Harper tells me you sang like you used to. Confident. Bold." Thomas now attributes the assessment to Harper, who was present at the Golden Compass performance. No longer implies Thomas attended.
 
 ### Historian
 - CRITICAL vocabulary fixes applied: "dossier" → "portfolio" (regression from Ch3 fix); "infrastructure" → "foundation"; "briefing" → "report"; "debrief" (×2) → removed/replaced with "conversation" and "the night of the Mercy Jane."
@@ -1589,7 +1589,7 @@ Word count: 3,032 → 2,941 (net -91 words from cuts)
 - ch-24: Samuel POV. April 25–26, 1847. Cruces to the mule trail toward Panama City.
 - ch-24: Cruces — mud village at the end of the Chagres River. Dozen structures, thatched palm, mule corrals of stripped poles. Bungos run aground on gravel bank.
 - ch-24: Clara distributes weapons at Cruces — rifle for Davis, ammunition for Ward, checks Cole's pistol, powder flask for Jennings. "She distributed the weapons as though they were provisions. Because they were."
-- ch-24: Samuel's pistol — .36 caliber Colt Paterson, issued by Harper in Kingston (ch-22), cleaned and loaded by Harper. Carried for thirteen days by this point.
+- ch-24: Samuel's pistol — .36 caliber Colt Paterson, issued by Harper in Kingston (ch-22), cleaned and loaded by Harper. Carried for approximately a week by this point (issued April 17-18 in Kingston; ch-24 is April 25-26).
 - ch-24: Clara's appearance consistent with ch-23 — linen shirt, canvas trousers, Colts in shoulder rig, sword cane. No leather coat (shed at Chagres).
 - ch-24: Reyes negotiates mules at Cruces — twelve mules for the company.
 - ch-24: The Camino de Cruces — Road of Crosses. Spanish colonial highway, three centuries old. Dressed stone blocks erupting through mud. Built for Peruvian gold/silver transport. Half-reclaimed by jungle.

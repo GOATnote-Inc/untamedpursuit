@@ -125,5 +125,5 @@ Eve Garrett's love interest. A Durand by blood who arrives at the Glass Garden e
 - Arlington's teasing rapport with Clara: "What are you wearing?" / "Sam Taylor is handsome as hell"
 - "I love you, Thomas" / "And well, you should" — established as a rare, genuine exchange between Clara and Thomas (book-01, ch-02)
 - Has managed Clara's social calendar for years, including deflecting suitors and declining marriage proposals on her behalf (book-01, ch-02)
-- Has attended Clara's previous Golden Compass performances — "I haven't heard you sing like that in a while" (book-01, ch-05)
+- Learns about Clara's Golden Compass performances from Harper — "Harper tells me you sang like you used to. Confident. Bold." (book-01, ch-05)
 - Arlington's betrayal specifics TBD — but motivation is jealousy after being sidelined by Samuel and Jack
