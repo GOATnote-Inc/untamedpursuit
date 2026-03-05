@@ -1527,3 +1527,29 @@ Word count: 3,032 → 2,941 (net -91 words from cuts)
 - **Historian**: 1 MUST-FIX ("shifts"→"watches" — fixed). 15 items VERIFIED (schooner, boarding pikes, capstan, bulwark, lee-side tactics, Colt availability, vegetation smell, deck washing, percussion caps). 0 anachronisms from banned list. Piracy in 1847 assessed as plausible given narrative framing as hired raiders.
 - **Character analyst**: All PASS. Clara voice, combat, Samuel deployment, Harper pre-eulogy, George, Lily. Both dual-frequency seeds PASS ("platonic ideal" for direct-approach seed). Tierney name collision flagged and resolved.
 - **Status**: draft → revised. Word count: 2361.
+
+- ch-22: Samuel POV. April 17–18, 1847. Kingston, Jamaica — water, repairs, reprovisioning after pirate encounter.
+- ch-22: Kingston harbor — seven fathoms anchorage. Stone warehouses, customs house with clock tower, wooden quays.
+- ch-22: Jamaica ended slavery nine years ago (1838 Emancipation Act — historically accurate for 1847 setting).
+- ch-22: Lily translated the pirate fight from below — Harper taught her what rifle volleys and single shots meant. "Rifles together — that is discipline. Single shots — those are Clara's."
+- ch-22: Lily: "He wanted to teach me what to hear. So I would never have to wonder. I used to wonder." — references the six days in the hold without naming them.
+- ch-22: Clara's father traded in Kingston twice. Said it was "the truest harbor in the Caribbean."
+- ch-22: Caroline's damage: splintered starboard bulwark (grappling hooks), musket-ball scar near mainmast. Repaired with fresh timber in Kingston.
+- ch-22: Harper's Isthmus briefing: 47 miles, Chagres River (flat-bottomed boats), mule trail through jungle to Panama City. 5 days good weather, 7 bad, 10 if illness. Fever, bad water, insects carrying disease. Trail not maintained since Spanish left.
+- ch-22: Harper spoke to three captains who crossed — two lost men, one lost half his company to fever.
+- ch-22: Harper requesting firearms for Samuel and Lily for the Isthmus crossing.
+- ch-22: Harper's men: Davis and Marsh sent ashore with supply list, Cole at gangway, Jennings on bollard with bandaged shoulder and rifle.
+- ch-22: Samuel asked Harper not to be sent below again. Harper: "Miss Chen gives the orders. But I will note your preference."
+- ch-22: Clara told Samuel: "I did not send you below because you cannot fight." Reason: Lily needed someone she trusted; provisions and arms worth more than a boarding line.
+- ch-22: Clara: "The Isthmus will be different. There will be no below." — foreshadows Samuel fighting at the Isthmus.
+- ch-22: First physical intimacy moment: Clara leans against Samuel's shoulder. "Not seen — felt." He holds still.
+- ch-22: Samuel wrote first correspondence letter to Thomas from Kingston — used Thomas's cipher sheet, Thomas's ink, Thomas's code.
+- ch-22: Naval watch bell at Kingston — four bells (end of first dog watch, 6 PM). Corrected from eight bells per historian/continuity review.
+- ch-22: Thomas dual-frequency seed: 1 this chapter. The correspondence codes — Thomas's infrastructure sustaining the voyage, "the reach of that held longer than any arm." Running total: 100 + 1 = 101.
+
+### Ch22 Subagent Review Log (revised)
+- **Style reviewer**: 3 CRITICAL POV breaks fixed (line 30 "she decided" → cut, line 46 "Not afraid" → observable behavior, line 50 "that meant" → learned inference). 2 MODERATE POV fixed (line 64 narratorial omniscience → Samuel-filtered, line 152 Clara's cost → unnamed weight). Tell-after-show line 142 cut. "the way" 5→1. Tricolons 8→4. "harbor" 16→12 (thematic, thinned incidental). "water" 11→12 (stable after substitutions).
+- **Continuity checker**: 1 CONTRADICTION fixed (watch bell "eight times — first dog watch" → "four times"). 19 items VERIFIED. 12 ADVISORIES logged as new facts.
+- **Historian**: 2 MUST-FIX resolved (watch bells corrected, "architecture" → "bones"). 3 CONSIDER addressed ("insects that carry disease" → "insects worse than the fever" to avoid anachronistic causation; clock tower kept as plausible). 12+ items VERIFIED (Kingston harbor, emancipation, provisioning, Isthmus crossing details, quinine, chandlery, lighter, seven fathoms).
+- **Character analyst**: All PASS. Samuel voice consistent with Ch20 merchant's eye. Clara through strict exteriority. Harper address forms and Isthmus briefing authentic. Lily battle translation convincing. George positional. Thomas seed "three possessives invisible on first read, damning on second." Clara-Samuel intimacy "precisely calibrated — earned without being premature."
+- **Status**: draft → revised. Word count: 2207.

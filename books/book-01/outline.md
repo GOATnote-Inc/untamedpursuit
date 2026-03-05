@@ -1105,3 +1105,59 @@ Wallace has the report — four days. No new complaint, no authorities. Commerci
 - Harper: "They were organized. Not opportunists. Someone is running them."
 - Clara watching Harper walk away — "Four years. More mornings than she could count"
 - "Open water was honest. It was the people on it she was learning not to trust."
+
+---
+
+## Chapter 22: The Harbor
+
+- **POV**: Samuel Taylor (eighth Samuel POV chapter)
+- **Location**: Kingston, Jamaica
+- **Time**: April 17–18, 1847
+- **Word count target**: 2,400–2,800
+
+### Scene Beats
+
+1. **Kingston Approach** (~400 words): Kingston arrives in pieces — smell, color, harbor. The Caroline's damage visible: splintered bulwark, musket-ball scar. Samuel at the bow watching the port assemble. Royal Navy brig at anchor. Samuel has been below; the marks of the fight are news to him.
+
+2. **Below** (~500 words): Samuel processes the fight from the provision hold. The uselessness — pistol never fired, sounds through the planking. Lily translating the battle: "Rifles together — that is discipline. Single shots — those are Clara's." Lily steady, not afraid, or afraid and choosing to be useful. Harper taught her what the sounds meant so she would never have to wonder.
+
+3. **Shore** (~600 words): Kingston in the afternoon — stone warehouses, unpaved streets, the commerce of a post-emancipation harbor. Samuel's merchant eye reads the labor. Clara inspects chandlery goods the way she fights. "Your father traded here." Clara: Kingston was "the truest harbor in the Caribbean."
+
+4. **Harper and the Isthmus** (~600 words): Harper at the quay, evening. The Isthmus laid out: forty-seven miles, Chagres River, mule trail, jungle. Fever, bad water, insects. Five days if weather holds, seven if not, ten if someone falls ill. Harper requesting firearms for Samuel and Lily. Three captains who crossed — two lost men. Samuel: "I would prefer not to be sent below again."
+
+5. **Evening at the Rail** (~500 words): Clara at the quay after Harper leaves. Samuel tells her Lily translated the fight from below. The unspoken weight of being sent below — not argument but acknowledgment. "I did not send you below because you cannot fight." "The Isthmus will be different. There will be no below." Clara leans against his shoulder. Thomas's correspondence codes in Samuel's pocket — the first letter written, the man at the desk sustaining them from three thousand miles.
+
+### Threads Advanced
+
+- Clara-Samuel courtship (the tension of the hold resolved through restraint, not complaint; her hand on his; her head against his shoulder — a first)
+- Harper's arc before death (the Isthmus preparation — quinine, boiled water, mosquito netting, local guide; the specificity of a man who keeps people alive)
+- Thomas Arlington's jealousy seeds (correspondence codes sustaining the voyage; Samuel writing in Thomas's code, using Thomas's ink; "The reach of that held longer than any arm")
+
+### Threads Introduced
+
+- Kingston (the first harbor — post-emancipation Jamaica, the architecture of the old system remaining)
+- The Isthmus in detail (47 miles, Chagres River, mule trail, 5-10 days, fever, bandits)
+- Samuel-Lily bond (forged below during the fight; Lily translating violence into information)
+- Samuel's request to fight (told Harper, not Clara — "I would prefer not to be sent below again")
+- Harper requesting firearms for Samuel and Lily (the Isthmus will require everyone)
+
+### Key Character Moments
+
+- "Kingston came to them in pieces" — the harbor arriving through the senses
+- The Caroline's damage as news to Samuel — the marks of a fight he did not see
+- Samuel holding a pistol he never fired — "the uselessness"
+- Lily translating the fight from below: "Rifles together — discipline. Single shots — Clara's."
+- "He wanted to teach me what to hear. So I would never have to wonder."
+- Lily: "I used to wonder" — the six days in the hold referenced without naming them
+- Clara inspecting rope "the way she fought: precisely, without wasted motion"
+- Clara on her father: "He said Kingston was the truest harbor in the Caribbean"
+- Harper: "Five days if the weather holds. Seven if it does not. Ten if someone falls ill."
+- Harper requesting firearms for Samuel and Lily — the Isthmus requires everyone armed
+- "I would prefer not to be sent below again" — Samuel to Harper, not to Clara
+- Harper: "Miss Chen gives the orders. But I will note your preference."
+- Clara: "I did not send you below because you cannot fight"
+- "The Isthmus will be different. There will be no below."
+- Thomas's correspondence codes — "the system that sustained them from three thousand miles away"
+- Clara leaning against Samuel's shoulder — "Not seen — felt"
+- "Harper is an optimist" — Clara's dark humor about what lies ahead
+- "Tonight it held what it held" — the harbor as temporary shelter
