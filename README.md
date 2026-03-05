@@ -43,11 +43,11 @@ The series is free to read. Start here:
 |---:|-------|-----|------:|
 | 1 | [The Night Watch](books/book-01/chapters/ch-01.md) | Clara Chen | 3,474 |
 | 2 | [The Machinery](books/book-01/chapters/ch-02.md) | Clara Chen | 2,817 |
-| 3 | [Ginger and Steel](books/book-01/chapters/ch-03.md) | Clara Chen | 3,083 |
+| 3 | [Ginger and Steel](books/book-01/chapters/ch-03.md) | Clara Chen | 3,513 |
 | 4 | [The Artist's Touch](books/book-01/chapters/ch-04.md) | Samuel Taylor | 3,262 |
 | 5 | [The Measure](books/book-01/chapters/ch-05.md) | Clara Chen | 2,514 |
 | 6 | [The Current](books/book-01/chapters/ch-06.md) | Clara Chen | 2,872 |
-| 7 | [The Balance](books/book-01/chapters/ch-07.md) | Samuel Taylor | 3,265 |
+| 7 | [The Balance](books/book-01/chapters/ch-07.md) | Samuel Taylor | 3,610 |
 | 8 | [The Boundary](books/book-01/chapters/ch-08.md) | Clara Chen | 3,111 |
 | 9 | [The Reckoning](books/book-01/chapters/ch-09.md) | Clara Chen | 3,297 |
 | 10 | [The Good Silver](books/book-01/chapters/ch-10.md) | Samuel Taylor | 4,267 |
@@ -60,13 +60,13 @@ The series is free to read. Start here:
 | 17 | [The Orchard](books/book-01/chapters/ch-17.md) | Clara Chen | 2,672 |
 | 18 | [The Manifest](books/book-01/chapters/ch-18.md) | Samuel Taylor | 2,638 |
 | 19 | [Morning Tide](books/book-01/chapters/ch-19.md) | Clara Chen | 2,643 |
-| 20 | [Open Water](books/book-01/chapters/ch-20.md) | Samuel Taylor | 2,833 |
+| 20 | [Open Water](books/book-01/chapters/ch-20.md) | Samuel Taylor | 3,192 |
 | 21 | [The Windward Passage](books/book-01/chapters/ch-21.md) | Clara Chen | 2,361 |
 | 22 | [The Harbor](books/book-01/chapters/ch-22.md) | Samuel Taylor | 2,207 |
 | 23 | [The Chagres](books/book-01/chapters/ch-23.md) | Clara Chen | 2,189 |
 | 24 | [The Mule Trail](books/book-01/chapters/ch-24.md) | Samuel Taylor | 3,687 |
 
-*Book 1: ~71,030 words drafted* · *Series total: ~71,030 words*
+*Book 1: ~72,160 words drafted* · *Series total: ~72,160 words*
 <!-- PROGRESS:END -->
 
 ### Themes
