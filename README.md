@@ -53,7 +53,7 @@ The series is free to read. Start here:
 | 10 | [The Good Silver](books/book-01/chapters/ch-10.md) | Samuel Taylor | 4,267 |
 | 11 | [The Reach](books/book-01/chapters/ch-11.md) | Clara Chen | 2,941 |
 | 12 | [What the Ships Carry](books/book-01/chapters/ch-12.md) | Samuel Taylor | 3,033 |
-| 13 | [The Night's Work](books/book-01/chapters/ch-13.md) | Clara Chen | 3,551 |
+| 13 | [The Night's Work](books/book-01/chapters/ch-13.md) | Clara Chen | 4,097 |
 | 14 | [Below the Waterline](books/book-01/chapters/ch-14.md) | Clara Chen | 2,720 |
 | 15 | [The Ledger](books/book-01/chapters/ch-15.md) | Samuel Taylor | 2,789 |
 | 16 | [The Turning](books/book-01/chapters/ch-16.md) | Clara Chen | 2,803 |
@@ -64,9 +64,9 @@ The series is free to read. Start here:
 | 21 | [The Windward Passage](books/book-01/chapters/ch-21.md) | Clara Chen | 2,361 |
 | 22 | [The Harbor](books/book-01/chapters/ch-22.md) | Samuel Taylor | 2,207 |
 | 23 | [The Chagres](books/book-01/chapters/ch-23.md) | Clara Chen | 2,189 |
-| 24 | [The Mule Trail](books/book-01/chapters/ch-24.md) | Samuel Taylor | 3,687 |
+| 24 | [The Mule Trail](books/book-01/chapters/ch-24.md) | Samuel Taylor | 3,938 |
 
-*Book 1: ~72,160 words drafted* · *Series total: ~72,160 words*
+*Book 1: ~72,960 words drafted* · *Series total: ~72,960 words*
 <!-- PROGRESS:END -->
 
 ### Themes
