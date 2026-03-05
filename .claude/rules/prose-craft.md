@@ -37,6 +37,18 @@ What characters don't say matters as much as what they say. Dialogue should have
 
 Actions should betray what words conceal — the hand that tightens on a cup, the pause before a too-casual answer, the subject that keeps not being mentioned. Trust the reader to read between lines.
 
+## Character Metaphor Domains
+
+Each POV character thinks in metaphors drawn from their lived experience. When writing or revising, ensure metaphors are POV-specific:
+
+- **Clara**: Architectural, spatial, tactical. She thinks in structures, sight lines, load-bearing walls, blueprints, the geometry of rooms and combat. Her world is built and defended.
+- **Samuel**: Commercial, mercantile, inventory. He thinks in ledgers, cargo, balance sheets, manifests, the arithmetic of value and cost. His world is counted and weighed.
+- **Thomas**: Legal, linguistic, textual. He thinks in arguments, precedents, drafts, the weight of specific words. His world is written and filed.
+- **Harper**: Military, positional, tactical-minimal. He thinks in sight lines, formations, terrain, the economy of force. His world is watched and guarded.
+- **Lily**: Natural, artistic, sensory. She thinks in color, growth, seasons, the textures of materials. Her world is observed and rendered.
+
+If a metaphor could belong to any character, it belongs to none. Replace generic images ("living thing," "smile that survived everything," "had not changed her") with domain-specific ones that only this character, seeing through this lens, would produce.
+
 ## Voice Under Pressure
 
 Characters' speech and thought patterns shift under emotional stress. Stress strips away performance and reveals the core: formal characters become blunt, verbose characters go quiet, careful characters get reckless.

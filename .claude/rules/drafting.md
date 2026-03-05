@@ -33,3 +33,15 @@ You are in **creative/expansive** mode. The goal is forward momentum — getting
 - Log any new facts introduced in `notes/continuity-notes.md`
 - Note any deviations from the outline in `notes/continuity-notes.md`
 - Do NOT revise — that's a separate work mode
+
+## Prevention Checklist (run mentally while drafting)
+
+These are writer habits that produce patterns requiring expensive post-hoc correction. Catch them during drafting:
+
+1. **Protagonist physical cost**: If the POV character fights or endures hardship in this chapter, have they taken a physical consequence? Not discomfort — a wound, a limitation, exhaustion that changes their capability. If the answer is no, add one before moving on.
+2. **Backstory redundancy**: Are you recapping an event that was fully told in an earlier chapter? Stop. One oblique reference is enough. Trust the reader.
+3. **Secondary character competence**: Is any secondary character (especially advisors, assistants, tacticians) solving problems too cleanly? Give them one wrong turn, one gap in their knowledge, one moment where their competence doesn't reach.
+4. **Metaphor domain**: Check the last three metaphors you wrote. Do they belong to the POV character's domain (see prose-craft.md: Character Metaphor Domains)? If they could belong to any narrator, replace them.
+5. **Admiration ratio**: Count your last five observations of another character. Are more than three admiring? Add a complication, a misread, or a moment where the observed character's strength is also their limitation.
+6. **Exit structure**: How did the last two chapters end? If both ended with a character in transit reflecting, choose a different exit: dialogue, scene cut, sensory image, or action.
+7. **Bechdel awareness**: If two women are in this scene, do they discuss anything not mediated by a male character? If not, find the organic moment for an independent exchange.
