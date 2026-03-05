@@ -1215,3 +1215,582 @@ Wallace has the report — four days. No new complaint, no authorities. Commerci
 - Harper's scarred forearms — "the accumulated record of a life spent standing between other people and what threatened them"
 - "Not hostile. Worse than hostile. A place that simply did not notice whether the things inside it lived or died."
 - The last sound before sleep: Harper's voice, asking the right questions
+
+---
+
+<!-- Chapters 24–36: Batch-outlined from step outline scenes 19–32 (outline_2_16.md).
+     These are roadmap outlines — lighter than the fully-developed entries above.
+     Each will be expanded during the research phase before drafting. -->
+
+## Chapter 24: The Mule Trail
+
+- **POV**: Samuel Taylor (tenth Samuel POV chapter)
+- **Location**: Cruces, Panama — the mule trail toward Panama City
+- **Time**: April 25–26, 1847
+- **Word count target**: 2,600–3,000
+
+### Scene Beats
+
+1. **Cruces** (~400 words): The river ends at a mud village — thatched roofs, mule corrals, the Camino de Cruces. The bungos pulled up on a gravel bank. Reyes negotiating mules. Samuel watching Clara inventory weapons — every member armed for the trail. Harper has been teaching Lily to shoot. Samuel has his own pistol now. The jungle here is not river-jungle but trail-jungle — the path cut centuries ago by the Spanish, half-reclaimed.
+
+2. **The Trail** (~500 words): Eighteen miles. Mules in single file. The mud knee-deep in places. Samuel's merchant body protesting every step. Clara in front with Harper and Reyes, Samuel in the middle, Lily behind him on a mule with Ajax. The heat a physical weight. George panting, staying close to Clara. Samuel thinks: he traded a ledger for this. Watches Clara ahead — she moves through the jungle the way she moves through Philadelphia's docks: alert, reading what's there, not what she hopes is there.
+
+3. **Signs** (~500 words): Reyes stops the column. Something on the trail — not animal. Broken branches at man-height, recent fire ash. Harper reads the sign with Reyes. Samuel watches Harper work: the same care he brought to the ship, the docks, the watch rotation. "Someone passed here. Within the day." The company tightens formation. Clara distributes loaded weapons to the crew. Samuel's pistol in his belt — the weight of it unfamiliar but no longer foreign.
+
+4. **Night Camp** (~400 words): No fire. Dried provisions. The jungle louder in darkness — birds gone, insects sovereign. Harper and Reyes on first watch. Samuel cannot sleep. Clara sits beside him — not touching, just present. The correspondence codes in his pocket — Thomas's second checkpoint is Panama City. Samuel will write from there, if they arrive. "You'll write." Clara's certainty — she does not consider the possibility of not arriving. Samuel realizes: this is how she has always operated. Not optimism. Refusal.
+
+5. **Dawn** (~300 words): Pale light through canopy. The trail resumes. Samuel checks his pistol the way he has seen Clara check hers — breach, caps, cylinder rotation. Harper notices. Says nothing. The trail narrows ahead. Reyes says: eight miles to Panama City. The company moves.
+
+### Threads Advanced
+
+- Clara-Samuel courtship (proximity without performance — the jungle strips everything to essentials; Clara sitting beside him in the dark; her certainty as the thing he loves)
+- Harper's arc before death (peak trail competence — reading signs, teaching, organizing; the last morning of the column he has led for four years)
+- Thomas Arlington's jealousy seeds (correspondence codes in Samuel's pocket — writing to Thomas from the second checkpoint; Thomas's network aware of their position)
+
+### Threads Introduced
+
+- The mule trail (the Camino de Cruces — Spanish colonial infrastructure, half-reclaimed by jungle)
+- Samuel with a weapon (the pistol as object and symbol — the merchant becoming something else)
+- Trail threat (signs of recent human passage; not random bandits — organized presence)
+
+### Key Character Moments
+
+- Samuel's body protesting the trail — "He had built his career on surfaces that did not move beneath him"
+- Clara arming every member — "She distributed the weapons as though they were provisions. Because they were."
+- Harper reading trail signs with Reyes — "the same unhurried attention he brought to everything"
+- Samuel's pistol: "The weight of it had changed. Not lighter — more familiar."
+- Clara sitting beside him without touching — "Not comfort. Presence."
+- "You'll write." — Clara's certainty about surviving what they have not yet survived
+- Samuel checking his pistol the way Clara checks hers — the unconscious imitation
+- Harper noticing and saying nothing — "The compliment he would never deliver"
+
+---
+
+## Chapter 25: The Treeline
+
+- **POV**: Clara Chen (tenth Clara POV chapter)
+- **Location**: The mule trail — eight miles from Panama City
+- **Time**: April 26, 1847
+- **Word count target**: 3,000–3,400
+
+### Scene Beats
+
+1. **The Narrowing** (~400 words): The trail descends toward the Pacific slope. Canopy lower, sight lines shorter. Clara's instincts sharpening — the trail is too quiet. George close, hackles up. Reyes has stopped talking. Harper moves to the front. Clara recognizes the signs she has spent four years learning to read: the absence of normal sound, the quality of waiting.
+
+2. **The Ambush** (~800 words): Musket fire from the treeline. The lead mule goes down. The column breaks. Clara draws — the Colts' sharp coughs cutting through the jungle noise. Harper's rifle volley from the front. Bandits — a dozen or more, organized, positioned above the trail. Not random — someone knew this route. George launches into the brush. Samuel fires his pistol — his first shot in combat, aimed, deliberate. Clara fighting forward, Reyes pulling back. The company caught between.
+
+3. **Harper** (~600 words): Harper pushes to the high ground above the trail. Covering fire for the company. Clara hears his rifle — steady, spaced, each shot buying time. Then a gap. Clara looks up. Harper is still standing but his left hand is against his side. He fires again. The bandits break. The company pushes through. Clara reaches Harper at the treeline. His hand comes away dark.
+
+4. **The Clearing** (~500 words): The bandits gone — scattered or dead. Clara assesses: minor wounds on Davis, Jennings grazed, two mules dead. Then Harper. The wound is deep — musket ball, lower left ribs. Clara's medical training from Canton activates. Pressure, binding, assessment. The ball is still inside. Harper: "It's alright, Miss Chen." Clara: "It is not." Reyes says Panama City is six miles. Clara makes the decision: they move now.
+
+5. **The March** (~400 words): Harper on a mule, semiconscious. Clara leading the column. Samuel at her side — his pistol still in his hand, unfired rounds remaining. Lily with Ajax, steady. The jungle thinning as they descend toward the Pacific slope. Clara's hand on George's head. The last six miles of the Isthmus. Clara does not look back at Harper. She does not need to. She knows the sound of his breathing, and it has changed.
+
+### Threads Advanced
+
+- Harper's arc (mortally wounded covering the company — the man who stood between other people and what threatened them, one final time)
+- Clara-Samuel courtship (Samuel fires in combat — fulfilling the Kingston promise; fighting beside her, not below)
+- Thomas Arlington's jealousy seeds (the ambush was organized — someone knew the route; Clara does not make the connection)
+
+### Threads Introduced
+
+- Harper's mortal wound (musket ball, lower ribs — Clara's medical training activated but insufficient)
+- Samuel's first combat (the pistol fired, the threshold crossed)
+- The organized ambush (not opportunists — positioned, informed; the Thomas thread advanced invisibly)
+
+### Key Character Moments
+
+- George's hackles as early warning — "He knew before she did. He always did."
+- Clara drawing the Colts — "the geometry of killing, each angle a decision"
+- Samuel's first shot — "aimed, deliberate, the way he did everything"
+- Harper at the treeline, covering fire — "buying time with the only currency he had ever spent freely"
+- Harper's hand against his side — the moment Clara's world changes
+- "It's alright, Miss Chen." / "It is not." — their last full exchange as protector and protected
+- Clara's medical training surfacing — "Three years at Canton had taught her what a wound looked like when it was lying"
+- Harper on the mule, breathing changed — "She did not need to look. She had been listening to him breathe for four years."
+
+---
+
+## Chapter 26: The Crossing
+
+- **POV**: Clara Chen (eleventh Clara POV chapter)
+- **Location**: Panama City — a waterfront inn
+- **Time**: April 27–28, 1847
+- **Word count target**: 2,800–3,200
+
+### Scene Beats
+
+1. **Panama City** (~400 words): The company reaches Panama City at dusk. The Pacific visible for the first time — a different ocean, a different light. Clara does not stop to look. Harper carried to a waterfront inn. Reyes knows the owner. Clara's Spanish — fluent, Canton-inflected. She takes the room. Boils water. Lays out her surgical instruments from the Canton kit she has carried since Philadelphia.
+
+2. **The Surgery** (~600 words): Clara attempts to extract the ball. Harper conscious, gripping the bedframe. Samuel holding a lamp. The ball is deep, fragmented. Clara's hands steady — the same steadiness that fires the Colts. She removes what she can. Binds the wound. But she knows. The Canton training taught her what was survivable. Harper knows too. "You did well, Miss Chen." The formality even now.
+
+3. **The Night** (~500 words): Clara at Harper's bedside. The rest of the company outside the door. Lily at the threshold with water, then retreating. Clara and Harper alone. The conversation they have never had — not about logistics, not about security, but about the four years. Harper: what she built. Clara: what he made possible. Harper does not sentimentalize. He gives her the pipe tobacco he carried but never smoked. "I thought I might take it up when I retired." Clara holds it.
+
+4. **The Morning** (~400 words): Harper dies before dawn. Clara is there. His breathing changes — she has been listening to it for four years — and then it stops. Clara sits for a long time. George at her feet. The pipe tobacco in her hand. The Pacific visible through the window — the ocean her father crossed. Harper never saw it in daylight.
+
+5. **After** (~400 words): Clara emerges. The company waiting. Samuel reads her face. She does not speak. Lily takes her hand — the first time Lily has touched Clara since the hold. Clara allows it. The company buries Harper in a churchyard above the Pacific. Clara places the pipe tobacco in the grave. Reyes departs — his work done, Chagres to Panama City. Clara stands at the grave longer than anyone. Then turns toward the harbor. There is a ship to find.
+
+### Threads Advanced
+
+- Harper's death (the completion — four years, the most present man in her life, the man who was there when she turned around; now she turns around and no one is there)
+- Clara-Samuel courtship (Samuel holding the lamp during surgery — present but powerless; reading her face after; knowing not to speak)
+- Lily-Clara bond (Lily takes her hand — the reversal; Clara once saved Lily, now Lily reaches first)
+
+### Threads Introduced
+
+- Clara's grief (not performed, not spoken — held in the pipe tobacco, the long silence, the turn toward the harbor)
+- The Pacific (Harper never saw it in daylight — the detail that will haunt)
+- Panama City as threshold (Atlantic behind, Pacific ahead, Harper buried between)
+
+### Key Character Moments
+
+- Clara's Spanish — "fluent, Canton-inflected, the product of a childhood that had been many childhoods"
+- Clara's surgical steadiness — the same hands, the same calm, different instruments
+- "You did well, Miss Chen." — Harper's formality as love
+- The pipe tobacco — "I thought I might take it up when I retired"
+- Clara holding the tobacco — the future Harper had imagined, contained in her hand
+- Harper dying before dawn — "His breathing changed, and then it stopped. She had been listening to it for four years."
+- "Harper never saw it in daylight" — the Pacific detail
+- Lily taking Clara's hand — "the first time since the hold"
+- Clara at the grave, then turning toward the harbor — "There was a ship to find"
+
+---
+
+## Chapter 27: The Fever
+
+- **POV**: Samuel Taylor (eleventh Samuel POV chapter)
+- **Location**: Panama City — the waterfront, the harbor
+- **Time**: April 29 – May 3, 1847
+- **Word count target**: 2,600–3,000
+
+### Scene Beats
+
+1. **Panama City** (~400 words): Samuel navigates Panama City while Clara grieves. The city: stone walls, Spanish colonial, the Pacific trade. Cholera in the lower quarter — Samuel hears it from the innkeeper. Boiled water, no fresh fruit from the market stalls. Harper's voice in Samuel's head: "The distance between discipline and fever was a single swallow."
+
+2. **The Sickness** (~500 words): Jennings falls ill — cholera symptoms. Then Cole. Clara emerges from her silence. Her medical training taking over — rehydration, clean water, quarantine within the inn. Samuel watches her work: the grief channeled into competence. Clara saving lives the way Harper taught her to — through discipline, not heroism. Samuel assists. Boiling water. Carrying soiled linens. The merchant's body doing the work it was never trained for.
+
+3. **The Captain's Tea** (~500 words): Samuel finds a ship — a Pacific trader, the Resolute, bound for Monterey. The captain: a weathered New Englander. Over tea in the captain's quarters, Samuel negotiates passage. Thomas's correspondence codes give him the language of trade — the right references, the right names. The captain's assessment of Samuel: "You're not a sailor." "No. But I travel with one." Clara's reputation, transmitted through Thomas's network, opens doors Samuel could not open alone.
+
+4. **Recovery** (~400 words): Jennings and Cole stabilize. Clara's discipline held. Three days in Panama City. Samuel writes the correspondence — Thomas's second checkpoint. The coded letter containing everything: Harper's death, the ambush, the cholera, the passage secured. Samuel writing to a man three thousand miles away, using that man's cipher, trusting that man's network. The dual-frequency: Samuel faithfully reporting; Thomas's network knowing exactly where they are.
+
+5. **Departure** (~300 words): The company boards the Resolute. Smaller than the Caroline, Pacific-rigged. A new captain, a new ocean. Clara at the stern rail as Panama City recedes. She does not watch it shrink. She is looking west. Samuel joins her. The Isthmus behind them. Harper buried on the continental divide. Ahead: California. Thomas's third checkpoint: Monterey.
+
+### Threads Advanced
+
+- Clara's grief (channeled into medical competence — saving lives as Harper would have)
+- Thomas Arlington's jealousy seeds (the correspondence codes as Thomas's reach; Samuel writing the second coded letter; Thomas's network facilitating passage — first-read: infrastructure; re-read: surveillance)
+- Clara-Samuel courtship (Samuel doing the logistical work — finding the ship, negotiating passage; the partnership deepening through shared labor)
+
+### Threads Introduced
+
+- Cholera in Panama (the Isthmus's second threat — what Harper warned about)
+- The Resolute and its captain (Pacific trader, New England captain — the second ship)
+- Thomas's Panama City checkpoint (the second coded letter — the system working as designed)
+- Clara's medical authority (three years at Canton, now deployed — she saves Jennings and Cole)
+
+### Key Character Moments
+
+- Harper's voice in Samuel's head — "the distance between discipline and fever"
+- Clara emerging from grief into action — "The grief did not leave. It found work."
+- Samuel boiling water, carrying linens — "The merchant's body doing what it was never trained for"
+- The captain's tea — Samuel negotiating passage, the civilian learning the language of ships
+- "You're not a sailor." / "No. But I travel with one."
+- Samuel writing the coded letter — "every word in Thomas's cipher, every fact traveling through Thomas's network"
+- Clara at the stern rail, not watching Panama City recede — "She was done with what was behind her"
+
+---
+
+## Chapter 28: The Second Ship
+
+- **POV**: Clara Chen (twelfth Clara POV chapter)
+- **Location**: Aboard the Resolute — Pacific Ocean, northbound
+- **Time**: May 4–8, 1847
+- **Word count target**: 2,400–2,800
+
+### Scene Beats
+
+1. **The Resolute** (~400 words): A different ship. Smaller, Pacific-rigged, the timber different, the captain's habits different. Clara assessing the new vessel the way she assesses everything — what works, what doesn't, what could kill them. The captain (name TBD) is competent but not Harper's kind of competent. No one is. George adjusting — new smells, new planking, new captain to evaluate. Clara assigns the watch rotation herself. Harper's job is now hers.
+
+2. **The Company Diminished** (~500 words): The company is smaller — Harper gone, the crew of the Resolute not hers. Davis and Marsh remain, Jennings and Cole recovering. Lily and Ajax below. Samuel at the bow. Clara inventories what she has: fewer hands, fewer weapons, the same mission. She cleans the Colts at the taffrail — the routine transported from the Caroline to the Resolute. The same hands, different wood beneath them.
+
+3. **The Pacific** (~400 words): A different ocean. Warmer currents, different birds, different light on the water. Clara's father crossed this ocean. The compass he gave her — she takes it from the case for the first time at sea. The needle steady. Her father's hand once held this. Clara allows the connection — briefly, privately, then puts it away. George at her feet.
+
+4. **Samuel** (~400 words): Evening. Samuel at the stern rail where Clara usually sits. They have reversed positions — he is watching the wake, she approaches. The conversation they have been avoiding: Harper. "He called me Miss Chen for four years." "He called me Mr. Taylor." The shared formality as devotion. Clara's hand on Samuel's arm — the second physical contact, initiated by her. Brief, firm, then released.
+
+5. **Forward** (~300 words): Clara at the bow. The Pacific stretching ahead — five weeks to California, the captain says. Behind her: Philadelphia, Thomas, the east, Harper's grave on the Isthmus. Ahead: whatever she builds next. The Colts clean, the sword cane at her side, George against her leg. She is twenty-six, she commands a diminished company, and the man she trusted most is buried between two oceans. The wind is westerly. She leans into it.
+
+### Threads Advanced
+
+- Clara's grief (the Colts cleaned on new wood — the routine surviving the loss; Harper's job now hers)
+- Clara-Samuel courtship (their first conversation about Harper — formality as shared devotion; Clara's hand on his arm)
+- Clara's father (the compass at sea for the first time — ancestral resonance with the Pacific)
+
+### Threads Introduced
+
+- The Resolute (the Pacific ship — different from the Caroline in every particular)
+- Clara as sole commander (Harper's watch rotation, Harper's responsibilities — all hers now)
+- The Pacific crossing (five weeks northbound — a different ocean, different rhythm)
+
+### Key Character Moments
+
+- Clara assessing the Resolute — "No one was Harper's kind of competent. She would have to be."
+- Cleaning the Colts on new wood — "the routine surviving the man who had watched her do it"
+- Her father's compass — "His hand had held this. She allowed the connection, then put it away."
+- "He called me Miss Chen for four years." / "He called me Mr. Taylor." — grief in grammar
+- Clara's hand on Samuel's arm — "Brief, firm, then released. She did not explain it."
+- Clara at the bow, twenty-six, diminished company — the cost stated plainly
+
+---
+
+## Chapter 29: The Pacific
+
+- **POV**: Samuel Taylor (twelfth Samuel POV chapter)
+- **Location**: Aboard the Resolute — Pacific Ocean
+- **Time**: May 12–20, 1847
+- **Word count target**: 2,400–2,800
+
+### Scene Beats
+
+1. **Open Water** (~400 words): Three weeks at sea. The Pacific different from the Atlantic — longer swells, wider sky, the horizon farther in every direction. Samuel has found his sea legs on this second ship. His journal — not the correspondence, the private writing begun by firelight in the jungle — has become a nightly practice. He writes what Thomas's codes cannot hold: the Isthmus, Harper's death, the way Clara's silence sounds different from her speech.
+
+2. **Healing** (~500 words): The company healing. Jennings and Cole recovered. Lily painting on deck — the Pacific light different from anything she has captured before. Ajax sunning. Davis teaching Marsh to tie Pacific-grade knots. The captain keeping his distance from Clara's company — respectful, slightly wary. Samuel sees the crew forming new patterns without Harper. Clara training at dawn — shorter, harder, alone.
+
+3. **The Journal** (~400 words): Samuel's private writing. What he records: the smell of Harper's pipe tobacco, the sound of the Colts in the jungle, Clara's hand on his arm. The intelligence operative in him recognizes: he is building a record. Not for Thomas, not for the network. For himself. For whatever comes after. He writes by lantern light in the hold. Lily passes, sees him writing, says nothing. She understands private work.
+
+4. **Clara at Night** (~500 words): Clara appears at the hold entrance. Not looking for Samuel — looking for something she left below. She finds him writing. A beat. "What are you writing?" "Something for myself." Clara sits on a crate. They talk — not about Harper, not about Thomas, not about California. About what Samuel's father sold in the Philadelphia shop. About Clara's mother's garden. The small, non-lethal facts of who they were before all of this. The intimacy of irrelevance.
+
+5. **Monterey** (~300 words): The captain announces: Monterey in two weeks. Thomas's third checkpoint. The California coast is real now — not a destination but a timeline. Samuel realizes: he will write to Thomas from Monterey. The last coded letter. After that, they are beyond the network. Or they are the network. The distinction matters, and he cannot yet articulate why.
+
+### Threads Advanced
+
+- Clara-Samuel courtship (the hold conversation — small facts, non-lethal intimacy; knowing each other beyond the mission)
+- Thomas Arlington's jealousy seeds (Monterey as the third and final checkpoint; after Monterey, the company is beyond Thomas's mapped route — or IS the network Thomas mapped; the distinction Samuel cannot articulate)
+- Company healing (new patterns without Harper — Clara training alone, the crew adjusting)
+
+### Threads Introduced
+
+- Samuel's private journal (the record that is not Thomas's — his own document, his own testimony)
+- Pacific passage as healing space (the ocean as the opposite of the jungle — open, honest, slow)
+- Monterey approaching (two weeks — the California coast becoming timeline, not abstraction)
+
+### Key Character Moments
+
+- Samuel writing what Thomas's codes cannot hold — "the way Clara's silence sounds different from her speech"
+- Lily seeing Samuel write and saying nothing — "She understood private work"
+- Clara and Samuel talking about their parents — "the small, non-lethal facts of who they were before all of this"
+- "The intimacy of irrelevance" — what matters is what doesn't matter
+- Samuel realizing: after Monterey, they ARE the network — the distinction he cannot articulate
+
+---
+
+## Chapter 30: The Western Light
+
+- **POV**: Clara Chen (thirteenth Clara POV chapter)
+- **Location**: Aboard the Resolute — the California coast
+- **Time**: Late May 1847
+- **Word count target**: 2,600–3,000
+
+### Scene Beats
+
+1. **The Coast** (~400 words): California appears. Not suddenly — gradually, the way harbors do. Brown hills, green ravines, the fog that the captain calls "the coast's daily argument with the sun." Clara at the bow with her father's compass. His Pacific. Her Pacific now. The company at the rail — the first land in five weeks. George alert, ears forward.
+
+2. **The Sunset** (~500 words): The first west-facing sunset at sea. The Pacific swallowing the sun in a way the Atlantic never did — wider, slower, the colors lasting longer. Lily at the stern rail. Clara watches Lily watch the sunset. Lily weeping — silently, standing, not hiding it. The beauty breaking something open. Clara does not approach. She has learned when to stand near and when to stand back. Ajax pressed against Lily's leg. George pressed against Clara's.
+
+3. **The Room** (~400 words): Below decks. Lily discovers a small painting in her cabin — a Pacific seascape, left by a previous passenger. She approaches Clara: would Clara trade cabins? Lily's cabin faces east. She wants the western light. Clara gives her the adjacent cabin — west-facing, one wall from Clara's own. No trade needed. The gift given without ceremony. Lily carries her easel, her violin case, her cello. She is nesting.
+
+4. **The First Evening** (~500 words): Lily paints. Clara watches from the doorway — not intruding, witnessing. The brush moving with a certainty Lily's voice does not yet have. When Lily finishes, she picks up the violin. Not performance — practice, scales, the discipline of returning to something after grief. Clara goes to her own cabin, retrieves the cello. They play through the wall. Two instruments, two cabins, one conversation. Afterward, Clara brings wine.
+
+5. **Wine** (~400 words): The first glass of wine shared since Philadelphia. Clara and Lily in Lily's cabin, the western light fading. They do not talk about Harper. They talk about the coast — what they see, what they hope, what they will build. Lily: "Something that grows." Clara: "Something that lasts." The beginning of a daily rhythm that neither of them names.
+
+### Threads Advanced
+
+- Lily's healing arc (the sunset breaking something open — grief becoming beauty; the painting, the room, the music; the return to creation)
+- Clara-Lily bond (the adjacent cabin — proximity as care; playing through the wall; wine as intimacy; the daily rhythm beginning)
+- Clara's father (his Pacific — the compass, the coast he crossed)
+
+### Threads Introduced
+
+- The California coast (fog, brown hills, green ravines — the landscape that will become home)
+- Lily's west-facing cabin (the sunset as anchor — the light she chose)
+- Music through the wall (cello and violin — the conversation without words)
+- Wine as daily ritual (the first glass since Philadelphia — the routine beginning)
+
+### Key Character Moments
+
+- California appearing gradually — "the way harbors do"
+- Clara's father's compass on the Pacific — "His Pacific. Her Pacific now."
+- Lily weeping at the sunset — "silently, standing, not hiding it"
+- Clara knowing when to stand near and when to stand back — "She had learned the difference"
+- Lily asking for the western cabin — "She wants the western light"
+- Clara giving the adjacent cabin — "No trade needed"
+- Playing through the wall — "Two instruments, two cabins, one conversation"
+- Wine in the fading light — "Something that grows." / "Something that lasts."
+
+---
+
+## Chapter 31: The Wine
+
+- **POV**: Samuel Taylor (thirteenth Samuel POV chapter)
+- **Location**: Aboard the Resolute — the California coast
+- **Time**: Late May – early June 1847
+- **Word count target**: 2,400–2,800
+
+### Scene Beats
+
+1. **The Routine** (~400 words): Samuel observes the rhythm that has developed. Lily paints at dawn — Pacific light, the coast sliding past. Clara trains alone, then sits with Lily's coffee (Lily drinks coffee, not tea). Evenings: music through the wall, then wine. Samuel watches from a respectful distance. He is not excluded — he is witnessing something that does not require his presence. Two women rebuilding each other in the Pacific light.
+
+2. **Lily's Story** (~600 words): Lily seeks Samuel out. Below decks, near where they sat during the Windward Passage fight. She tells him about Harper. Not the security chief — the man who came to her room every week after the rescue. Who taught her rifle first ("because it keeps distance"), then knife ("because distance fails"), then how to read George and Ajax ("because a dog never lies about what it hears"). Harper never raised his voice. Never rushed a lesson. "He wanted me to choose. Not to be safe — to choose safety. The difference mattered to him."
+
+3. **The Kindness** (~500 words): Lily's Harper: the man who carried her easel to the garden, who sat in silence while she painted, who tested every lock on her door without being asked. "He never said he was sorry for what happened to me. He said, 'I am here so that it does not happen again.'" Samuel hears Clara's model of protection described from the inside — not the mission, the human cost of caring. Harper's pipe tobacco, carried and never smoked. "He said he would take it up when he retired. I think he knew he would not retire."
+
+4. **Samuel's Understanding** (~400 words): Samuel processes Lily's account. He has his own Harper — the rail conversation, the phosphorescence, "I was guarding a man who didn't deserve guarding." Between Lily's version and his own, the full picture: a man who chose to stand between the world and the people who needed him, knowing the cost. Samuel writes it in his journal. Not the coded letter — the private record. Harper's name, spelled out. The pipe tobacco. The teaching sequence. The refusal to retire.
+
+5. **Evening** (~300 words): Samuel on deck. Clara appears — she has heard Lily telling the story through the planking. Not all of it. Enough. Clara: "He taught her what I could not." Samuel: "He taught her what you would not." The distinction landing. Clara's face. The grief still there, held differently now — not absence but presence relocated. The western light fading again. Tomorrow Lily will paint it again.
+
+### Threads Advanced
+
+- Harper's legacy (Lily preserving his story — the teaching, the kindness, the choice; the pattern that will define Lily's relationship to his memory for the series)
+- Lily-Samuel bond (forged in the hold during the fight, deepened by shared grief — Samuel receiving Harper's story)
+- Clara-Lily bond (Clara overhearing — grief relocated; "He taught her what I could not" / "what you would not")
+
+### Threads Introduced
+
+- Harper's teaching sequence named (rifle → knife → dog — the pedagogy of protection)
+- Lily as Harper's memorial keeper (the first telling of his story — the pattern begins)
+- Samuel's journal as parallel record (the private document growing — Harper's name written outside Thomas's codes)
+
+### Key Character Moments
+
+- Samuel watching Clara and Lily's routine — "He was not excluded. He was witnessing."
+- Lily choosing to tell Samuel — the hold bond invoked
+- Harper's teaching: "Rifle first, because it keeps distance. Then knife, because distance fails."
+- "He wanted me to choose. Not to be safe — to choose safety."
+- "I am here so that it does not happen again" — Harper's love stated as logistics
+- The pipe tobacco — "He said he would take it up when he retired. I think he knew."
+- Samuel writing Harper's name in his journal — "Not the coded letter. The private record."
+- "He taught her what I could not." / "He taught her what you would not." — the distinction
+
+---
+
+## Chapter 32: The Cello and the Coast
+
+- **POV**: Clara Chen (fourteenth Clara POV chapter)
+- **Location**: Aboard the Resolute — approaching Monterey
+- **Time**: Early June 1847
+- **Word count target**: 2,400–2,800
+
+### Scene Beats
+
+1. **The Daily Rhythm** (~500 words): Clara and Lily's routine in full bloom. Dawn: Lily paints, Clara trains, they take coffee together. Midday: Lily sketching the crew, Clara reviewing charts with the captain. Afternoon: Lily playing violin on deck while Clara reads or cleans the Colts. Evening: the wine, the conversation, the western light. Clara notices: Lily is not recovering — she is becoming. The girl from the hold is gone. In her place, a woman who paints the Pacific because it is worth painting.
+
+2. **The Conversation** (~500 words): Over wine. Lily asks about Clara's father — the Pacific, Canton, the compass. Clara tells more than she usually tells. Her father's garden. Her mother's silence. How the shipping empire started as a single dock and a dog. Lily: "My father sold fabric." The two women comparing origins — both built by fathers, both building beyond them. Lily's future: an orchard. Clara's future: a coast. They do not yet know how close these futures will land.
+
+3. **Music** (~400 words): Clara retrieves the cello. Not through the wall this time — together, in Lily's cabin. They play a duet they learned in Philadelphia, before the voyage. The sound different here — the Pacific air, the wooden hull, the sunset through the porthole. Clara watches Lily play: the concentration, the small corrections, the beauty arriving not despite the grief but through it. "The beauty was not separate from the violence — it was its answer." The phrase from Samuel's observation on the Caroline, now Clara's lived experience.
+
+4. **The Approach** (~400 words): Monterey in three days. The captain's announcement. Clara prepares — Thomas's third checkpoint, the final coded message. She dictates to Samuel the facts: company arrived, Harper dead, cholera survived, passage secured. The coded language flattening everything she has felt into what can be transmitted. She does not include what Lily said about Harper. She does not include the wine or the music. Thomas will receive the facts. The rest belongs to the living.
+
+5. **Tomorrow** (~300 words): Clara in her cabin. The wall between her and Lily. Through it, the sound of Lily's violin — a nocturne, slow, private. Clara puts her hand on the wall. Holds it there. Then takes it away and opens her journal. Not Samuel's journal — Clara does not keep a journal. She opens the outline of what comes next: San Francisco, the network, the coast. The work that Harper died for. The work she will build with whoever remains.
+
+### Threads Advanced
+
+- Clara-Lily bond (the routine in full; the sharing of fathers; the duet together, not through the wall; the hand on the wall)
+- Clara's grief (relocated into routine — the beauty as answer to violence; what Thomas's codes cannot hold)
+- Thomas Arlington's jealousy seeds (the third and final coded message — the facts flattened; "The rest belongs to the living" — what Thomas never receives)
+
+### Threads Introduced
+
+- Monterey approaching (three days — the final checkpoint, then San Francisco)
+- Clara and Lily's shared futures (orchard and coast — not yet knowing how close they'll be)
+- The coded message as reduction (everything Clara has lived, compressed into Thomas's cipher)
+
+### Key Character Moments
+
+- "Lily is not recovering — she is becoming"
+- Clara telling Lily about her father — more than she usually tells
+- "My father sold fabric" — Lily's quiet origin
+- Playing together, not through the wall — the intimacy escalated
+- "The beauty was not separate from the violence — it was its answer"
+- The coded message flattening everything — "Thomas will receive the facts"
+- Clara's hand on the wall between cabins — held, then released
+- "The work that Harper died for. The work she will build with whoever remains."
+
+---
+
+## Chapter 33: The Hold
+
+- **POV**: Samuel Taylor (fourteenth Samuel POV chapter)
+- **Location**: Aboard the Resolute — Monterey harbor
+- **Time**: June 1847
+- **Word count target**: 2,200–2,600
+
+### Scene Beats
+
+1. **Monterey** (~400 words): The Resolute anchors in Monterey Bay. A small settlement — adobe buildings, a customs house, Mexican and American flags in uneasy proximity. The captain conducts business. Samuel goes ashore with Clara to send the coded letter — Thomas's third checkpoint. Monterey in 1847: the eve of American annexation, a frontier harbor with more ambition than infrastructure. Samuel reads the commerce the way Clara reads the terrain.
+
+2. **Lily and Samuel** (~500 words): Lily asks Samuel to walk the Monterey shore. Their bond — forged in the hold, sealed by Harper's story. Lily shows him her sketchbook: the Pacific sequence, from Panama to Monterey. Every sunset captured. Harper's pipe tobacco sketched once, precisely, on a blank page between the Isthmus and the Pacific. Samuel sees: Lily's art is her memory. What she draws, she keeps. What she does not draw, she releases.
+
+3. **The Question** (~400 words): Lily asks Samuel about Thomas. Not suspicion — genuine curiosity. "Clara trusts him entirely. Do you?" Samuel's answer: careful, honest, incomplete. He has no reason to distrust Thomas. The codes work. The references opened doors in Panama City. Thomas's system sustained them across three thousand miles. And yet. Samuel cannot name what he cannot name. "I trust what he has built." Lily: "That is not the same thing." Samuel: "No. It is not."
+
+4. **The Hold Revisited** (~400 words): Below decks. Samuel and Lily sitting where they sat during the Windward Passage fight — the same relative positions, a different ship. Lily tells him about the six days in the original hold. Not the facts — the feeling. Darkness, metal shard, the sounds she could not interpret. "Harper taught me what the sounds meant. So I would never have to wonder. But I wondered first. I want you to know that." Samuel receives this. The trust of being told what the telling costs.
+
+5. **Departure** (~300 words): The Resolute weighs anchor. San Francisco next — two days up the coast. Samuel on deck as Monterey recedes. The coded letter dispatched. Thomas's network complete: Kingston, Panama City, Monterey. Three checkpoints, three letters, three versions of a journey that the letters could not contain. Ahead: San Francisco. The end of the route Thomas mapped. The beginning of whatever Clara builds beyond it.
+
+### Threads Advanced
+
+- Samuel-Lily bond (the shore walk, the sketchbook, the hold revisited — the deepest trust between them)
+- Thomas Arlington's jealousy seeds ("I trust what he has built" / "That is not the same thing" — the first articulated doubt, from Lily, not yet from Samuel; the three coded letters as complete circuit)
+- Lily's art as memory (the sketchbook as record — what she draws she keeps)
+
+### Threads Introduced
+
+- Monterey (the frontier harbor — adobe, two flags, the eve of annexation)
+- Lily's original hold story (the six days told to Samuel — the cost of telling)
+- The three-checkpoint circuit complete (Thomas's mapped route ended — what comes after is unmapped)
+
+### Key Character Moments
+
+- Monterey: Samuel reading commerce, Clara reading terrain — "They saw the same harbor differently"
+- Harper's pipe tobacco sketched on a blank page — "between the Isthmus and the Pacific"
+- "Clara trusts him entirely. Do you?" — Lily's question
+- "I trust what he has built." / "That is not the same thing." — the distinction
+- Lily telling Samuel about the six days — "I want you to know that"
+- The three coded letters — "three versions of a journey that the letters could not contain"
+- "The end of the route Thomas mapped. The beginning of whatever Clara builds beyond it."
+
+---
+
+## Chapter 34: The Other Boat
+
+- **POV**: Clara Chen (fifteenth Clara POV chapter)
+- **Location**: San Francisco Bay — aboard the Resolute and a second vessel
+- **Time**: June 1847
+- **Word count target**: 2,800–3,200
+
+<!-- NOTE: Jack Garrett's age requires resolution before drafting. If Jack is ~17-19 in 1847, he would be ~30-32 during the Pony Express era (1860-1861) — plausible as a station manager or experienced rider rather than a teenage recruit. The step outline's "Jack at farm" and "Jack at debrief" scenes (Sc 11-12) were skipped in Philadelphia; this is his first appearance. His backstory and present circumstances need research-phase development. -->
+
+### Scene Beats
+
+1. **San Francisco Bay** (~400 words): The Resolute enters the bay through the Golden Gate — not yet named, not yet bridged, just the narrow strait where the Pacific pushes inland. Fog. The bay enormous — larger than any harbor Clara has seen. A few ships at anchor, a settlement climbing the hills. Not a city yet. Clara sees what it will become. George at the bow, ears forward, reading the new land.
+
+2. **The Second Vessel** (~500 words): A schooner anchored in the bay — armed, well-maintained, not a trader. Clara notices it before the captain does. As they anchor, a boat pulls alongside. A young man — lean, weathered, steady eyes. He asks for Clara Chen by name. Jack Garrett. He has been waiting. Clara: "Waiting for what?" Jack: "For you to arrive. I was told you'd come through the Gate around now." Clara: "Told by whom?" Jack does not answer immediately. He boards.
+
+3. **Jack** (~500 words): Jack Garrett on the deck of the Resolute. Young — younger than Samuel, older than his years suggest. He smells of gun oil and sage and something Clara does not recognize. A dog at his heel — Ruby, golden, calm. George and Ruby regarding each other. Jack's manner: direct, warm, no deference but no challenge. He has come from the south — frontier territory, overland, a different route entirely. He knows Clara's name, her mission, her approximate schedule. Clara's question sharpens: "Who sent you?"
+
+4. **"I Don't Trust Thomas"** (~600 words): Jack's answer is not what Clara expects. He was not sent by Thomas — he was sent by someone in Thomas's network, someone who contacted Jack independently. Jack has his own assessment. He has been watching. He has sources Clara does not know. And his conclusion: "I don't trust Thomas Arlington." Clara's reaction: immediate, visceral, controlled. "You do not know Thomas Arlington." Jack: "No, ma'am. I know what his network looks like from the outside." The argument — not raised voices but sharpened precision. Clara's blind spot fully engaged. Jack does not back down. He does not press. He states what he sees and lets it stand.
+
+5. **After** (~400 words): Jack returns to his schooner. Clara at the rail, furious. Samuel approaches — he heard. Clara: "A boy I have never met tells me my oldest friend cannot be trusted." Samuel's silence. Not agreement — but not protest. Clara reads it. "You too?" Samuel: "I don't know what I think." Clara: "Then do not think it near me." She goes below. The bay settling into evening fog. San Francisco on the hills. The work ahead. The first crack in the foundation she has trusted for four years.
+
+### Threads Advanced
+
+- Thomas Arlington's jealousy seeds (the first in-story voice of doubt — Jack's "I don't trust Thomas"; Clara's blind spot named by a stranger; Samuel's silence as partial confirmation; the crack in the foundation)
+- Clara-Samuel courtship (strained by the Thomas question — Samuel's silence, Clara's "do not think it near me"; the first real tension between them)
+- Jack Garrett introduction (the frontier operative with instincts Clara cannot dismiss — even though she does)
+
+### Threads Introduced
+
+- Jack Garrett (young, frontier-forged, his own network, his own assessment — the outsider who sees what Clara cannot)
+- San Francisco Bay (the Gate, the fog, the settlement — not yet a city)
+- The crack in Clara's trust (Thomas defended, but the doubt voiced — it cannot be unheard)
+- Ruby (Jack's dog — the mirror of George, a different temperament)
+
+### Key Character Moments
+
+- San Francisco through the Gate — "Not a city yet. Clara saw what it would become."
+- Jack asking for Clara by name — "He had been waiting"
+- Jack's manner: "direct, warm, no deference but no challenge"
+- George and Ruby regarding each other — two dogs, two handlers, two systems
+- "I don't trust Thomas Arlington" — the sentence that changes the book's final act
+- Clara's reaction: "immediate, visceral, controlled" — the blind spot as armor
+- "You do not know Thomas Arlington." / "I know what his network looks like from the outside."
+- Samuel's silence — not agreement, not protest
+- "A boy I have never met tells me my oldest friend cannot be trusted"
+- "Then do not think it near me" — Clara shutting the door on doubt
+
+---
+
+## Chapter 35: The Oldest Friend
+
+- **POV**: Clara Chen (sixteenth Clara POV chapter)
+- **Location**: San Francisco — the settlement
+- **Time**: June 1847
+- **Word count target**: 2,400–2,800
+
+### Scene Beats
+
+1. **Morning** (~400 words): Clara ashore at dawn. San Francisco in 1847: a few hundred people, adobe and timber, the mission visible on the hill. The bay behind her, the Pacific behind that. She has crossed the continent by sea and survived. Harper is dead. Jack Garrett's words still audible. Clara walks the settlement alone — George at her heel, the Colts under the coat. She is assessing. Not the threat — the opportunity. This is what she does.
+
+2. **The Settlement** (~500 words): Clara reads San Francisco the way she reads every new place: harbor capacity, sight lines, choke points, commerce, who controls what. A small Mexican customs presence, American settlers arriving, the hint of what the Gold Rush will bring in two years. Clara sees the infrastructure gap — shipping, protection, coordination. Everything she built in Philadelphia, needed here. Harper's voice: "Build the watch rotation first." She does.
+
+3. **Thomas** (~500 words): Clara writes a letter to Thomas — not coded, personal. For the first time, she writes to him as the friend he was before the codes, before the network, before the departure. She defends him to herself on the page: the years, the loyalty, the desk that was always occupied, the system that sustained them across three thousand miles. "I have trusted you with everything I own." She seals the letter. Then sits with the weight of Jack's words against it. The letter goes to the post. The doubt stays.
+
+4. **Lily** (~400 words): Lily finds Clara at the waterfront. They look at the coast together — the western light, different from the ship, anchored now in a real place. Lily: "Will we stay?" Clara: "Yes." The single word. Lily nods. She has already begun sketching the bay. Clara watches Lily draw San Francisco — the hills, the fog, the harbor. Lily is already making this place hers. Clara will do the same, but with different instruments.
+
+5. **The Resolve** (~300 words): Evening. Clara with Samuel, Lily, the remaining company. Jack's schooner still in the harbor — he has not left yet. Clara makes her decision: she will build here. The network, the protection, the empire. She will do it without Harper, without Thomas at her side, without certainty about the man who holds the east. She will do it with who she has: Samuel, Lily, Davis, Marsh, George. "It is enough." The bay at sunset. The fog coming in. The first night in San Francisco.
+
+### Threads Advanced
+
+- Thomas Arlington's jealousy seeds (Clara's personal letter — defending Thomas to herself; the doubt staying after the letter goes; the blind spot cracking but not breaking)
+- Clara-Lily bond (Lily already drawing San Francisco — making it hers; "Will we stay?" / "Yes.")
+- Clara's empire-building (reading San Francisco's infrastructure gap — everything she built in Philadelphia, needed here)
+
+### Threads Introduced
+
+- San Francisco as new base (the settlement assessed — harbor, sight lines, commerce, protection needed)
+- Clara's uncoded letter to Thomas (the first personal communication — defending the friendship against the doubt)
+- The company in California (who remains: Samuel, Lily, Davis, Marsh, George, Ajax — diminished but sufficient)
+
+### Key Character Moments
+
+- Clara walking San Francisco alone at dawn — assessing opportunity, not threat
+- Harper's voice: "Build the watch rotation first" — the dead man still advising
+- Clara writing to Thomas uncoded — "I have trusted you with everything I own"
+- The doubt staying after the letter goes — "the weight of Jack's words against it"
+- "Will we stay?" / "Yes." — the single word that commits them
+- Lily drawing San Francisco — "already making this place hers"
+- "It is enough" — Clara accepting the diminished company
+- The first night in San Francisco — fog, bay, sunset
+
+---
+
+## Chapter 36: The Golden Shore
+
+- **POV**: Samuel Taylor (fifteenth Samuel POV chapter)
+- **Location**: San Francisco Bay and settlement
+- **Time**: June 1847
+- **Word count target**: 2,600–3,000
+
+### Scene Beats
+
+1. **The Bay at Morning** (~400 words): Samuel wakes in San Francisco — the first morning on solid ground since Panama City. The bay visible from the window. The light different from Philadelphia — wider, golden, the fog burning off like a curtain being drawn. He writes in his journal: "We arrived." Two words. Then more — the harbor, the hills, the sense of having crossed everything that could be crossed. He has traveled three thousand miles to be in a city that barely exists yet. Clara is already at the waterfront.
+
+2. **Building** (~500 words): Clara working. Samuel watches the machinery of her mind applied to a new coast — identifying merchants, assessing dock space, reading the harbor's capacity. She moves through San Francisco the way she moved through Philadelphia's docks: as though she has been here before, as though the city is waiting for her to explain itself. Samuel finds his role: the ledger, the provisions, the arithmetic of building from nothing. His father's trade, applied to a frontier.
+
+3. **Jack's Departure** (~500 words): Jack Garrett on the waterfront. His schooner being provisioned. He is going south — down the coast, then overland. He will not say where exactly. "Somewhere defensible." Jack shakes Samuel's hand. "Take care of her, Mr. Taylor." Samuel: "She takes care of herself." Jack: "That's why she needs someone to take care of her." Jack looks toward Clara, across the waterfront. His assessment unchanged. He boards. Ruby at his side. The schooner catches the tide.
+
+4. **The Company** (~400 words): The remaining company assembled. Clara addresses them — not formally, not with a speech, but with work assignments. Davis and Marsh: harbor patrol. Samuel: commerce and supply. Lily: free. "Do what you do." Lily: "I intend to." The company is smaller, different, tested by the Isthmus and the Pacific. Everyone present has survived something. Clara: "We start tomorrow." She starts today.
+
+5. **The Shore** (~400 words): Sunset. Samuel and Clara at the waterfront. The Pacific burning its nightly gold. Behind them, the settlement. Ahead, the ocean Clara's father crossed. Samuel's hand near Clara's — not touching, not needing to. George between them, facing the water. The correspondence codes in Samuel's pocket — the circuit complete, Kingston to Monterey. Thomas's voice from three thousand miles: "Go build something in the west, Clara. I'll hold the east." Clara has arrived. What she builds here will be hers. Not Thomas's. Not her father's. Hers. The fog comes in. The golden shore fades. The first day ends. The first day begins.
+
+### Threads Advanced
+
+- Clara's empire-building (San Francisco assessed and work begun — the Philadelphia model transported west)
+- Clara-Samuel courtship (Samuel finding his role beside her; "not touching, not needing to"; the partnership confirmed by shared work)
+- Thomas Arlington's jealousy seeds (the correspondence circuit complete; Thomas's farewell words recalled — "I'll hold the east"; what Clara builds will be hers, not his; the possessive thread landing in the book's final image)
+- Jack Garrett (departure south — "somewhere defensible"; his assessment unchanged; the instinct planted)
+
+### Threads Introduced
+
+- San Francisco as new beginning (the company deployed, work assignments given — the western network starting)
+- Jack's southern mission (the defensible base — setting up his role in the larger network)
+- The golden shore as home (sunset on the Pacific — Clara's father's ocean, now hers)
+
+### Key Character Moments
+
+- "We arrived." — Samuel's two-word journal entry, then more
+- Clara moving through San Francisco "as though the city is waiting for her to explain itself"
+- Samuel finding his role — "His father's trade, applied to a frontier"
+- "Take care of her, Mr. Taylor." / "She takes care of herself." / "That's why she needs someone to take care of her." — Jack's parting wisdom
+- Jack looking toward Clara across the waterfront — "His assessment unchanged"
+- Clara's work assignments — "We start tomorrow." / She starts today.
+- "Do what you do." / "I intend to." — Clara and Lily
+- "Go build something in the west, Clara. I'll hold the east." — Thomas's words recalled, recontextualized
+- The final image: the golden shore fading, the fog coming in — "The first day ends. The first day begins."
