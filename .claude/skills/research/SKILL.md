@@ -1,11 +1,7 @@
 ---
 name: research
 description: Research a historical topic with sources and documentation
-user_invocable: true
-arguments:
-  - name: topic
-    description: The topic to research
-    required: true
+argument-hint: <topic>
 ---
 
 # /research — Historical Research Workflow

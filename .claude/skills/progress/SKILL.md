@@ -1,7 +1,6 @@
 ---
 name: progress
 description: Regenerate the README progress section from chapter frontmatter
-user_invocable: true
 ---
 
 # /progress — Update README Progress Section

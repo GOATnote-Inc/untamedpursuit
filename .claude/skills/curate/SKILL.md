@@ -1,11 +1,7 @@
 ---
 name: curate
 description: Process continuity notes backlog into the bible
-user_invocable: true
-arguments:
-  - name: book
-    description: Book number (1-9)
-    required: true
+argument-hint: <book>
 ---
 
 # /curate — Bible Curation Workflow

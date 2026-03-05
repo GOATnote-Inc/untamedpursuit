@@ -1,14 +1,7 @@
 ---
 name: draft
 description: Draft a chapter with full bible context loaded
-user_invocable: true
-arguments:
-  - name: book
-    description: Book number (1-9)
-    required: true
-  - name: chapter
-    description: Chapter number
-    required: true
+argument-hint: <book> <chapter>
 ---
 
 # /draft — Chapter Drafting Workflow

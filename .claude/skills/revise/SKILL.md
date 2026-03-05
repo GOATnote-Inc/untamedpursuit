@@ -1,14 +1,7 @@
 ---
 name: revise
 description: Revise a chapter using all four subagents in parallel
-user_invocable: true
-arguments:
-  - name: book
-    description: Book number (1-9)
-    required: true
-  - name: chapter
-    description: Chapter number
-    required: true
+argument-hint: <book> <chapter>
 ---
 
 # /revise — Chapter Revision Workflow
