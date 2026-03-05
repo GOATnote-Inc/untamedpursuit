@@ -41,16 +41,16 @@ The series is free to read. Start here:
 
 | Ch | Title | POV | Words |
 |---:|-------|-----|------:|
-| 1 | [The Night Watch](books/book-01/chapters/ch-01.md) | Clara Chen | 3,292 |
+| 1 | [The Night Watch](books/book-01/chapters/ch-01.md) | Clara Chen | 3,474 |
 | 2 | [The Machinery](books/book-01/chapters/ch-02.md) | Clara Chen | 2,817 |
 | 3 | [Ginger and Steel](books/book-01/chapters/ch-03.md) | Clara Chen | 3,083 |
-| 4 | [The Artist's Touch](books/book-01/chapters/ch-04.md) | Samuel Taylor | 3,157 |
+| 4 | [The Artist's Touch](books/book-01/chapters/ch-04.md) | Samuel Taylor | 3,262 |
 | 5 | [The Measure](books/book-01/chapters/ch-05.md) | Clara Chen | 2,514 |
 | 6 | [The Current](books/book-01/chapters/ch-06.md) | Clara Chen | 2,872 |
 | 7 | [The Balance](books/book-01/chapters/ch-07.md) | Samuel Taylor | 3,265 |
 | 8 | [The Boundary](books/book-01/chapters/ch-08.md) | Clara Chen | 3,111 |
 | 9 | [The Reckoning](books/book-01/chapters/ch-09.md) | Clara Chen | 3,297 |
-| 10 | [The Good Silver](books/book-01/chapters/ch-10.md) | Samuel Taylor | 4,269 |
+| 10 | [The Good Silver](books/book-01/chapters/ch-10.md) | Samuel Taylor | 4,267 |
 | 11 | [The Reach](books/book-01/chapters/ch-11.md) | Clara Chen | 2,941 |
 | 12 | [What the Ships Carry](books/book-01/chapters/ch-12.md) | Samuel Taylor | 3,033 |
 | 13 | [The Night's Work](books/book-01/chapters/ch-13.md) | Clara Chen | 3,551 |
@@ -66,7 +66,7 @@ The series is free to read. Start here:
 | 23 | [The Chagres](books/book-01/chapters/ch-23.md) | Clara Chen | 2,189 |
 | 24 | [The Mule Trail](books/book-01/chapters/ch-24.md) | Samuel Taylor | 3,687 |
 
-*Book 1: ~70,740 words drafted* · *Series total: ~70,740 words*
+*Book 1: ~71,030 words drafted* · *Series total: ~71,030 words*
 <!-- PROGRESS:END -->
 
 ### Themes
