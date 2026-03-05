@@ -149,7 +149,7 @@ None found. All factual claims in the chapter check out against the bible, timel
 
 ## Warnings (review needed)
 
-### W1 -- "Five years" duration (lines 27, 51, 157)
+### W1 -- "Five years" duration (lines 27, 51, 157) ✓ FIXED (2026-03-05): Added clarifying clause at line 51: "Five years — the first alone, the last four with Thomas at that desk." This establishes Clara arrived one year before Thomas joined, resolving the five/four tension. "Five years" for Clara's total Philadelphia tenure and "four years" for the Thomas/Harper partnership are now both correct and explicitly anchored.
 
 - **Category**: Timeline / duration
 - **Draft says**: Clara has lived in the townhouse and walked the wharves for "five years" (lines 27, 51, 157). Line 51: "Five years. A fortune spent."

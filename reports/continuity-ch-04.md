@@ -20,14 +20,14 @@ The chapter has four scene segments separated by `---` breaks. POV: Samuel Taylo
 
 ## Errors (must fix)
 
-### 1. [Discovery of Golden Compass] Bible contradicts chapter on how Samuel found the venue
+### 1. [Discovery of Golden Compass] Bible contradicts chapter on how Samuel found the venue ✓ FIXED (2026-03-05): Bible updated to match chapter — "drawn by a cello through an open window" changed to "through a business associate who knew his taste" in both Background (line 22) and Continuity Notes (line 83) of samuel-taylor.md. Chapter is the source text; bible had been populated from pre-draft source material (Golden_Compass_Stage_Episode).
 
 - **Draft says** (line 52): "Samuel had found his way in three months ago through a business associate who knew his taste. He had walked past the building twice before that introduction."
 - **Bible says** (samuel-taylor.md, Background + Continuity Notes): "First found the Golden Compass three months before the pivotal evening performance, drawn by a cello through an open window; visited four times before Clara's invitation."
 - **Location**: Line 52
 - **Analysis**: Two conflicting origin stories. The draft says a business associate introduced him, and he had walked past the building twice before. The bible says he was drawn by a cello through an open window. These are mutually exclusive discovery mechanisms. Since ch-04 is the source chapter for this fact and the bible was updated from it, the bible's Background section (line 22) appears to contain a version from earlier source material (Golden_Compass_Stage_Episode) that was not reconciled with the drafted chapter. One version must be chosen. Note: the bible's Continuity Notes (line 83) cite "book-01, ch-04" as the source but still record "drawn by a cello" -- this suggests the bible was updated from source material, not from the actual drafted chapter text.
 
-### 2. [Scene-internal knowledge] Lily knows what Samuel was looking at in the gallery without an on-page source
+### 2. [Scene-internal knowledge] Lily knows what Samuel was looking at in the gallery without an on-page source ✓ FIXED (2026-03-05): Changed "I understand you've been studying our gallery" to "Clara tells me you've been studying our gallery" — attributing Lily's knowledge to an on-page source.
 
 - **Draft says** (lines 142-143): Lily tells Samuel, "I understand you've been studying our gallery. The ocean painting caught your attention."
 - **Issue**: Lily was backstage preparing for and then performing during the time Samuel toured the gallery. She was never in the gallery with him. No character is shown relaying this information to her. Samuel's gallery tour and his interest in the ocean painting occurred while Lily was backstage/on stage.
@@ -35,7 +35,7 @@ The chapter has four scene segments separated by `---` breaks. POV: Samuel Taylo
 - **Plausible explanation**: Clara or Harper could have told Lily about Samuel's gallery behavior between the performance and the backstage meeting. Clara orchestrated the evening and Harper was observing. However, this information transfer is not shown or referenced on-page. Per the agent instructions, unattributed knowledge is an error, not a warning.
 - **Fix**: Add a brief beat establishing the information source -- e.g., Clara mentioning Samuel's gallery interests to Lily, or Lily saying "Clara tells me you've been studying our gallery," or Harper having observed and relayed this.
 
-### 3. [Spatial continuity] Ocean painting appears in two locations during the same evening
+### 3. [Spatial continuity] Ocean painting appears in two locations during the same evening ✓ FIXED (2026-03-05): Changed public gallery painting from "ocean painting" to "harbor at dawn" (distinct subject). Changed line 132 from "he had admired in the gallery" to "he had admired on a previous visit" — ocean painting now exists only in private gallery, seen by Samuel on a prior visit.
 
 - **Draft says** (line 64): Samuel sees an "ocean painting" in the public gallery during his pre-performance tour.
 - **Draft also says** (line 132): "Clara stood near the ocean painting he had admired in the gallery -- it hung here in the private collection, he realized, the public display merely a loan from this more intimate room."

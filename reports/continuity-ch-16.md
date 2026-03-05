@@ -96,7 +96,7 @@ The chapter has four scenes separated by section breaks. Clara is the POV charac
 
 ## Errors (must fix)
 
-### 1. POV Break -- Thomas-Alone Coda (lines 212-216)
+### 1. POV Break -- Thomas-Alone Coda (lines 212-216) ✓ FIXED (2026-03-05): Replaced "She left with George" with "At the doorway she paused and looked back" — Clara now observes Thomas at the desk before closing the door and leaving. All Thomas details (maps, pen, "the pen did not move") are now Clara's direct observation through the open doorway. Hallway/Spruce Street paragraph moved to after the door closes.
 
 - **Category**: POV discipline
 - **Description**: After Clara leaves the room (line 210: "She left with George"), the narration follows Thomas sitting alone at the mahogany desk. Lines 212-216 are written from an omniscient or Thomas-limited perspective -- Clara is not present to observe Thomas, his maps, or the pen that does not move.

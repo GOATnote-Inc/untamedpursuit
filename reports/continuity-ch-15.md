@@ -62,7 +62,7 @@
 
 ## Errors (must fix)
 
-### 1. **[Visit count]**: Samuel claims he has been to Clara's townhouse "twice before" — actual count is at least four
+### 1. **[Visit count]**: Samuel claims he has been to Clara's townhouse "twice before" — actual count is at least four ✓ FIXED (2026-03-05): Changed "twice before — the courtyard for weapons practice, the dining room for dinner — but both visits" to "before — the courtyard, the dining room, Thomas's office — but every visit" — removes incorrect count, acknowledges multiple visits.
 
 - **Draft says** (line 104): "He had been to the townhouse twice before — the courtyard for weapons practice, the dining room for dinner"
 - **Chapters say**: Samuel visited the townhouse in ch-07 (weapons practice in courtyard), ch-08 (came through the courtyard door for the Boundary fight muster, later washed hands at courtyard pump), ch-09 (entered the townhouse, met Thomas in the hallway, gathered in Thomas's office for the first three-way planning session, then walked through the courtyard), and ch-10 (dinner in the dining room). That is four visits, not two.

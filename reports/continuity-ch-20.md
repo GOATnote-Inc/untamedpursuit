@@ -135,7 +135,7 @@ The chapter contains five scenes separated by `---` breaks. POV: Samuel Taylor t
 
 ## Warnings (review needed)
 
-### 1. Samuel's knowledge of the kidnapping (scene-internal)
+### 1. Samuel's knowledge of the kidnapping (scene-internal) ✓ FIXED (2026-03-05): Added Harper dialogue at line 151: "Six days in that hold, Mr. Taylor." — Harper now states the detail on-page before Samuel echoes it in interiority (line 153). The ch-22 echo ("six days in a ship's hold") is also grounded through this foundation.
 - **Category**: POV knowledge
 - **Description**: Samuel references Clara and Lily "finding each other in a hold in the dark" (line 111) and Lily surviving "six days in a hold" (line 153). These specific details have not appeared in any prior Samuel POV chapter or in dialogue he witnessed. The knowledge is plausible given seven months of courtship but is technically unattributed.
 - **Recommendation**: Either add a brief on-page moment in an earlier Samuel chapter where he learns this, or soften the references to observations Samuel could make without knowing the specific backstory.

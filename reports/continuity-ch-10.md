@@ -31,7 +31,7 @@ Ch-10 has six scene sections divided by horizontal rules. All action occurs in t
 - **Location**: Line 189
 - **Suggested fix**: Change "in the weeks since the river walk" to "in the days since the river walk" or "since the river walk."
 
-### 2. Timeline: "three days ago" for the housekeeper
+### 2. Timeline: "three days ago" for the housekeeper ✓ FIXED (2026-03-05): Changed "three days ago" to "a few days ago" — avoids the incorrect precision while preserving voice.
 
 - **Draft says** (line 35): "the same efficient, unsmiling woman who had answered the door three days ago"
 - **Bible/outline says**: The housekeeper answered the door in Ch-07 (Samuel's first visit to the townhouse). Per the outline, Ch-07 is "a few days after Ch6." Ch-08 occurs three days after Ch-07. Ch-09 is the next morning. Ch-10 is that same evening. From Ch-07 to Ch-10: 3 days + 1 day = approximately 4 days. "Three days ago" underestimates by about one day.
