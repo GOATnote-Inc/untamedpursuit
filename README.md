@@ -42,10 +42,10 @@ The series is free to read. Start here:
 | Ch | Title | POV | Words |
 |---:|-------|-----|------:|
 | 1 | [The Night Watch](books/book-01/chapters/ch-01.md) | Clara Chen | 3,474 |
-| 2 | [The Machinery](books/book-01/chapters/ch-02.md) | Clara Chen | 2,817 |
+| 2 | [The Machinery](books/book-01/chapters/ch-02.md) | Clara Chen | 2,938 |
 | 3 | [Ginger and Steel](books/book-01/chapters/ch-03.md) | Clara Chen | 3,513 |
 | 4 | [The Artist's Touch](books/book-01/chapters/ch-04.md) | Samuel Taylor | 3,262 |
-| 5 | [The Measure](books/book-01/chapters/ch-05.md) | Clara Chen | 2,514 |
+| 5 | [The Measure](books/book-01/chapters/ch-05.md) | Clara Chen | 2,652 |
 | 6 | [The Current](books/book-01/chapters/ch-06.md) | Clara Chen | 2,872 |
 | 7 | [The Balance](books/book-01/chapters/ch-07.md) | Samuel Taylor | 3,610 |
 | 8 | [The Boundary](books/book-01/chapters/ch-08.md) | Clara Chen | 3,402 |
@@ -57,16 +57,16 @@ The series is free to read. Start here:
 | 14 | [Below the Waterline](books/book-01/chapters/ch-14.md) | Clara Chen | 2,720 |
 | 15 | [The Ledger](books/book-01/chapters/ch-15.md) | Samuel Taylor | 2,789 |
 | 16 | [The Turning](books/book-01/chapters/ch-16.md) | Clara Chen | 2,803 |
-| 17 | [The Orchard](books/book-01/chapters/ch-17.md) | Clara Chen | 2,672 |
+| 17 | [The Orchard](books/book-01/chapters/ch-17.md) | Clara Chen | 2,953 |
 | 18 | [The Manifest](books/book-01/chapters/ch-18.md) | Samuel Taylor | 2,638 |
-| 19 | [Morning Tide](books/book-01/chapters/ch-19.md) | Clara Chen | 2,643 |
+| 19 | [Morning Tide](books/book-01/chapters/ch-19.md) | Clara Chen | 2,973 |
 | 20 | [Open Water](books/book-01/chapters/ch-20.md) | Samuel Taylor | 3,192 |
 | 21 | [The Windward Passage](books/book-01/chapters/ch-21.md) | Clara Chen | 2,361 |
 | 22 | [The Harbor](books/book-01/chapters/ch-22.md) | Samuel Taylor | 2,207 |
 | 23 | [The Chagres](books/book-01/chapters/ch-23.md) | Clara Chen | 2,189 |
 | 24 | [The Mule Trail](books/book-01/chapters/ch-24.md) | Samuel Taylor | 3,938 |
 
-*Book 1: ~73,610 words drafted* · *Series total: ~73,610 words*
+*Book 1: ~74,480 words drafted* · *Series total: ~74,480 words*
 <!-- PROGRESS:END -->
 
 ### Themes
