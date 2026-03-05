@@ -1,7 +1,7 @@
 # Continuity Audit Summary — Book 1
 
 **Audit dates**: 2026-03-05
-**Commits**: `4a0ed76` (engine upgrade + 22 fixes), `90663bb` (6 remaining fixes)
+**Commits**: `4a0ed76` (engine upgrade + 22 fixes), `90663bb` (6 remaining fixes), pending (final 10 fixes)
 **Checker version**: v2 (presence-map logic + experiential grounding)
 
 ---
@@ -12,8 +12,8 @@
 |--------|-------|
 | Chapters audited | 24 (ch-01 through ch-24) |
 | Errors found | 38 |
-| Errors fixed | 28 |
-| Errors remaining | 10 |
+| Errors fixed | 38 |
+| Errors remaining | 0 |
 | Warnings logged | 95+ |
 | Warnings recommended for promotion | 13 |
 | Reports generated | 24 continuity + 5 regression + 2 character-analyst |
@@ -131,6 +131,51 @@
 | 27 | Cross-chapter consistency | "Eighteen miles" trail distance → "Twenty miles" (3 instances + YAML frontmatter, matching ch-23 historian revision) |
 | 28 | Arithmetic | "eighteen miles of mud" at night camp (only ~12 miles walked) → "twelve miles of mud" |
 
+### Ch-02 — 3 additional fixes (final batch)
+
+| # | Error Type | Fix |
+|---|-----------|-----|
+| 29 | Timeline contradiction | "Past midnight" → "Nearly midnight" (line 24) — resolves conflict with midnight clock strike at line 158 |
+| 30 | Timeline (bible) | "The Following Morning" → "Same Night" in `bible/timeline/book-01-timeline.md` |
+| 31 | Internal inconsistency | "By our weapons practice in the early afternoon" → "By morning practice" (line 74) — matches line 148 |
+
+### Ch-05 — 1 additional fix (final batch)
+
+| # | Error Type | Fix |
+|---|-----------|-----|
+| 32 | Unattributed knowledge | "I haven't heard you sing like that in a while" → "Harper tells me you sang like you used to" (line 76) — Thomas wasn't at the performance |
+
+### Ch-07 — 1 additional fix (final batch)
+
+| # | Error Type | Fix |
+|---|-----------|-----|
+| 33 | Unattributed knowledge | "its dining room that seated forty" → "its private dining room" (line 26) — capacity number not in bible |
+
+### Ch-08 — 2 additional fixes (final batch)
+
+| # | Error Type | Fix |
+|---|-----------|-----|
+| 34 | Arithmetic | "three of his men" → "four of his men" (line 79) — matches line 115 and established 4-man team |
+| 35 | Unattributed knowledge | "more than a ten-item plan" → "a proper plan" (line 233) — Samuel never saw the plan |
+
+### Ch-20 — 1 additional fix (final batch)
+
+| # | Error Type | Fix |
+|---|-----------|-----|
+| 36 | Arithmetic | "fifteen souls" → "seventeen souls" (line 61) — correct headcount: 1+8+1+4+1+1+1=17 |
+
+### Ch-23 — 1 additional fix (final batch)
+
+| # | Error Type | Fix |
+|---|-----------|-----|
+| 37 | False memory | "first seen across a counting table" → "first seen on a dock in the gaslight" (line 87) — Clara first saw Samuel at the Mercy Jane rescue |
+
+### Ch-24 — 1 additional fix (final batch)
+
+| # | Error Type | Fix |
+|---|-----------|-----|
+| 38 | Timeline arithmetic | "over thirteen days of carrying" → "over a week of carrying" (line 102) — pistol issued April 17-18, ch-24 is April 25-26 = 7-9 days |
+
 ### Supporting file changes
 
 | File | Changes |
@@ -150,52 +195,22 @@
 
 ---
 
-## Remaining Unfixed Errors (10)
+## Previously Unfixed Errors — Now Fixed (10)
 
-### Ch-02 — 3 errors
+All 10 remaining errors were fixed and regression-checked. Details:
 
-| # | Error | Lines | Recommendation |
-|---|-------|-------|----------------|
-| 1 | "Past midnight" opening contradicts midnight clock strike at close | 24, 158 | Change opening to "Nearly midnight" or close to 1 AM |
-| 2 | Timeline entry says "The Following Morning" — chapter is same night | `bible/timeline/book-01-timeline.md` | Update to "Same Night" |
-| 3 | Two different dossier deadlines: "early afternoon" vs. "morning practice" | 74, 148 | Harmonize to one deadline |
-
-### Ch-05 — 1 error (borderline)
-
-| # | Error | Line | Recommendation |
-|---|-------|------|----------------|
-| 4 | Thomas assesses Clara's singing as "Confident. Bold" without attending the performance | 76 | Add source — a subscriber's report, or Thomas hearing Clara practice |
-
-### Ch-07 — 1 error
-
-| # | Error | Line | Recommendation |
-|---|-------|------|----------------|
-| 5 | "dining room that seated forty" — unattributed fact not in bible | 26 | Log in bible or remove specific number |
-
-### Ch-08 — 2 errors
-
-| # | Error | Lines | Recommendation |
-|---|-------|-------|----------------|
-| 6 | Harper arrives with "three" men but approach scene says "four" | 79, 115 | Change "three" to "four" at line 79 |
-| 7 | Samuel references "ten-item plan" never disclosed to him on-page | 233 | Add attribution or soften to inference |
-
-### Ch-20 — 1 error
-
-| # | Error | Line | Recommendation |
-|---|-------|------|----------------|
-| 8 | "fifteen souls" headcount — should be 17 humans aboard | 61 | Change to "seventeen" or "the company" |
-
-### Ch-23 — 1 error
-
-| # | Error | Line | Recommendation |
-|---|-------|------|----------------|
-| 9 | "first seen across a counting table" — Clara first saw Samuel on the docks (ch-01) | 87 | Change to "first seen on a dock in the gaslight" per report suggestion |
-
-### Ch-24 — 1 error
-
-| # | Error | Line | Recommendation |
-|---|-------|------|----------------|
-| 10 | "thirteen days of carrying" the pistol — should be ~7-9 days (issued in Kingston, April 17-18; ch-24 is April 25-26) | 102 | Change to "nine days" or "a week" |
+| # | Ch | Error | Fix Applied |
+|---|-----|-------|-------------|
+| 29 | 02 | "Past midnight" contradicts midnight clock strike | "Nearly midnight" (line 24) |
+| 30 | 02 | Timeline entry said "The Following Morning" | "Same Night" in `bible/timeline/book-01-timeline.md` |
+| 31 | 02 | Dossier deadlines: "early afternoon" vs. "morning practice" | "By morning practice" (line 74) |
+| 32 | 05 | Thomas assesses singing without attending performance | "Harper tells me you sang like you used to" (line 76) |
+| 33 | 07 | "dining room that seated forty" — unattributed fact | "its private dining room" (line 26) |
+| 34 | 08 | Harper arrives with "three" men, approach says "four" | "four of his men" (line 79) |
+| 35 | 08 | Samuel references "ten-item plan" never disclosed to him | "a proper plan" (line 233) |
+| 36 | 20 | "fifteen souls" headcount — should be 17 | "seventeen souls" (line 61) |
+| 37 | 23 | "first seen across a counting table" — false memory | "first seen on a dock in the gaslight" (line 87) |
+| 38 | 24 | "thirteen days of carrying" — should be ~7-9 days | "over a week of carrying" (line 102) |
 
 ---
 
@@ -246,4 +261,4 @@ The experiential-grounding addition to the character-analyst caught the remainin
 
 ---
 
-*Generated 2026-03-05. Next action: fix the 10 remaining errors, then evaluate the 13 promoted warnings.*
+*Generated 2026-03-05. Updated same day: all 38 errors fixed and regression-checked. Next action: evaluate the 13 warnings recommended for promotion.*

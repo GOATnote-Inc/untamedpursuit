@@ -76,7 +76,7 @@
 - **Fact**: The night camp is made at dusk after the first day's march, with eight miles still remaining. Samuel has walked roughly ten miles, not eighteen.
 - **Location**: Line 134
 
-### 3. "Thirteen days of carrying" -- Timeline Arithmetic
+### 3. "Thirteen days of carrying" -- Timeline Arithmetic ✓ FIXED (2026-03-05): Changed "over thirteen days of carrying" to "over a week of carrying" — matches 7-9 day timeline from Kingston (April 17-18) to ch-24 (April 25-26).
 
 - **[continuity -- timeline]**: Ch-24 says Samuel's pistol weight "had become, over thirteen days of carrying, a fact about his body" (line 102). Harper mentioned "requesting permission from Miss Chen to purchase firearms for Mr. Taylor" in Kingston (ch-22, April 17-18). The ch-24 frontmatter places the chapter on April 25-26. From April 18 (the latest he could have received the pistol in Kingston) to April 25 is seven or eight days, not thirteen. Even if the pistol was issued April 12 (the earliest possible -- the day they arrived in Kingston, per ch-22's April 17 timeline, which itself is wrong if he's counting from the actual purchase), thirteen days is difficult to reconcile. The ch-24 continuity notes themselves say the pistol was "issued by Harper in Kingston (ch-22)."
 - **Draft says**: "over thirteen days of carrying" (line 102)

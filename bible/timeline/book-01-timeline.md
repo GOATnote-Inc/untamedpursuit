@@ -10,7 +10,7 @@
 - **POV**: Clara
 - **Significance**: Inciting event of the book. Clara and Samuel meet in combat. Samuel had conducted 3 weeks of surveillance on the Mercy Jane before the rescue. Both men know each other's names before introduction — implies intelligence connections on both sides.
 
-### The Following Morning — Chapter 2
+### Same Night — Chapter 2
 - **Event**: Clara debriefs with Thomas Arlington in his ground-floor office. Thomas assesses Samuel from existing property records. Clara assigns Thomas to prepare a full report. "I love you, Thomas" / "And well, you should" exchange.
 - **Location**: Thomas's office, Clara's townhouse
 - **Characters involved**: Clara, Thomas, George

@@ -84,7 +84,7 @@
 
 ## Errors (must fix)
 
-### 1. Headcount discrepancy: Harper's team size
+### 1. Headcount discrepancy: Harper's team size ✓ FIXED (2026-03-05): Changed "three of his men" to "four of his men" at line 79 — matches line 115 and ch-21's established four-man team (Davis, Ward, Cole, Jennings).
 
 - **Category**: Scene-internal consistency
 - **Draft says**: Harper "came through the garden gate with three of his men -- the core of the team" (line 79). Later, "They approached from the north -- Clara, Samuel, Harper, and four of Harper's men" (line 115).
@@ -92,7 +92,7 @@
 - **Location**: Lines 79 and 115
 - **Recommendation**: Either change "three" to "four" in the muster scene, add a line establishing that a fourth man arrived before departure, or change "four" to "three" in the approach scene (and adjust downstream references accordingly -- verify one wounded man still leaves enough for the fight choreography).
 
-### 2. Scene-internal knowledge: Samuel references the "ten-item plan"
+### 2. Scene-internal knowledge: Samuel references the "ten-item plan" ✓ FIXED (2026-03-05): Changed "more than a ten-item plan" to "a proper plan" — removes specific reference to a document Samuel was never shown.
 
 - **Category**: Unattributed knowledge
 - **Draft says**: Samuel says "We are going to need more than a ten-item plan" (line 233).

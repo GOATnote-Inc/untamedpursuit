@@ -24,7 +24,7 @@ Ch-07 is a single continuous sequence (Samuel's arrival, training, departure) wi
 
 ## Errors (must fix)
 
-### 1. [Scene-internal knowledge / New unattributed fact]: Dining room capacity "seated forty"
+### 1. [Scene-internal knowledge / New unattributed fact]: Dining room capacity "seated forty" ✓ FIXED (2026-03-05): Changed "its dining room that seated forty" to "its private dining room" — removes the unattributed capacity number.
 
 - **Draft says** (line 26): "the Golden Compass with its hidden Rembrandt and its dining room that seated forty"
 - **Bible says**: The Golden Compass performance hall seats "approximately sixty" (locations.md). No dining room capacity is specified anywhere -- not in the bible, not in ch-04 (where the dining room is introduced), and not in any other chapter.

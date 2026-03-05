@@ -37,7 +37,7 @@ Ch-05 contains a single continuous scene with one section break (Thomas's office
 
 ## Errors (must fix)
 
-### 1. [Scene-internal knowledge] Thomas's singing assessment may exceed his information
+### 1. [Scene-internal knowledge] Thomas's singing assessment may exceed his information ✓ FIXED (2026-03-05): Changed "I haven't heard you sing like that in a while" to "Harper tells me you sang like you used to" — Thomas's assessment now attributed to Harper (who was backstage at the performance).
 
 - **Draft says** (line 76): Thomas says "I haven't heard you sing like that in a while. Confident. Bold."
 - **Issue**: Thomas was NOT present at the Golden Compass performance in Ch-04. The audience consisted of Samuel, the ~60 subscribers, and George. Clara has not described her singing quality to Thomas at any point in this scene -- she has only reported that Samuel chose the Golden Compass, recognized the curation, and wept. Thomas's assessment of her singing as "Confident. Bold" implies direct knowledge of this specific performance's quality.

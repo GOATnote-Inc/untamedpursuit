@@ -15,7 +15,7 @@
 
 ## Errors (must fix)
 
-### 1. Internal timeline contradiction — "past midnight" opening vs. midnight clock strike at close
+### 1. Internal timeline contradiction — "past midnight" opening vs. midnight clock strike at close ✓ FIXED (2026-03-05): Changed "Past midnight" to "Nearly midnight" — clock now strikes midnight correctly at the scene's end.
 
 - **Draft says (line 24)**: "Past midnight -- perhaps half an hour since the carriage had carried her from the docks"
 - **Draft says (line 158)**: "the grandfather clock began to strike midnight"
@@ -23,14 +23,14 @@
 - **Location**: Lines 24 and 158
 - **Recommendation**: Either change the opening to place Clara's arrival before midnight (e.g., "Nearly midnight" or "Approaching midnight"), or change the closing clock strike to 1 AM. The opening is less specific and easier to adjust without disrupting other scenes.
 
-### 2. Book-01 timeline entry contradicts chapter text
+### 2. Book-01 timeline entry contradicts chapter text ✓ FIXED (2026-03-05): Changed timeline header from "The Following Morning" to "Same Night."
 
 - **Timeline says**: Chapter 2 occurs "The Following Morning"
 - **Chapter says**: The scene takes place past midnight the same night as the Mercy Jane rescue, approximately half an hour after Clara left the docks
 - **Location**: `/Users/thegoatnote/untamedpursuit/bible/timeline/book-01-timeline.md`, lines 13-18
 - **Recommendation**: Update the timeline entry header from "The Following Morning" to "Same Night as the Mercy Jane Rescue" or "Immediately After the Rescue — Past Midnight." The chapter text is unambiguous: Clara arrives roughly half an hour after the carriage carried her from the docks.
 
-### 3. Shifting deadline for Samuel Taylor dossier — "early afternoon" vs. "morning practice"
+### 3. Shifting deadline for Samuel Taylor dossier — "early afternoon" vs. "morning practice" ✓ FIXED (2026-03-05): Changed line 74 from "By our weapons practice in the early afternoon" to "By morning practice" — harmonized with line 148.
 
 - **Draft says (line 74)**: "By our weapons practice in the early afternoon, I want everything you can find on Samuel Taylor."
 - **Draft says (line 148)**: "Have that information ready by morning practice"

@@ -123,7 +123,7 @@ The chapter contains five scenes separated by `---` breaks. POV: Samuel Taylor t
 
 ## Errors (must fix)
 
-### 1. Head count: "fifteen souls" may be arithmetically incorrect
+### 1. Head count: "fifteen souls" may be arithmetically incorrect ✓ FIXED (2026-03-05): Changed "fifteen souls" to "seventeen souls" — matches actual headcount (1 captain + 8 crew + Harper + 4 men + Clara + Samuel + Lily = 17).
 - **Draft says**: "how much water fifteen souls consumed per day" (line 61)
 - **Draft also says**: "The crew -- eight men, all chosen by Thomas" + "Harper's four men" + the captain (described separately from the crew, line 59) + Harper (described separately from his men, line 79) + Clara + Samuel + Lily = 17 people
 - **Outline says**: "the arithmetic of sustaining twelve people" (outline ch-20, beat 2)
