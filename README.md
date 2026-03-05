@@ -89,45 +89,77 @@ A single author holding all of this in memory across years of writing will drop 
 
 The system uses a hierarchy of `CLAUDE.md` files and scoped rules to provide context-appropriate instructions at every level of the project:
 
-```
-untamedpursuit/
-├── CLAUDE.md                    # Series-wide style guide and canon rules
-├── .claude/
-│   ├── CLAUDE.md                # Workflow conventions, git rules, subagent usage
-│   └── rules/
-│       ├── continuity.md        # Always-active: continuity traps and flag protocol
-│       ├── drafting.md          # Creative mode: forward momentum, flag concerns
-│       ├── editing.md           # Critical mode: minimal intervention, bible checks
-│       ├── research.md          # Academic mode: sources required, cite everything
-│       └── bible-maintenance.md # Careful mode: read before modifying, update both sides
-├── bible/                       # Single source of truth — 24 character profiles,
-│   ├── CLAUDE.md                #   timeline, world-building, relationships,
-│   ├── characters/              #   themes, mysteries, open threads
-│   ├── timeline/
-│   ├── world/
-│   ├── relationships/
-│   ├── themes/
-│   └── mysteries/
-├── books/
-│   ├── CLAUDE.md                # Per-book structure and workflow
-│   ├── book-01/
-│   │   ├── CLAUDE.md            # Book 1 premise, POV characters, arcs, mysteries
-│   │   ├── outline.md           # Chapter-by-chapter beats, built incrementally
-│   │   ├── chapters/            # One file per chapter with YAML frontmatter
-│   │   └── notes/
-│   │       └── continuity-notes.md  # New facts, deviations, flags, subagent logs
-│   ├── book-02/ ... book-09/    # Same structure, scaffolded and ready
-├── research/                    # Historical research with source documentation
-└── messy/                       # Raw source material and working drafts
+```mermaid
+graph TD
+    subgraph Context["Context Layer"]
+        ROOT["CLAUDE.md<br/>Style & Canon"]
+        WORKFLOW[".claude/CLAUDE.md<br/>Workflow & Git"]
+        R1[continuity.md<br/>Always-on]
+        R2[drafting.md]
+        R3[editing.md]
+        R4[research.md]
+        R5[bible-maintenance.md]
+        R6[prose-craft.md]
+        ROOT --> WORKFLOW
+        WORKFLOW --> R1 & R2 & R3 & R4 & R5 & R6
+    end
+
+    subgraph Bible["Bible — Source of Truth"]
+        BIBLE_ROOT["bible/CLAUDE.md"]
+        CHARS[characters/]
+        TIMELINE[timeline/]
+        WORLD[world/]
+        RELS[relationships/]
+        THEMES[themes/]
+        MYSTERIES[mysteries/]
+        BIBLE_ROOT --> CHARS & TIMELINE & WORLD & RELS & THEMES & MYSTERIES
+    end
+
+    subgraph Books["Books 1–9"]
+        BOOKS_ROOT["books/CLAUDE.md"]
+        B01["book-01/CLAUDE.md"]
+        B01_OUT[outline.md]
+        B01_CH[chapters/]
+        B01_NOTES[notes/]
+        B02["book-02/ … book-09/"]
+        BOOKS_ROOT --> B01 & B02
+        B01 --> B01_OUT & B01_CH & B01_NOTES
+    end
+
+    subgraph Agents["Verification Agents"]
+        AG1[Style Reviewer]
+        AG2[Continuity Checker]
+        AG3[Historian]
+        AG4[Character Analyst]
+        AG5[Prose Brilliance]
+    end
+
+    WORKFLOW --> Agents
+    Bible --> Agents
+    Agents --> B01_CH
 ```
 
 **20 `CLAUDE.md` files** provide layered context: the root file establishes prose style and canon rules; `.claude/CLAUDE.md` governs workflow; each bible subdirectory has its own conventions; each book carries its premise, POV assignments, and mystery tracking. When working on Book 1 Chapter 3, the system loads Book 1's context, the bible rules, the continuity rules, and the drafting-mode instructions — automatically scoped to the task.
 
-**5 scoped rules** activate by work mode and file path. The continuity rule is always on. Drafting, editing, research, and bible-maintenance rules activate when you enter those modes. Each rule carries a different mindset: drafting is expansive ("don't stop to edit, flag and keep moving"); editing is surgical ("every change must earn its place"); research demands citations; bible maintenance requires reading before writing and updating both sides of every relationship.
+**6 scoped rules** activate by work mode and file path. The continuity and prose-craft rules are always on. Drafting, editing, research, and bible-maintenance rules activate when you enter those modes. Each rule carries a different mindset: drafting is expansive ("don't stop to edit, flag and keep moving"); editing is surgical ("every change must earn its place"); research demands citations; bible maintenance requires reading before writing and updating both sides of every relationship.
 
 ### The Verification Pipeline
 
-Every chapter passes through four parallel subagent reviews before revisions are applied:
+Every chapter passes through five parallel subagent reviews before revisions are applied:
+
+```mermaid
+flowchart LR
+    Draft[Chapter Draft] --> Fork{Parallel Review}
+    Fork --> S1[Style Reviewer]
+    Fork --> S2[Continuity Checker]
+    Fork --> S3[Historian]
+    Fork --> S4[Character Analyst]
+    Fork --> S5[Prose Brilliance]
+    S1 & S2 & S3 & S4 & S5 --> Triage[Triage by Severity]
+    Triage --> Apply[Single-Pass Application]
+    Apply --> Revised[Revised Chapter]
+    Apply --> Log[continuity-notes.md]
+```
 
 | Subagent | What It Checks | Example Findings |
 |---|---|---|
@@ -135,6 +167,7 @@ Every chapter passes through four parallel subagent reviews before revisions are
 | **Continuity Checker** | Cross-references every fact against the bible, previous chapters, and a per-chapter checklist | "Thomas's desk described as 'governor's estate auction' but bible says 'governor's office.' Update bible to match (more specific)." |
 | **Historian** | Period vocabulary, interior details, legal/social frameworks, anachronism flags | "'Operational' is a 20th-century coinage — removed label; surrounding prose already conveys the shift." |
 | **Character Analyst** | Voice consistency, re-read checks (do betrayal seeds read as charming on first pass?), emotional truth | "Thomas reads as warm and lovable. 'Not once — not once' works as teasing on first read; edge visible only on re-read. Defensible; monitor in beta." |
+| **Prose Brilliance** | Competence traps, admiration problems, voice blurring, unearned narrative claims | "Clara solving three problems in one paragraph triggers competence-porn alarm. Let one attempt fail." |
 
 The subagents run in parallel, return structured reports, and their findings are triaged by severity:
 
@@ -144,6 +177,97 @@ The subagents run in parallel, return structured reports, and their findings are
 4. **Character/pacing** — assessed and applied or deferred to revision
 
 All findings are logged in `notes/continuity-notes.md` with the subagent's name, the finding, and the resolution. This creates an auditable trail: every decision has a reason, every fix has a source, and future chapters can reference what was caught and how it was handled.
+
+### Chapter Lifecycle
+
+Every chapter moves through a defined state machine from outline to final:
+
+```mermaid
+stateDiagram-v2
+    [*] --> Outline
+    Outline --> Draft: /draft
+    Draft --> Review
+    state Review {
+        [*] --> StyleReviewer
+        [*] --> ContinuityChecker
+        [*] --> Historian
+        [*] --> CharacterAnalyst
+        [*] --> ProseBrilliance
+        StyleReviewer --> Triage
+        ContinuityChecker --> Triage
+        Historian --> Triage
+        CharacterAnalyst --> Triage
+        ProseBrilliance --> Triage
+    }
+    Review --> Revised: Single-pass apply
+    Revised --> Final: Author approval
+    Final --> [*]
+```
+
+A chapter's `status` field in its YAML frontmatter tracks its current state (`draft`, `revised`, `final`). The `/revise` skill triggers the Review composite state, running all five agents in parallel before triaging findings into a single application pass.
+
+### Data Flow
+
+Information flows in a cycle: drafts generate new facts, which update the bible, which constrains future drafts.
+
+```mermaid
+flowchart TB
+    DRAFT[Chapter Draft] --> NOTES[continuity-notes.md]
+    NOTES --> BIBLE[Bible — Source of Truth]
+    BIBLE --> FUTURE[Future Chapters]
+    FUTURE --> DRAFT
+    NOTES --> THREADS[open-threads.md]
+    NOTES --> REPORTS[reports/]
+    BIBLE --> REPORTS
+```
+
+Each drafting session produces continuity notes that feed the bible and update open threads. The bible then provides canon for the next chapter. Reports aggregate findings across the project. This circular flow ensures no fact exists only in the context window — everything is written to disk.
+
+<!-- METRICS:START -->
+### Project Metrics
+
+**Chapter Status**
+
+```mermaid
+pie title Chapter Status
+    "Draft" : 7
+    "Revised" : 17
+```
+
+**POV Distribution**
+
+```mermaid
+pie title POV Distribution
+    "Clara Chen" : 15
+    "Samuel Taylor" : 9
+```
+
+| Metric | Value |
+|--------|------:|
+| Books in progress | 1 |
+| Chapters drafted | 24 |
+| Total words | 75,196 |
+| Average words/chapter | 3,133 |
+| Draft | 7 (29%) |
+| Revised | 17 (71%) |
+<!-- METRICS:END -->
+
+<!-- THREADS:START -->
+### Thread Tracker
+
+```mermaid
+pie title Active Thread Status
+    "Developing" : 3
+    "Planted" : 6
+    "Resolved" : 1
+```
+
+| Status | Count | Threads |
+|--------|------:|---------|
+| Developing | 3 | Clara's Full Network Scope, Durand Family Conspiracy, Wallace Betrayal |
+| Planted | 6 | The Venezuela Crisis, Eve's Canyon Ambush, Jack's Southern Base Plan, Captain Andrews, Deliberate Well Poisoning, The Traitor Who Knew Glass Garden Layout |
+| Resolved | 1 | Thomas Arlington's Betrayal |
+<!-- THREADS:END -->
 
 ### The Continuity System
 
@@ -167,7 +291,7 @@ The system manages this through layered tracking:
 
 **Earlier books take precedence.** In any factual conflict, the earlier book's established facts are canon. This prevents retconning.
 
-**Parallel review, sequential application.** Four subagents analyze independently. Their findings are merged, triaged by severity, and applied in a single pass. This prevents one reviewer's changes from creating issues for another's findings.
+**Parallel review, sequential application.** Five subagents analyze independently. Their findings are merged, triaged by severity, and applied in a single pass. This prevents one reviewer's changes from creating issues for another's findings.
 
 **Dual-frequency design.** Some narrative elements are designed to read differently on first pass versus re-read. The character analyst explicitly checks for this: does Thomas read as charming now? Will these same lines curdle after the betrayal? This requires a verification pass that most writing processes skip entirely.
 
