@@ -27,6 +27,20 @@
 
 - ch-01: Distance to Panama City — outline says "eight miles" (matching book-01, ch-24's dawn announcement). Draft uses "six, perhaps seven" per Reyes — because the company had been walking for ~1-2 miles between ch-24's dawn and the ambush. Not a discrepancy; reflects distance covered.
 
+- ch-03: Harper's last words — "Miss Chen." Returns to formality in death. Clara responds "Mr. Harper." — added to bible? yes (already in harper.md)
+- ch-03: Burial location — hill above Panama City, facing west toward the Pacific. Volcanic rock and compressed clay soil. Flat volcanic stone at the head, unmarked. — added to bible? no
+- ch-03: Clara places tobacco pouch, pipe, and flattened musket ball in the grave — added to bible? no (already noted in harper.md: "pipe tobacco in the grave")
+- ch-03: Lily places wildflowers at the grave — yellow, white, deep violet. Also places an unmarked volcanic stone at the head. — added to bible? no
+- ch-03: Samuel digs the grave — no discussion, takes the shovel, works in shirtsleeves — added to bible? no
+- ch-03: George sits at the grave's edge in assigned-post position. Does not move until Clara gives the flat-palm "come" signal. — added to bible? no
+- ch-03: Ajax present at the burial, walking at Lily's heel — added to bible? skip (scene-specific)
+- ch-03: Clara's final line — "Reyes. We need a ship." — transition to ch-04 — added to bible? skip
+
+## Outline Deviations (ch-03)
+
+- ch-03: Outline says "George sits at the grave's edge and does not move until Clara calls him." Draft renders "calls" as the flat-palm hand signal, consistent with George's established hand-signal-only protocol. Not a deviation; an implementation detail.
+- ch-03: Musket ball placed in the grave alongside tobacco/pipe — not in outline but organic extension of ch-02's detail (ball on the table beside the pipe). The geometry felt correct.
+
 ## Continuity Flags
 
 (No active flags.)
