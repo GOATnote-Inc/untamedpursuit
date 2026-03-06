@@ -83,3 +83,5 @@ Professional and restrained. Quiet concern underlies every word. Deferential —
 - Presents Samuel with flowers backstage at Golden Compass
 - Dies during the voyage west (outline_2_16, Scene 21) — before reaching San Francisco
 - Lily Montgomery preserves his memory through stories of his kindness and desire to teach
+- Commands at least four men in his core team, plus additional personnel (Established book-01, ch-08)
+- One of Harper's men suffered a knife wound to the ribs during the ch-08 dock operation — survived (Established book-01, ch-08)

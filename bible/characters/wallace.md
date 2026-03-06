@@ -63,3 +63,6 @@ Uses art as cover for his operations. His corruption is revealed over the course
 - Commercial alliances: dock operators, shipping agents, harbormaster's staff
 - Auction house on Chestnut Street: 14 lots in 6 months, contemporary American paintings purchased through agents (book-01, ch-07)
 - Attends same cultural circuit as Samuel Taylor — art tours, subscription concerts, philanthropic gatherings
+- Trafficking fleet encompasses at least seven ships (Mercy Jane among them) running routes from Baltimore through New York to Boston and Philadelphia (Established book-01, ch-08)
+- Employed a supervising clerk at dock operations — a non-combatant field supervisor carrying manifests, crew rosters, cargo schedules, and a coded ledger (Established book-01, ch-08)
+- Twenty-three of Wallace's men attacked Samuel's dock section — hired muscle, some recruited from outside the city (Established book-01, ch-08)

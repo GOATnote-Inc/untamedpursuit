@@ -127,3 +127,5 @@ Eve Garrett's love interest. A Durand by blood who arrives at the Glass Garden e
 - Has managed Clara's social calendar for years, including deflecting suitors and declining marriage proposals on her behalf (book-01, ch-02)
 - Learns about Clara's Golden Compass performances from Harper — "Harper tells me you sang like you used to. Confident. Bold." (book-01, ch-05)
 - Arlington's betrayal specifics TBD — but motivation is jealousy after being sidelined by Samuel and Jack
+- Partnership with Clara approximately four years old by 1846 — origin circa 1842, when Clara was ~21 (Established book-01, ch-08)
+- Sharpshooter signal: three taps on a lamp shutter, visible only from a specified route — operational methodology for night operations (Established book-01, ch-08)

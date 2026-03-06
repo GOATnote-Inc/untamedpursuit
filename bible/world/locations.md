@@ -27,6 +27,7 @@
   - **The Golden Compass**: Private subscription society — membership by invitation, performances for subscribers. Modest exterior hiding an extraordinary interior. Performance hall seats approximately sixty. Houses a Rembrandt in an alcove at eye level (public gallery), ocean painting (private gallery), and a possible Michelangelo (not yet shown). Perfect acoustics. Includes a private gallery behind the performance hall and a private dining room. Owned by Clara through proxy ownership. (book-01, ch-04)
   - **Chestnut Street parlor**: Clara's tea venue. West-facing windows, afternoon light. Owned by Clara through a holding company. (book-01, ch-03)
   - **Samuel's warehouse**: Three stories of Pennsylvania limestone on Front Street, near the docks. Second-floor office: walnut desk (not mahogany), commercial maps (shipping routes, harbor depths, Chesapeake coastline), a small landscape painting. Employees greet visitors with careful respect. (book-01, ch-06)
+  - **Callowhill Street warehouse**: Clara's property overlooking Samuel's dock section. Used for sharpshooter positioning during night operations. (book-01, ch-08)
   - **Southwark**: Neighborhood near the docks. (book-01, ch-01)
   - **A tavern**: Contains hidden art. Sam frequents it for the music.
   - **Anatomy lab**: Smells of camphor and formaldehyde. High windows. Fifty examination stations.

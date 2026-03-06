@@ -63,7 +63,7 @@
 - **Clara's perspective**: Trusted him completely. "I love you, Thomas" / "And well, you should" — a rare, genuine exchange between them (book-01, ch-02). Clara's blindspot — she trusted the familiar and did not see the jealousy curdling beneath.
 - **Thomas Arlington's perspective**: Devoted at first. Then sidelined. The wit turns bitter, the familiarity becomes weaponized. He convinced himself his betrayal was rational when it was emotional.
 - **Evolution**:
-  - Early: Clara's oldest friend, intelligence chief, teasing confidant. Managed her social calendar for years — deflecting suitors, declining marriage proposals. Has attended her Golden Compass performances.
+  - Early: Clara's oldest friend, intelligence chief, teasing confidant. Partnership origin circa 1842 (~4 years by 1846). Managed her social calendar for years — deflecting suitors, declining marriage proposals. Has attended her Golden Compass performances.
   - Ch-06 pivot: Clara chooses not to tell Thomas about her father disclosure to Samuel — "She had never shown Thomas the wound. She had shown him the empire built over it." Clara begins giving Samuel things she never gave Thomas.
   - Mid: Clara meets Samuel and Jack. Thomas left to manage affairs. The center shifts away from him.
   - Late: Jealousy curdles into action. Thomas betrays Clara. Jack's instinct ("I don't trust Thomas") vindicated.

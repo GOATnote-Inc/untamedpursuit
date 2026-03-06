@@ -98,3 +98,6 @@ Measured and deliberate — described as having "river-stone smoothness" and a q
 - Daily schedule: blade practice at dawn, Colts after, Thomas findings over tea with Harper, weapons practice (afternoon), Thomas delivers intel report (book-01, ch-01)
 - Combat tactics: drops spent Colts and draws fresh ones mid-fight (carries enough for sequential use); custom holsters with body-mapped weapon placement ("the way a pianist maps keys"); modified percussion caps produce a sharp cough, ~40 yards effective range for sound concealment (book-01, ch-01)
 - Private dock on the northern end of Philadelphia's port (book-01, ch-01)
+- Owns a warehouse on Callowhill Street overlooking Samuel's dock section — used for sharpshooter positioning during night operations (Established book-01, ch-08)
+- Employs a runner on Spruce Street (near townhouse) for delivering messages (Established book-01, ch-08)
+- Apparatus uses a lamp-shutter signal system for confirming positions during night operations — three taps on a lamp shutter, visible only from a specified route (Established book-01, ch-08)

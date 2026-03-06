@@ -1,7 +1,7 @@
 # Continuity Notes — Book 1
 
 <!-- Quick Reference -->
-<!-- Unprocessed bible entries: 12 (all ch-08 — lines 567-578) -->
+<!-- Unprocessed bible entries: 0 -->
 <!-- Unresolved continuity flags: 0 -->
 <!-- Last updated: 2026-03-06 -->
 <!-- Structure: New Facts → Outline Deviations → Continuity Flags → [per-chapter sections] → Subagent Archive -->
@@ -574,18 +574,18 @@
 
 ## New Facts Introduced
 
-- ch-08: Clara and Thomas's partnership is approximately four years old (by 1846) — Thomas has never interrupted her blade practice in that time — added to bible? no
-- ch-08: Clara owns a warehouse on Callowhill Street overlooking Samuel's dock section — used for sharpshooter positioning — added to bible? no
-- ch-08: Clara employs a runner on Spruce Street (near her townhouse) for delivering messages — added to bible? no
-- ch-08: The courtyard has a water pump near the eastern wall — added to bible? no
-- ch-08: Thomas's sharpshooter signal: three taps on a lamp shutter, visible only from a specified route — added to bible? no
-- ch-08: Wallace's operation encompasses at least seven ships (Mercy Jane among them) running trafficking routes from Baltimore through New York to Boston and Philadelphia — added to bible? no
-- ch-08: Wallace employed a supervising clerk at the dock operation — a non-combatant field supervisor carrying manifests, crew rosters, cargo schedules, and a coded ledger — added to bible? no
-- ch-08: Twenty-three of Wallace's men attacked Samuel's dock section — hired muscle, some from outside the city — added to bible? no
-- ch-08: One of Harper's men suffered a knife wound to the ribs during the operation (survived) — added to bible? no
-- ch-08: Thomas positioned sharpshooters at the Callowhill warehouse and returned to his desk before Clara returned from the field — added to bible? no
-- ch-08: Harper commands at least four men in his core team (plus additional personnel) — added to bible? no
-- ch-08: Clara's apparatus uses a lamp-shutter signal system for confirming positions during night operations — added to bible? no
+- ch-08: Clara and Thomas's partnership is approximately four years old (by 1846) — Thomas has never interrupted her blade practice in that time — added to bible? yes
+- ch-08: Clara owns a warehouse on Callowhill Street overlooking Samuel's dock section — used for sharpshooter positioning — added to bible? yes
+- ch-08: Clara employs a runner on Spruce Street (near her townhouse) for delivering messages — added to bible? yes
+- ch-08: The courtyard has a water pump near the eastern wall — added to bible? skip — scene-specific architectural detail, not character/plot-defining
+- ch-08: Thomas's sharpshooter signal: three taps on a lamp shutter, visible only from a specified route — added to bible? yes
+- ch-08: Wallace's operation encompasses at least seven ships (Mercy Jane among them) running trafficking routes from Baltimore through New York to Boston and Philadelphia — added to bible? yes
+- ch-08: Wallace employed a supervising clerk at the dock operation — a non-combatant field supervisor carrying manifests, crew rosters, cargo schedules, and a coded ledger — added to bible? yes
+- ch-08: Twenty-three of Wallace's men attacked Samuel's dock section — hired muscle, some from outside the city — added to bible? yes
+- ch-08: One of Harper's men suffered a knife wound to the ribs during the operation (survived) — added to bible? yes
+- ch-08: Thomas positioned sharpshooters at the Callowhill warehouse and returned to his desk before Clara returned from the field — added to bible? skip — narrative action already captured by partnership duration, sharpshooter signal, and Thomas's profile
+- ch-08: Harper commands at least four men in his core team (plus additional personnel) — added to bible? yes
+- ch-08: Clara's apparatus uses a lamp-shutter signal system for confirming positions during night operations — added to bible? yes
 
 ## Outline Deviations
 
