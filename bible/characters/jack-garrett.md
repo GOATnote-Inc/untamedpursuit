@@ -1,7 +1,7 @@
 ---
 name: "Jack Garrett"
 aliases: []
-born: ""
+born: "~1825"
 died: "Killed on the train (Iron_and_Blood)"
 status: deceased
 first_appearance: "Era 1 (Fortunes Tide)"
@@ -17,7 +17,7 @@ Built for the frontier — a rider's body, lean and weathered. Smells of gun oil
 
 ## Background
 
-Pony Express rider in his youth (1860-1861) who later became a marshal. Both are canon at different life stages. Met Kate during the 1860 Philadelphia riot and married her afterward. Completed 14 missions for Samuel Taylor over 7 years as part of Clara's intelligence network. Trained Eve in shooting and tracking, including his signature skill of "reading air" — sensing wind, terrain, and threat through instinct honed by years on the frontier. Has a Golden Retriever named Ruby. Plans a "defensible base of operations" down south. Distrusts Thomas. Killed on the train during the Gatling gun ambush (Iron_and_Blood).
+Pony Express rider (1860-1861) who later became a marshal. Both are canon at different life stages. Met Kate during the 1860 Philadelphia riot and married her afterward. Completed 14 missions for Samuel Taylor over 7 years as part of Clara's intelligence network. Trained Eve in shooting and tracking, including his signature skill of "reading air" — sensing wind, terrain, and threat through instinct honed by years on the frontier. Has a Golden Retriever named Ruby. Plans a "defensible base of operations" down south. Distrusts Thomas. Killed on the train during the Gatling gun ambush (Iron_and_Blood).
 
 ## Personality
 
@@ -55,7 +55,8 @@ Warm, laconic, unhurried. Teaches through silence as much as speech — lets Eve
 
 | Book | Role | Arc Summary |
 |------|------|-------------|
-| Era 1 (Fortunes Tide) | Supporting character | Pony Express rider (1860-1861) turned marshal and intelligence operative. Marries Kate, raises Eve, trains her in frontier skills. |
+| Book 2 (The Golden Shore) | Supporting character | Appears in San Francisco ~June 1847. Young frontiersman — early twenties, running dispatches between coastal settlements. Provides intelligence on Wallace's agents. Says "I don't trust Thomas" — Clara's fury, but Jack's instinct is vindicated. Proves competence during Wallace confrontation (rifle from the rooftop). Departs south to "secure defensible base of operations." A comet: brief, bright, leaving a trail. |
+| Later Era 1 | Intelligence operative | Pony Express rider (1860-1861) turned marshal. Marries Kate after 1860 Philadelphia riot. Completes 14 missions for Samuel over 7 years. Raises Eve, trains her in frontier skills. |
 | Iron_and_Blood | Final appearance | Killed in Gatling gun ambush on the train. His death, alongside Kate's, transforms Eve. |
 
 ## Key Scenes
@@ -74,7 +75,8 @@ Warm, laconic, unhurried. Teaches through silence as much as speech — lets Eve
 
 ## Continuity Notes
 
-- Pony Express rider in youth (1860-1861), later became a marshal. Both canon at different life stages.
+- Born ~1825. ~22 when he appears in SF (1847), ~35 during Pony Express (1860-1861), ~37 when Eve is born (~1862)
+- Pony Express rider (1860-1861), later became a marshal. Both canon at different life stages.
 - Uses Winchester rifle
 - Met Kate during 1860 Philadelphia riot
 - Completed 14 missions for Samuel Taylor over 7 years

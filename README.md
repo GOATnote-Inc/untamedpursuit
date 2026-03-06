@@ -29,7 +29,7 @@
 | Book | Title | Era | Setting | Status |
 |---|---|---|---|---|
 | 1 | Fortune's Tide | Era 1 | Philadelphia, ~1846 | Drafting — 24 of 36 chapters outlined |
-| 2 | *(TBD)* | Era 1 | The Voyage West | Planned |
+| 2 | *(TBD)* | Era 1 | The Voyage West | Drafting — 1 of 0 chapters outlined |
 | 3–4 | *(TBD)* | Era 1 | Building the Network | Planned |
 | 5–9 | *(TBD)* | Era 2 | FIERCE — Eve's Story | Planned |
 
@@ -67,6 +67,14 @@ The series is free to read. Start here:
 | 24 | [The Mule Trail](books/book-01/chapters/ch-24.md) | Samuel Taylor | 3,938 |
 
 *Book 1: ~75,270 words drafted* · *Series total: ~75,270 words*
+
+**Book 2: *(TBD)*** — [`books/book-02/chapters/`](books/book-02/chapters/)
+
+| Ch | Title | POV | Words |
+|---:|-------|-----|------:|
+| 1 | [The Narrowing Trail](books/book-02/chapters/ch-01.md) | Clara Chen | 3,412 |
+
+*Book 2: ~3,410 words drafted* · *Series total: ~78,690 words*
 <!-- PROGRESS:END -->
 
 ### Themes
@@ -230,6 +238,7 @@ Each drafting session produces continuity notes that feed the bible and update o
 
 ```mermaid
 pie title Chapter Status
+    "Draft" : 1
     "Revised" : 24
 ```
 
@@ -237,17 +246,18 @@ pie title Chapter Status
 
 ```mermaid
 pie title POV Distribution
-    "Clara Chen" : 15
+    "Clara Chen" : 16
     "Samuel Taylor" : 9
 ```
 
 | Metric | Value |
 |--------|------:|
-| Books in progress | 1 |
-| Chapters drafted | 24 |
-| Total words | 75,274 |
-| Average words/chapter | 3,136 |
-| Revised | 24 (100%) |
+| Books in progress | 2 |
+| Chapters drafted | 25 |
+| Total words | 78,686 |
+| Average words/chapter | 3,147 |
+| Draft | 1 (4%) |
+| Revised | 24 (96%) |
 <!-- METRICS:END -->
 
 <!-- THREADS:START -->
@@ -255,16 +265,20 @@ pie title POV Distribution
 
 ```mermaid
 pie title Active Thread Status
-    "Developing" : 3
-    "Planted" : 6
-    "Resolved" : 1
+    "Developing" : 2
+    "Developing (book 2)" : 1
+    "Partially resolved (book 2)" : 1
+    "Planted" : 5
+    "Resolved (later books)" : 1
 ```
 
 | Status | Count | Threads |
 |--------|------:|---------|
-| Developing | 3 | Clara's Full Network Scope, Durand Family Conspiracy, Wallace Betrayal |
-| Planted | 6 | The Venezuela Crisis, Eve's Canyon Ambush, Jack's Southern Base Plan, Captain Andrews, Deliberate Well Poisoning, The Traitor Who Knew Glass Garden Layout |
-| Resolved | 1 | Thomas Arlington's Betrayal |
+| Developing | 2 | Clara's Full Network Scope, Durand Family Conspiracy |
+| Developing (book 2) | 1 | Jack's Southern Base Plan |
+| Partially resolved (book 2) | 1 | Wallace Betrayal |
+| Planted | 5 | The Venezuela Crisis, Eve's Canyon Ambush, Captain Andrews, Deliberate Well Poisoning, The Traitor Who Knew Glass Garden Layout |
+| Resolved (later books) | 1 | Thomas Arlington's Betrayal |
 <!-- THREADS:END -->
 
 ### The Continuity System
