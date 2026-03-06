@@ -21,6 +21,11 @@ Compiled from historian reviews across 24 chapters. Each entry records the rulin
 - **Ruling**: Term popularized 1876 (from the 1876 song "My Grandfather's Clock"). Mild anachronism. Acceptable for readability.
 - **Resolution**: Deferred to author; retained for readability.
 
+### Clara's shoulder rig
+- **Chapter**: ch-01 (Book 1), ch-01 (Book 2)
+- **Ruling**: Earliest shoulder holster design (Texas Pattern) dates to late 1870s. Clara's rig is described as "Harper adapted for the crossing" — a bespoke improvisation by a resourceful security professional, not a mass-produced item.
+- **Resolution**: Marked `[deliberate anachronism]` in bible. Defensible through in-story justification (Harper's modification). Same logic as Clara's leather coat.
+
 ### Golden Compass as public performance venue
 - **Chapter**: ch-04
 - **Ruling**: CRITICAL. A woman of standing performing publicly before a mixed audience in 1846 is problematic. Reframed as private subscription society — membership by invitation, performances for subscribers.

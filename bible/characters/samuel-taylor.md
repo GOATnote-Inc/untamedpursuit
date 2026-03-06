@@ -56,7 +56,8 @@ Candid and self-aware. Speaks with directness that disarms — not verbose, not 
 
 | Book | Role | Arc Summary |
 |------|------|-------------|
-| Era 1 (Fortunes Tide) | Love interest / partner | Meets Clara, courts her, marries her. Becomes co-leader of her intelligence network. Trains nightly, collects art, builds wealth with ethical purpose. |
+| Book 1 (Fortunes Tide) | Love interest / partner | Meets Clara, courts her. Begins transformation from merchant to something else. Trains nightly, collects art, builds wealth with ethical purpose. |
+| Book 2 (The Golden Shore) | Secondary POV (~8 chapters) | Completes transformation — checks his pistol like Clara. Writes two records: coded letters to Thomas and a private journal. Hears Lily's story of Harper's teaching ("He taught her what I could not" / "What I would not"). Stays silent when Jack says "I don't trust Thomas" — his silence louder than Jack's accusation. "I don't know enough to agree with anyone." Anchors Clara's SF position through commerce. |
 | Era 2 (FIERCE) | Background / handler | Runs operations. Serves as Eve's connection to Clara's network and its resources. |
 
 ## Key Scenes
@@ -92,3 +93,4 @@ Candid and self-aware. Speaks with directness that disarms — not verbose, not 
 - First POV chapter: book-01, ch-04 (bible updated from pov_character: false to true)
 - Weeps during Clara's Golden Compass performance
 - Presented with flowers by Harper backstage
+- First combat use of the Colt Paterson (.36 caliber) — mule-trail ambush, April 26, 1847. Fired with discipline: "Each one placed like a figure in a ledger." (Source: book-02, ch-01)

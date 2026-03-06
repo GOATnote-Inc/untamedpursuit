@@ -2,10 +2,10 @@
 name: "David Harper"
 aliases: ["Mr. Harper", "Harper"]
 born: ""
-died: "During the voyage west (outline_2_16, Scene 21)"
+died: "book-02, ch-03 (April 28, 1847 — Panama City)"
 status: deceased
 first_appearance: "Era 1 (Fortunes Tide)"
-last_appearance: "outline_2_16, Scene 21"
+last_appearance: "book-02, ch-03"
 pov_character: false
 ---
 
@@ -53,7 +53,7 @@ Professional and restrained. Quiet concern underlies every word. Deferential —
 | Book | Role | Arc Summary |
 |------|------|-------------|
 | Era 1 (Fortunes Tide) | Security chief | Protects Clara. Follows her in shadows. Escorts workers. Professional devotion. |
-| Voyage west (outline_2_16) | Final appearance | Dies during the westward voyage (Scene 21). Clara loses her protector before reaching San Francisco. |
+| Book 2, ch-01--03 | Final appearance | Mortally wounded covering the company during the mule-trail ambush (musket ball, belly, below ribs). "It's alright, Miss Chen." / "It is not." Surgery in Panama City — Clara knows the perforated bowel is death deferred. The night conversation: reveals his past (wife who died young, daughter never met, a war). Passes the manual to Clara. Dies before dawn, ch-03. Last words: "Miss Chen." Buried above Panama City, facing the Pacific. Pipe tobacco in the grave. |
 
 ## Key Scenes
 
@@ -81,7 +81,12 @@ Professional and restrained. Quiet concern underlies every word. Deferential —
 - Footsteps recognized by George in the hallway — consistent habit (book-01, ch-02)
 - Escorts Irish workers
 - Presents Samuel with flowers backstage at Golden Compass
-- Dies during the voyage west (outline_2_16, Scene 21) — before reaching San Francisco
+- Dies book-02, ch-03 — mortally wounded in mule-trail ambush (ch-01), surgery in Panama City (ch-02), dies before dawn (ch-03)
+- Wound: musket ball, below the ribs on the right side, angled inward and downward — perforated bowel (death deferred, not prevented, per Clara's Canton training). Right side confirmed medically plausible for bowel perforation (small intestine/ascending colon → peritonitis). (Source: book-02, ch-01)
+- Last words: "Miss Chen" — returns to formality in death. Clara: "Mr. Harper."
+- Buried above Panama City, facing the Pacific. Pipe tobacco in the grave. George sits at the grave's edge.
+- Night conversation (ch-02): reveals wife who died young, daughter he never met, a war he came home from but never left. Chose Clara's service because protecting someone worth protecting made the rest bearable.
 - Lily Montgomery preserves his memory through stories of his kindness and desire to teach
+- Lily learns Harper's whistle, transforms it into a violin melody (book-02, ch-12)
 - Commands at least four men in his core team, plus additional personnel (Established book-01, ch-08)
 - One of Harper's men suffered a knife wound to the ribs during the ch-08 dock operation — survived (Established book-01, ch-08)

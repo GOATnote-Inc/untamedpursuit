@@ -55,7 +55,8 @@ Measured and deliberate — described as having "river-stone smoothness" and a q
 
 | Book | Role | Arc Summary |
 |------|------|-------------|
-| Era 1 (Fortunes Tide) | Protagonist | Builds shipping empire in Philadelphia, rescues the vulnerable, establishes intelligence network, acquires enormous wealth, confronts violence on her own terms. |
+| Book 1 (Fortunes Tide) | Protagonist | Builds shipping empire in Philadelphia, rescues the vulnerable, establishes intelligence network, acquires enormous wealth, confronts violence on her own terms. |
+| Book 2 (The Golden Shore) | Protagonist (~13 chapters) | Loses Harper — absorbs his duties, takes his watch rotation. Crosses the Pacific. Talks about her father with Samuel (full story). Defeats Wallace in SF. Traces the mule-trail ambush to Thomas's correspondence network but chooses not to follow the thread. Victory with cost. |
 | Era 2 (FIERCE) | Mentor figure | Aging and ill with metastatic breast cancer. Struggles to relinquish control. Passes the torch to Eve. Dies during this era. |
 
 ## Key Scenes
@@ -91,7 +92,7 @@ Measured and deliberate — described as having "river-stone smoothness" and a q
 - Owns the Chestnut Street parlor (tea venue) through a holding company (book-01, ch-03)
 - Tends orchids
 - Enjoys ginger tea
-- Trained at Canton Missionary Hospital for 3 years
+- Trained at Canton Missionary Hospital for 3 years (age ~19 at start, ~1840-1843). Mentor: Dr. Murray, Scottish surgeon, taught abdominal assessment. (Source: book-02, ch-01)
 - Uses sign language to communicate with Eve
 - Harper dies during the westward voyage — Clara loses her security chief before reaching San Francisco
 - London-tailored leather coat — commissioned for weapon concealment and weather protection. Unusual for the period but consistent with Clara's resources, martial background, maritime operations, and unconventional status. Military buff-coat tradition provides historical precedent for protective leather garments; bespoke London tailoring could produce any commissioned piece for a wealthy client. `[deliberate anachronism — defensible through bespoke tailoring, military buff-coat tradition, and maritime context]`

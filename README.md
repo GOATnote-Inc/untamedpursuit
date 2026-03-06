@@ -72,9 +72,9 @@ The series is free to read. Start here:
 
 | Ch | Title | POV | Words |
 |---:|-------|-----|------:|
-| 1 | [The Narrowing Trail](books/book-02/chapters/ch-01.md) | Clara Chen | 3,412 |
+| 1 | [The Narrowing Trail](books/book-02/chapters/ch-01.md) | Clara Chen | 3,311 |
 
-*Book 2: ~3,410 words drafted* · *Series total: ~78,690 words*
+*Book 2: ~3,310 words drafted* · *Series total: ~78,580 words*
 <!-- PROGRESS:END -->
 
 ### Themes
@@ -238,8 +238,7 @@ Each drafting session produces continuity notes that feed the bible and update o
 
 ```mermaid
 pie title Chapter Status
-    "Draft" : 1
-    "Revised" : 24
+    "Revised" : 25
 ```
 
 **POV Distribution**
@@ -254,10 +253,9 @@ pie title POV Distribution
 |--------|------:|
 | Books in progress | 2 |
 | Chapters drafted | 25 |
-| Total words | 78,686 |
-| Average words/chapter | 3,147 |
-| Draft | 1 (4%) |
-| Revised | 24 (96%) |
+| Total words | 78,585 |
+| Average words/chapter | 3,143 |
+| Revised | 25 (100%) |
 <!-- METRICS:END -->
 
 <!-- THREADS:START -->
