@@ -29,7 +29,7 @@
 | Book | Title | Era | Setting | Status |
 |---|---|---|---|---|
 | 1 | Fortune's Tide | Era 1 | Philadelphia, ~1846 | Drafting — 24 of 36 chapters outlined |
-| 2 | *(TBD)* | Era 1 | The Voyage West | Drafting — 1 of 0 chapters outlined |
+| 2 | *(TBD)* | Era 1 | The Voyage West | Drafting — 2 of 0 chapters outlined |
 | 3–4 | *(TBD)* | Era 1 | Building the Network | Planned |
 | 5–9 | *(TBD)* | Era 2 | FIERCE — Eve's Story | Planned |
 
@@ -73,9 +73,29 @@ The series is free to read. Start here:
 | Ch | Title | POV | Words |
 |---:|-------|-----|------:|
 | 1 | [The Narrowing Trail](books/book-02/chapters/ch-01.md) | Clara Chen | 3,311 |
+| 2 | [Panama City](books/book-02/chapters/ch-02.md) | Clara Chen | 3,254 |
 
-*Book 2: ~3,310 words drafted* · *Series total: ~78,580 words*
+*Book 2: ~6,560 words drafted* · *Series total: ~81,840 words*
 <!-- PROGRESS:END -->
+
+<!-- METRICS:START -->
+### Series Dashboard
+
+**9 books planned** · **2 in progress** · **~81,840 of ~500,000 estimated words**
+
+```
+Series Progress
+[██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 16%
+```
+
+| | Book 1 | Book 2 | Books 3-9 |
+|---|---|---|---|
+| **Chapters** | 24 of 36 outlined | 2 | -- |
+| **Words** | 75,270 | 6,560 | -- |
+| **POV** | Clara (15) · Samuel (9) | Clara (2) | -- |
+
+*26 chapters · 81,839 words · 3,147 avg words/chapter*
+<!-- METRICS:END -->
 
 ### Themes
 
@@ -231,54 +251,6 @@ flowchart TB
 
 Each drafting session produces continuity notes that feed the bible and update open threads. The bible then provides canon for the next chapter. Reports aggregate findings across the project. This circular flow ensures no fact exists only in the context window — everything is written to disk.
 
-<!-- METRICS:START -->
-### Project Metrics
-
-**Chapter Status**
-
-```mermaid
-pie title Chapter Status
-    "Revised" : 25
-```
-
-**POV Distribution**
-
-```mermaid
-pie title POV Distribution
-    "Clara Chen" : 16
-    "Samuel Taylor" : 9
-```
-
-| Metric | Value |
-|--------|------:|
-| Books in progress | 2 |
-| Chapters drafted | 25 |
-| Total words | 78,585 |
-| Average words/chapter | 3,143 |
-| Revised | 25 (100%) |
-<!-- METRICS:END -->
-
-<!-- THREADS:START -->
-### Thread Tracker
-
-```mermaid
-pie title Active Thread Status
-    "Developing" : 2
-    "Developing (book 2)" : 1
-    "Partially resolved (book 2)" : 1
-    "Planted" : 5
-    "Resolved (later books)" : 1
-```
-
-| Status | Count | Threads |
-|--------|------:|---------|
-| Developing | 2 | Clara's Full Network Scope, Durand Family Conspiracy |
-| Developing (book 2) | 1 | Jack's Southern Base Plan |
-| Partially resolved (book 2) | 1 | Wallace Betrayal |
-| Planted | 5 | The Venezuela Crisis, Eve's Canyon Ambush, Captain Andrews, Deliberate Well Poisoning, The Traitor Who Knew Glass Garden Layout |
-| Resolved (later books) | 1 | Thomas Arlington's Betrayal |
-<!-- THREADS:END -->
-
 ### The Continuity System
 
 The continuity problem scales quadratically. Book 1 checks against the bible. Book 5 checks against the bible *and* four books of established facts. Book 9 checks against everything.
@@ -292,6 +264,30 @@ The system manages this through layered tracking:
 **The always-on continuity rule** loads for every task. It lists common traps — character ages, scars, knowledge boundaries, travel times, seasonal details, promises and oaths, death permanence, skill consistency — and enforces a protocol: never silently resolve a discrepancy. Flag it. Log it. Don't change the bible without approval.
 
 **YAML frontmatter on every chapter** provides machine-readable metadata: which threads were advanced, which were introduced, what the word count is, whether there are unresolved continuity flags. This makes it possible to query the series state programmatically: "Which chapters advance the Thomas betrayal thread?" "Where was Samuel's warehouse first mentioned?"
+
+<!-- THREADS:START -->
+### Narrative Debt
+
+**13 threads tracked** · **7 planted** · **4 developing** · **1 partially resolved** · **1 resolved**
+
+| Thread | Status | Planted | Latest |
+|--------|--------|---------|--------|
+| Thomas Arlington's Betrayal | Resolved | Book 1, Ch 2 | Book 2, Ch 25 |
+| The Venezuela Crisis | Planted | One_year_after_Venezuela_crisis (refe... | -- |
+| Eve's Canyon Ambush | Planted | Jessie_considers_Art (prompt notes: "... | -- |
+| Clara's Full Network Scope | Developing | Multiple files (Episode I, Part_One, ... | -- |
+| Jack's Southern Base Plan | Developing | Book 2, Ch 26 | Book 2, Ch 26 |
+| Captain Andrews | Planted | Jessie_considers_Art | -- |
+| Deliberate Well Poisoning | Planted | Jack_meet_Clara | -- |
+| Durand Family Conspiracy | Developing | outline_for_fierce_11_27 (FIERCE 4-ac... | -- |
+| Wallace Betrayal | Partially resolved | Book 1, Ch 3 | Book 2, Ch 24 |
+| The Traitor Who Knew Glass Garden Layout | Planted | outline_for_fierce_11_27 (FIERCE Act II) | -- |
+| The Informed Ambush | Planted | Book 2, Ch 1 | Book 2, Ch 25 |
+| Clara's Progressive Disarmament Pattern | Developing | Book 1, Ch 1 | -- |
+| Clara's Father Wound | Planted | Book 1, Ch 6 | Book 1, Ch 6 |
+
+*Plant-to-resolution ratio: 11:2*
+<!-- THREADS:END -->
 
 ### Design Principles
 
