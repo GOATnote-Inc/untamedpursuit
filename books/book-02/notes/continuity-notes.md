@@ -65,7 +65,7 @@
 - ch-05: Samuel writes the ambush was by "an organized force, eight to ten men, armed and positioned" but does NOT write that it was informed. Leaves a gap in the text — the blank space where the explanation should go. — added to bible? skip (thread advancement, not new fact)
 - ch-05: Samuel writes "Harper is dead. The loss is operational and personal. Miss Chen has assumed his duties." — added to bible? skip (scene-specific)
 - ch-05: Davis dies of cholera before the Resolute clears harbor. Buried at sea. Captain Morales says prayer in Spanish. Lily drops wildflowers. — added to bible? no
-- ch-05: Company departing Panama City: Clara, Samuel, Lily, Reyes, Cole, Jennings, George, Ajax — seven passengers, two dogs. — added to bible? no
+- ch-05: Company departing Panama City: Clara, Samuel, Lily, Reyes, Cole, Jennings, George, Ajax — six passengers, two dogs (Harper dead ch-03, Ward dead ch-04, Davis dead ch-05). — added to bible? no
 - ch-05: Shipping agent at harbor office — thin man with ink-stained fingers — carries letter to Kingston then Philadelphia. Six-week transit time. — added to bible? skip (scene-specific)
 - ch-05: Harper's burial hill visible from stern of Resolute as they depart Panama City harbor. — added to bible? skip (scene-specific)
 
@@ -73,6 +73,23 @@
 
 - ch-05: Outline says "two crew dead from cholera" — Ward died in ch-04, Davis dies in ch-05. Both deaths accounted for. Davis's death occurs on the last day in port (loading provisions), not during the crossing. Burial at sea rather than on land. This is a timing deviation but satisfies the outline's requirement.
 - ch-05: Outline says "Lily helps load supplies, steady and quiet" — draft has Lily boarding with violin case, leather satchel of paints, and blanket, rather than actively loading supplies. Clara and the crew handle the loading. Minor deviation — Lily's steadiness is shown in her composure during boarding and at Davis's burial.
+
+- ch-06: Clara maps the Resolute — two masts, one companionway, quarterdeck raised three feet, deckhouse amidships. Four cabins (two forward, two aft). Can be held by four people, or two with George. — added to bible? no
+- ch-06: Cabin assignments — Clara + George (forward), Lily (forward), Samuel (aft), Reyes/Cole/Jennings (aft, shared in shifts). — added to bible? skip (scene-specific)
+- ch-06: Clara takes Harper's watch rotation: 4 to 6 AM, pre-dawn. George beside her. Walks the perimeter — 30 paces each side. — added to bible? no
+- ch-06: The Resolute's galley — coal stove bolted to deck, ventilation hatch (Clara requests bolt added), knife rack (eight blades, room for ten). — added to bible? skip (scene-specific)
+- ch-06: Clara has not removed the leather coat since Panama City. Wears it continuously — described as bridging the time before Harper's death and the time after. — added to bible? no
+- ch-06: Clara's father crossed the Pacific three times (Canton to American coast and back). — added to bible? no
+- ch-06: Lily brings tea to Clara at the stern rail without being asked — first instance of the daily rhythm that develops between them. — added to bible? skip (scene-specific, but seeds ch-12 daily rhythm)
+- ch-06: Lily observes the Pacific light is "warmer" and "cleaner" than Atlantic light — wants to paint it before it becomes familiar. — added to bible? skip (scene-specific)
+- ch-06: The Southern Cross gone below the horizon as they move north. North Star sits lower than Clara remembers. — added to bible? skip (scene-specific)
+
+## Outline Deviations (ch-06)
+
+- ch-06: Outline says "Clara stands at the stern rail watching the city shrink." Draft handles this as a continuation from ch-05's departure — Clara watches from the stern after Samuel has gone below. The departure is not re-dramatized; instead Clara watches the hill disappear. This avoids redundancy with ch-05.
+- ch-06: Outline says the ship is "smaller than the Caroline." Draft implements this comparison through Clara's tactical mapping — dimensions, sight lines, defensibility. The Caroline is named and contrasted.
+- ch-06: Outline says "the Pacific opens before them. Vast, flat, featureless." Draft renders this through Clara's architectural lens — the absence of enclosure as structural removal. Also connects to her father's three Pacific crossings.
+- ch-06: Lily scene at the end is not in the outline but establishes the Clara-Lily shipboard rhythm that the outline develops in ch-12. Organic addition.
 
 ## Continuity Flags
 

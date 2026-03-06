@@ -29,7 +29,7 @@
 | Book | Title | Era | Setting | Status |
 |---|---|---|---|---|
 | 1 | Fortune's Tide | Era 1 | Philadelphia, ~1846 | Revised — 24 chapters |
-| 2 | *(TBD)* | Era 1 | The Voyage West | Drafting — 5 of 26 chapters |
+| 2 | *(TBD)* | Era 1 | The Voyage West | Drafting — 6 of 26 chapters |
 | 3–4 | *(TBD)* | Era 1 | Building the Network | Planned |
 | 5–9 | *(TBD)* | Era 2 | FIERCE — Eve's Story | Planned |
 
@@ -77,27 +77,28 @@ The series is free to read. Start here:
 | 3 | [Before Dawn](books/book-02/chapters/ch-03.md) | Clara Chen | 3,210 |
 | 4 | [The Fever](books/book-02/chapters/ch-04.md) | Samuel Taylor | 3,142 |
 | 5 | [The Resolute](books/book-02/chapters/ch-05.md) | Samuel Taylor | 3,078 |
+| 6 | [Departure](books/book-02/chapters/ch-06.md) | Clara Chen | 3,124 |
 
-*Book 2: ~16,010 words drafted* · *Series total: ~91,280 words*
+*Book 2: ~19,130 words drafted* · *Series total: ~94,410 words*
 <!-- PROGRESS:END -->
 
 <!-- METRICS:START -->
 ### Series Dashboard
 
-**9 books planned** · **2 in progress** · **~91,280 of ~500,000 estimated words**
+**9 books planned** · **2 in progress** · **~94,410 of ~500,000 estimated words**
 
 ```
 Series Progress
-[███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 18%
+[████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 19%
 ```
 
 | | Book 1 | Book 2 | Books 3-9 |
 |---|---|---|---|
-| **Chapters** | 24 of 36 outlined | 5 of 26 outlined | -- |
-| **Words** | 75,270 | 16,010 | -- |
-| **POV** | Clara (15) · Samuel (9) | Clara (3) · Samuel (2) | -- |
+| **Chapters** | 24 of 36 outlined | 6 of 26 outlined | -- |
+| **Words** | 75,270 | 19,130 | -- |
+| **POV** | Clara (15) · Samuel (9) | Clara (4) · Samuel (2) | -- |
 
-*29 chapters · 91,283 words · 3,147 avg words/chapter*
+*30 chapters · 94,407 words · 3,146 avg words/chapter*
 <!-- METRICS:END -->
 
 ### Themes
