@@ -58,6 +58,22 @@
 - ch-04: Outline says "two of the crew fall ill" — draft has Ward and Jennings fall ill, Ward dying, Jennings recovering. The outline for ch-05 says "two crew dead from cholera." Since Ward dies here and the outline says two dead total, the second death will need to occur between ch-04 and ch-05 (off-page) or be accounted for.
 - ch-04: Samuel's grief for Harper focuses on the Golden Compass flowers and the trail nod — the outline also mentions "how Harper nodded when Samuel checked his pistol on the trail," which is included. The outline's mention of the "handoff already made" is dramatized through the flowers and the permission metaphor.
 
+- ch-05: Captain Morales — brown-skinned, weathered, Spanish accent, speaks English. Two-masted coastal trader, the Resolute. Practical, unsentimental. Does not shake hands (cholera). — added to bible? no
+- ch-05: Morales recognizes Clara as "the one in charge" — seen her on the harbor road with George and Colts. — added to bible? skip (scene-specific)
+- ch-05: Thomas's cipher system — substitution cipher, key changes with each port. Kingston key: Adam Smith first edition. Panama City key: Blackstone's Commentaries. — added to bible? no
+- ch-05: Thomas's wax seal — red wax, brass case from Philadelphia, initials T.A. interlocked, engraver on Chestnut Street. — added to bible? no
+- ch-05: Samuel writes the ambush was by "an organized force, eight to ten men, armed and positioned" but does NOT write that it was informed. Leaves a gap in the text — the blank space where the explanation should go. — added to bible? skip (thread advancement, not new fact)
+- ch-05: Samuel writes "Harper is dead. The loss is operational and personal. Miss Chen has assumed his duties." — added to bible? skip (scene-specific)
+- ch-05: Davis dies of cholera before the Resolute clears harbor. Buried at sea. Captain Morales says prayer in Spanish. Lily drops wildflowers. — added to bible? no
+- ch-05: Company departing Panama City: Clara, Samuel, Lily, Reyes, Cole, Jennings, George, Ajax — seven passengers, two dogs. — added to bible? no
+- ch-05: Shipping agent at harbor office — thin man with ink-stained fingers — carries letter to Kingston then Philadelphia. Six-week transit time. — added to bible? skip (scene-specific)
+- ch-05: Harper's burial hill visible from stern of Resolute as they depart Panama City harbor. — added to bible? skip (scene-specific)
+
+## Outline Deviations (ch-05)
+
+- ch-05: Outline says "two crew dead from cholera" — Ward died in ch-04, Davis dies in ch-05. Both deaths accounted for. Davis's death occurs on the last day in port (loading provisions), not during the crossing. Burial at sea rather than on land. This is a timing deviation but satisfies the outline's requirement.
+- ch-05: Outline says "Lily helps load supplies, steady and quiet" — draft has Lily boarding with violin case, leather satchel of paints, and blanket, rather than actively loading supplies. Clara and the crew handle the loading. Minor deviation — Lily's steadiness is shown in her composure during boarding and at Davis's burial.
+
 ## Continuity Flags
 
 (No active flags.)
