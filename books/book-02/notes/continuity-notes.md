@@ -242,6 +242,29 @@
 - ch-14: Outline says the mental letter "dissolves." Draft renders: "the way morning fog dissolves when the sun burns through — not erased but dispersed." The letter was never for Thomas — it was for Samuel, a way of testing the weight of doubt.
 - ch-14: Clara on the quarterdeck is rendered at a distance — Samuel doesn't interact with her directly. The "reading different books" observation is internal. This preserves Samuel's POV isolation in this chapter.
 
+- ch-15: Lily steps onto the Monterey wharf — first time on solid ground since Panama City (~May 3 departure). Body adjusting to stillness after a month at sea. — added to bible? skip (scene-specific)
+- ch-15: Monterey's adobe buildings described as earth-colored, built from the ground. Custom House as largest building (one story, adobe, veranda, American flag). Alvarado Street named. — added to bible? skip (consistent with research/period-details/san-francisco-1847.md Monterey section)
+- ch-15: Lily paints Monterey in earth tones — raw sienna, burnt umber, yellow ochre. First land-based painting since Panama. — added to bible? no
+- ch-15: A Californio woman assesses Lily's painting and nods — anonymous local character. — added to bible? skip (scene-specific)
+- ch-15: Clara reads Monterey in fifteen minutes (exits, approaches, defensible ground). Coat buttoned against morning cold. Loose second button still loose. — added to bible? no (consistent with ch-08, ch-11 loose button detail)
+- ch-15: Lily's verb measurement — Clara's verbs for Thomas (manage, hold, maintain, tend) vs. verbs for Harper (protect, serve, teach, die), Samuel (cross, dig, carry, fire), and Lily herself (risk the telling). The gap between the two sets is the chapter's argument. — added to bible? no
+- ch-15: "Clara trusts him entirely. Do you?" — Lily's question to Samuel. She does not say Thomas's name. — added to bible? no (thread advancement)
+- ch-15: Samuel's response: "Thomas has managed everything Clara built. He's held the east while we crossed a continent. He's maintained the apparatus, the correspondence, the accounts. Everything Clara left in his hands is still in his hands." — added to bible? no (thread advancement)
+- ch-15: "That is not the same thing." — Lily's six-word verdict. Not accusation but measurement. — added to bible? no (thread advancement, key scene)
+- ch-15: "Harper risked his life. You risked the crossing. I risked the telling. What has Thomas risked?" — Lily's articulation of the scale. — added to bible? no
+- ch-15: Lily clarifies: "I am not saying he has done wrong. I am saying that managing and sacrificing are measured on different scales." — added to bible? no
+- ch-15: "Love does not measure. But I measure. It is what the hold taught me." — Lily's self-description as measuring instrument, the hold as origin of the capacity. — added to bible? no
+- ch-15: Samuel does not answer Lily's question about Thomas. His silence is receipt, not refusal. Connects to the blank space in his journal (ch-09, ch-14) and will connect to his silence when Jack says "I don't trust Thomas" (ch-20-21). — added to bible? skip (thread advancement)
+- ch-15: Lily's first sunset painting from solid ground since Panama City. New palette — earth tones (ochre, sienna, umber) combined with ocean palette (cadmium, ultramarine) for the first time. — added to bible? no
+
+## Outline Deviations (ch-15)
+
+- ch-15: Outline says Lily "walks the streets of the settlement — adobe buildings, mission ruins, the smell of the sea different from the Atlantic." Draft renders this through painting on a stone wall across from the Custom House, rather than walking through streets. The mission wall (crumbling plaster, exposed adobe, wildflowers in rubble) is observed but from the settlement's edge, not the mission itself (the actual Mission San Carlos is ~5 miles south). "Mission ruins" adapted to "crumbling wall at the edge of the settlement" for geographical accuracy.
+- ch-15: Outline says Lily "has been building toward this for two chapters of interiority." Draft renders this through the verb measurement — the gap between Clara's verbs for Thomas and the verbs for Harper/Samuel/Lily. The two-chapter build-up is referenced implicitly (the measurement system escalation from beauty → people → absent person).
+- ch-15: Outline says Samuel's answer is "careful, considered, the merchant weighing his words." Draft renders this precisely — Samuel lists Thomas's accomplishments using the same managerial verbs Clara uses. His answer is accurate but reveals the gap Lily identifies.
+- ch-15: Outline beat 7 (measurement system verdict) is rendered through the verb gap and the scale metaphor rather than an extended internal monologue. Lily articulates the verdict aloud to Samuel in dialogue ("Harper risked... You risked... I risked... What has Thomas risked?") rather than internally. More dramatic and maintains the Samuel-Lily exchange structure.
+- ch-15: Outline says "Samuel does not answer. He looks at the Pacific." Draft renders this but adds a brief follow-up exchange at the settlement's edge where Lily clarifies she is not accusing Thomas — preserving the distinction between measurement and accusation that is central to her voice.
+
 ### Reconciled: Three Pacific crossings vs. Cape of Good Hope (ch-10 / book-01 ch-10)
 - **Book 2, ch-10**: Clara says "Her father crossed the Pacific three times. Canton to the American coast and back."
 - **Book 1, ch-10**: Thomas says "That painting survived three ocean crossings. It was in the hold of a ship that nearly foundered off the Cape of Good Hope."
