@@ -129,3 +129,6 @@ Eve Garrett's love interest. A Durand by blood who arrives at the Glass Garden e
 - Arlington's betrayal specifics TBD — but motivation is jealousy after being sidelined by Samuel and Jack
 - Partnership with Clara approximately four years old by 1846 — origin circa 1842, when Clara was ~21 (Established book-01, ch-08)
 - Sharpshooter signal: three taps on a lamp shutter, visible only from a specified route — operational methodology for night operations (Established book-01, ch-08)
+- Cipher system: substitution cipher, key changes with each port. Kingston key derived from Adam Smith (first edition). Panama City key derived from Blackstone's Commentaries. Thomas designed the system — letters travel through channels Thomas built, to agents Thomas placed. (Source: book-02, ch-05)
+- Wax seal: red wax, carried in a small brass case from Philadelphia. Initials T.A. interlocked, design commissioned from an engraver on Chestnut Street. Thomas's wax, Thomas's cipher, Thomas's routing, Thomas's seal — the entire apparatus of communication belongs to Thomas. (Source: book-02, ch-05)
+- Gifted Clara a grandfather clock for the Spruce Street townhouse. (Source: book-02, ch-07)

@@ -96,6 +96,9 @@ Measured and deliberate — described as having "river-stone smoothness" and a q
 - Surgical kit: oilcloth roll, instruments purchased from a Canton supply house — suture needles, silk thread, probe, forceps, curved blade. Maintained 7 years (from ~1840). (Source: book-02, ch-02)
 - Uses sign language to communicate with Eve
 - Harper dies during the westward voyage — Clara loses her security chief before reaching San Francisco
+- Father crossed the Pacific three times (Canton to American coast and back). (Source: book-02, ch-06)
+- Takes Harper's watch rotation after his death: 4 to 6 AM, pre-dawn, walking the deck with George. 30 paces per side. (Source: book-02, ch-06)
+- Has not removed the leather coat since Harper's death in Panama City — wears it continuously as grief/armor, bridging the time before and after. (Source: book-02, ch-06)
 - London-tailored leather coat — commissioned for weapon concealment and weather protection. Unusual for the period but consistent with Clara's resources, martial background, maritime operations, and unconventional status. Military buff-coat tradition provides historical precedent for protective leather garments; bespoke London tailoring could produce any commissioned piece for a wealthy client. `[deliberate anachronism — defensible through bespoke tailoring, military buff-coat tradition, and maritime context]`
 - Daily schedule: blade practice at dawn, Colts after, Thomas findings over tea with Harper, weapons practice (afternoon), Thomas delivers intel report (book-01, ch-01)
 - Combat tactics: drops spent Colts and draws fresh ones mid-fight (carries enough for sequential use); custom holsters with body-mapped weapon placement ("the way a pianist maps keys"); modified percussion caps produce a sharp cough, ~40 yards effective range for sound concealment (book-01, ch-01)

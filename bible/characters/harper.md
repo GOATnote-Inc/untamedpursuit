@@ -13,7 +13,7 @@ pov_character: false
 
 ## Physical Description
 
-40s. Weathered face with loyal eyes — a man whose body and expression have been shaped by years of vigilance. Carries himself with quiet professionalism. Not flashy; his presence is felt through attentiveness, not display.
+40s. Average height, average build, weathered in a way that suggests exposure rather than labor. Clean, unremarkable clothes. Still hands. Eyes that read rooms — entrances, exits, sight lines. His presence is felt through attentiveness, not display. Not flashy; not large. A wall shaped like a man. (Source: book-02, ch-07 — Clara's memory of his first day, 1843)
 
 ## Background
 
@@ -57,10 +57,12 @@ Professional and restrained. Quiet concern underlies every word. Deferential —
 
 ## Key Scenes
 
-1. **Following Clara in shadows** — Quiet vigilance as she takes risks he cannot prevent. (Fortunes Tide)
-2. **Presenting flowers to Samuel backstage** — A personal gesture revealing the network's human bonds. (Golden_Compass_Stage_Episode)
-3. **Escorting Irish workers** — Network operations in action. (Fortunes Tide)
-4. **Death on the voyage west** — Dies during the journey. Clara loses her security chief. (outline_2_16, Scene 21)
+1. **First day in Clara's service** — Philadelphia, 1843, summer. Arrived with a letter of introduction. Had watched Clara for three days first. Stood in the parlor: "Where do you need me." Clara: "Everywhere." Nodded and took his position beside the door. (book-02, ch-07)
+2. **Following Clara in shadows** — Quiet vigilance as she takes risks he cannot prevent. (Fortunes Tide)
+3. **Presenting flowers to Samuel** — At the Golden Compass. Bouquet for Samuel to give Clara, arranged with specific instruction. "Miss Chen will receive visitors in the private gallery." Eyes showing warmth — the nearest thing to approval his reserve would allow. (book-01, ch-04)
+4. **Escorting Irish workers** — Network operations in action. (Fortunes Tide)
+5. **Silence on the mule trail** — Samuel checks his pistol at dawn. Harper looks at the pistol, looks at Samuel. Says nothing. Looks away. The compliment he would never deliver. (book-01, ch-24)
+6. **Death** — Mortally wounded in mule-trail ambush (book-02, ch-01). Surgery and night conversation (ch-02). Dies before dawn (ch-03). Last words: "Miss Chen."
 
 ## Internal Contradictions
 
@@ -80,7 +82,9 @@ Professional and restrained. Quiet concern underlies every word. Deferential —
 - Team works a north/south patrol split with Clara (book-01, ch-01)
 - Footsteps recognized by George in the hallway — consistent habit (book-01, ch-02)
 - Escorts Irish workers
-- Presents Samuel with flowers backstage at Golden Compass
+- Presents Samuel with flowers at the Golden Compass — bouquet for Samuel to give Clara. Harper spoke ("Miss Chen will receive visitors in the private gallery"). No nod in this scene — warmth in eyes only. Samuel was in the audience, not backstage. (Source: book-01, ch-04; corrected book-02, ch-04 revision)
+- Trail silence: Harper saw Samuel check his pistol at dawn on the mule trail. Did NOT nod or speak — deliberately said nothing and looked away. The absence of acknowledgment was itself the acknowledgment. (Source: book-01, ch-24; corrected book-02, ch-04 revision)
+- First day: "Where do you need me." / "Everywhere." (Source: book-02, ch-07)
 - Dies book-02, ch-03 — mortally wounded in mule-trail ambush (ch-01), surgery in Panama City (ch-02), dies before dawn (ch-03)
 - Wound: musket ball, below the ribs on the right side, angled inward and downward — perforated bowel (death deferred, not prevented, per Clara's Canton training). Right side confirmed medically plausible for bowel perforation (small intestine/ascending colon → peritonitis). (Source: book-02, ch-01)
 - Last words: "Miss Chen" — returns to formality in death. Clara: "Mr. Harper."

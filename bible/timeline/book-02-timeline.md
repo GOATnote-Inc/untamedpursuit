@@ -25,18 +25,18 @@
 - **Significance**: Harper's death completed. Burial above the Pacific — the ocean he never crossed.
 
 ### Late April -- Early May 1847 — Chapter 4
-- **Event**: Cholera in Panama City. Clara channels grief into medicine, treating strangers. Two crew fall ill (quarantined). Samuel manages provisions. Clara absorbs Harper's habits — scanning rooms, checking exits. Reyes finds a ship: the Resolute.
+- **Event**: Cholera in Panama City. Clara channels grief into medicine, treating strangers in the streets. Ward and Jennings fall ill — Jennings recovers (day 3), Ward dies (day 5). Samuel manages provisions with merchant's arithmetic. Clara absorbs Harper's habits — scanning rooms, checking exits, positioning George. Reyes finds a ship: the Resolute, Captain Morales. (First ship approached, the Santa Elena, refused due to George.)
 - **Location**: Panama City
-- **Characters involved**: Samuel (POV), Clara, Lily, Reyes, George
+- **Characters involved**: Samuel (POV), Clara, Lily, Reyes, George, Ward (dies), Jennings
 - **POV**: Samuel
-- **Significance**: Cholera as obstacle. Clara unconsciously becoming Harper.
+- **Significance**: Cholera as obstacle. Clara unconsciously becoming Harper. Company roster: Clara, Samuel, Lily, Reyes, Cole, Davis, Jennings, George, Ajax.
 
 ### Early May 1847 — Chapter 5
-- **Event**: Samuel negotiates passage on the Resolute with Captain Morales. Samuel writes coded letter to Thomas (second of three ports — Panama City). Reports the ambush and Harper's death. Withholds suspicion about the organized nature of the attack. Two crew dead from cholera. Company diminished.
+- **Event**: Samuel negotiates passage on the Resolute with Captain Morales. Samuel writes coded letter to Thomas (second of three ports — Panama City key: Blackstone's Commentaries). Reports the ambush and Harper's death. Withholds suspicion about the organized nature of the attack. Davis falls to cholera on the last day in port — dies before they clear the harbor, buried at sea. Company departing: Clara, Samuel, Lily, Reyes, Cole, Jennings, George, Ajax — six passengers, two dogs.
 - **Location**: Panama City harbor
-- **Characters involved**: Samuel (POV), Clara, Lily, Captain Morales, George
+- **Characters involved**: Samuel (POV), Clara, Lily, Captain Morales, George, Davis (dies)
 - **POV**: Samuel
-- **Significance**: The coded letter — what Samuel writes and what he withholds. The correspondence system as both lifeline and leash.
+- **Significance**: The coded letter — what Samuel writes and what he withholds. The correspondence system as both lifeline and leash. Two crew dead from cholera (Ward ch-04, Davis ch-05).
 
 ### ~May 3, 1847 — Chapter 6
 - **Event**: The Resolute clears Panama City harbor. Clara assigns cabins, maps the ship. Takes Harper's watch rotation (4--6 AM). The Pacific opens — vast, flat, featureless.

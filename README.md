@@ -29,7 +29,7 @@
 | Book | Title | Era | Setting | Status |
 |---|---|---|---|---|
 | 1 | Fortune's Tide | Era 1 | Philadelphia, ~1846 | Revised — 24 chapters |
-| 2 | *(TBD)* | Era 1 | The Voyage West | Drafting — 7 of 26 chapters |
+| 2 | *(TBD)* | Era 1 | The Voyage West | Revised — 7 chapters |
 | 3–4 | *(TBD)* | Era 1 | Building the Network | Planned |
 | 5–9 | *(TBD)* | Era 2 | FIERCE — Eve's Story | Planned |
 
@@ -72,25 +72,25 @@ The series is free to read. Start here:
 
 **Book 2: *(TBD)*** — [`books/book-02/chapters/`](books/book-02/chapters/)
 
-> [Read the full book](books/book-02/book.md) · 7 chapters · ~22,120 words
+> [Read the full book](books/book-02/book.md) · 7 chapters · ~21,220 words
 
 | Ch | Title | POV | Words |
 |---:|-------|-----|------:|
 | 1 | [The Narrowing Trail](books/book-02/chapters/ch-01.md) | Clara Chen | 3,311 |
 | 2 | [Panama City](books/book-02/chapters/ch-02.md) | Clara Chen | 3,268 |
 | 3 | [Before Dawn](books/book-02/chapters/ch-03.md) | Clara Chen | 3,210 |
-| 4 | [The Fever](books/book-02/chapters/ch-04.md) | Samuel Taylor | 3,142 |
-| 5 | [The Resolute](books/book-02/chapters/ch-05.md) | Samuel Taylor | 3,078 |
-| 6 | [Departure](books/book-02/chapters/ch-06.md) | Clara Chen | 3,124 |
-| 7 | [Harper's Watch](books/book-02/chapters/ch-07.md) | Clara Chen | 2,987 |
+| 4 | [The Fever](books/book-02/chapters/ch-04.md) | Samuel Taylor | 3,153 |
+| 5 | [The Resolute](books/book-02/chapters/ch-05.md) | Samuel Taylor | 2,189 |
+| 6 | [Departure](books/book-02/chapters/ch-06.md) | Clara Chen | 2,995 |
+| 7 | [Harper's Watch](books/book-02/chapters/ch-07.md) | Clara Chen | 3,091 |
 
-*Book 2: ~22,120 words drafted* · *Series total: ~97,390 words*
+*Book 2: ~21,220 words drafted* · *Series total: ~96,490 words*
 <!-- PROGRESS:END -->
 
 <!-- METRICS:START -->
 ### Series Dashboard
 
-**9 books planned** · **2 in progress** · **~97,390 of ~500,000 estimated words**
+**9 books planned** · **2 in progress** · **~96,490 of ~500,000 estimated words**
 
 ```
 Series Progress
@@ -100,10 +100,10 @@ Series Progress
 | | Book 1 | Book 2 | Books 3-9 |
 |---|---|---|---|
 | **Chapters** | 24 of 36 outlined | 7 of 26 outlined | -- |
-| **Words** | 75,270 | 22,120 | -- |
+| **Words** | 75,270 | 21,220 | -- |
 | **POV** | Clara (15) · Samuel (9) | Clara (5) · Samuel (2) | -- |
 
-*31 chapters · 97,394 words · 3,141 avg words/chapter*
+*31 chapters · 96,491 words · 3,112 avg words/chapter*
 <!-- METRICS:END -->
 
 ### Themes
