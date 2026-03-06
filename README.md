@@ -2,7 +2,7 @@
 
 ### A 9-Book Historical Fiction Series — Written in Public
 
-[![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png)](LICENSE-CONTENT.md)
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/Content-CC_BY--NC--ND_4.0-lightgrey.svg)](LICENSE-CONTENT.md)
 [![Tools: MIT](https://img.shields.io/badge/Tools-MIT-green.svg)](LICENSE-TOOLS.md)
 [![Status: Writing in Public](https://img.shields.io/badge/Status-Writing_in_Public-blue.svg)](#)
 [![Free to Read](https://img.shields.io/badge/Free_to_Read-Yes-brightgreen.svg)](#read-the-book)
