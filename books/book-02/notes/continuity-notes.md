@@ -186,6 +186,23 @@
 
 ## Continuity Flags
 
+- ch-12: Lily brings ginger tea at end of Clara's watch (~5:40-6:00 AM), four mornings running. Clara never asked. Clara's preference for ginger tea is established in the bible (clara-chen.md: "Enjoys ginger tea"). — added to bible? skip (consistent with established detail)
+- ch-12: The daily rhythm: morning tea, noon painting, afternoon triangle (Lily/Clara/Samuel at stern), evening wine, night violin. — added to bible? no
+- ch-12: Wissahickon Creek wine — vines along the south wall of the property, came with the land (planted by previous owner). Unknown grape variety — small, almost black, thick skin. Lily pressed her own wine. Third vintage. "Adequate." — added to bible? no
+- ch-12: Lily packed six bottles of wine from the orchard for the voyage. Third bottle opened in ch-12. — added to bible? no
+- ch-12: Lily carries a short utility knife in her painting satchel — cuts canvas, scrapes palettes, opens wine. — added to bible? no
+- ch-12: Harper's whistle — a tune he carried as a habit, whistled softly when at ease, on the Caroline, at Spruce Street, on the trail. Clara heard it a hundred times without cataloguing it. She never asked what it was. — added to bible? no
+- ch-12: Lily plays Harper's whistle on violin, transformed — his notes, her intervals, tempo slowed, lower register added. Not performing but discovering/composing. — added to bible? no (already noted in outline timeline: "Lily learns Harper's whistle, transforms it into a violin melody")
+- ch-12: Clara's coat folded across the chair beside her bunk for the first time — not worn to sleep, set down. Door locks from inside. — added to bible? no
+- ch-12: Clara's cabin: forward, chosen for sight lines, proximity to companionway, defensibility. Shares forward bulkhead with Lily's cabin. Wall is 3 inches of pine planking, pitch-sealed joints. — added to bible? skip (consistent with ch-06 cabin assignments: Clara + George forward)
+
+## Outline Deviations (ch-12)
+
+- ch-12: Outline says "the cello is in the hold, but Lily convinced Captain Morales to bring it topside." Draft does not include the cello — the music through the wall is Lily's violin only. The cello felt like an unnecessary complication for this chapter: bringing a cello topside from a cargo hold is a physical production that would require a scene, and the chapter's weight belongs to the whistle-to-melody transformation. The violin carries the emotional work alone. The cello can appear in a later chapter if needed.
+- ch-12: Outline says "Sometimes Clara plays cello." Deferred for the same reason. Clara listening through the wall is stronger than Clara playing — the passivity of receiving Lily's music is the mechanism of Clara's recognition. If Clara plays, she's active, controlling. The chapter needs Clara to receive.
+- ch-12: Outline says Lily's melody is "something Harper used to whistle — Lily learned it from him, transformed it, made it hers." Draft renders this through Clara's recognition — she identifies the whistle three notes in. The transformation is described architecturally (carpenter taking apart furniture) because Clara is the POV and Clara thinks in structures.
+- ch-12: Outline beat 4 (Clara realizes she has stopped thinking of Lily as someone who needs protection) is the chapter's structural climax, placed after the music-through-the-wall scene. The coat folded on the chair is an organic addition — it connects the recognition to Thread 11 (progressive disarmament) and gives the chapter a concrete, physical exit rather than a reflective one.
+
 ### Reconciled: Three Pacific crossings vs. Cape of Good Hope (ch-10 / book-01 ch-10)
 - **Book 2, ch-10**: Clara says "Her father crossed the Pacific three times. Canton to the American coast and back."
 - **Book 1, ch-10**: Thomas says "That painting survived three ocean crossings. It was in the hold of a ship that nearly foundered off the Cape of Good Hope."
