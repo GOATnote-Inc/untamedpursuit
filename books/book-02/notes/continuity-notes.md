@@ -221,6 +221,27 @@
 - ch-13: Outline says "Samuel listens. Does not interrupt. Does not offer comfort." Draft renders this through physical detail — hands on rail, stillness deepening, quality of listening changing — rather than through explicit negation of what he doesn't do. The "does not" list appears only in the final section when Lily registers his response.
 - ch-13: The telling's cost rendered through "gravity" metaphor — the hold pulling at the space beneath words. Not through graphic hold imagery. The hold appears as weight and distance, not as scene. One unfinished sentence about closeness and the knife — the gap at the end is the hold.
 
+- ch-14: Samuel's "He taught her what I could not" crossed out, replaced with "What I would not" — the distinction between limitation and choice. Written in private journal. — added to bible? no
+- ch-14: Samuel's paper stock softening in salt air — weeks of humidity loosening the weave. Consistent with ch-09 ink degradation. — added to bible? skip (scene-specific)
+- ch-14: Three inlets visible from the Resolute, two settlements, one with a wharf — Monterey (per Morales's charts). — added to bible? skip (scene-specific, consistent with bible locations)
+- ch-14: Clara and Samuel reading the coast differently — Clara sees fortifications and defensible positions, Samuel sees harbors and commerce. "Two halves of a single instrument. Clara was the blade. Samuel was the hilt." — added to bible? no
+- ch-14: Thomas's desk described as from "a governor's estate auction." — added to bible? no
+- ch-14: Grandfather clock in Thomas's office — originally wrote "that Clara said Thomas had given her years ago" but corrected. Per ch-07, Thomas gifted a clock to Clara (townhouse); the bible also places a clock in Thomas's office. These may be separate clocks. Removed attribution to avoid conflation. — added to bible? skip (correction applied)
+- ch-14: Samuel composes a mental letter to Thomas — never written, never sent. Contains: Lily's story, Harper's teaching, California coast, doubt about Thomas's system. "The codes you built do not have a cipher for doubt." — added to bible? skip (thread advancement)
+- ch-14: Samuel's awareness that Thomas's correspondence system is also a vulnerability — every port that carries letters also carries information in the other direction. The blank space in the journal (ch-09) still blank. — added to bible? skip (thread advancement, consistent with ch-09)
+- ch-14: Wild sage on the California coast — Morales mentioned it. Low scrub, silver-green, smell carrying for miles on an offshore wind. Originally wrote eucalyptus but corrected — eucalyptus not introduced to California until ~1853. — added to bible? skip (scene-specific)
+- ch-14: Land birds (gulls) crossing the bow — gray wings, white breast, drawing a line between ship and shore. — added to bible? skip (scene-specific)
+- ch-14: Lily painting the coast from the stern — easel legs on deck, glass jars, Ajax's nails. Samuel's perception of watching Lily differently after hearing her story. — added to bible? skip (scene-specific)
+- ch-14: Clara and Morales studying a chart on the quarterdeck — fragments of conversation: "anchorage, current, the bay." George at Clara's feet angled toward shore. — added to bible? skip (scene-specific)
+
+## Outline Deviations (ch-14)
+
+- ch-14: Outline says "Samuel counts the way his mother taught him: carefully." Draft renders this with Mary's Sunday quote ("God sees you as you are. The least you can do is show up clean.") applied to ledgers and manifests rather than Mass attendance. Consistent with ch-10's established details.
+- ch-14: Outline says Samuel "thinks about Thomas — not suspicion yet, but awareness." Draft renders this extensively through the system analysis — Thomas's three-port routing, the cipher keys, the red wax seal — and Samuel's awareness that the system both extends and separates. The "door" metaphor: Samuel leaves the thought at a door he's not ready to open. "Might" as a figure that doesn't balance.
+- ch-14: Outline says "the blank space in the journal is still blank." Draft renders this directly — the space beneath "the ambush was not opportunistic" where the explanation should have gone (ch-09). Still blank. The blankness described as "not ignorance but absence."
+- ch-14: Outline says the mental letter "dissolves." Draft renders: "the way morning fog dissolves when the sun burns through — not erased but dispersed." The letter was never for Thomas — it was for Samuel, a way of testing the weight of doubt.
+- ch-14: Clara on the quarterdeck is rendered at a distance — Samuel doesn't interact with her directly. The "reading different books" observation is internal. This preserves Samuel's POV isolation in this chapter.
+
 ### Reconciled: Three Pacific crossings vs. Cape of Good Hope (ch-10 / book-01 ch-10)
 - **Book 2, ch-10**: Clara says "Her father crossed the Pacific three times. Canton to the American coast and back."
 - **Book 1, ch-10**: Thomas says "That painting survived three ocean crossings. It was in the hold of a ship that nearly foundered off the Cape of Good Hope."
