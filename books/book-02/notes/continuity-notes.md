@@ -203,6 +203,24 @@
 - ch-12: Outline says Lily's melody is "something Harper used to whistle — Lily learned it from him, transformed it, made it hers." Draft renders this through Clara's recognition — she identifies the whistle three notes in. The transformation is described architecturally (carpenter taking apart furniture) because Clara is the POV and Clara thinks in structures.
 - ch-12: Outline beat 4 (Clara realizes she has stopped thinking of Lily as someone who needs protection) is the chapter's structural climax, placed after the music-through-the-wall scene. The coat folded on the chair is an organic addition — it connects the recognition to Thread 11 (progressive disarmament) and gives the chapter a concrete, physical exit rather than a reflective one.
 
+- ch-13: Harper's teaching quote — "Distance is the first gift. Before anything else, you learn how far away you can be from a thing and still reach it." — added to bible? no
+- ch-13: Harper's knife teaching quote — "Distance is the first gift. The knife is what you carry when the first gift fails." — added to bible? no
+- ch-13: Harper described body targets as "doors" — "The body has doors. Some open easily. Some require force. Know which is which." — added to bible? no
+- ch-13: Rifle training took three weeks of mornings at the orchard. Northern Spys turning during training, Baldwins turning by the time Lily was accurate. — added to bible? no
+- ch-13: Harper's teaching method — one correction per session, silence between lessons, building on root systems of prior lessons. "He taught the way the orchard grew: slowly, by seasons." — added to bible? no
+- ch-13: Tin plate target on fence post, sixty yards, at far end of orchard. Harper's method: observe the target completely before aiming ("Tell me about the plate" → scrape on the rim → "Now you can aim"). — added to bible? no
+- ch-13: Harper's culminating teaching: "I wanted you to choose safety. But I also wanted you to know that you could choose the thing that wasn't safe." — added to bible? no
+- ch-13: Lily measures Samuel worthy through three observations: (1) wept at Clara's Golden Compass performance, (2) dug Harper's grave without words, (3) cleans his pistol like Clara without knowing it. — added to bible? no
+- ch-13: Samuel's two-word response to Lily's story: "Thank you." — added to bible? no
+- ch-13: The calm — windless morning, sails slack, Resolute sitting in its own reflection. No specific date given within the ~May 26-28 window. — added to bible? skip (scene-specific weather)
+
+## Outline Deviations (ch-13)
+
+- ch-13: Outline says Lily tells Samuel because "he wept at Clara's music, because he dug Harper's grave, because he carries a gun like Clara now and doesn't know it." Draft renders all three measurements but distributes them across the chapter rather than in a single explanatory passage. The weeping is observed from the Golden Compass wings; the grave is the digging without words; the gun is the cleaning motions matching Clara's. More shown than told.
+- ch-13: Outline beat 3 says "Then dog (Ajax — the companion who chooses you). Then: 'He wanted me to choose safety...'" Draft separates these — Ajax gets his own section, then the culminating teaching gets its own. The dog is presented as "a different kind of teaching" from the skills (rifle, knife), which strengthens the escalation.
+- ch-13: Outline says "Samuel listens. Does not interrupt. Does not offer comfort." Draft renders this through physical detail — hands on rail, stillness deepening, quality of listening changing — rather than through explicit negation of what he doesn't do. The "does not" list appears only in the final section when Lily registers his response.
+- ch-13: The telling's cost rendered through "gravity" metaphor — the hold pulling at the space beneath words. Not through graphic hold imagery. The hold appears as weight and distance, not as scene. One unfinished sentence about closeness and the knife — the gap at the end is the hold.
+
 ### Reconciled: Three Pacific crossings vs. Cape of Good Hope (ch-10 / book-01 ch-10)
 - **Book 2, ch-10**: Clara says "Her father crossed the Pacific three times. Canton to the American coast and back."
 - **Book 1, ch-10**: Thomas says "That painting survived three ocean crossings. It was in the hold of a ship that nearly foundered off the Cape of Good Hope."

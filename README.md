@@ -29,7 +29,7 @@
 | Book | Title | Era | Setting | Status |
 |---|---|---|---|---|
 | 1 | Fortune's Tide | Era 1 | Philadelphia, ~1846 | Revised — 24 chapters |
-| 2 | *(TBD)* | Era 1 | The Voyage West | Drafting — 12 of 26 chapters |
+| 2 | *(TBD)* | Era 1 | The Voyage West | Drafting — 13 of 26 chapters |
 | 3–4 | *(TBD)* | Era 1 | Building the Network | Planned |
 | 5–9 | *(TBD)* | Era 2 | FIERCE — Eve's Story | Planned |
 
@@ -72,7 +72,7 @@ The series is free to read. Start here:
 
 **Book 2: *(TBD)*** — [`books/book-02/chapters/`](books/book-02/chapters/)
 
-> [Read the full book](books/book-02/book.md) · 12 chapters · ~37,810 words
+> [Read the full book](books/book-02/book.md) · 13 chapters · ~41,740 words
 
 | Ch | Title | POV | Words |
 |---:|-------|-----|------:|
@@ -88,14 +88,15 @@ The series is free to read. Start here:
 | 10 | [The Intimacy of Irrelevance](books/book-02/chapters/ch-10.md) | Clara Chen | 3,335 |
 | 11 | [What She Paints](books/book-02/chapters/ch-11.md) | Lily Montgomery | 3,480 |
 | 12 | [Music Through the Wall](books/book-02/chapters/ch-12.md) | Clara Chen | 2,700 |
+| 13 | [What He Taught Her](books/book-02/chapters/ch-13.md) | Lily Montgomery | 3,928 |
 
-*Book 2: ~37,810 words drafted* · *Series total: ~113,080 words*
+*Book 2: ~41,740 words drafted* · *Series total: ~117,010 words*
 <!-- PROGRESS:END -->
 
 <!-- METRICS:START -->
 ### Series Dashboard
 
-**9 books planned** · **2 in progress** · **~113,080 of ~500,000 estimated words**
+**9 books planned** · **2 in progress** · **~117,010 of ~500,000 estimated words**
 
 ```
 Series Progress
@@ -104,11 +105,11 @@ Series Progress
 
 | | Book 1 | Book 2 | Books 3-9 |
 |---|---|---|---|
-| **Chapters** | 24 of 36 outlined | 12 of 26 outlined | -- |
-| **Words** | 75,270 | 37,810 | -- |
-| **POV** | Clara (15) · Samuel (9) | Clara (8) · Samuel (3) · Lily (1) | -- |
+| **Chapters** | 24 of 36 outlined | 13 of 26 outlined | -- |
+| **Words** | 75,270 | 41,740 | -- |
+| **POV** | Clara (15) · Samuel (9) | Clara (8) · Samuel (3) · Lily (2) | -- |
 
-*36 chapters · 113,081 words · 3,141 avg words/chapter*
+*37 chapters · 117,009 words · 3,162 avg words/chapter*
 <!-- METRICS:END -->
 
 ### Themes
