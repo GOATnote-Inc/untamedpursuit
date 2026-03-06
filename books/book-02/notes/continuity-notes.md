@@ -41,6 +41,23 @@
 - ch-03: Outline says "George sits at the grave's edge and does not move until Clara calls him." Draft renders "calls" as the flat-palm hand signal, consistent with George's established hand-signal-only protocol. Not a deviation; an implementation detail.
 - ch-03: Musket ball placed in the grave alongside tobacco/pipe — not in outline but organic extension of ch-02's detail (ball on the table beside the pipe). The geometry felt correct.
 
+- ch-04: Ward dies of cholera on the fifth day in Panama City — added to bible? no
+- ch-04: Jennings recovers from cholera on the third day — added to bible? no
+- ch-04: Company diminished: Clara, Samuel, Lily, Reyes, Cole, Davis, Jennings, George, Ajax — Ward dead, two crew (from ch-05 outline) yet to be accounted — added to bible? no
+- ch-04: Samuel purchases quinine from a shipping agent near the harbor — four times Kingston price — added to bible? skip (scene-specific)
+- ch-04: Samuel cleaned and reloaded his Paterson the morning after the burial — added to bible? no
+- ch-04: Reyes finds the Resolute — coastal trader, rigged for Pacific run, Captain Morales — added to bible? no
+- ch-04: Samuel's memory of Harper's flowers backstage at the Golden Compass — warm colors, brown paper wrapping. Harper extended them to Samuel, not Clara. The nod. — added to bible? no
+- ch-04: Samuel found a second cistern on a warehouse roof near the harbor — added to bible? skip (scene-specific)
+- ch-04: Clara treating strangers in the streets — rehydration therapy (salt and water solution per Dr. Murray) — added to bible? no
+- ch-04: Lily washed linen, boiled water, sat with Ward playing violin during the night — added to bible? skip (scene-specific)
+- ch-04: Clara gives Samuel the negotiation role: "You're better at the arithmetic than I am" — the handoff of the ledger — added to bible? no
+
+## Outline Deviations (ch-04)
+
+- ch-04: Outline says "two of the crew fall ill" — draft has Ward and Jennings fall ill, Ward dying, Jennings recovering. The outline for ch-05 says "two crew dead from cholera." Since Ward dies here and the outline says two dead total, the second death will need to occur between ch-04 and ch-05 (off-page) or be accounted for.
+- ch-04: Samuel's grief for Harper focuses on the Golden Compass flowers and the trail nod — the outline also mentions "how Harper nodded when Samuel checked his pistol on the trail," which is included. The outline's mention of the "handoff already made" is dramatized through the flowers and the permission metaphor.
+
 ## Continuity Flags
 
 (No active flags.)
