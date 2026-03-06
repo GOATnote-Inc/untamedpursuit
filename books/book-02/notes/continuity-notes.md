@@ -143,6 +143,25 @@
 - ch-09: Outline says Samuel "does not suspect Thomas — not yet." Draft renders this precisely — Samuel traces the supply chain logic but stops before the conclusion. "The inference was not a fact." The pen hovers but does not write. Samuel does not suspect; he records the absence of an explanation.
 - ch-09: Morales conversation is more detailed than outline suggests — includes SF specifics (population, wharf, Custom House, school, military authority) drawn from the SF 1847 research. Morales's commercial advice ("Not by fighting. By selling.") is an addition that advances the Clara/Samuel division-of-labor theme.
 
+- ch-10: Clara's father's specific teaching — "The world will try to take things from you. Your cargo. Your name. Your life. I am teaching you to prevent that. When you are old enough to choose, you can decide what to do with the teaching. But you must have it first. You cannot choose to fight if you do not know how." Clara was ten when he said this. — added to bible? no
+- ch-10: Clara's father used force to protect his trading connections. Others in Philadelphia said "his fortune was built on blood." Clara: "They were not entirely wrong." The wound: the accusations were partly true, and Clara inherited that fraction. — added to bible? no
+- ch-10: Clara trained from age eight in the Canton courtyard — stone paving, jasmine from the garden wall. Father's hands correcting her stance. — added to bible? no
+- ch-10: Clara's father taught her the Chen family art; mentioned the White Crane tradition was "founded by a woman" — used this to counter Clara's complaints about hard training. — added to bible? skip (consistent with bible — Fang Qiniang reference already established)
+- ch-10: Samuel's mother's name: Mary. Same parish as his father in Wexford, married before the crossing. — added to bible? no
+- ch-10: Mary Taylor brought three dresses, a rosary, and handwriting instruction to Philadelphia. Smelled of lye soap, bread dough, and lavender (three stalks in a tin can, kitchen windowsill, one hour of direct sun). — added to bible? no
+- ch-10: Mary Taylor died when Samuel was seventeen — lungs, coal dust, damp, poor ventilation. No dramatic illness. — added to bible? no
+- ch-10: Mary's Sunday ritual — "God sees you as you are. The least you can do is show up clean." Every Sunday before Mass, inspecting Samuel and his father. — added to bible? no
+- ch-10: Phosphorescence in the Pacific wake — green glow from bioluminescent organisms. Dr. Murray mentioned it during a Canton lecture on tropical fevers. — added to bible? skip (scene-specific)
+- ch-10: Clara leans against Samuel's shoulder — first physical contact of the courtship. George opens one eye, assesses the new geometry, closes it. — added to bible? no
+
+## Outline Deviations (ch-10)
+
+- ch-10: Outline says "the full story, not the fragment she shared at the riverfront (ch-06, Book 1)." Draft explicitly references the Book 1 ch-06 conversation — "In Philadelphia, I told you that my father was Buddhist..." — before going deeper. The full story includes: three crossings, Canton courtyard training at age eight, father's specific words at age ten, the violence ("He killed men"), "not entirely wrong," and the connection to Harper.
+- ch-10: Outline says "what she smelled like" about Samuel's mother. Draft renders: "lye soap and bread dough and the lavender she grew in a tin can on the kitchen windowsill." Three specific smells.
+- ch-10: Outline says "what she said on Sundays." Draft renders: "God sees you as you are. The least you can do is show up clean." — Samuel's interpretation that it was about the other six invisible days.
+- ch-10: Outline says "twelve inches of humid air collapsed to nothing." Draft uses "twelve inches" as a recurring motif throughout — measured at the beginning, maintained through the conversation, collapsed at the end. The lean is the final beat.
+- ch-10: George's one-eye assessment — not in outline but organic and consistent with George's established character (reads situations, provides judgment through behavior). Lightens the emotional weight of the lean without undercutting it.
+
 ## Continuity Flags
 
 (No active flags.)
