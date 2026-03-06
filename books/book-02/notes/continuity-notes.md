@@ -125,6 +125,24 @@
 - ch-08: Outline says "the ship's routine: Lily paints at the stern, Samuel reads below, Clara walks the perimeter. Three orbits on a small ship." Draft renders all three orbits with specific detail — Samuel reading a Spanish book lent by Morales, Lily painting noon water (not sunset), Clara registering Lily as a load-bearing wall. The "three orbits" metaphor is used directly.
 - ch-08: Outline beat 5 (coat realization) is the chapter's final section. Organic placement — the coat scene works strongest as the chapter's exit, the private moment after the public day.
 
+- ch-09: Samuel's iron gall ink degrading in Pacific humidity — turning from blue-black to watery brown. — added to bible? skip (scene-specific detail)
+- ch-09: Samuel's mother taught him penmanship — learned at the parish school in Wexford, brought to Philadelphia along with three dresses, a rosary, and "the conviction that a legible hand was the difference between a man who signed his name and a man who made his mark." — added to bible? no
+- ch-09: Morales has sailed from Mazatlán to the Columbia River, seven times. — added to bible? no
+- ch-09: Morales describes SF: four or five hundred people (consistent with research — ~457), renamed from Yerba Buena in January, one wharf, Custom House is largest structure, first school opened 1847, American military authority (alcalde), Mexican-American War treaty not yet signed. — added to bible? skip (already documented in research/period-details/san-francisco-1847.md and bible/world/locations.md)
+- ch-09: Morales's commercial wisdom: "A harbor becomes a port not by fighting but by selling." Clara fortifies, Samuel supplies — the natural division. — added to bible? skip (thematic, not factual)
+- ch-09: Samuel finished the Spanish book Morales lent him — a novel, popular on the coast. Samuel's Spanish: fragments from port commerce, enough to read invoices, not enough to follow a plot. — added to bible? skip (scene-specific)
+- ch-09: Samuel scrapes condensation from cabin wall each morning for ink dilution — tastes of salt and tar. — added to bible? skip (scene-specific)
+- ch-09: Samuel's journal entry recaps ambush facts exactly as established (April 26, Cruces trail, 8-10 men, disciplined fire, staggered volleys, multiple weapons per position). Blank space beneath "The ambush was not opportunistic." — added to bible? skip (thread advancement, matches existing timeline)
+- ch-09: Samuel identifies the supply chain logic: intelligence entered Thomas's system in Kingston, ambush occurred weeks later on the Cruces trail. If the channels leaked, the leak is Thomas's responsibility. Samuel does not write this inference. — added to bible? skip (thread advancement)
+- ch-09: Lily's violin through the wall — plays every night, private and exploratory, not performing but searching. Not the Golden Compass music. — added to bible? no
+
+## Outline Deviations (ch-09)
+
+- ch-09: Outline says "the way Clara walks the deck at 4 AM." Draft renders as "I hear her through the wall — her boots and George's nails, thirty paces one direction, thirty the other." Samuel hears rather than sees — more appropriate for journal interiority.
+- ch-09: Outline says Samuel "is counting what he has instead of what he's lost." Draft renders as an explicit inventory list followed by: "He did not write the other side. The liabilities." The not-writing of the losses is more powerful than writing them.
+- ch-09: Outline says Samuel "does not suspect Thomas — not yet." Draft renders this precisely — Samuel traces the supply chain logic but stops before the conclusion. "The inference was not a fact." The pen hovers but does not write. Samuel does not suspect; he records the absence of an explanation.
+- ch-09: Morales conversation is more detailed than outline suggests — includes SF specifics (population, wharf, Custom House, school, military authority) drawn from the SF 1847 research. Morales's commercial advice ("Not by fighting. By selling.") is an addition that advances the Clara/Samuel division-of-labor theme.
+
 ## Continuity Flags
 
 (No active flags.)
