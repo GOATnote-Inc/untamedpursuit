@@ -230,8 +230,7 @@ Each drafting session produces continuity notes that feed the bible and update o
 
 ```mermaid
 pie title Chapter Status
-    "Draft" : 7
-    "Revised" : 17
+    "Revised" : 24
 ```
 
 **POV Distribution**
@@ -248,8 +247,7 @@ pie title POV Distribution
 | Chapters drafted | 24 |
 | Total words | 75,274 |
 | Average words/chapter | 3,136 |
-| Draft | 7 (29%) |
-| Revised | 17 (71%) |
+| Revised | 24 (100%) |
 <!-- METRICS:END -->
 
 <!-- THREADS:START -->

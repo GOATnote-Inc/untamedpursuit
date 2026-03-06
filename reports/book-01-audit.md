@@ -3,6 +3,10 @@
 Chapters: 24 (ch-01 through ch-24)
 Total words: 75,274
 
+## Frontmatter Completeness
+
+All chapters have complete frontmatter.
+
 ## POV Distribution
 
 | POV Character | Chapters | % |
@@ -161,6 +165,7 @@ Major threads (appearing in 3+ chapters):
 - Total words: 75,274
 - POV characters: 2
 - Major threads (3+ chapters): 4
+- Frontmatter issues: 0
 - Timeline issues: 0
 - Word count outliers: 0
 - Unresolved continuity flags: 43
