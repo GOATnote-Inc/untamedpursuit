@@ -17,7 +17,7 @@ Brown-skinned, weathered by the Pacific. Speaks English with a Spanish accent th
 
 ## Background
 
-Captain of the Resolute, a two-masted coastal trader rigged for the Pacific run. Has sailed the coast between Monterey and San Francisco. Practical, unsentimental, competent. Does not shake hands during the cholera outbreak — a practical man who does not touch strangers more than necessary. Prices risk by the day. Recognized Clara as "the one in charge" before being told. Carries a clay pipe he often holds but doesn't light.
+Captain of the Resolute, a two-masted coastal trader rigged for the Pacific run. Has sailed the Pacific coast from Mazatlán to the Columbia River, seven times. Practical, unsentimental, competent. Does not shake hands during the cholera outbreak — a practical man who does not touch strangers more than necessary. Prices risk by the day. Recognized Clara as "the one in charge" before being told. Carries a clay pipe he often holds but doesn't light.
 
 ## Relationships
 
