@@ -83,9 +83,11 @@
 
 ## San Francisco
 
-- **Type**: City
-- **Period description**: Bay visible from the Glass Garden. Expansion target for Clara's network. Fog, bridges, mist. Clara "helped shape" the city. Gold Rush destination.
-- **Sources**: Epilogue_Claras_Final_Words, outline_2_16
+- **Type**: City / settlement
+- **Period description (1847)**: Settlement of ~457 people on Yerba Buena Cove. Renamed from Yerba Buena on January 30, 1847. Under U.S. military occupation (alcalde governance). ~100-150 buildings — adobes, wooden frames, shanties — centered on Portsmouth Square. Streets unpaved (Clay, Montgomery, Kearny, Washington). Montgomery Street runs along the waterfront. Broadway Street Wharf (first wharf, built 1847). Spring at foot of Clay Street supplies ships. Sand dunes cover western third of peninsula. No trees. Fog, wind, cold summers (60-70°F highs). Six trading vessels entered the bay in 1847. Mexican-American War ongoing. Gold Rush 18 months away.
+- **Period description (later)**: Bay visible from the Glass Garden. Expansion target for Clara's network. Fog, bridges, mist. Clara "helped shape" the city. Gold Rush destination.
+- **Key landmarks (1847)**: Portsmouth Square (plaza), Mexican Custom House, Clarke's Point (landing below Telegraph Hill), Leidesdorff's house (Montgomery St), Spear's grist mill (Clay St), the Golden Gate (strait — no fort or bridge)
+- **Sources**: Epilogue_Claras_Final_Words, outline_2_16, research/period-details/san-francisco-1847.md
 
 ---
 
