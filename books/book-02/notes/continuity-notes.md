@@ -12,6 +12,17 @@
 - ch-01: Litter constructed from stripped saplings and blankets — no bible update needed
 - ch-01: Jennings still has pirate graze shoulder wound — continuity from book-01, ch-21 (confirmed consistent)
 
+- ch-02: Harper's wife named Margaret — died of fever while Harper was in Florida, the night their daughter was born. Daughter raised by neighbors. Harper never held her. — added to bible? no
+- ch-02: Harper served in Florida (implies Second Seminole War, ~1835-1842) — left vague, not named — added to bible? no
+- ch-02: Harper's pipe tobacco — Virginia leaf, packed by Clara in Philadelphia. Pipe has bite marks on the stem. — added to bible? no
+- ch-02: Harper watched Clara for three days before coming to her door — added to bible? no
+- ch-02: George responds to twelve hand commands. Clara knew nine. Three new: fist closing twice (withdraw), flat palm turning over (perimeter shift), two fingers at eyes (I see what you see). — added to bible? no
+- ch-02: Harper calls Clara by her first name for the first time. Clara reciprocates with "David." — added to bible? no (already noted in harper.md arc summary)
+- ch-02: Clara's surgical kit — oilcloth roll, Dr. Murray's instruments from Canton supply house, maintained 7 years. Includes: suture needles, silk thread, probe, forceps, curved blade. — added to bible? no
+- ch-02: Laudanum dosage — forty drops for a man of Harper's weight (per Dr. Murray's teaching) — added to bible? skip (scene-specific medical detail)
+- ch-02: Musket ball extracted — flattened disc of gray metal, lodged against posterior abdominal wall — added to bible? no
+- ch-02: Samuel stands watch outside Harper's door with empty pistol across his knees — added to bible? no
+
 ## Outline Deviations
 
 - ch-01: Distance to Panama City — outline says "eight miles" (matching book-01, ch-24's dawn announcement). Draft uses "six, perhaps seven" per Reyes — because the company had been walking for ~1-2 miles between ch-24's dawn and the ambush. Not a discrepancy; reflects distance covered.
