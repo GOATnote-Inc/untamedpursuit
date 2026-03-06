@@ -3,6 +3,7 @@
 Cross-chapter audit for a single book.
 
 Validates consistency across all chapters in a book:
+  - Frontmatter completeness (required fields present)
   - Character description consistency (repeated descriptors tracked)
   - Timeline sanity (date ordering, gap detection)
   - Thread progression matrix (which threads span which chapters)
@@ -21,6 +22,7 @@ import sys
 from collections import Counter, defaultdict
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DESCRIPTORS_PATH = os.path.join(REPO_ROOT, "bible", "character-descriptors.yaml")
 
 
 def parse_frontmatter(filepath):
@@ -94,39 +96,77 @@ def normalize_thread_name(raw):
     return name.rstrip(" —-")
 
 
-# Known character descriptors to track across chapters
-CHARACTER_PATTERNS = {
-    "Clara": [
-        (r"leather coat", "leather coat"),
-        (r"sword cane", "sword cane"),
-        (r"dark green silk", "dark green silk"),
-        (r"holster", "holsters"),
-        (r"Colt", "Colts"),
-        (r"midnight blue", "midnight blue gown"),
-    ],
-    "Thomas": [
-        (r"silver at (?:his )?temples", "silver at temples"),
-        (r"mahogany desk", "mahogany desk"),
-        (r"ink on (?:both )?(?:his )?hands", "ink on hands"),
-        (r"boyish grin", "boyish grin"),
-        (r"grandfather clock", "grandfather clock"),
-    ],
-    "Samuel": [
-        (r"walnut desk", "walnut desk"),
-        (r"Front Street", "Front Street warehouse"),
-        (r"counting table", "counting table"),
-    ],
-    "George": [
-        (r"140.pound|hundred.and.forty", "140 pounds"),
-        (r"muzzle", "muzzle (George)"),
-        (r"hand signal|open palm", "hand signals"),
-    ],
-    "Harper": [
-        (r"Miss Chen", "Miss Chen (Harper)"),
-        (r"weathered", "weathered (Harper)"),
-        (r"pipe tobacco", "pipe tobacco"),
-    ],
-}
+def load_character_patterns():
+    """Load character descriptor patterns from YAML file.
+
+    Minimal parser for the specific structure used in character-descriptors.yaml.
+    No external YAML library required.
+    """
+    if not os.path.exists(DESCRIPTORS_PATH):
+        return {}
+
+    with open(DESCRIPTORS_PATH, "r", encoding="utf-8") as f:
+        lines = f.readlines()
+
+    patterns = {}
+    current_char = None
+    current_entry = {}
+
+    for line in lines:
+        stripped = line.rstrip("\n")
+
+        # Skip comments and blank lines
+        if not stripped or stripped.lstrip().startswith("#"):
+            continue
+
+        # Top-level character name (no leading whitespace, ends with colon)
+        char_m = re.match(r'^([A-Za-z_][\w\s]*?):\s*$', stripped)
+        if char_m and not stripped.startswith(" "):
+            # Save any pending entry
+            if current_char and current_entry.get("pattern") and current_entry.get("label"):
+                patterns.setdefault(current_char, []).append(
+                    (current_entry["pattern"], current_entry["label"])
+                )
+            current_entry = {}
+            current_char = char_m.group(1).strip()
+            continue
+
+        # List item start: "  - pattern: ..." or "  - label: ..."
+        list_m = re.match(r'^\s+-\s+(\w+):\s*"(.+?)"\s*$', stripped)
+        if list_m:
+            key, val = list_m.group(1), list_m.group(2)
+            if key == "pattern":
+                # Save previous entry if complete
+                if current_entry.get("pattern") and current_entry.get("label"):
+                    patterns.setdefault(current_char, []).append(
+                        (current_entry["pattern"], current_entry["label"])
+                    )
+                current_entry = {"pattern": val}
+            elif key == "label":
+                current_entry["label"] = val
+            continue
+
+        # Continuation key: "    label: ..."
+        cont_m = re.match(r'^\s+(\w+):\s*"(.+?)"\s*$', stripped)
+        if cont_m:
+            key, val = cont_m.group(1), cont_m.group(2)
+            if key == "label":
+                current_entry["label"] = val
+            elif key == "pattern":
+                if current_entry.get("pattern") and current_entry.get("label"):
+                    patterns.setdefault(current_char, []).append(
+                        (current_entry["pattern"], current_entry["label"])
+                    )
+                current_entry = {"pattern": val}
+
+    # Save last entry
+    if current_char and current_entry.get("pattern") and current_entry.get("label"):
+        patterns.setdefault(current_char, []).append(
+            (current_entry["pattern"], current_entry["label"])
+        )
+
+    return patterns
+
 
 # Timeline parsing patterns
 TIMELINE_ORDER = [
@@ -141,6 +181,10 @@ TIMELINE_ORDER = [
     "April 22-24, 1847",
     "April 25-26, 1847",
 ]
+
+# Required frontmatter fields
+REQUIRED_FIELDS = ["book", "chapter", "title", "pov", "timeline", "location", "status", "word_count", "summary"]
+THREAD_FIELDS = ["threads_advanced", "threads_introduced", "continuity_flags"]
 
 
 def audit_book(book_num):
@@ -172,7 +216,35 @@ def audit_book(book_num):
     report.append(f"Total words: {total_words:,}")
     report.append("")
 
-    # --- 1. POV Balance ---
+    # --- 1. Frontmatter Completeness ---
+    report.append("## Frontmatter Completeness")
+    report.append("")
+    fm_issues = []
+    for ch in chapters:
+        ch_num = ch["chapter"]
+        missing = [f for f in REQUIRED_FIELDS if f not in ch or ch[f] == "" or ch[f] is None]
+        missing_threads = [f for f in THREAD_FIELDS if f not in ch]
+        warnings = []
+        if ch.get("status") == "revised" and not ch.get("threads_advanced"):
+            warnings.append("status is 'revised' but threads_advanced is empty")
+        if ch.get("word_count") == 0:
+            warnings.append("word_count is 0")
+        if missing or missing_threads or warnings:
+            fm_issues.append((ch_num, missing, missing_threads, warnings))
+
+    if fm_issues:
+        report.append("| Chapter | Missing Required | Missing Thread Fields | Warnings |")
+        report.append("|---------|-----------------|----------------------|----------|")
+        for ch_num, missing, missing_threads, warnings in fm_issues:
+            m_str = ", ".join(missing) if missing else "—"
+            t_str = ", ".join(missing_threads) if missing_threads else "—"
+            w_str = "; ".join(warnings) if warnings else "—"
+            report.append(f"| ch-{ch_num:02d} | {m_str} | {t_str} | {w_str} |")
+    else:
+        report.append("All chapters have complete frontmatter.")
+    report.append("")
+
+    # --- 2. POV Balance ---
     report.append("## POV Distribution")
     report.append("")
     pov_counts = Counter(ch.get("pov", "Unknown") for ch in chapters)
@@ -184,7 +256,7 @@ def audit_book(book_num):
         report.append(f"| {pov} | {', '.join(ch_nums)} ({count}) | {pct}% |")
     report.append("")
 
-    # --- 2. Word Count Distribution ---
+    # --- 3. Word Count Distribution ---
     report.append("## Word Count Distribution")
     report.append("")
     word_counts = [ch.get("word_count", 0) for ch in chapters]
@@ -206,7 +278,7 @@ def audit_book(book_num):
             report.append(f"- ch-{ch_num:02d}: {wc:,} words ({direction})")
         report.append("")
 
-    # --- 3. Timeline Sanity ---
+    # --- 4. Timeline Sanity ---
     report.append("## Timeline Progression")
     report.append("")
     report.append("| Chapter | Timeline | Location |")
@@ -244,7 +316,7 @@ def audit_book(book_num):
             report.append(f"- {issue}")
         report.append("")
 
-    # --- 4. Status Summary ---
+    # --- 5. Status Summary ---
     report.append("## Chapter Status")
     report.append("")
     status_counts = Counter(ch.get("status", "unknown") for ch in chapters)
@@ -253,30 +325,35 @@ def audit_book(book_num):
         report.append(f"- **{status}**: {', '.join(ch_nums)} ({count})")
     report.append("")
 
-    # --- 5. Character Description Consistency ---
+    # --- 6. Character Description Consistency ---
     report.append("## Character Descriptor Tracking")
     report.append("")
-    report.append("Tracks recurring descriptors across chapters to catch drift or contradiction.")
-    report.append("")
-    for char_name, patterns in CHARACTER_PATTERNS.items():
-        char_hits = []
-        for regex, label in patterns:
-            hit_chapters = []
-            for ch in chapters:
-                if re.search(regex, ch["_text"], re.IGNORECASE):
-                    hit_chapters.append(ch["chapter"])
-            if hit_chapters:
-                char_hits.append((label, hit_chapters))
-        if char_hits:
-            report.append(f"### {char_name}")
-            report.append("")
-            report.append("| Descriptor | Chapters |")
-            report.append("|------------|----------|")
-            for label, ch_nums in char_hits:
-                report.append(f"| {label} | {', '.join(str(c) for c in ch_nums)} |")
-            report.append("")
+    character_patterns = load_character_patterns()
+    if not character_patterns:
+        report.append("*No character-descriptors.yaml found — skipping.*")
+        report.append("")
+    else:
+        report.append("Tracks recurring descriptors across chapters to catch drift or contradiction.")
+        report.append("")
+        for char_name, patterns in character_patterns.items():
+            char_hits = []
+            for regex, label in patterns:
+                hit_chapters = []
+                for ch in chapters:
+                    if re.search(regex, ch["_text"], re.IGNORECASE):
+                        hit_chapters.append(ch["chapter"])
+                if hit_chapters:
+                    char_hits.append((label, hit_chapters))
+            if char_hits:
+                report.append(f"### {char_name}")
+                report.append("")
+                report.append("| Descriptor | Chapters |")
+                report.append("|------------|----------|")
+                for label, ch_nums in char_hits:
+                    report.append(f"| {label} | {', '.join(str(c) for c in ch_nums)} |")
+                report.append("")
 
-    # --- 6. Thread Progression Matrix ---
+    # --- 7. Thread Progression Matrix ---
     report.append("## Thread Progression")
     report.append("")
     report.append("Major threads (appearing in 3+ chapters):")
@@ -310,7 +387,7 @@ def audit_book(book_num):
             report.append(f"| {display} | {intro} | {adv} | {span} |")
         report.append("")
 
-    # --- 7. Continuity Flags ---
+    # --- 8. Continuity Flags ---
     report.append("## Unresolved Continuity Flags")
     report.append("")
     flags_found = False
@@ -335,6 +412,7 @@ def audit_book(book_num):
     report.append(f"- Total words: {total_words:,}")
     report.append(f"- POV characters: {len(pov_counts)}")
     report.append(f"- Major threads (3+ chapters): {len(major_threads)}")
+    report.append(f"- Frontmatter issues: {len(fm_issues)}")
     report.append(f"- Timeline issues: {len(timeline_issues)}")
     report.append(f"- Word count outliers: {len(outliers)}")
     report.append(f"- Unresolved continuity flags: {unresolved_flags}")

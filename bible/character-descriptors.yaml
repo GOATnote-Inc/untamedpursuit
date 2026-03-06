@@ -1,0 +1,57 @@
+# Character descriptor patterns for cross-chapter consistency tracking.
+# Used by scripts/book-audit.py — add new characters here, not in Python.
+#
+# Format:
+#   character_name:
+#     - pattern: "regex pattern"
+#       label: "display label"
+
+Clara:
+  - pattern: "leather coat"
+    label: "leather coat"
+  - pattern: "sword cane"
+    label: "sword cane"
+  - pattern: "dark green silk"
+    label: "dark green silk"
+  - pattern: "holster"
+    label: "holsters"
+  - pattern: "Colt"
+    label: "Colts"
+  - pattern: "midnight blue"
+    label: "midnight blue gown"
+
+Thomas:
+  - pattern: "silver at (?:his )?temples"
+    label: "silver at temples"
+  - pattern: "mahogany desk"
+    label: "mahogany desk"
+  - pattern: "ink on (?:both )?(?:his )?hands"
+    label: "ink on hands"
+  - pattern: "boyish grin"
+    label: "boyish grin"
+  - pattern: "grandfather clock"
+    label: "grandfather clock"
+
+Samuel:
+  - pattern: "walnut desk"
+    label: "walnut desk"
+  - pattern: "Front Street"
+    label: "Front Street warehouse"
+  - pattern: "counting table"
+    label: "counting table"
+
+George:
+  - pattern: "140.pound|hundred.and.forty"
+    label: "140 pounds"
+  - pattern: "muzzle"
+    label: "muzzle (George)"
+  - pattern: "hand signal|open palm"
+    label: "hand signals"
+
+Harper:
+  - pattern: "Miss Chen"
+    label: "Miss Chen (Harper)"
+  - pattern: "weathered"
+    label: "weathered (Harper)"
+  - pattern: "pipe tobacco"
+    label: "pipe tobacco"

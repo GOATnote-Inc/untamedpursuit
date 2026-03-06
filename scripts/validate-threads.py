@@ -4,13 +4,15 @@ Validate thread tracking across chapter frontmatter and open-threads.md.
 
 Checks:
   - Thread coverage matrix: which threads are advanced/introduced in which chapters
-  - Orphan threads: threads in frontmatter not found in open-threads.md (and vice versa)
-  - Staleness: threads not advanced in N consecutive chapters
+  - Series-level gaps: threads in open-threads.md not referenced in frontmatter
+  - Book-level threads: threads in frontmatter not in open-threads.md (info only)
+  - Staleness: threads not advanced in N consecutive chapters (excludes resolved)
 
 Usage:
     python scripts/validate-threads.py          # validate all books with chapters
     python scripts/validate-threads.py 1        # validate book 1 only
     python scripts/validate-threads.py --stale 5  # flag threads stale after 5 chapters (default: 4)
+    python scripts/validate-threads.py --verbose  # show full orphan/stale breakdown
 """
 
 import glob
@@ -92,6 +94,11 @@ def normalize_thread_name(raw):
     return name
 
 
+def is_resolved(raw_thread_name):
+    """Check if a thread name contains a [resolved] marker."""
+    return "[resolved]" in raw_thread_name.lower()
+
+
 def parse_open_threads():
     """Parse open-threads.md for thread names and statuses."""
     if not os.path.exists(THREADS_PATH):
@@ -160,20 +167,25 @@ def validate_book(book_num, stale_threshold):
     if not chapters:
         return None
 
-    # Collect all thread names from frontmatter
+    # Collect all thread names from frontmatter, tracking raw names for resolved check
     fm_threads = {}  # normalized_name -> {introduced: [ch], advanced: [ch]}
+    fm_raw_names = {}  # normalized_name -> [raw_names]
     for ch in chapters:
         ch_num = ch["chapter"]
         for raw in ch.get("threads_introduced", []):
             name = normalize_thread_name(raw)
             if name not in fm_threads:
                 fm_threads[name] = {"introduced": [], "advanced": []}
+                fm_raw_names[name] = []
             fm_threads[name]["introduced"].append(ch_num)
+            fm_raw_names[name].append(raw)
         for raw in ch.get("threads_advanced", []):
             name = normalize_thread_name(raw)
             if name not in fm_threads:
                 fm_threads[name] = {"introduced": [], "advanced": []}
+                fm_raw_names[name] = []
             fm_threads[name]["advanced"].append(ch_num)
+            fm_raw_names[name].append(raw)
 
     # Parse open-threads.md
     ot_threads = parse_open_threads()
@@ -199,9 +211,18 @@ def validate_book(book_num, stale_threshold):
         if name not in referenced_ot and ot_threads[name]["status"] not in ("resolved", "abandoned")
     ]
 
-    # Staleness check
+    # Staleness check — skip resolved threads
     stale = []
     for fm_name, data in fm_threads.items():
+        # Check if any raw name has [resolved]
+        raw_names = fm_raw_names.get(fm_name, [])
+        if any(is_resolved(r) for r in raw_names):
+            continue
+        # Also skip if matched to an open-thread with resolved/abandoned status
+        ot_name = matched.get(fm_name)
+        if ot_name and ot_threads.get(ot_name, {}).get("status") in ("resolved", "abandoned"):
+            continue
+
         all_appearances = sorted(set(data["introduced"] + data["advanced"]))
         if all_appearances:
             last_seen = max(all_appearances)
@@ -222,7 +243,7 @@ def validate_book(book_num, stale_threshold):
     }
 
 
-def print_report(result, stale_threshold):
+def print_report(result, stale_threshold, verbose=False):
     """Print the validation report for a single book."""
     book = result["book"]
     chapters = result["chapters"]
@@ -262,54 +283,52 @@ def print_report(result, stale_threshold):
             print(f"    Advanced:   ch-{adv_chs}")
         print()
 
-    # Orphans
-    if unmatched_fm:
-        print("ORPHAN THREADS (in frontmatter, not in open-threads.md)")
-        print("-" * 60)
-        for name in sorted(unmatched_fm):
-            print(f"  - {name}")
-        print()
-
+    # Series-level gaps (always shown — these are the real issues)
     if unmatched_ot:
-        print("ORPHAN THREADS (in open-threads.md, not in frontmatter)")
+        print("SERIES-LEVEL GAPS (in open-threads.md, not in any frontmatter)")
         print("-" * 60)
         for name in sorted(unmatched_ot):
             status = result["ot_threads"][name]["status"]
             print(f"  - {name} [{status}]")
         print()
 
-    # Staleness
-    if stale:
-        print(f"STALE THREADS (not seen in {stale_threshold}+ chapters)")
+    # Book-level threads (only shown in verbose mode)
+    if unmatched_fm:
+        if verbose:
+            print("BOOK-LEVEL THREADS (in frontmatter, not in open-threads.md)")
+            print("-" * 60)
+            for name in sorted(unmatched_fm):
+                print(f"  - {name}")
+            print()
+
+    # Staleness (only shown in verbose mode or if there are stale threads)
+    if stale and verbose:
+        print(f"STALE THREADS (not seen in {stale_threshold}+ chapters, excluding resolved)")
         print("-" * 60)
         for name, last_seen, gap in sorted(stale, key=lambda x: -x[2]):
             print(f"  - {name}: last seen ch-{last_seen} ({gap} chapters ago)")
         print()
 
     # Summary
-    issues = len(unmatched_fm) + len(unmatched_ot) + len(stale)
-    if issues == 0:
-        print("No issues found.")
-    else:
-        print(f"TOTAL ISSUES: {issues}")
-        if unmatched_fm:
-            print(f"  {len(unmatched_fm)} orphan thread(s) in frontmatter")
-        if unmatched_ot:
-            print(f"  {len(unmatched_ot)} orphan thread(s) in open-threads.md")
-        if stale:
-            print(f"  {len(stale)} stale thread(s)")
+    print(f"Series-level gaps: {len(unmatched_ot)} | Book-level threads (not in open-threads): {len(unmatched_fm)} | Stale (excluding resolved): {len(stale)}")
+    if not verbose and (unmatched_fm or stale):
+        print("  (use --verbose for full orphan/stale breakdown)")
 
 
 def main():
     args = sys.argv[1:]
     stale_threshold = 4
     book_filter = None
+    verbose = False
 
     i = 0
     while i < len(args):
         if args[i] == "--stale" and i + 1 < len(args):
             stale_threshold = int(args[i + 1])
             i += 2
+        elif args[i] == "--verbose":
+            verbose = True
+            i += 1
         elif args[i].isdigit():
             book_filter = int(args[i])
             i += 1
@@ -338,7 +357,7 @@ def main():
     for book_num in books:
         result = validate_book(book_num, stale_threshold)
         if result:
-            print_report(result, stale_threshold)
+            print_report(result, stale_threshold, verbose)
 
 
 if __name__ == "__main__":
