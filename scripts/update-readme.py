@@ -114,7 +114,7 @@ def parse_frontmatter(filepath):
 
 
 def count_outlined_chapters(book_num):
-    """Count ## Chapter headings in a book's outline.md."""
+    """Count chapter headings (## or ###) in a book's outline.md."""
     outline_path = os.path.join(
         REPO_ROOT, "books", f"book-{book_num:02d}", "outline.md"
     )
@@ -122,7 +122,7 @@ def count_outlined_chapters(book_num):
         return 0
     with open(outline_path, "r", encoding="utf-8") as f:
         text = f.read()
-    return len(re.findall(r"^## Chapter", text, re.MULTILINE))
+    return len(re.findall(r"^#{2,3} Chapter", text, re.MULTILINE))
 
 
 def format_number(n):
@@ -424,9 +424,20 @@ def generate_progress(chapters_by_book):
         if book_label.isdigit():
             book_num = int(book_label)
             if book_num in chapters_by_book:
-                ch_count = len(chapters_by_book[book_num])
+                chs = chapters_by_book[book_num]
+                ch_count = len(chs)
                 outlined = count_outlined_chapters(book_num)
-                status = f"Drafting \u2014 {ch_count} of {outlined} chapters outlined"
+                # Check if all chapters are revised or final
+                all_done = all(
+                    ch.get("status", "").strip('"') in ("revised", "final")
+                    for ch in chs
+                )
+                if all_done:
+                    status = f"Revised \u2014 {ch_count} chapters"
+                elif outlined > 0:
+                    status = f"Drafting \u2014 {ch_count} of {outlined} chapters"
+                else:
+                    status = f"Drafting \u2014 {ch_count} chapters"
             else:
                 status = "Planned"
         else:
