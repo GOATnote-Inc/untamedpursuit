@@ -91,6 +91,22 @@
 - ch-06: Outline says "the Pacific opens before them. Vast, flat, featureless." Draft renders this through Clara's architectural lens — the absence of enclosure as structural removal. Also connects to her father's three Pacific crossings.
 - ch-06: Lily scene at the end is not in the outline but establishes the Clara-Lily shipboard rhythm that the outline develops in ch-12. Organic addition.
 
+- ch-07: Harper's first day — Philadelphia, 1843, summer. Clara was 22. Harper arrived with letter of introduction. She had investigated him for three weeks. He had watched her for three days (learned from ch-02 night conversation). He said "Where do you need me." She said "Everywhere." He nodded and took his position beside the door. — added to bible? no
+- ch-07: Clara's Chestnut Street parlor used for the interview — curtains drawn. Grandfather clock present (Thomas sent as a gift). — added to bible? no
+- ch-07: Harper described as "average height, average build, weathered" on his first day. Clean, unremarkable clothes. Still hands. Eyes that read rooms. — added to bible? no
+- ch-07: George and Ajax divide the ship — George with Clara (quarterdeck, perimeter, watch), Ajax with Lily (stern, sketching). — added to bible? skip (scene-specific)
+- ch-07: Cole cleaning rifles between deckhouse and port rail — armory diminished from Philadelphia. — added to bible? skip (scene-specific)
+- ch-07: Jennings stands watch in the companionway, favoring left shoulder. — added to bible? skip (scene-specific, consistent with established injury)
+- ch-07: Clara reflects on Thomas holding the east — the office, the apparatus, the correspondence system. She is carrying the mobile element west. — added to bible? skip (theme, not new fact)
+- ch-07: Lily sketches the Pacific light systematically — building a catalogue/inventory of light at different hours. — added to bible? skip (scene-specific, consistent with artist characterization)
+
+## Outline Deviations (ch-07)
+
+- ch-07: Outline says "Clara's first pre-dawn watch." Draft renders this as the second watch (ch-06 showed the first night's watch). The focus is on the routine settling in, not the first instance.
+- ch-07: Outline says Harper memory includes "What he said. What she said." Draft renders: "Where do you need me" / "Everywhere." This is a new fact — Harper's first words to Clara. The simplicity felt right for his character.
+- ch-07: Outline says "How he nodded and took his position and never left it until a musket ball on a jungle trail made the decision for him." Draft renders this closely, with the nod connected to the same nod from ch-04 (Golden Compass flowers) and ch-01 (trail). The nod as recurring motif.
+- ch-07: Thomas's grandfather clock gifted to Clara — not in outline. Organic detail that seeds Thomas's generosity/possessiveness thread. Small enough to be background.
+
 ## Continuity Flags
 
 (No active flags.)

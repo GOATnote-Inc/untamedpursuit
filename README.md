@@ -29,7 +29,7 @@
 | Book | Title | Era | Setting | Status |
 |---|---|---|---|---|
 | 1 | Fortune's Tide | Era 1 | Philadelphia, ~1846 | Revised — 24 chapters |
-| 2 | *(TBD)* | Era 1 | The Voyage West | Drafting — 6 of 26 chapters |
+| 2 | *(TBD)* | Era 1 | The Voyage West | Drafting — 7 of 26 chapters |
 | 3–4 | *(TBD)* | Era 1 | Building the Network | Planned |
 | 5–9 | *(TBD)* | Era 2 | FIERCE — Eve's Story | Planned |
 
@@ -72,7 +72,7 @@ The series is free to read. Start here:
 
 **Book 2: *(TBD)*** — [`books/book-02/chapters/`](books/book-02/chapters/)
 
-> [Read the full book](books/book-02/book.md) · 6 chapters · ~19,130 words
+> [Read the full book](books/book-02/book.md) · 7 chapters · ~22,120 words
 
 | Ch | Title | POV | Words |
 |---:|-------|-----|------:|
@@ -82,14 +82,15 @@ The series is free to read. Start here:
 | 4 | [The Fever](books/book-02/chapters/ch-04.md) | Samuel Taylor | 3,142 |
 | 5 | [The Resolute](books/book-02/chapters/ch-05.md) | Samuel Taylor | 3,078 |
 | 6 | [Departure](books/book-02/chapters/ch-06.md) | Clara Chen | 3,124 |
+| 7 | [Harper's Watch](books/book-02/chapters/ch-07.md) | Clara Chen | 2,987 |
 
-*Book 2: ~19,130 words drafted* · *Series total: ~94,410 words*
+*Book 2: ~22,120 words drafted* · *Series total: ~97,390 words*
 <!-- PROGRESS:END -->
 
 <!-- METRICS:START -->
 ### Series Dashboard
 
-**9 books planned** · **2 in progress** · **~94,410 of ~500,000 estimated words**
+**9 books planned** · **2 in progress** · **~97,390 of ~500,000 estimated words**
 
 ```
 Series Progress
@@ -98,11 +99,11 @@ Series Progress
 
 | | Book 1 | Book 2 | Books 3-9 |
 |---|---|---|---|
-| **Chapters** | 24 of 36 outlined | 6 of 26 outlined | -- |
-| **Words** | 75,270 | 19,130 | -- |
-| **POV** | Clara (15) · Samuel (9) | Clara (4) · Samuel (2) | -- |
+| **Chapters** | 24 of 36 outlined | 7 of 26 outlined | -- |
+| **Words** | 75,270 | 22,120 | -- |
+| **POV** | Clara (15) · Samuel (9) | Clara (5) · Samuel (2) | -- |
 
-*30 chapters · 94,407 words · 3,146 avg words/chapter*
+*31 chapters · 97,394 words · 3,141 avg words/chapter*
 <!-- METRICS:END -->
 
 ### Themes
