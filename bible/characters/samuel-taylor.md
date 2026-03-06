@@ -50,6 +50,7 @@ Candid and self-aware. Speaks with directness that disarms — not verbose, not 
 | Eve Garrett | Niece figure / successor | Uncle figure and handler. Reveals Clara's network to Eve after Clara's death. |
 | Thomas Arlington | Intelligence colleague | Professional respect. Both serve Clara's larger network. |
 | Harper | Colleague | Presented with flowers by Harper backstage at the Golden Compass. |
+| George (dog) | Accepted companion | George "has decided Samuel belongs" — calibrates trust through proximity and touch (book-01, ch-04, ch-06, ch-07) |
 
 ## Arc by Book
 

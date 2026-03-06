@@ -1,7 +1,7 @@
 ---
 name: "Clara Chen"
 aliases: []
-born: "Circa 1830s (age 25 at series opening)"
+born: "Circa 1820s (age 25 at series opening, ~1821)"
 died: "During Era 1–Era 2 transition (metastatic breast cancer)"
 status: deceased
 first_appearance: "book-01, ch-01"
