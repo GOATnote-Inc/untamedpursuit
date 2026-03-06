@@ -162,6 +162,32 @@
 - ch-10: Outline says "twelve inches of humid air collapsed to nothing." Draft uses "twelve inches" as a recurring motif throughout — measured at the beginning, maintained through the conversation, collapsed at the end. The lean is the final beat.
 - ch-10: George's one-eye assessment — not in outline but organic and consistent with George's established character (reads situations, provides judgment through behavior). Lightens the emotional weight of the lean without undercutting it.
 
+- ch-11: Lily has painted 18 sunsets since Panama (first sunset ~May 3, ch-06 departure; ch-11 is ~May 19-21 — 16-18 days. One per evening, clean arithmetic.) — added to bible? no
+- ch-11: The hold dimensions — nine feet by six by five, measured by Lily's body. A new fact about the kidnapping space. — added to bible? no
+- ch-11: Lily measures every room she enters: distance to wall, distance to ceiling, whether the door opens from inside. Survival habit from the hold. — added to bible? no
+- ch-11: Harper noticed the loose second button from the collar on the Caroline. He said it needed tightening. Still loose. — added to bible? no (already noted in ch-08 continuity notes: "Harper noted the coat's loose second button from the collar")
+- ch-11: Panama City beach stone — collected morning of Harper's burial, used as painting weight. — added to bible? no
+- ch-11: Lily's cabin on the Resolute — eight feet by six, bunk, shelf, porthole. Door has no lock on the outside. — added to bible? no
+- ch-11: Ajax positions himself between Lily and whatever the world places in front of her — geometry learned at the orchard, continued on the ship. — added to bible? no
+- ch-11: Lily considered painting the hold once, at the orchard studio Clara built for her above the apple barn. Picked up raw umber. Put the brush down. — added to bible? no
+- ch-11: Lily heard the captors' patterns — hatch opened twice daily, morning man (heavy-footed, large), evening man (lighter, quicker, whistled). — added to bible? no
+- ch-11: Samuel leaves the companionway hatch open in the evening — act of small consideration Lily notices. — added to bible? skip (scene-specific)
+
+## Outline Deviations (ch-11)
+
+- ch-11: Outline says "the sunset over the Pacific — a line of fire on the water." Draft renders the sunset across the full chapter — not a single static description but a progression from beginning to end, the colors changing as the sun descends, Lily mixing and remixing to chase the shifting light. The "line of fire" is distributed across multiple color-mixing attempts.
+- ch-11: Outline says "Lily mixes pigments on her palette." Draft integrates the mixing throughout — cadmium yellow + alizarin crimson, burnt sienna, cadmium orange + white, cadmium red + ultramarine + yellow. The specific pigment names are period-appropriate (cadmium pigments were available by the 1840s).
+- ch-11: Outline beat 2 (the hold as filter) is rendered as the chapter's structural spine rather than a discrete section. The hold appears as a reference point in nearly every section — the zero on the scale, the thing she sees through, the thing that taught her to watch.
+- ch-11: Outline beat 3 (what she paints vs. what she omits) is given its own section. Draft adds specificity: she paints George three ways (head on paws, head lifted, asleep in sun wedge) but does not paint the two feet of empty planking where Harper stood. She paints the stern rail at sunset but not at midnight (when Clara stands alone). She paints the water at noon but not at four AM (when it looks like the hold).
+- ch-11: Outline beat 4 (Lily WATCHES) rendered as observation vignettes — Clara's walking, Samuel's two records, the crew's shift from fear to respect of George. The Caroline memory of Harper's button was not in outline but connects to ch-08's established detail.
+- ch-11: Outline beat 5 (Harper's teaching) rendered in the final section, focused on the core gift (choosing) rather than the technical skills (those are reserved for ch-13). The training sequence is referenced briefly (rifle first, knife second) but not dramatized — ch-13 will carry that weight.
+- ch-11: Outline says "what he really taught her was that she could choose." Draft renders this through the orchard memory — Ajax placed, rifle taught, silence between lessons — leading to the compass heading: "Not out of fear. Out of choice."
+- ch-11: The chapter ends with Lily going below, measuring her cabin, and closing her eyes — not in outline. Organic exit that returns to the hold-measurement motif (cabin dimensions, porthole, no lock on outside) and ends with the afterlight behind her eyelids, echoing the sunset's residual glow.
+
 ## Continuity Flags
 
-(No active flags.)
+### Reconciled: Three Pacific crossings vs. Cape of Good Hope (ch-10 / book-01 ch-10)
+- **Book 2, ch-10**: Clara says "Her father crossed the Pacific three times. Canton to the American coast and back."
+- **Book 1, ch-10**: Thomas says "That painting survived three ocean crossings. It was in the hold of a ship that nearly foundered off the Cape of Good Hope."
+- **Reconciliation**: Different subjects. Clara describes her *father's* three crossings — all Pacific. Thomas describes the *painting's* three crossings — the painting is older than the father's voyages. The Chen family maintained a two-generation presence in the Nagasaki trading compound; the painting traveled with the grandfather or earlier generation on a route that included the Cape of Good Hope (Indian Ocean route, not Pacific). Father's three trips = Pacific. Painting's three trips = various routes across generations.
+- **Status**: Reconciled. No draft changes needed. Bible note recommended: add to clara-chen.md continuity notes that the painting predates the father's crossings.

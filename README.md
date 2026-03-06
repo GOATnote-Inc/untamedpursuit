@@ -29,7 +29,7 @@
 | Book | Title | Era | Setting | Status |
 |---|---|---|---|---|
 | 1 | Fortune's Tide | Era 1 | Philadelphia, ~1846 | Revised — 24 chapters |
-| 2 | *(TBD)* | Era 1 | The Voyage West | Drafting — 10 of 26 chapters |
+| 2 | *(TBD)* | Era 1 | The Voyage West | Drafting — 11 of 26 chapters |
 | 3–4 | *(TBD)* | Era 1 | Building the Network | Planned |
 | 5–9 | *(TBD)* | Era 2 | FIERCE — Eve's Story | Planned |
 
@@ -72,7 +72,7 @@ The series is free to read. Start here:
 
 **Book 2: *(TBD)*** — [`books/book-02/chapters/`](books/book-02/chapters/)
 
-> [Read the full book](books/book-02/book.md) · 10 chapters · ~31,630 words
+> [Read the full book](books/book-02/book.md) · 11 chapters · ~35,110 words
 
 | Ch | Title | POV | Words |
 |---:|-------|-----|------:|
@@ -86,27 +86,28 @@ The series is free to read. Start here:
 | 8 | [Open Water](books/book-02/chapters/ch-08.md) | Clara Chen | 3,600 |
 | 9 | [Samuel's Journal](books/book-02/chapters/ch-09.md) | Samuel Taylor | 3,475 |
 | 10 | [The Intimacy of Irrelevance](books/book-02/chapters/ch-10.md) | Clara Chen | 3,335 |
+| 11 | [What She Paints](books/book-02/chapters/ch-11.md) | Lily Montgomery | 3,480 |
 
-*Book 2: ~31,630 words drafted* · *Series total: ~106,900 words*
+*Book 2: ~35,110 words drafted* · *Series total: ~110,380 words*
 <!-- PROGRESS:END -->
 
 <!-- METRICS:START -->
 ### Series Dashboard
 
-**9 books planned** · **2 in progress** · **~106,900 of ~500,000 estimated words**
+**9 books planned** · **2 in progress** · **~110,380 of ~500,000 estimated words**
 
 ```
 Series Progress
-[████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 21%
+[█████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 22%
 ```
 
 | | Book 1 | Book 2 | Books 3-9 |
 |---|---|---|---|
-| **Chapters** | 24 of 36 outlined | 10 of 26 outlined | -- |
-| **Words** | 75,270 | 31,630 | -- |
-| **POV** | Clara (15) · Samuel (9) | Clara (7) · Samuel (3) | -- |
+| **Chapters** | 24 of 36 outlined | 11 of 26 outlined | -- |
+| **Words** | 75,270 | 35,110 | -- |
+| **POV** | Clara (15) · Samuel (9) | Clara (7) · Samuel (3) · Lily (1) | -- |
 
-*34 chapters · 106,901 words · 3,144 avg words/chapter*
+*35 chapters · 110,381 words · 3,153 avg words/chapter*
 <!-- METRICS:END -->
 
 ### Themes
