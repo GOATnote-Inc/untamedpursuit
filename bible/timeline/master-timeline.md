@@ -87,24 +87,48 @@
 - **Note:** NOT a standalone timeline event. Elements harvested for use elsewhere. Kate and Clara's canonical first meeting is the anatomy lab (~early 1850s).
 - **Source:** kate_meet_clara
 
-### The Voyage West (~1850s)
+### The Voyage West and San Francisco (Book 2: April--July 1847)
 
-#### Outline_2_16 Scene Sequence
-- Ep1–5: Philadelphia consolidation, Wallace conflict
-- Ep6: Disembark for Panama
-- Ep7: Storm at sea
-- Ep8: Harper and Sam; orchestra on the ship
-- Ep9: Caribbean pirates
-- Ep10: Panama landing
-- Ep11–12: Pirate attack
-- **Scene 21: Death of Harper** — dies during the voyage
-- Ep22: Cholera outbreak
-- Ep24–26: Journey north along California coastline
-- Lily moved to tears by west-facing sunsets; paints, plays violin/cello, shares wine with Clara
-- Lily tells stories of Harper's kindness
-- Jack on a separate boat says "I don't trust Thomas" (referring to Thomas Arlington — Jack's instinct is vindicated; Thomas later betrays Clara out of jealousy and is killed by Lily)
-- **Scene 32: San Francisco landing** — Jack departs south to "secure defensible base of operations"
-- **Source:** outline_2_16, Outline_episode_Fierce_Book1_Season1
+#### April 26, 1847 — Mule-Trail Ambush (Book 2, ch-01)
+- Organized ambush on the mule trail, 8 miles from Panama City. Attackers positioned, informed, disciplined — not opportunists.
+- Harper mortally wounded covering the company (musket ball, belly, below ribs). "It's alright, Miss Chen." / "It is not."
+- **Source:** book-02, ch-01
+
+#### April 26--28, 1847 — Harper Dies (Book 2, ch-02--03)
+- **Scene 21 (Harper's death)**: Surgery in Panama City. Perforated bowel — death deferred. The night conversation: Harper reveals his past. Passes the manual to Clara.
+- Harper dies before dawn, April 28. Last words: "Miss Chen." Buried above Panama City, facing the Pacific. Pipe tobacco in the grave.
+- **Source:** book-02, ch-02--03
+
+#### Late April -- May 1847 — Cholera and Departure (Book 2, ch-04--07)
+- Cholera in Panama City. Two crew dead. Clara channels grief into medicine.
+- Samuel negotiates passage on the Resolute with Captain Morales.
+- Samuel writes second coded letter to Thomas (Panama City). Reports ambush and death. Withholds suspicion.
+- The Resolute clears Panama City ~May 3. Clara takes Harper's watch rotation (4--6 AM).
+- **Source:** book-02, ch-04--07
+
+#### May--June 1847 — Pacific Crossing (Book 2, ch-08--18)
+- Open water. Clara trains alone. George waits for Harper. Clara has not removed her leather coat since Harper died.
+- Samuel writes private journal — the record Thomas's codes cannot hold.
+- Clara and Samuel talk about their parents — full father story, his mother. The intimacy of irrelevance.
+- **Lily's first POV (ch-11)**: Paints sunsets. Measurement system revealed — everything measured against six days in the hold.
+- Music through the wall. Wine evenings. Harper's whistle transformed into Lily's melody.
+- **Lily's second POV (ch-13)**: Tells Samuel about Harper's teaching (rifle → knife → dog → "He wanted me to choose"). Has measured Samuel worthy.
+- California coast sighted. Samuel: "He taught her what I could not" / "What I would not."
+- **Lily's third POV (ch-15)**: Monterey. "Clara trusts him entirely. Do you?" / "That is not the same thing."
+- Third coded letter to Thomas (Monterey). Wallace agents reported in SF.
+- The Resolute enters San Francisco Bay ~June 10.
+- **Source:** book-02, ch-08--18
+
+#### June 1847 — San Francisco (Book 2, ch-19--26)
+- Jack Garrett appears in SF — early twenties, frontiersman, running dispatches between coastal settlements.
+- Jack provides Wallace intelligence, then: "I don't trust Thomas." Clara's fury.
+- Samuel's silence: "I don't know enough to agree with anyone."
+- Clara establishes SF foothold — trading post, harbor position, contracts.
+- Wallace's agents attempt exclusive harbor contract. Night attack on trading post. Clara ready (Harper's protocols). Jack on rooftop. Harbor held.
+- Clara traces mule-trail ambush to Thomas's correspondence network. Chooses not to follow the thread.
+- **Scene 32 (San Francisco landing)**: Jack departs south to "secure defensible base of operations."
+- Clara on the SF waterfront. Victory with cost.
+- **Source:** book-02, ch-19--26
 
 #### 1860 — Kate Meets Jack (Clara_Meets_Kate Prologue)
 - Kate at Woman's Medical College of Pennsylvania

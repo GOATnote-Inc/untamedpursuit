@@ -6,7 +6,7 @@ died: ""
 status: alive
 first_appearance: "book-01, ch-04"
 last_appearance: ""
-pov_character: false
+pov_character: true
 ---
 
 # Lily Montgomery
@@ -54,7 +54,9 @@ Poetic, contemplative, grounded in natural imagery. Speaks about growth, seasons
 
 | Book | Role | Arc Summary |
 |------|------|-------------|
-| Era 1 (Fortunes Tide) | Supporting character → decisive actor | Kidnapped and rescued. Transforms trauma into strength through art and deliberate choice. Requests weapons and dog training. Builds orchard at Wissahickon Creek. Kills Thomas Arlington when he betrays Clara — the payoff of "Not out of fear... Out of choice." |
+| Book 1 (Fortunes Tide) | Supporting character | Kidnapped and rescued. Transforms trauma into strength through art and deliberate choice. Requests weapons and dog training. Builds orchard at Wissahickon Creek. Joins the voyage west. |
+| Book 2 (The Golden Shore) | POV character (3 chapters: 11, 13, 15) | Three escalating POV chapters reveal her measurement system. Ch-11: beauty — paints sunsets, measures the world against the six days in the hold. Ch-13: vulnerability — tells Samuel about Harper's teaching, measures people by worthiness. Ch-15: judgment — asks "Do you trust him?" / "That is not the same thing," measuring Thomas by what he has risked (nothing). The gentle artist becomes the first to articulate the Thomas doubt. |
+| Later Era 1 | Decisive actor | Kills Thomas Arlington when he betrays Clara — the payoff of "Not out of fear... Out of choice." |
 
 ## Key Scenes
 

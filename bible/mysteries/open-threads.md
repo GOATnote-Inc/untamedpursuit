@@ -8,11 +8,23 @@
 ## Active Threads
 
 ### 1. Thomas Arlington's Betrayal — "I don't trust Thomas"
-- **Status**: developing → resolved
+- **Status**: developing → resolved (later books)
 - **Planted**: outline_2_16, Scene 30 (during the voyage west)
 - **Description**: Jack, on a separate boat, tells Clara "I don't trust Thomas." Clara is outraged. Jack was right. Thomas Arlington — Clara's oldest friend, left to manage her affairs — betrays her out of jealousy after being sidelined by Samuel and Jack. Thomas is ultimately killed by Lily Montgomery.
 - **Identity resolved**: Thomas Arlington (Clara's era) and Thomas Mitchell (Eve's era) are two separate characters. Mitchell may be Arlington's son or protege.
 - **Clues given so far**:
+  - book-01, ch-02: "I love you, Thomas" / "And well, you should" — the familiar trust that becomes the blind spot
+  - book-01, ch-06: Clara shares her father wound with Samuel but never showed Thomas — the emotional migration begins
+  - book-01, ch-18: Thomas writes the sailing manifest with his own name absent — the displacement that curdles
+  - book-01, ch-21: Caribbean pirates approach directly, as though they knew where to find Clara — one crew member doesn't fire
+  - **book-02, ch-01**: Mule-trail ambush — organized, positioned, informed. Someone knew the route. Thomas knew the route.
+  - **book-02, ch-05**: Samuel writes coded letter to Thomas, withholds suspicion about the organized ambush
+  - **book-02, ch-11**: Lily's measurement system established — measures the world against the six days in the hold
+  - **book-02, ch-13**: Lily measures Samuel worthy through telling Harper's story
+  - **book-02, ch-15**: Lily's measurement system applied to Thomas: "Clara trusts him entirely. Do you?" / "That is not the same thing." Thomas has built everything but risked nothing.
+  - **book-02, ch-20**: Jack: "I don't trust Thomas." Clara's fury. George stays on the porch looking after Jack (positive assessment).
+  - **book-02, ch-21**: Samuel's silence — "I don't know enough to agree with anyone." Three people (Lily, Jack, Samuel) have each placed weight on the other side of the scale.
+  - **book-02, ch-25**: Clara traces the mule-trail ambush to Thomas's correspondence network. Chooses not to follow the thread. The blind spot holds — but it is no longer invisible.
   - Jack's instinctive distrust during the voyage west — VINDICATED
   - Thomas's jealousy as Clara's world expands (Samuel, Jack, Kate, Lily)
   - Thomas left to manage affairs — the indispensable man who discovers he is dispensable
@@ -53,13 +65,14 @@
 - **Resolution plan**: Gradually revealed as Eve takes leadership. Full scope may never be shown — mystery is part of the design.
 
 ### 5. Jack's Southern Base Plan
-- **Status**: planted
-- **Planted**: outline_2_16, Scene 32
-- **Description**: After San Francisco landing, Jack departs south to "secure defensible base of operations." The nature and location of this base is never specified.
+- **Status**: planted -> developing (Book 2)
+- **Planted**: outline_2_16, Scene 32; dramatized book-02, ch-26
+- **Description**: After the Wallace confrontation in San Francisco, Jack departs south to "secure defensible base of operations." The nature and location of this base is never specified.
 - **Clues given so far**:
-  - Jack goes south from San Francisco
+  - book-02, ch-26: Jack rides south from San Francisco, rifle across his saddle, doesn't look back
   - He later operates in Colorado Territory / Silver Creek area
-  - His 14 missions span "cross-border situations"
+  - His 14 missions for Samuel span "cross-border situations"
+  - Plans a "defensible base of operations" — preparing for a future he will not live to see
 - **Resolution plan**: TBD. May connect to the frontier operations in Eve's era.
 
 ### 6. Captain Andrews — Jessie's Military Contact
@@ -95,7 +108,7 @@
 - **Resolution plan**: Thomas Mitchell's loyalty is tested. He chooses Eve's side. Durands defeated in Act III.
 
 ### 9. Wallace Betrayal
-- **Status**: developing
+- **Status**: developing -> partially resolved (Book 2)
 - **Planted**: Outline_episode_Fierce_Book1_Season1; first named in book-01, ch-03
 - **Description**: Wallace is introduced as an art-using cover figure who becomes corrupt and betrays Clara in San Francisco. Named by Samuel during the first tea as the man who offered a western port-control partnership (rejected by Samuel); the Mercy Jane attack was retaliation.
 - **Clues given so far**:
@@ -106,7 +119,10 @@
   - Ep5: Wallace's corruption revealed; conflict with Clara
   - Ep9: Arrival in San Francisco; Wallace's betrayal
   - Fix_beginning: Wallace's men attack Clara's docks from another city
-- **Resolution plan**: Ep10 — "master plan; victory with cost."
+  - **book-02, ch-17--18**: Wallace intelligence — agents in SF, harbor positioning, scouting the settlement
+  - **book-02, ch-23**: Wallace's agents attempt exclusive harbor contract; night attack on Clara's trading post. Clara ready (Harper's protocols). Jack on the rooftop. Two captured, scout escapes. Harbor held.
+  - **book-02, ch-24--25**: Captured intelligence reveals Wallace expected Clara in California — knew her route. SF operation was scouting, not invasion. Real force remains in the east.
+- **Resolution plan**: Wallace's SF operation defeated in Book 2. Larger eastern network persists. Full resolution TBD (later books).
 
 ### 10. The Traitor Who Knew Glass Garden Layout
 - **Status**: planted
@@ -141,11 +157,27 @@
 
 ---
 
+### 13. The Informed Ambush — Who Told?
+- **Status**: planted (Book 2)
+- **Planted**: book-02, ch-01 (mule-trail ambush)
+- **Description**: The mule-trail ambush that killed Harper was organized — attackers were positioned, informed, disciplined. Someone who knew Clara's route and timing enabled the attack. The thread leads toward Thomas's correspondence network (three-port routing: Kingston, Panama City, Monterey). Clara traces it in ch-25 but chooses not to follow the thread.
+- **Clues given so far**:
+  - book-02, ch-01: Ambush organized, not opportunistic — positioned, informed, disciplined
+  - book-02, ch-05: Samuel writes coded letter to Thomas, withholds suspicion
+  - book-02, ch-09: Samuel records ambush in private journal, leaves blank space for explanation
+  - book-02, ch-24: Captured Wallace intelligence — Wallace expected Clara in California, knew her route
+  - book-02, ch-25: Clara traces to Thomas's correspondence network, chooses not to follow
+- **Resolution plan**: Connects to Thomas's larger betrayal. The ambush was enabled through Thomas's correspondence system — either through Thomas directly or through a compromised intermediary. Resolution in later books when Thomas's betrayal is fully revealed.
+
+
+---
+
 ### 11. Clara's Progressive Disarmament Pattern
 - **Status**: developing
 - **Planted**: book-01, ch-01 through ch-07
 - **Description**: Clara's armament tracks her emotional openness with Samuel. Ch-01: fully armed (combat). Ch-02: leather coat + sword cane. Ch-03: dark green silk, sword cane only (no coat, no holsters). Ch-04: midnight blue performance gown, unarmed. Ch-05: rearmed (leather coat, holsters, Colts, sword cane). Ch-06: dark green silk under leather coat (blending registers). Ch-07: practice clothes (linen trousers, cotton shirt — most physically unguarded).
-- **Thematic resonance**: The courtship told through what Clara carries. Each chapter's armament reflects how much of herself she is willing to show Samuel.
+- **Book 2 development**: Reversed by grief. Clara has not removed her leather coat since Harper died (book-02, ch-08). She is fully armed throughout Book 2. The question of when she disarms again — and for whom — carries into Book 3.
+- **Thematic resonance**: The courtship told through what Clara carries. Each chapter's armament reflects how much of herself she is willing to show Samuel. In Book 2, grief rearmed her.
 
 ### 12. Clara's Father Wound
 - **Status**: planted
