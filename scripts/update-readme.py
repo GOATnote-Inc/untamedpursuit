@@ -473,6 +473,17 @@ def generate_progress(chapters_by_book):
             f"**Book {book_num}: {book_title}** \u2014 [`{book_dir}`]({book_dir})"
         )
         lines.append("")
+        book_md_path = os.path.join(
+            REPO_ROOT, "books", f"book-{book_num:02d}", "book.md"
+        )
+        if os.path.exists(book_md_path):
+            book_words = sum(ch.get("word_count", 0) for ch in chapters)
+            lines.append(
+                f"> [Read the full book](books/book-{book_num:02d}/book.md) "
+                f"\u00b7 {len(chapters)} chapters "
+                f"\u00b7 ~{format_number(round_to_10(book_words))} words"
+            )
+            lines.append("")
         lines.append("| Ch | Title | POV | Words |")
         lines.append("|---:|-------|-----|------:|")
 

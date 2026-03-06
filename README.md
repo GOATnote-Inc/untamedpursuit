@@ -39,6 +39,8 @@ The series is free to read. Start here:
 
 **Book 1: Fortune's Tide** — [`books/book-01/chapters/`](books/book-01/chapters/)
 
+> [Read the full book](books/book-01/book.md) · 24 chapters · ~75,270 words
+
 | Ch | Title | POV | Words |
 |---:|-------|-----|------:|
 | 1 | [The Night Watch](books/book-01/chapters/ch-01.md) | Clara Chen | 3,474 |
@@ -69,6 +71,8 @@ The series is free to read. Start here:
 *Book 1: ~75,270 words drafted* · *Series total: ~75,270 words*
 
 **Book 2: *(TBD)*** — [`books/book-02/chapters/`](books/book-02/chapters/)
+
+> [Read the full book](books/book-02/book.md) · 6 chapters · ~19,130 words
 
 | Ch | Title | POV | Words |
 |---:|-------|-----|------:|
