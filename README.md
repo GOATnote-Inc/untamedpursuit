@@ -29,7 +29,7 @@
 | Book | Title | Era | Setting | Status |
 |---|---|---|---|---|
 | 1 | Fortune's Tide | Era 1 | Philadelphia, ~1846 | Revised — 24 chapters |
-| 2 | *(TBD)* | Era 1 | The Voyage West | Revised — 7 chapters |
+| 2 | *(TBD)* | Era 1 | The Voyage West | Drafting — 8 of 26 chapters |
 | 3–4 | *(TBD)* | Era 1 | Building the Network | Planned |
 | 5–9 | *(TBD)* | Era 2 | FIERCE — Eve's Story | Planned |
 
@@ -72,7 +72,7 @@ The series is free to read. Start here:
 
 **Book 2: *(TBD)*** — [`books/book-02/chapters/`](books/book-02/chapters/)
 
-> [Read the full book](books/book-02/book.md) · 7 chapters · ~21,220 words
+> [Read the full book](books/book-02/book.md) · 8 chapters · ~24,820 words
 
 | Ch | Title | POV | Words |
 |---:|-------|-----|------:|
@@ -83,27 +83,28 @@ The series is free to read. Start here:
 | 5 | [The Resolute](books/book-02/chapters/ch-05.md) | Samuel Taylor | 2,189 |
 | 6 | [Departure](books/book-02/chapters/ch-06.md) | Clara Chen | 2,995 |
 | 7 | [Harper's Watch](books/book-02/chapters/ch-07.md) | Clara Chen | 3,091 |
+| 8 | [Open Water](books/book-02/chapters/ch-08.md) | Clara Chen | 3,600 |
 
-*Book 2: ~21,220 words drafted* · *Series total: ~96,490 words*
+*Book 2: ~24,820 words drafted* · *Series total: ~100,090 words*
 <!-- PROGRESS:END -->
 
 <!-- METRICS:START -->
 ### Series Dashboard
 
-**9 books planned** · **2 in progress** · **~96,490 of ~500,000 estimated words**
+**9 books planned** · **2 in progress** · **~100,090 of ~500,000 estimated words**
 
 ```
 Series Progress
-[████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 19%
+[████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 20%
 ```
 
 | | Book 1 | Book 2 | Books 3-9 |
 |---|---|---|---|
-| **Chapters** | 24 of 36 outlined | 7 of 26 outlined | -- |
-| **Words** | 75,270 | 21,220 | -- |
-| **POV** | Clara (15) · Samuel (9) | Clara (5) · Samuel (2) | -- |
+| **Chapters** | 24 of 36 outlined | 8 of 26 outlined | -- |
+| **Words** | 75,270 | 24,820 | -- |
+| **POV** | Clara (15) · Samuel (9) | Clara (6) · Samuel (2) | -- |
 
-*31 chapters · 96,491 words · 3,112 avg words/chapter*
+*32 chapters · 100,091 words · 3,127 avg words/chapter*
 <!-- METRICS:END -->
 
 ### Themes

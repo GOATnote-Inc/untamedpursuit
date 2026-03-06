@@ -107,6 +107,24 @@
 - ch-07: Outline says "How he nodded and took his position and never left it until a musket ball on a jungle trail made the decision for him." Draft renders this closely, with the nod connected to the same nod from ch-04 (Golden Compass flowers) and ch-01 (trail). The nod as recurring motif.
 - ch-07: Thomas's grandfather clock gifted to Clara — not in outline. Organic detail that seeds Thomas's generosity/possessiveness thread. Small enough to be background.
 
+- ch-08: Harper's blade described as "shorter, heavier" — fighting style: absorb rather than deflect. Consistent with "a wall shaped like a man." — added to bible? no
+- ch-08: Harper noted the coat's loose second button from the collar, said it needed tightening. — added to bible? no
+- ch-08: Reyes takes the 6-8 AM watch on the Resolute, standing still at the port rail with rifle (contrasted with Harper's walking patrol). — added to bible? no
+- ch-08: Cole has reduced obsessive rifle cleaning from twice daily to once (early afternoon). — added to bible? skip (scene-specific)
+- ch-08: Jennings's left shoulder examined by Clara on day 3 — nothing torn, nothing broken, inflammation and fatigue. Prescribed rest and lighter watch. — added to bible? skip (scene-specific medical detail)
+- ch-08: Lily uses apple wood from Wissahickon Creek for picture frames. — added to bible? no
+- ch-08: Dr. Murray teaching on wound healing: "The body decides. Not you, not me, not the patient's will. The body decides." (pressing thumb against a healing wound). — added to bible? no
+- ch-08: Clara's three blade targets (high, center, low) trained since Canton. — added to bible? skip (martial arts detail, consistent with established Canton training)
+- ch-08: Lily paints the water at noon as a systematic record, distinct from sunset paintings. — added to bible? skip (artistic behavior, consistent with catalogue-building in ch-07)
+- ch-08: Coat count: eleven days since the surgery (April 26 evening to ~May 7). Clara reaches for the button and does not unbutton. — added to bible? skip (scene-specific; coat-wearing already tracked in clara-chen.md)
+
+## Outline Deviations (ch-08)
+
+- ch-08: Outline says "Open water. No land in any direction." Draft uses "She had not seen land in three days" — specific rather than absolute. Consistent with the timeline (~May 6+, three days from Panama coast or last sighted island).
+- ch-08: Outline says Clara "practices against her own shadow, against the mast, against air." Draft focuses on the mast and air; shadow practice dropped as physically implausible on the foredeck at dawn (minimal shadow). The mast as primary training surface felt more concrete.
+- ch-08: Outline says "the ship's routine: Lily paints at the stern, Samuel reads below, Clara walks the perimeter. Three orbits on a small ship." Draft renders all three orbits with specific detail — Samuel reading a Spanish book lent by Morales, Lily painting noon water (not sunset), Clara registering Lily as a load-bearing wall. The "three orbits" metaphor is used directly.
+- ch-08: Outline beat 5 (coat realization) is the chapter's final section. Organic placement — the coat scene works strongest as the chapter's exit, the private moment after the public day.
+
 ## Continuity Flags
 
 (No active flags.)
