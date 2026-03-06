@@ -92,7 +92,8 @@ Measured and deliberate — described as having "river-stone smoothness" and a q
 - Owns the Chestnut Street parlor (tea venue) through a holding company (book-01, ch-03)
 - Tends orchids
 - Enjoys ginger tea
-- Trained at Canton Missionary Hospital for 3 years (age ~19 at start, ~1840-1843). Mentor: Dr. Murray, Scottish surgeon, taught abdominal assessment. (Source: book-02, ch-01)
+- Trained at Canton Missionary Hospital for 3 years (age ~19 at start, ~1840-1843). Mentor: Dr. Murray, Scottish surgeon, taught abdominal assessment. "A heavy dose before the knife was mercy, not excess." (Source: book-02, ch-01, ch-02)
+- Surgical kit: oilcloth roll, instruments purchased from a Canton supply house — suture needles, silk thread, probe, forceps, curved blade. Maintained 7 years (from ~1840). (Source: book-02, ch-02)
 - Uses sign language to communicate with Eve
 - Harper dies during the westward voyage — Clara loses her security chief before reaching San Francisco
 - London-tailored leather coat — commissioned for weapon concealment and weather protection. Unusual for the period but consistent with Clara's resources, martial background, maritime operations, and unconventional status. Military buff-coat tradition provides historical precedent for protective leather garments; bespoke London tailoring could produce any commissioned piece for a wealthy client. `[deliberate anachronism — defensible through bespoke tailoring, military buff-coat tradition, and maritime context]`

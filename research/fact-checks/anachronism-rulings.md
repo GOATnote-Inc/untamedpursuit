@@ -76,6 +76,7 @@ These terms have been flagged across multiple chapters and are now on the series
 | harbor patrol / patrol boat | modern | customs boat | ch-13 |
 | shifts (work shifts) | modern | watches | ch-21 |
 | architecture (figurative, for organization) | sometimes caught | bones, plans | ch-15, ch-22 |
+| blueprint (figurative) | 1926 | design, pattern, plan, map | book-02 ch-02, ch-03 |
 
 ---
 

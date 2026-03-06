@@ -12,27 +12,27 @@
 - ch-01: Litter constructed from stripped saplings and blankets — no bible update needed
 - ch-01: Jennings still has pirate graze shoulder wound — continuity from book-01, ch-21 (confirmed consistent)
 
-- ch-02: Harper's wife named Margaret — died of fever while Harper was in Florida, the night their daughter was born. Daughter raised by neighbors. Harper never held her. — added to bible? no
-- ch-02: Harper served in Florida (implies Second Seminole War, ~1835-1842) — left vague, not named — added to bible? no
-- ch-02: Harper's pipe tobacco — Virginia leaf, packed by Clara in Philadelphia. Pipe has bite marks on the stem. — added to bible? no
-- ch-02: Harper watched Clara for three days before coming to her door — added to bible? no
-- ch-02: George responds to twelve hand commands. Clara knew nine. Three new: fist closing twice (withdraw), flat palm turning over (perimeter shift), two fingers at eyes (I see what you see). — added to bible? no
-- ch-02: Harper calls Clara by her first name for the first time. Clara reciprocates with "David." — added to bible? no (already noted in harper.md arc summary)
-- ch-02: Clara's surgical kit — oilcloth roll, Dr. Murray's instruments from Canton supply house, maintained 7 years. Includes: suture needles, silk thread, probe, forceps, curved blade. — added to bible? no
-- ch-02: Laudanum dosage — forty drops for a man of Harper's weight (per Dr. Murray's teaching) — added to bible? skip (scene-specific medical detail)
-- ch-02: Musket ball extracted — flattened disc of gray metal, lodged against posterior abdominal wall — added to bible? no
-- ch-02: Samuel stands watch outside Harper's door with empty pistol across his knees — added to bible? no
+- ch-02: Harper's wife named Margaret — died of fever while Harper was in Florida, the night their daughter was born. Daughter raised by neighbors. Harper never held her. — added to bible? yes (harper.md continuity notes)
+- ch-02: Harper served in Florida (implies Second Seminole War, ~1835-1842) — left vague, not named — added to bible? skip (intentionally vague)
+- ch-02: Harper's pipe tobacco — Virginia leaf, packed by Clara in Philadelphia. Pipe has bite marks on the stem. — added to bible? yes (harper.md continuity notes)
+- ch-02: Harper watched Clara for three days before coming to her door — added to bible? yes (harper.md continuity notes)
+- ch-02: George responds to twelve hand commands. Clara knew nine. Three new: fist closing twice (withdraw), flat palm turning over (perimeter shift), two fingers at eyes (I see what you see). — added to bible? yes (george.md)
+- ch-02: Harper calls Clara by her first name for the first time. Clara reciprocates with "David." — added to bible? skip (already noted in harper.md arc summary)
+- ch-02: Clara's surgical kit — oilcloth roll, Dr. Murray's instruments from Canton supply house, maintained 7 years. Includes: suture needles, silk thread, probe, forceps, curved blade. — added to bible? yes (clara-chen.md)
+- ch-02: Laudanum dosage — thirty drops for a man of Harper's weight, described as a heavy dose (per Dr. Murray's teaching: "a heavy dose before the knife was mercy, not excess") — added to bible? skip (scene-specific medical detail, revised from forty to thirty for period accuracy)
+- ch-02: Musket ball extracted — flattened disc of gray metal, lodged against posterior abdominal wall — added to bible? skip (scene-specific)
+- ch-02: Samuel stands watch outside Harper's door with empty pistol across his knees — added to bible? skip (scene-specific)
 
 ## Outline Deviations
 
 - ch-01: Distance to Panama City — outline says "eight miles" (matching book-01, ch-24's dawn announcement). Draft uses "six, perhaps seven" per Reyes — because the company had been walking for ~1-2 miles between ch-24's dawn and the ambush. Not a discrepancy; reflects distance covered.
 
 - ch-03: Harper's last words — "Miss Chen." Returns to formality in death. Clara responds "Mr. Harper." — added to bible? yes (already in harper.md)
-- ch-03: Burial location — hill above Panama City, facing west toward the Pacific. Volcanic rock and compressed clay soil. Flat volcanic stone at the head, unmarked. — added to bible? no
-- ch-03: Clara places tobacco pouch, pipe, and flattened musket ball in the grave — added to bible? no (already noted in harper.md: "pipe tobacco in the grave")
-- ch-03: Lily places wildflowers at the grave — yellow, white, deep violet. Also places an unmarked volcanic stone at the head. — added to bible? no
-- ch-03: Samuel digs the grave — no discussion, takes the shovel, works in shirtsleeves — added to bible? no
-- ch-03: George sits at the grave's edge in assigned-post position. Does not move until Clara gives the flat-palm "come" signal. — added to bible? no
+- ch-03: Burial location — hill above Panama City, facing west toward the Pacific. Volcanic rock and compressed clay soil. Flat volcanic stone at the head, unmarked. — added to bible? skip (harper.md already has "buried above Panama City, facing the Pacific")
+- ch-03: Clara places tobacco pouch, pipe, and flattened musket ball in the grave — added to bible? skip (already in harper.md: "pipe tobacco in the grave")
+- ch-03: Lily places wildflowers at the grave — yellow, white, deep violet. Also places an unmarked volcanic stone at the head. — added to bible? skip (scene-specific)
+- ch-03: Samuel digs the grave — no discussion, takes the shovel, works in shirtsleeves — added to bible? skip (scene-specific)
+- ch-03: George sits at the grave's edge in assigned-post position. Does not move until Clara gives the flat-palm "come" signal. — added to bible? yes (george.md — command transfer)
 - ch-03: Ajax present at the burial, walking at Lily's heel — added to bible? skip (scene-specific)
 - ch-03: Clara's final line — "Reyes. We need a ship." — transition to ch-04 — added to bible? skip
 

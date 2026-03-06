@@ -85,7 +85,8 @@ Professional and restrained. Quiet concern underlies every word. Deferential —
 - Wound: musket ball, below the ribs on the right side, angled inward and downward — perforated bowel (death deferred, not prevented, per Clara's Canton training). Right side confirmed medically plausible for bowel perforation (small intestine/ascending colon → peritonitis). (Source: book-02, ch-01)
 - Last words: "Miss Chen" — returns to formality in death. Clara: "Mr. Harper."
 - Buried above Panama City, facing the Pacific. Pipe tobacco in the grave. George sits at the grave's edge.
-- Night conversation (ch-02): reveals wife who died young, daughter he never met, a war he came home from but never left. Chose Clara's service because protecting someone worth protecting made the rest bearable.
+- Night conversation (ch-02): reveals wife Margaret (died of fever while Harper was in Florida, the night their daughter was born — daughter raised by neighbors, Harper never held her), a war he came home from but never left. Watched Clara for three days before presenting himself at her door with a letter of introduction. Chose Clara's service because protecting someone worth protecting made the rest bearable. "There is someone worth the standing."
+- Pipe: Virginia leaf tobacco, packed by Clara in Philadelphia. Bowl worn smooth, stem carrying bite marks. The smell meant safety — "Harper was at his post and the perimeter was held." (Source: book-02, ch-02)
 - Lily Montgomery preserves his memory through stories of his kindness and desire to teach
 - Lily learns Harper's whistle, transforms it into a violin melody (book-02, ch-12)
 - Commands at least four men in his core team, plus additional personnel (Established book-01, ch-08)

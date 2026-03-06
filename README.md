@@ -29,7 +29,7 @@
 | Book | Title | Era | Setting | Status |
 |---|---|---|---|---|
 | 1 | Fortune's Tide | Era 1 | Philadelphia, ~1846 | Revised — 24 chapters |
-| 2 | *(TBD)* | Era 1 | The Voyage West | Drafting — 3 of 26 chapters |
+| 2 | *(TBD)* | Era 1 | The Voyage West | Revised — 3 chapters |
 | 3–4 | *(TBD)* | Era 1 | Building the Network | Planned |
 | 5–9 | *(TBD)* | Era 2 | FIERCE — Eve's Story | Planned |
 
@@ -74,15 +74,15 @@ The series is free to read. Start here:
 |---:|-------|-----|------:|
 | 1 | [The Narrowing Trail](books/book-02/chapters/ch-01.md) | Clara Chen | 3,311 |
 | 2 | [Panama City](books/book-02/chapters/ch-02.md) | Clara Chen | 3,268 |
-| 3 | [Before Dawn](books/book-02/chapters/ch-03.md) | Clara Chen | 3,187 |
+| 3 | [Before Dawn](books/book-02/chapters/ch-03.md) | Clara Chen | 3,210 |
 
-*Book 2: ~9,770 words drafted* · *Series total: ~85,040 words*
+*Book 2: ~9,790 words drafted* · *Series total: ~85,060 words*
 <!-- PROGRESS:END -->
 
 <!-- METRICS:START -->
 ### Series Dashboard
 
-**9 books planned** · **2 in progress** · **~85,040 of ~500,000 estimated words**
+**9 books planned** · **2 in progress** · **~85,060 of ~500,000 estimated words**
 
 ```
 Series Progress
@@ -92,10 +92,10 @@ Series Progress
 | | Book 1 | Book 2 | Books 3-9 |
 |---|---|---|---|
 | **Chapters** | 24 of 36 outlined | 3 of 26 outlined | -- |
-| **Words** | 75,270 | 9,770 | -- |
+| **Words** | 75,270 | 9,790 | -- |
 | **POV** | Clara (15) · Samuel (9) | Clara (3) | -- |
 
-*27 chapters · 85,040 words · 3,149 avg words/chapter*
+*27 chapters · 85,063 words · 3,150 avg words/chapter*
 <!-- METRICS:END -->
 
 ### Themes

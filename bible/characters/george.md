@@ -19,6 +19,16 @@ Massive black dog, approximately 140 pounds — a Newfoundland cross with contin
 
 Clara Chen's dog, acquired as a puppy through her Canton trading connections from a European breeder — possibly Swiss or German. European dog breeds moved along the same trading routes as goods and people. Trained to operate on hand signals — no verbal commands, making him silent and effective in covert operations. Functions as both companion and security asset. His dual nature — avenging spirit who comforts children — mirrors Clara's own duality as warrior and protector. Part of Clara's dog training program, which also produced Ajax.
 
+## Commands & Training
+
+- Responds to 12 hand commands. Clara knew 9; Harper taught her the remaining 3 during the night conversation (book-02, ch-02):
+  - Fist closing twice = *withdraw*
+  - Flat palm turning over = *perimeter shift*
+  - Two fingers at eyes = *I see what you see*
+- Flat palm, fingers together = *come* (first used by Clara alone after Harper's death, book-02, ch-03)
+- George reads threats independently and attacks without command when needed (book-02, ch-01)
+- After Harper's death, George sat at the grave's edge in assigned-post position and did not move until Clara gave the flat-palm *come* signal — the first on-page transfer of command (book-02, ch-03)
+
 ## Relationships
 
 | Character | Relationship | Dynamic |
