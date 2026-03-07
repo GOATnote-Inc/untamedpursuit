@@ -109,3 +109,21 @@
   - Coat passage tightened: "not additional mass but accumulated weight" (structural vs arithmetic)
 - **Bible updates**: Harper blade + button; Clara Dr. Murray teaching; Lily apple wood frames
 - **Word count**: 3,600 → 3,390 (-210 net)
+
+### Chapter 9 — 2026-03-07
+- **Subagent findings**: Continuity: clean pass, all facts consistent with bible. Historian: all historical claims verified (iron gall ink chemistry, SF 1847 details, Golden Gate naming, population, alcalde system, Adam Smith cipher); "assessment" period-appropriate but changed per style preference. Style: "[noun] who" at 12 (ceiling 6), "the way" at 4 (ceiling 2), Morales admiration 4/4, one banned word ("assessment"). Character: Samuel's commercial domain strongest in book, Morales needs friction, Thomas needs humanization. Prose-brilliance: blank space over-explained (3→1), domain breach ("well-built wall" is Clara's), tell-after-show (2 instances), exit echoes "ship moved" formula.
+- **Changes made**:
+  - "[Noun] who" clauses: reduced 12 → 5
+  - "The way" constructions: reduced 4 → 2 (kept market reading + warehouse floor)
+  - Banned word: "assessment" → "appraisal" (line 106)
+  - Morales friction: added Monterey warning ("But I have watched harbors that should have worked. Monterey — good anchorage, the capital of the province. Still a village. The coast does not follow your eastern arithmetic.")
+  - Blank space: trimmed 3 explanations → 1 ("inferences were not inventory")
+  - Domain fix: "the way warmth traveled through a well-built wall" → "through the ship's planking"
+  - Thomas humanized: added "not the apparatus but the man" passage, Thomas earning Clara's trust
+  - Tell-after-show: cut redundant explanations after ink passage and liabilities non-list
+  - Grief crack: "He had written those sentences without stopping. The pause had come later."
+  - Spanish book digression: trimmed ~35 words
+  - Triple "[noun] who" at finale compressed into single flowing clause
+  - Exit: "The ship moved" → "The ink dried. The balance remained open."
+- **Bible updates**: samuel-taylor.md (mother's penmanship), lily-montgomery.md (violin on Resolute), captain-morales.md (Monterey warning)
+- **Word count**: 3,475 → 3,247 (-228 net)

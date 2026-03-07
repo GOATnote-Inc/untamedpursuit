@@ -91,3 +91,4 @@ Poetic, contemplative, grounded in natural imagery. Speaks about growth, seasons
 - Kills Thomas Arlington when he betrays Clara — the payoff of her weapons training arc
 - "Not out of fear... Out of choice" — this line foreshadows her killing Thomas
 - Uses apple wood from Wissahickon Creek for picture frames. Same linseed oil for frames and painting. (Source: book-02, ch-08)
+- Plays violin every night aboard the Resolute — private and exploratory, not performing but searching. Sound travels through the ship's planking. Distinct from Golden Compass performance style. (Source: book-02, ch-09)

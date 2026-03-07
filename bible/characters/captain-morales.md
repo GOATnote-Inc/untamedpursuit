@@ -31,3 +31,4 @@ Captain of the Resolute, a two-masted coastal trader rigged for the Pacific run.
 - Crew of eighteen; can sail with twelve. Below twelve he anchors and waits for replacements. (Source: book-02, ch-05)
 - Does not interfere with passengers' social distances or security arrangements. Competent and incurious — wants cargo delivered, passage paid, crew alive. (Source: book-02, ch-06)
 - Says a prayer in Spanish at Davis's burial at sea. (Source: book-02, ch-05)
+- Commercial wisdom: "A harbor becomes a port not by fighting but by selling." Tempered by Monterey warning: "I have watched harbors that should have worked. Monterey — good anchorage, the capital of the province. Still a village. The coast does not follow your eastern arithmetic." (Source: book-02, ch-09)

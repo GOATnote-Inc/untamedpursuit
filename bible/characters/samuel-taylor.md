@@ -94,3 +94,4 @@ Candid and self-aware. Speaks with directness that disarms — not verbose, not 
 - Weeps during Clara's Golden Compass performance
 - Presented with flowers by Harper backstage
 - First combat use of the Colt Paterson (.36 caliber) — mule-trail ambush, April 26, 1847. Fired with discipline: "Each one placed like a figure in a ledger." (Source: book-02, ch-01)
+- Mother: taught him penmanship — learned at the parish school in Wexford, brought to Philadelphia along with three dresses, a rosary, and "the conviction that a legible hand was the difference between a man who signed his name and a man who made his mark." Upright, unadorned letters, neatness as respect. (Source: book-02, ch-09)

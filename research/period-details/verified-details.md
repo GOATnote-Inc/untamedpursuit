@@ -63,6 +63,16 @@ Compiled from historian reviews across 24 chapters. Details confirmed as period-
 - **Camino de Cruces**: Spanish colonial road — dressed stones erupting through mud after three centuries of jungle reclamation. Historically accurate description. (ch-24)
 - **Quinine**: Available as anti-malarial by 1840s; Harper's water discipline and mosquito netting reflect period knowledge. (ch-22-23)
 
+### Pacific Voyage (Book 2)
+- **Iron gall ink degradation in humidity**: Blue-black to brown color change caused by breakdown of iron(III) gallate complex into brown quinones and iron oxides. High humidity accelerates acid hydrolysis. Chemically accurate. (book-02, ch-09)
+- **Iron gall ink thinned with water**: Iron gall ink is water-based (iron sulphate + tannins + water + gum binder). Adding water to thickened/dried ink to restore flow is historically attested practice. (book-02, ch-09)
+- **Mazatlan to Columbia River trading route**: Established Pacific coast run in the 1840s. Mazatlan was a major Mexican port; Columbia River had Hudson's Bay Company operations at Fort Vancouver. Coastal traders made this run regularly. (book-02, ch-09)
+- **Letters of credit in 1847 Pacific trade**: Standard financial instrument for international merchants by the 1840s. British banks dominated issuance. (book-02, ch-09)
+- **Spanish "destino" = destination + fate**: Confirmed dual meaning from Latin *destinare*. Both senses are standard, not a literary invention. (book-02, ch-09)
+- **Book cipher keys — Adam Smith / Blackstone**: *Wealth of Nations* (1776, five editions by 1789) and *Commentaries on the Laws of England* (1765-69, American edition Philadelphia 1771-72) both widely available by 1847. Plausible cipher texts. (book-02, ch-05/ch-09)
+- **San Francisco 1847 details**: Renamed from Yerba Buena Jan 30, 1847; population ~459; one wharf (Broadway, built 1847); Custom House (Richardson's Casa Grande adobe, most prominent civic structure); alcalde system under U.S. military authority; Golden Gate named by Fremont 1846; Treaty of Guadalupe Hidalgo not yet signed (Feb 1848). All verified. See also `research/period-details/san-francisco-1847.md`. (book-02, ch-09)
+
 ---
 
 *Backfilled 2026-03-06 from 24 chapters of historian review logs in continuity-notes.md.*
+*Updated 2026-03-07: Book 2, ch-09 verifications added.*
