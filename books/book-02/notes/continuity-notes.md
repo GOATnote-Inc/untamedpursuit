@@ -162,21 +162,21 @@
 - ch-10: Outline says "twelve inches of humid air collapsed to nothing." Draft uses "twelve inches" as a recurring motif throughout — measured at the beginning, maintained through the conversation, collapsed at the end. The lean is the final beat.
 - ch-10: George's one-eye assessment — not in outline but organic and consistent with George's established character (reads situations, provides judgment through behavior). Lightens the emotional weight of the lean without undercutting it.
 
-- ch-11: Lily has painted 18 sunsets since Panama (first sunset ~May 3, ch-06 departure; ch-11 is ~May 19-21 — 16-18 days. One per evening, clean arithmetic.) — added to bible? no
-- ch-11: The hold dimensions — nine feet by six by five, measured by Lily's body. A new fact about the kidnapping space. — added to bible? no
-- ch-11: Lily measures every room she enters: distance to wall, distance to ceiling, whether the door opens from inside. Survival habit from the hold. — added to bible? no
-- ch-11: Harper noticed the loose second button from the collar on the Caroline. He said it needed tightening. Still loose. — added to bible? no (already noted in ch-08 continuity notes: "Harper noted the coat's loose second button from the collar")
-- ch-11: Panama City beach stone — collected morning of Harper's burial, used as painting weight. — added to bible? no
-- ch-11: Lily's cabin on the Resolute — eight feet by six, bunk, shelf, porthole. Door has no lock on the outside. — added to bible? no
-- ch-11: Ajax positions himself between Lily and whatever the world places in front of her — geometry learned at the orchard, continued on the ship. — added to bible? no
-- ch-11: Lily considered painting the hold once, at the orchard studio Clara built for her above the apple barn. Picked up raw umber. Put the brush down. — added to bible? no
-- ch-11: Lily heard the captors' patterns — hatch opened twice daily, morning man (heavy-footed, large), evening man (lighter, quicker, whistled). — added to bible? no
+- ch-11: Lily has painted 18 sunsets since Panama (first sunset ~May 3, ch-06 departure; ch-11 is ~May 19-21 — 16-18 days. One per evening, clean arithmetic.) — added to bible? skip — atmospheric count, not character trait
+- ch-11: The hold dimensions — nine feet by six by five, measured by Lily's body. A new fact about the kidnapping space. — added to bible? yes (lily-montgomery.md)
+- ch-11: Lily measures every room she enters: distance to wall, distance to ceiling, whether the door opens from inside. Survival habit from the hold. — added to bible? yes (lily-montgomery.md)
+- ch-11: Harper noticed the loose second button from the collar on the Caroline. He said it needed tightening. Still loose. — added to bible? skip — already noted in ch-08 continuity notes and harper.md
+- ch-11: Panama City beach stone — collected morning of Harper's burial, used as painting weight. — added to bible? yes (lily-montgomery.md)
+- ch-11: Lily's cabin on the Resolute — eight feet by six, bunk, shelf, porthole. Door has no lock on the outside. — added to bible? skip — setting detail, not character trait
+- ch-11: Ajax positions himself between Lily and whatever the world places in front of her — geometry learned at the orchard, continued on the ship. — added to bible? yes (lily-montgomery.md)
+- ch-11: Lily considered painting the hold once, at the orchard studio Clara built for her. Picked up raw umber. Put the brush down. — added to bible? yes (lily-montgomery.md)
+- ch-11: Lily heard the captors' patterns — hatch opened twice daily, morning man (heavy-footed, large), evening man (lighter, quicker, whistled). — added to bible? yes (lily-montgomery.md)
 - ch-11: Samuel leaves the companionway hatch open in the evening — act of small consideration Lily notices. — added to bible? skip (scene-specific)
 
 ## Outline Deviations (ch-11)
 
 - ch-11: Outline says "the sunset over the Pacific — a line of fire on the water." Draft renders the sunset across the full chapter — not a single static description but a progression from beginning to end, the colors changing as the sun descends, Lily mixing and remixing to chase the shifting light. The "line of fire" is distributed across multiple color-mixing attempts.
-- ch-11: Outline says "Lily mixes pigments on her palette." Draft integrates the mixing throughout — cadmium yellow + alizarin crimson, burnt sienna, cadmium orange + white, cadmium red + ultramarine + yellow. The specific pigment names are period-appropriate (cadmium pigments were available by the 1840s).
+- ch-11: Outline says "Lily mixes pigments on her palette." Draft integrates the mixing throughout — cadmium yellow + crimson lake, burnt sienna, cadmium orange + white, vermilion + ultramarine + yellow. Revised: "alizarin crimson" → "crimson lake" (alizarin 1868), "cadmium red" → "vermilion" (cadmium red 1910s). Cadmium yellow/orange period-appropriate (available by 1840s).
 - ch-11: Outline beat 2 (the hold as filter) is rendered as the chapter's structural spine rather than a discrete section. The hold appears as a reference point in nearly every section — the zero on the scale, the thing she sees through, the thing that taught her to watch.
 - ch-11: Outline beat 3 (what she paints vs. what she omits) is given its own section. Draft adds specificity: she paints George three ways (head on paws, head lifted, asleep in sun wedge) but does not paint the two feet of empty planking where Harper stood. She paints the stern rail at sunset but not at midnight (when Clara stands alone). She paints the water at noon but not at four AM (when it looks like the hold).
 - ch-11: Outline beat 4 (Lily WATCHES) rendered as observation vignettes — Clara's walking, Samuel's two records, the crew's shift from fear to respect of George. The Caroline memory of Harper's button was not in outline but connects to ch-08's established detail.

@@ -72,7 +72,17 @@ Compiled from historian reviews across 24 chapters. Details confirmed as period-
 - **Book cipher keys — Adam Smith / Blackstone**: *Wealth of Nations* (1776, five editions by 1789) and *Commentaries on the Laws of England* (1765-69, American edition Philadelphia 1771-72) both widely available by 1847. Plausible cipher texts. (book-02, ch-05/ch-09)
 - **San Francisco 1847 details**: Renamed from Yerba Buena Jan 30, 1847; population ~459; one wharf (Broadway, built 1847); Custom House (Richardson's Casa Grande adobe, most prominent civic structure); alcalde system under U.S. military authority; Golden Gate named by Fremont 1846; Treaty of Guadalupe Hidalgo not yet signed (Feb 1848). All verified. See also `research/period-details/san-francisco-1847.md`. (book-02, ch-09)
 
+- **Cadmium yellow availability (1847)**: Cadmium sulfide suggested as pigment 1819; commercially available to artists by the 1840s, though expensive and scarce. Winsor & Newton introduced it as "aurora yellow" at the 1851 Great Exhibition, but it was in limited use before that. Plausible for a well-supplied artist. (book-02, ch-11)
+- **Cadmium orange availability (1847)**: Borderline. Could be produced by adjusting cadmium yellow from the 1830s-1840s, though rare. Formal mass-production patent 1919. Defensible for an artist with access to specialty pigments. (book-02, ch-11)
+- **Burnt sienna availability**: Earth pigment quarried in Tuscany since the 18th century. Standard palette pigment for 19th-century artists. No issues. (book-02, ch-11)
+- **Synthetic ultramarine availability (1847)**: Invented 1826, commercially affordable by the 1840s. Turner used it in 1834. Widely available by 1847. (book-02, ch-11)
+- **Raw umber availability**: Known since the 16th century. Standard landscape painter's pigment in the 18th-19th centuries. No issues. (book-02, ch-11)
+- **Paint tubes (1847)**: Collapsible metal tubes patented by John Goffe Rand in 1841. Winsor & Newton marketed oil paints in tubes from 1841; watercolor tubes introduced 1846. By 1847, tube paints were commercially available. Lily "squeezing from the tube" is period-accurate. (book-02, ch-11)
+- **Ocean bioluminescence / phosphorescence**: Marine dinoflagellates recognized as the source of sea phosphorescence circa 1830. Well-known to sailors by the 1840s. Benjamin Franklin theorized about it in 1747-1753. Glowing wakes widely observed. (book-02, ch-11)
+- **Baldwin apples in October**: Originated Wilmington, Massachusetts circa 1740. Most popular apple in New England by the 1830s-1850s. Late-season variety; October harvest reference accurate. (book-02, ch-11)
+- **Rhode Island Greening apples**: Originated circa 1650, Middletown, Rhode Island. Well-established heritage variety by the 1840s. One of the most popular apples in New York in the 19th century. (book-02, ch-11)
+
 ---
 
 *Backfilled 2026-03-06 from 24 chapters of historian review logs in continuity-notes.md.*
-*Updated 2026-03-07: Book 2, ch-09 verifications added.*
+*Updated 2026-03-07: Book 2, ch-09 and ch-11 verifications added.*

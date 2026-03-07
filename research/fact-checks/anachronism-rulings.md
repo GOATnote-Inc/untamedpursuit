@@ -1,4 +1,4 @@
-# Anachronism Rulings — Book 1
+# Anachronism Rulings — Books 1 & 2
 
 Compiled from historian reviews across 24 chapters. Each entry records the ruling, the resolution, and the chapter reference. Organized by category.
 
@@ -104,4 +104,24 @@ These items were checked and confirmed as period-accurate for ~1846:
 
 ---
 
+## Book 2 Anachronisms
+
+### Alizarin crimson (pigment name)
+- **Chapter**: book-02, ch-11
+- **Ruling**: "Alizarin crimson" is the name of a synthetic pigment created in 1868 by Graebe and Liebermann (BASF). The term did not exist before 1868. The natural precursor, derived from madder root, was called "madder lake," "rose madder," or "crimson lake."
+- **Resolution**: FIXED — replaced with "crimson lake" (period-accurate cochineal/madder-based pigment).
+
+### Cadmium red (pigment)
+- **Chapter**: book-02, ch-11
+- **Ruling**: Cadmium red was not commercially available until ~1910-1919 (required selenium addition to cadmium sulfide). Cadmium yellow was available by the 1840s, but cadmium red is a 20th-century pigment.
+- **Resolution**: FIXED — replaced with "vermilion" (mercury sulfide, standard warm red pigment).
+
+### Green flash — "she had read about it"
+- **Chapter**: book-02, ch-11
+- **Ruling**: The earliest undisputed written record of the green flash is W. Swan's 1865 observation (published 1883). No published account predates 1865. Lily could not have "read about" the green flash in 1847. Oral maritime lore is plausible; written reference is not.
+- **Resolution**: FIXED — changed to "she had heard sailors speak of it" (oral maritime tradition).
+
+---
+
 *Backfilled 2026-03-06 from 24 chapters of historian review logs in continuity-notes.md.*
+*Updated 2026-03-07: Book 2, ch-11 anachronisms added.*

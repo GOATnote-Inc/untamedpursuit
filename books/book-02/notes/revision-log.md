@@ -149,3 +149,20 @@
   - Frontmatter: removed "at fifty-something" from summary (not in text)
 - **Bible updates**: clara-chen.md (father's teaching, Canton courtyard, father's violence), samuel-taylor.md (mother Mary full details), captain-morales.md (already current), george.md (courtship geometry acceptance)
 - **Word count**: 3,335 → 2,752 (-583 net)
+
+### Chapter 11 — 2026-03-07
+- **Subagent findings**: Continuity: clean pass, warnings on Chestnut Street parlor sourcing and new facts needing curation. Historian: 3 pigment/historical errors (alizarin crimson 1868, cadmium red 1910s, green flash no published account pre-1865). Style: "the way" at 18 (ceiling 2), tell-after-show ×2, thesis over-articulated (5 statements), noun repetition high. Character: Lily's voice distinct, Samuel admirable wallpaper with zero complication. Prose-brilliance: painting genuinely tested, but Lily perfect perceiver (never wrong), no physical cost below waterline, exit repeats repose pattern, fatal flaw shown but not interrogated.
+- **Changes made**:
+  - Anachronisms: "alizarin crimson" → "crimson lake"; "cadmium red" → "vermilion"; "she had read about it" (green flash) → "heard sailors speak of it"
+  - "The way" constructions: reduced 18 → 2 (kept clock simile opening + windowpane hold metaphor)
+  - Tell-after-show: cut "The omissions were as deliberate as the brushstrokes" (line 106); thesis restatement trimmed at end
+  - Thesis over-articulation: reduced 5 → ~2.5 (kept hold-as-zero + court metaphor; cut "painted sunsets because sunsets were the farthest thing"; thinned evidence passage and final fraction/denominator)
+  - Samuel friction: added hand-to-chest gesture Lily cannot decode — "filed it with the unmixed colors"
+  - Physical cost: added ribs tightening at waterline — "the old reflex, the body remembering a different descent into a different hull. She breathed through it."
+  - Exit differentiated: "Behind her eyelids, the afterlight glowed" → "Through the porthole, a last band of color. Fading, but there."
+  - Coat observation: three "in the way" → participial phrases (Clara holding, hands disappearing, leather shaping)
+  - George painting: cut redundant simile "belonged to the ship the way the mast belonged" — "carved from the deck itself" sufficient
+  - Various "the way" rewrites using varied syntax: direct statement, participial phrases, simile restructuring, appositive
+  - Frontmatter: word_count corrected from 3480 (drafting error) to 4641 (actual)
+- **Bible updates**: lily-montgomery.md (measurement system, hold dimensions, captors' patterns, beach stone, Ajax geometry, room-measurement habit, orchard studio)
+- **Word count**: 4,854 → 4,641 (-213 net; original frontmatter of 3,480 was inaccurate)
