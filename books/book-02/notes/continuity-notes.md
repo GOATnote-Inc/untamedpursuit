@@ -143,16 +143,16 @@
 - ch-09: Outline says Samuel "does not suspect Thomas — not yet." Draft renders this precisely — Samuel traces the supply chain logic but stops before the conclusion. "The inference was not a fact." The pen hovers but does not write. Samuel does not suspect; he records the absence of an explanation.
 - ch-09: Morales conversation is more detailed than outline suggests — includes SF specifics (population, wharf, Custom House, school, military authority) drawn from the SF 1847 research. Morales's commercial advice ("Not by fighting. By selling.") is an addition that advances the Clara/Samuel division-of-labor theme.
 
-- ch-10: Clara's father's specific teaching — "The world will try to take things from you. Your cargo. Your name. Your life. I am teaching you to prevent that. When you are old enough to choose, you can decide what to do with the teaching. But you must have it first. You cannot choose to fight if you do not know how." Clara was ten when he said this. — added to bible? no
-- ch-10: Clara's father used force to protect his trading connections. Others in Philadelphia said "his fortune was built on blood." Clara: "They were not entirely wrong." The wound: the accusations were partly true, and Clara inherited that fraction. — added to bible? no
-- ch-10: Clara trained from age eight in the Canton courtyard — stone paving, jasmine from the garden wall. Father's hands correcting her stance. — added to bible? no
+- ch-10: Clara's father's specific teaching — "The world will try to take things from you. Your cargo. Your name. Your life. I am teaching you to prevent that. When you are old enough to choose, you can decide what to do with the teaching. But you must have it first. You cannot choose to fight if you do not know how." Clara was ten when he said this. — added to bible? yes (clara-chen.md)
+- ch-10: Clara's father used force to protect his trading connections. Others in Philadelphia said "his fortune was built on blood." Clara: "They were not entirely wrong." The wound: the accusations were partly true, and Clara inherited that fraction. — added to bible? yes (clara-chen.md)
+- ch-10: Clara trained from age eight in the Canton courtyard — stone paving, jasmine from the garden wall. Father's hands correcting her stance. — added to bible? yes (clara-chen.md)
 - ch-10: Clara's father taught her the Chen family art; mentioned the White Crane tradition was "founded by a woman" — used this to counter Clara's complaints about hard training. — added to bible? skip (consistent with bible — Fang Qiniang reference already established)
-- ch-10: Samuel's mother's name: Mary. Same parish as his father in Wexford, married before the crossing. — added to bible? no
-- ch-10: Mary Taylor brought three dresses, a rosary, and handwriting instruction to Philadelphia. Smelled of lye soap, bread dough, and lavender (three stalks in a tin can, kitchen windowsill, one hour of direct sun). — added to bible? no
-- ch-10: Mary Taylor died when Samuel was seventeen — lungs, coal dust, damp, poor ventilation. No dramatic illness. — added to bible? no
-- ch-10: Mary's Sunday ritual — "God sees you as you are. The least you can do is show up clean." Every Sunday before Mass, inspecting Samuel and his father. — added to bible? no
+- ch-10: Samuel's mother's name: Mary. Same parish as his father in Wexford, married before the crossing. — added to bible? yes (samuel-taylor.md)
+- ch-10: Mary Taylor brought three dresses, a rosary, and handwriting instruction to Philadelphia. Smelled of lye soap, bread dough, and lavender (three stalks in a tin can, kitchen windowsill, one hour of direct sun). — added to bible? yes (samuel-taylor.md)
+- ch-10: Mary Taylor died when Samuel was seventeen — lungs, coal dust, damp, poor ventilation. No dramatic illness. — added to bible? yes (samuel-taylor.md)
+- ch-10: Mary's Sunday ritual — "God sees you as you are. The least you can do is show up clean." Every Sunday before Mass, inspecting Samuel and his father. — added to bible? yes (samuel-taylor.md)
 - ch-10: Phosphorescence in the Pacific wake — green glow from bioluminescent organisms. Dr. Murray mentioned it during a Canton lecture on tropical fevers. — added to bible? skip (scene-specific)
-- ch-10: Clara leans against Samuel's shoulder — first physical contact of the courtship. George opens one eye, assesses the new geometry, closes it. — added to bible? no
+- ch-10: Clara leans against Samuel's shoulder — first physical contact of the courtship. George opens one eye, assesses the new geometry, closes it. — added to bible? yes (clara-chen.md, samuel-taylor.md, george.md)
 
 ## Outline Deviations (ch-10)
 

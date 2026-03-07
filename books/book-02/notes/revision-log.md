@@ -127,3 +127,25 @@
   - Exit: "The ship moved" → "The ink dried. The balance remained open."
 - **Bible updates**: samuel-taylor.md (mother's penmanship), lily-montgomery.md (violin on Resolute), captain-morales.md (Monterey warning)
 - **Word count**: 3,475 → 3,247 (-228 net)
+
+### Chapter 10 — 2026-03-07
+- **Subagent findings**: Continuity: POV violation — Clara references Samuel's private journal and blank space (ch-09 interiority only); Dr. Murray as "old" is new. Historian: "reclassification" postdates scene by 2 years; "perimeter" borderline; all period details verified (phosphorescence, Canton trade, Wexford parish, coal dust deaths, lavender botany). Style: "[noun] who" at 12 (ceiling 6), "the way" at 5 (ceiling 2), admiration ~14:3, tell-after-show ×2, tricolons at 5. Character: voices consistent, arc advancing, Samuel flawless receiver needs friction. Prose-brilliance: 5 competencies/0 tested (appropriate for intimate scene), admiration ratio high, vulnerability risk-free, exit repeats ch-07–09 stillness pattern.
+- **Changes made**:
+  - POV fix: "wrote a private journal and did not fill in the blank space" → "kept his own counsel about what the journey had cost"
+  - "[Noun] who" clauses: reduced 12 → 6 ("a man who believed" → "someone convinced," "a man who used force" → "my father used force," "a man who believed" → "because he believed," "a man who crossed oceans" → "three oceans under his keel," catalog compressed)
+  - "The way" constructions: reduced 5 → 1 (kept facade/building — Clara's domain)
+  - Anachronisms: "reclassification" → "redrawing"; "perimeter" → "border"
+  - Banned word: "assessment" → "judgment"
+  - Samuel imperfection: added silence beat — "Longer than she expected... whether the telling had been a miscalculation"
+  - Tell-after-show: cut furnished-silence elaboration (line 79), cut Clara-empire listing (lines 117-118)
+  - Admiration: cut "the nothing was the right thing," cut narrator praise of Samuel's speech and Clara's listening, cut Samuel restraint negative catalog
+  - "Twelve inches": thinned 7 → 5 occurrences
+  - Phosphorescence: thinned 8 → 2 (+ "green light"/"glow" variants)
+  - Tricolons: 5 → 2 (cut empire tricolon with tell-after-show; compressed body tricolon to 2 clauses)
+  - Filter word: cut "Clara thought about what Samuel had told her"
+  - Negative catalog: cut list of things Clara didn't do (line 95)
+  - Setting cluster: compressed 3 sentences → 1 (line 87)
+  - Exit: cut phosphorescence/stars/ship reprise; end on George beat + Clara's stillness
+  - Frontmatter: removed "at fifty-something" from summary (not in text)
+- **Bible updates**: clara-chen.md (father's teaching, Canton courtyard, father's violence), samuel-taylor.md (mother Mary full details), captain-morales.md (already current), george.md (courtship geometry acceptance)
+- **Word count**: 3,335 → 2,752 (-583 net)

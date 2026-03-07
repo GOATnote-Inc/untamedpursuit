@@ -37,3 +37,11 @@ Clara Chen's dog, acquired as a puppy through her Canton trading connections fro
 | Samuel Taylor | Developing bond | Greets Samuel with muzzle touch (ch-06), head settles in Samuel's lap during Golden Compass performance (ch-04), leads Samuel through Clara's house (ch-07). George has decided Samuel belongs. |
 | Ajax | Training program peer | Part of Clara's dog training program. |
 | Rescued children | Protector / comforter | Provides comfort to children rescued by Clara's network. |
+
+## Continuity Notes
+
+- Massive black dog, ~140 lbs. Newfoundland cross with continental European stock.
+- Operates on 12 hand signals (no verbal commands). Clara knew 9; learned 3 more from Harper (book-02, ch-02).
+- Command transferred from Harper to Clara after Harper's death (book-02, ch-03).
+- Has decided Samuel belongs — greets with muzzle touch, settles head in Samuel's lap, leads Samuel through Clara's house. (Source: book-01, ch-04, ch-06, ch-07)
+- When Clara leans against Samuel's shoulder: opens one eye, assesses the new geometry, closes it — endorsing the contact as non-threatening. (Source: book-02, ch-10)
