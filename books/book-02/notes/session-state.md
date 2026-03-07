@@ -1,105 +1,71 @@
-# Session State — Book 2 Act I Complete
+# Session State — Book 2 Act II Drafted
 
 ## What's Done
 
-### Act I Drafting (Phase 2) — COMPLETE
-- **Ch-01**: drafted + revised (3,412 words, Clara POV)
-- **Ch-02**: drafted + revised (3,268 words, Clara POV)
-- **Ch-03**: drafted + revised (3,210 words, Clara POV)
-- **Ch-04**: drafted (3,142 words, Samuel POV) — continuity checked, errors fixed
-- **Ch-05**: drafted (3,078 words, Samuel POV) — continuity checked, errors fixed
-- **Ch-06**: drafted (3,124 words, Clara POV) — continuity checked, errors fixed
-- **Ch-07**: drafted (2,987 words, Clara POV) — continuity checked, errors fixed
+### Act I Drafting + Revision (Phase 2) — COMPLETE
+- **Ch-01**: revised (3,311 words, Clara POV)
+- **Ch-02**: revised (3,268 words, Clara POV)
+- **Ch-03**: revised (3,210 words, Clara POV)
+- **Ch-04**: revised (3,153 words, Samuel POV)
+- **Ch-05**: revised (2,189 words, Samuel POV)
+- **Ch-06**: revised (2,995 words, Clara POV)
+- **Ch-07**: revised (3,091 words, Clara POV)
 
-### Continuity Errors Fixed This Session
-1. Ch-04: "two men to cholera" → "one" (Davis not yet dead)
-2. Ch-05: Morales "Eight passengers" → "Seven" (Harper + Ward dead)
-3. Ch-05: Letter reports Davis dead → "sick and worsening" (not yet dead when letter written)
-4. Ch-05: Blanket "burned" → "gone into the grave" (matches ch-03 burial)
-5. Ch-05: "seven passengers" → "six" (after Davis dies)
-6. Ch-06: Southern Cross "gone" → "hung low" (visible at 9°N latitude)
-7. Ch-06: Ajax added to Lily's stern-rail scene (was absent)
-8. Ch-07: "Chestnut Street parlor" → "Spruce Street townhouse" (wrong location)
+### Act II Drafting (Phase 4) — COMPLETE
+- **Ch-08**: drafted (3,600 words, Clara POV) — Open Water
+- **Ch-09**: drafted (3,475 words, Samuel POV) — Samuel's Journal
+- **Ch-10**: drafted (3,335 words, Clara POV) — The Intimacy of Irrelevance
+- **Ch-11**: drafted (3,480 words, Lily POV) — What She Paints
+- **Ch-12**: drafted (2,700 words, Clara POV) — Music Through the Wall
+- **Ch-13**: drafted (3,928 words, Lily POV) — What He Taught Her
+- **Ch-14**: drafted (2,958 words, Samuel POV) — The California Coast
+- **Ch-15**: drafted (3,465 words, Lily POV) — That Is Not the Same Thing
 
-### Subagent Reports Received (from previous session, ch-02/03)
-- Style-reviewer ch-02: "the way" 9→ceiling 2, "[noun] who" 8→ceiling 6, "four years" 8x
-- Style-reviewer ch-03: "the way" 7→ceiling 2, "[noun] who" ~14→ceiling 6, "four years" 8x
-- Character-analyst ch-02: clean, voices distinct, all grounded
-- Character-analyst ch-03: clean, George's hesitation strongest moment
-- Prose-brilliance ch-02: Harper's dying speech too coronation-like, give him selfishness
-- Prose-brilliance ch-03: scaffold fails nowhere — need one crack, wildflower metaphor is Lily's domain not Clara's
-- Historian ch-02: "blueprint" (3x) anachronistic (figurative 1926), laudanum 40→30 drops
-- Historian ch-03: "blueprint" (2x), "processed" (banned), "assessment" (1934)
-- Continuity ch-02: Ward missing from personnel accounting, Ajax absent
-- Continuity ch-03: George position discontinuity (stairs→table), "staircase"→"hallway"
+**Total words drafted (ch-01–15):** ~47,148
 
-**Note**: Ch-02 and ch-03 revisions were ALREADY APPLIED in the previous session. The reports above are informational only — the edits are done.
-
-### Continuity Checker Reports (this session, ch-04–07)
-- Ch-04: "two men to cholera" error (FIXED), Jennings combined injuries warning, piano omission from Golden Compass memory
-- Ch-05: Morales headcount errors (FIXED), letter temporal error (FIXED), blanket contradiction (FIXED), cipher/wax details need bible logging
-- Ch-06: George verbal command (author decision — kept as intentional evolution), Southern Cross (FIXED), Ajax absent (FIXED), father's three crossings (new fact)
-- Ch-07: Chestnut Street → Spruce Street (FIXED), Harper "Forty" narrows bible's "40s", grandfather clock as Thomas's gift (new fact), Cantonese as a girl (new fact)
+### Continuity Errors Fixed During Drafting
+- Ch-09: Samuel's Colt count corrected, Morales range fixed
+- Ch-12: Ajax added, geography corrected
 
 ## What's Next — In Order
 
-### Immediate: Run /revise on ch-04 through ch-07
-All five subagents on each chapter:
-1. continuity-checker (ALREADY DONE for all four — results above)
-2. historian
-3. style-reviewer
-4. character-analyst
-5. prose-brilliance
+### Immediate: Revise ch-08 through ch-15
+Run `/revise 2 N` sequentially for N = 8–15. Each turn:
+1. Five subagents in parallel (continuity-checker, historian, style-reviewer, character-analyst, prose-brilliance)
+2. Synthesize findings, apply edits after approval
+3. Curate bible entries (process `added to bible? no` backlog)
+4. Update frontmatter to `status: revised`
+5. Commit + push
 
-Then synthesize findings and apply edits. Mark chapters as `revised`.
+**Bible curation is heaviest in:** ch-10 (Clara's father, Samuel's mother Mary), ch-11 (Lily's hold/measurement system), ch-13 (Harper's teaching quotes), ch-15 (verb measurement, "That is not the same thing").
 
-### Phase 3: Act II Preparation
-1. **Lily voice study** — one page of Lily interiority before drafting ch-11. Establish her metaphor domain (natural/artistic/sensory) and measurement filter (everything against the hold).
-2. **SF 1847 research** — `/research` on San Francisco settlement, June 1847. Specific details for Act III.
+### Then: Draft remaining Act II (ch-16–18)
+- Ch-16: Samuel POV — third coded letter from Monterey, doubt enters the system
+- Ch-17: Clara POV — approaching SF, Wallace intelligence, planning without Harper
+- Ch-18: Clara POV — entering SF Bay, the company arrives diminished
 
-### Phase 4: Act II Drafting (chapters 8–18)
-Draft Clara/Samuel Pacific chapters (8, 9, 10, 12, 14, 16, 17, 18) and Lily's three POV chapters (11, 13, 15).
+### Then: Draft Act III (ch-19–26)
+- Ch-19–26: Jack's entrance, Thomas confrontation, Wallace fight, resolution
 
-### Phase 5: Act III Drafting (chapters 19–26)
-Jack's entrance, Thomas confrontation, SF establishment, Wallace, resolution.
+### Then: Revise ch-16–26
+Same five-subagent pattern as Act I and Act II revisions.
 
-### Phase 6: Book 2 Completion
-Full book review, bible updates, begin Book 3 structural analysis.
+### Finally: Book Review
+`/book-review 2` — frontmatter audit, timeline validation, POV balance, thread matrix.
 
-## Bible Entries Pending (from ch-04–07 continuity notes)
+## Bible Curation Backlog
 
-### Ch-04 (marked "added to bible? no")
-- Ward dies of cholera on day 5
-- Jennings recovers from cholera on day 3
-- Company roster after Ward's death
-- Samuel cleaned/reloaded Paterson morning after burial
-- Resolute + Captain Morales introduced
-- Harper's flowers memory (Golden Compass backstage)
-- Clara treating strangers (rehydration per Dr. Murray)
-- Clara gives Samuel negotiation role
+**54 entries** from ch-08–15 marked `added to bible? no` in `continuity-notes.md`.
 
-### Ch-05 (marked "added to bible? no")
-- Captain Morales — brown-skinned, weathered, Spanish accent, two-masted trader
-- Thomas's cipher system — substitution, port-specific keys (Adam Smith for Kingston, Blackstone for Panama City)
-- Thomas's wax seal — red, brass case, T.A. interlocked, Chestnut Street engraver
-- Davis dies of cholera before clearing harbor, buried at sea
-- Company departing: six passengers, two dogs
+Key gaps:
+- **Harper** (`bible/characters/harper.md`): blade description (shorter/heavier, absorb not deflect), loose button observation, whistle habit, teaching quotes ("Distance is the first gift," "The body has doors," "I wanted you to choose safety")
+- **Samuel's mother Mary** (`bible/characters/samuel-taylor.md`): name, Wexford parish, three dresses/rosary/penmanship, lye soap/bread/lavender, death at 17 (lungs, coal dust), Sunday quote
+- **Lily** (`bible/characters/lily-montgomery.md`): hold dimensions (9x6x5), room-measurement habit, captors' patterns (morning man heavy, evening man whistled), apple wood frames, painting inventory, verb measurement system
+- **Clara** (`bible/characters/clara-chen.md`): father's age-ten speech, Canton courtyard training at eight, father's violence acknowledged
 
-### Ch-06 (marked "added to bible? no")
-- Resolute layout — two masts, one companionway, quarterdeck +3ft, four cabins, deckhouse amidships
-- Clara takes Harper's watch: 4-6 AM, 30 paces per side
-- Clara has not removed leather coat since Panama City
-- Clara's father crossed Pacific three times
-
-### Ch-07 (marked "added to bible? no")
-- Harper's first day — Spruce Street townhouse, 1843, "Where do you need me" / "Everywhere"
-- Harper was "Forty" and "average height, average build" on arrival
-- Clara investigated Harper for three weeks; he watched her for three days
-- Grandfather clock was Thomas's gift
-- Clara learned Cantonese as a girl
-- Clara's father had military contacts
+These entries will be processed during `/revise` — each chapter's curation feeds the next chapter's continuity check.
 
 ## Git State
 - All changes committed and pushed to `origin/main`
-- Latest commit: `baf49dc` — ch-07 location fix
+- Latest commit: `005a0bf` — ch-15 draft
 - Working tree: clean
