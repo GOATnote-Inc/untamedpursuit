@@ -94,6 +94,6 @@ Professional and restrained. Quiet concern underlies every word. Deferential —
 - Lily Montgomery preserves his memory through stories of his kindness and desire to teach
 - Blade: shorter and heavier than Clara's — fighting style favors absorbing strikes rather than deflecting. Consistent with "a wall shaped like a man." (Source: book-02, ch-08)
 - Noted the loose second button from the collar on Clara's leather coat, said it needed tightening. Clara never tightened it. (Source: book-02, ch-08, confirmed ch-11)
-- Lily learns Harper's whistle, transforms it into a violin melody (book-02, ch-12)
+- Idle whistle — a personal tune (distinct from tactical two-note signals), carried as a habit when at ease. Whistled softly on the Caroline, at Spruce Street, on the mule trail. Clara heard it a hundred times without cataloguing it. She never asked what it was. Lily learned the melody and transforms it into a violin composition aboard the Resolute. (Source: book-02, ch-12)
 - Commands at least four men in his core team, plus additional personnel (Established book-01, ch-08)
 - One of Harper's men suffered a knife wound to the ribs during the ch-08 dock operation — survived (Established book-01, ch-08)

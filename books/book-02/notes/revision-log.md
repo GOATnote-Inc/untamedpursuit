@@ -166,3 +166,23 @@
   - Frontmatter: word_count corrected from 3480 (drafting error) to 4641 (actual)
 - **Bible updates**: lily-montgomery.md (measurement system, hold dimensions, captors' patterns, beach stone, Ajax geometry, room-measurement habit, orchard studio)
 - **Word count**: 4,854 → 4,641 (-213 net; original frontmatter of 3,480 was inaccurate)
+
+### Chapter 12 — 2026-03-07
+- **Subagent findings**: Continuity: clean pass, warnings on Harper whistle sourcing (soft gap) and admiration ratio. Historian: 2 anachronisms ("blueprint" banned, "intelligence officer" 1880s compound), "perimeter" inconsistency flagged for series ruling. Style: "the way" at 9 (ceiling 2), time-of-day words at 14, tell-after-show (triple restatement lines 121-127), filter words ×2, architecture/structure density 11. Character: all voices consistent, Samuel as geometric furniture (no dialogue/desire), admiration ratio ~7:1 for Lily. Prose-brilliance: 5 competencies/0 tested, coat removal offscreen, exit repeats stillness pattern, vine metaphor in Clara's POV contradicts stated domain rule, recognition arrives without resistance.
+- **Changes made**:
+  - Anachronisms: "blueprint" → "design"; "intelligence officer filing reports" → "a woman filing reports"; "perimeter" (×3) → "positions"/"secure"/"watch" (series ruling still pending)
+  - "The way" constructions: reduced 9 → 2 (kept wall-receives-weight + vine-inheritance)
+  - Tell-after-show: triple restatement cut to single statement; anaphora trimmed 5→3 items; vine/root passage and second vine simile cut from recognition section
+  - Coat dramatized: fingers on buttons, weight leaving shoulders, muscles confused, air sharp on linen — "She had not decided to take it off"
+  - Admiration complication: "Lily never went anywhere without Ajax at her heel — not once since the orchard. Clara filed this without classifying it."
+  - Samuel agency: added "'Not bought,' he said. Not a question. Lily almost smiled."
+  - Vine metaphor: kept one earned instance (music-as-inheritance); cut two repetitions in recognition section + music coda
+  - Exit differentiated: "The melody held." — active architectural verb, breaks 5-chapter stillness pattern
+  - Filter words: line 79 rewritten through Clara's domain
+  - Backstory compression: hold recap 3 "Lily who had..." clauses → 1
+  - Time-of-day words thinned: cut explicit section labels, varied temporal markers
+  - Architecture/structure density: thinned 11 → ~7
+  - Tricolon at line 91: 3 → 2 elements
+  - Frontmatter: word_count corrected from 2700 (drafting estimate) to 2477 (actual)
+- **Bible updates**: harper.md (idle whistle), lily-montgomery.md (Wissahickon wine, utility knife), clara-chen.md (coat folded first time)
+- **Word count**: 2,977 → 2,477 (-500 net; original frontmatter of 2,700 was inaccurate)

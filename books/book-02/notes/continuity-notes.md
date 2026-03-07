@@ -187,13 +187,13 @@
 ## Continuity Flags
 
 - ch-12: Lily brings ginger tea at end of Clara's watch (~5:40-6:00 AM), four mornings running. Clara never asked. Clara's preference for ginger tea is established in the bible (clara-chen.md: "Enjoys ginger tea"). — added to bible? skip (consistent with established detail)
-- ch-12: The daily rhythm: morning tea, noon painting, afternoon triangle (Lily/Clara/Samuel at stern), evening wine, night violin. — added to bible? no
-- ch-12: Wissahickon Creek wine — vines along the south wall of the property, came with the land (planted by previous owner). Unknown grape variety — small, almost black, thick skin. Lily pressed her own wine. Third vintage. "Adequate." — added to bible? no
-- ch-12: Lily packed six bottles of wine from the orchard for the voyage. Third bottle opened in ch-12. — added to bible? no
-- ch-12: Lily carries a short utility knife in her painting satchel — cuts canvas, scrapes palettes, opens wine. — added to bible? no
-- ch-12: Harper's whistle — a tune he carried as a habit, whistled softly when at ease, on the Caroline, at Spruce Street, on the trail. Clara heard it a hundred times without cataloguing it. She never asked what it was. — added to bible? no
-- ch-12: Lily plays Harper's whistle on violin, transformed — his notes, her intervals, tempo slowed, lower register added. Not performing but discovering/composing. — added to bible? no (already noted in outline timeline: "Lily learns Harper's whistle, transforms it into a violin melody")
-- ch-12: Clara's coat folded across the chair beside her bunk for the first time — not worn to sleep, set down. Door locks from inside. — added to bible? no
+- ch-12: The daily rhythm: morning tea, noon painting, afternoon triangle (Lily/Clara/Samuel at stern), evening wine, night violin. — added to bible? skip — atmospheric routine, not character trait
+- ch-12: Wissahickon Creek wine — vines along the south wall of the property, came with the land (planted by previous owner). Unknown grape variety — small, almost black, thick skin. Lily pressed her own wine. Third vintage. "Adequate." — added to bible? yes (lily-montgomery.md)
+- ch-12: Lily packed six bottles of wine from the orchard for the voyage. Third bottle opened in ch-12. — added to bible? yes (lily-montgomery.md)
+- ch-12: Lily carries a short utility knife in her painting satchel — cuts canvas, scrapes palettes, opens wine. — added to bible? yes (lily-montgomery.md)
+- ch-12: Harper's whistle — a tune he carried as a habit, whistled softly when at ease, on the Caroline, at Spruce Street, on the trail. Clara heard it a hundred times without cataloguing it. She never asked what it was. — added to bible? yes (harper.md)
+- ch-12: Lily plays Harper's whistle on violin, transformed — his notes, her intervals, tempo slowed, lower register added. Not performing but discovering/composing. — added to bible? skip — already noted in outline timeline
+- ch-12: Clara's coat folded across the chair beside her bunk for the first time — not worn to sleep, set down. Door locks from inside. — added to bible? yes (clara-chen.md)
 - ch-12: Clara's cabin: forward, chosen for sight lines, proximity to companionway, defensibility. Shares forward bulkhead with Lily's cabin. Wall is 3 inches of pine planking, pitch-sealed joints. — added to bible? skip (consistent with ch-06 cabin assignments: Clara + George forward)
 
 ## Outline Deviations (ch-12)

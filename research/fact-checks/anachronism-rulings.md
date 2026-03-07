@@ -123,5 +123,23 @@ These items were checked and confirmed as period-accurate for ~1846:
 
 ---
 
+### "intelligence officer" (compound term)
+- **Chapter**: book-02, ch-12
+- **Ruling**: "Intelligence officer" as a compound term dates to 1880-1914. The professionalized concept of military intelligence as a specialty emerged in the late Victorian era. Anachronistic for 1847, even as a simile in interior narration.
+- **Resolution**: FIXED — replaced with "a woman filing reports."
+
+### "blueprint" recurrence
+- **Chapter**: book-02, ch-12
+- **Ruling**: Already on banned list (figurative sense from 1926). Recurred on line 101: "the person who held the blueprint." Must be replaced with "pattern," "design," or "plan."
+- **Resolution**: FIXED — replaced with "design."
+
+### "perimeter" (military/security sense) — NEEDS SERIES RULING
+- **Chapters**: book-01 (fixed to "grounds"/"keep the watch"), book-02 ch-10 (fixed to "border"), but retained in book-02 ch-02, ch-03, ch-06, ch-07, ch-08, ch-09, ch-12 (14+ instances). Ch-08 historian verified it; ch-10 historian flagged it. Inconsistent.
+- **Ruling**: "Perimeter" as geometric term dates to 15th century, but the military/security sense ("boundary of a defended position") is attested from 1860s-1943. Deeply embedded in Harper's/Clara's vocabulary across the series.
+- **Resolution**: Needs definitive series-level ruling — either ban and sweep all instances, or accept as deliberate anachronism in tactical vocabulary and mark in bible.
+
+---
+
 *Backfilled 2026-03-06 from 24 chapters of historian review logs in continuity-notes.md.*
 *Updated 2026-03-07: Book 2, ch-11 anachronisms added.*
+*Updated 2026-03-07: Book 2, ch-12 anachronisms added (intelligence officer, blueprint recurrence, perimeter inconsistency).*

@@ -99,3 +99,6 @@ Poetic, contemplative, grounded in natural imagery. Speaks about growth, seasons
 - Panama City beach stone — smooth, pale, collected morning of Harper's burial. Used as painting weight on the stack of sunset paintings. (Source: book-02, ch-11)
 - Ajax positions himself between Lily and whatever the world places in front of her — geometry learned at the orchard, continued on the ship. (Source: book-02, ch-11)
 - Considered painting the hold once, at the orchard studio Clara built for her. Picked up raw umber, held the brush above the canvas, put it down. (Source: book-02, ch-11)
+- Wissahickon Creek wine: vines along the south wall of the property, came with the land (previous owner planted them). Unknown grape variety — small, nearly black, skin thick enough to write on. Pressed the first vintage herself (terrible). Second less terrible. Third "adequate." Packed six bottles for the voyage west. (Source: book-02, ch-12)
+- Carries a short utility knife in her painting satchel — cuts canvas, scrapes palettes, opens wine. (Source: book-02, ch-12)
+- Transforms Harper's idle whistle into a violin composition aboard the Resolute — his notes, her intervals, tempo slowed, lower register added. Preservation and creation simultaneously. (Source: book-02, ch-12)

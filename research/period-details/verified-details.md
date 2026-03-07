@@ -82,7 +82,14 @@ Compiled from historian reviews across 24 chapters. Details confirmed as period-
 - **Baldwin apples in October**: Originated Wilmington, Massachusetts circa 1740. Most popular apple in New England by the 1830s-1850s. Late-season variety; October harvest reference accurate. (book-02, ch-11)
 - **Rhode Island Greening apples**: Originated circa 1650, Middletown, Rhode Island. Well-established heritage variety by the 1840s. One of the most popular apples in New York in the 19th century. (book-02, ch-11)
 
+- **Wissahickon Creek grapevines (1847)**: Thomas Livezey discovered grapes growing on his Wissahickon Creek property in 1767. The Alexander hybrid grape (first American vinifera-labrusca cross) was discovered near Philadelphia c. 1740. Pennsylvania experienced a wine boom in the mid-1800s. Small, dark, thick-skinned grapes from vines along a south-facing wall on a creek property are entirely plausible. (book-02, ch-12)
+- **Wine sealed with wax and cork (1847)**: Standard preservation method for 19th-century wine bottles. Cork sealed with wax was the norm. Unlabeled bottles were common (labeling not yet standard practice). (book-02, ch-12)
+- **Pitch sealing cabin planking joints**: Oakum (tarred hemp) driven into seams and sealed with hot pitch was standard caulking for wooden vessels. Pitch softening in warm Pacific conditions is realistic. (book-02, ch-12)
+- **Violin aboard ship**: Personal instruments including violins were common aboard 19th-century sailing vessels. Passenger playing privately (as opposed to crew shanties) is consistent. (book-02, ch-12)
+- **Tin cups aboard ship**: Tin was standard for shipboard drinking vessels in the 18th-19th centuries. (book-02, ch-12)
+
 ---
 
 *Backfilled 2026-03-06 from 24 chapters of historian review logs in continuity-notes.md.*
 *Updated 2026-03-07: Book 2, ch-09 and ch-11 verifications added.*
+*Updated 2026-03-07: Book 2, ch-12 verifications added (Wissahickon Creek wine, wax-sealed bottles, pitch caulking, violin aboard ship, tin cups).*
