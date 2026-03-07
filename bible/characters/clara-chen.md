@@ -106,3 +106,4 @@ Measured and deliberate — described as having "river-stone smoothness" and a q
 - Owns a warehouse on Callowhill Street overlooking Samuel's dock section — used for sharpshooter positioning during night operations (Established book-01, ch-08)
 - Employs a runner on Spruce Street (near townhouse) for delivering messages (Established book-01, ch-08)
 - Apparatus uses a lamp-shutter signal system for confirming positions during night operations — three taps on a lamp shutter, visible only from a specified route (Established book-01, ch-08)
+- Dr. Murray teaching on healing: "The body decides. Not you, not me, not the patient's will. The body decides." — pressing thumb against a healing wound, testing tissue, broad Scots vowels. Clara applies this to grief: the body decides when weight can be set down. (Source: book-02, ch-08)

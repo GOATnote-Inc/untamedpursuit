@@ -92,6 +92,8 @@ Professional and restrained. Quiet concern underlies every word. Deferential —
 - Night conversation (ch-02): reveals wife Margaret (died of fever while Harper was in Florida, the night their daughter was born — daughter raised by neighbors, Harper never held her), a war he came home from but never left. Watched Clara for three days before presenting himself at her door with a letter of introduction. Chose Clara's service because protecting someone worth protecting made the rest bearable. "There is someone worth the standing."
 - Pipe: Virginia leaf tobacco, packed by Clara in Philadelphia. Bowl worn smooth, stem carrying bite marks. The smell meant safety — "Harper was at his post and the perimeter was held." (Source: book-02, ch-02)
 - Lily Montgomery preserves his memory through stories of his kindness and desire to teach
+- Blade: shorter and heavier than Clara's — fighting style favors absorbing strikes rather than deflecting. Consistent with "a wall shaped like a man." (Source: book-02, ch-08)
+- Noted the loose second button from the collar on Clara's leather coat, said it needed tightening. Clara never tightened it. (Source: book-02, ch-08, confirmed ch-11)
 - Lily learns Harper's whistle, transforms it into a violin melody (book-02, ch-12)
 - Commands at least four men in his core team, plus additional personnel (Established book-01, ch-08)
 - One of Harper's men suffered a knife wound to the ribs during the ch-08 dock operation — survived (Established book-01, ch-08)

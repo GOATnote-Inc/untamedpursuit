@@ -90,3 +90,4 @@ Poetic, contemplative, grounded in natural imagery. Speaks about growth, seasons
 - Moved by California coast sunsets
 - Kills Thomas Arlington when he betrays Clara — the payoff of her weapons training arc
 - "Not out of fear... Out of choice" — this line foreshadows her killing Thomas
+- Uses apple wood from Wissahickon Creek for picture frames. Same linseed oil for frames and painting. (Source: book-02, ch-08)

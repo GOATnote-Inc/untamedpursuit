@@ -107,13 +107,13 @@
 - ch-07: Outline says "How he nodded and took his position and never left it until a musket ball on a jungle trail made the decision for him." Draft renders this closely, with the nod connected to the same nod from ch-04 (Golden Compass flowers) and ch-01 (trail). The nod as recurring motif.
 - ch-07: Thomas's grandfather clock gifted to Clara — not in outline. Organic detail that seeds Thomas's generosity/possessiveness thread. Small enough to be background.
 
-- ch-08: Harper's blade described as "shorter, heavier" — fighting style: absorb rather than deflect. Consistent with "a wall shaped like a man." — added to bible? no
-- ch-08: Harper noted the coat's loose second button from the collar, said it needed tightening. — added to bible? no
-- ch-08: Reyes takes the 6-8 AM watch on the Resolute, standing still at the port rail with rifle (contrasted with Harper's walking patrol). — added to bible? no
+- ch-08: Harper's blade described as "shorter, heavier" — fighting style: absorb rather than deflect. Consistent with "a wall shaped like a man." — added to bible? yes (harper.md)
+- ch-08: Harper noted the coat's loose second button from the collar, said it needed tightening. — added to bible? yes (harper.md)
+- ch-08: Reyes takes the 6-8 AM watch on the Resolute, standing still at the port rail with rifle (contrasted with Harper's walking patrol). — added to bible? skip — no Reyes profile (minor character); scene-specific duty
 - ch-08: Cole has reduced obsessive rifle cleaning from twice daily to once (early afternoon). — added to bible? skip (scene-specific)
 - ch-08: Jennings's left shoulder examined by Clara on day 3 — nothing torn, nothing broken, inflammation and fatigue. Prescribed rest and lighter watch. — added to bible? skip (scene-specific medical detail)
-- ch-08: Lily uses apple wood from Wissahickon Creek for picture frames. — added to bible? no
-- ch-08: Dr. Murray teaching on wound healing: "The body decides. Not you, not me, not the patient's will. The body decides." (pressing thumb against a healing wound). — added to bible? no
+- ch-08: Lily uses apple wood from Wissahickon Creek for picture frames. — added to bible? yes (lily-montgomery.md)
+- ch-08: Dr. Murray teaching on wound healing: "The body decides. Not you, not me, not the patient's will. The body decides." (pressing thumb against a healing wound). — added to bible? yes (clara-chen.md)
 - ch-08: Clara's three blade targets (high, center, low) trained since Canton. — added to bible? skip (martial arts detail, consistent with established Canton training)
 - ch-08: Lily paints the water at noon as a systematic record, distinct from sunset paintings. — added to bible? skip (artistic behavior, consistent with catalogue-building in ch-07)
 - ch-08: Coat count: eleven days since the surgery (April 26 evening to ~May 7). Clara reaches for the button and does not unbutton. — added to bible? skip (scene-specific; coat-wearing already tracked in clara-chen.md)

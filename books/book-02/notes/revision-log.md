@@ -85,3 +85,27 @@
   - "The way" constructions: reduced 12 → 2
 - **Bible updates**: None
 - **Word count**: 3,102 → 3,091 (-11 net)
+
+### Chapter 8 — 2026-03-07
+- **Subagent findings**: Continuity: no errors, 3 warnings (courtyard specificity, Murray quote formulation, apple wood new fact). Historian: "six pulls" on Paterson Colt — must be five (five-shot revolver, established canon). Style: "the way" at 6 (ceiling 2), "[noun] who" at 11+ (ceiling 6), "Act I's grief" breaks fictional frame, "grief's arithmetic" domain mismatch (Samuel's lens, not Clara's), 3 "the particular" tics. Character: voices distinct, grief at correct temperature, arc advancing incrementally. Prose-brilliance: admiration ratio 5/5 (threshold 3/5), self-awareness flattery, Murray restatement redundant, domesticity claim unearned, exit structure repetition (3 consecutive Clara chapters end with "the ship moved west").
+- **Changes made**:
+  - Historical: "six pulls on empty chambers" → "five" (×2) — Paterson Colt is five-shot
+  - Frame break: "Act I's grief" → "the first watches after Panama"
+  - "The way" constructions: reduced 6 → 2 (kept load-bearing wall + Samuel's manifest)
+  - "[Noun] who" clauses: reduced 11+ → ~6 (restructured Morales, Cole, Jennings, Samuel, self-awareness)
+  - Domain fix: "grief's arithmetic" → "The weight compounded daily, each day's grief laid on the last" (structural)
+  - Murray restatement cut (4 sentences after quote — trust the quote to land)
+  - Self-awareness flattery cut ("She was not a woman who deceived herself")
+  - Domesticity label → "a rhythm Clara had no architecture for" (domain-appropriate, shown not told)
+  - Admiration complicated: Reyes gap ("Reyes's stillness left the stern unwatched... Harper would not have left it")
+  - Physical cost propagation: swollen hand now affects Colt grip ("one more accommodation to absence")
+  - Exit structure differentiated: cut "The ship moved west. The coat stayed on." → end on "His eyes on the door." (George callback to opening)
+  - "The particular" tic: reduced 4 → 1
+  - Triple "specific/specificity" → varied ("given," "precise," "rigor")
+  - Filter words: ~5 instances thinned
+  - Tell-after-show cut (line 85 tail clause)
+  - Tricolon duplication varied (line 39 merged into flowing sentence)
+  - Abstract thesis cut ("The absence pressed from below and above simultaneously")
+  - Coat passage tightened: "not additional mass but accumulated weight" (structural vs arithmetic)
+- **Bible updates**: Harper blade + button; Clara Dr. Murray teaching; Lily apple wood frames
+- **Word count**: 3,600 → 3,390 (-210 net)
