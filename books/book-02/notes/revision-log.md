@@ -205,3 +205,25 @@
   - "Distance" varied (gap, span, gulf); "stillness" reduced 5 → 3
 - **Bible updates**: harper.md (teaching quotes, method, culminating teaching), lily-montgomery.md (training origin clarification, Samuel measurement, Northern Spies spelling)
 - **Word count**: 3,930 → 3,496 (-434 net)
+
+### Chapter 14 — 2026-03-07
+- **Subagent findings**: Continuity: whistle-to-melody knowledge ungrounded (ch-12 Clara POV, not Samuel's), wind direction vs. sage scent inconsistency. Historian: "network" ×4 (banned), "intelligence reporting" (anachronistic compound), three inlets (Monterey Bay is one broad bay), "brushstroke" domain leak. Style: "the way" at 11 (ceiling 2), "[noun] who" at ~11 (ceiling 6), tell-after-show ×2, POV flash-forward (line 70), filter words ×2, typo "as a instrument." Character: all voices distinct, Samuel's commercial domain strongest in book, whistle flag confirmed. Prose-brilliance: 1 tested/3 confirmed, Morales competence trap, Thomas system backstory redundancy (3rd rendering), Samuel reads everything correctly (needs one misreading).
+- **Changes made**:
+  - Banned words: "network" (×4) → "apparatus," "correspondence chain"
+  - Anachronism: "intelligence reporting" → "coded correspondence"
+  - POV fix: flash-forward cut ("not the way Lily's question would later plant suspicion")
+  - Whistle fix: removed ungrounded "Lily had taken Harper's whistle and made it a violin melody" → "carrying something of his, the discipline translated into her own gait"
+  - "The way" constructions: reduced 11 → 2 (kept ledger-close + missing-entry)
+  - "[noun] who" clauses: reduced ~11 → 5
+  - Tell-after-show: blade/hilt elaboration cut ("Neither was useful..."); letter explanation cut to just "The letter was not for Thomas."
+  - Thomas section: 4 paragraphs compressed to 2 (backstory redundancy — cipher system detailed in ch-05 and ch-09)
+  - Domain leak: "brushstroke of brown and green" → "brown hills and green valleys drawn along the horizon"
+  - Samuel misreading: added three-to-two inlet correction ("The third was a shadow between ridgelines that closed as the angle changed — not water but the absence of hill")
+  - Morales: "charts were always accurate" → added uncertainty ("marked one stretch of this shoreline with a question and a note in Spanish that Samuel could not read")
+  - Wind fix: "on an offshore wind" → "when the wind was right"
+  - Generic metaphor: "morning fog dissolves" cut; letter dissolves directly
+  - Filter words: "Samuel heard her" → direct sensory; "Samuel watched her" consolidated
+  - Typo: "as a instrument" → "as an instrument"
+  - "Coast" thinned: split across "coast," "shore," "shoreline"
+- **Bible updates**: samuel-taylor.md (journal reckoning, blade/hilt metaphor)
+- **Word count**: 2,958 → 2,651 (-307 net)
