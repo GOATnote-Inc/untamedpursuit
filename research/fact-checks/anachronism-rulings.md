@@ -144,8 +144,14 @@ These items were checked and confirmed as period-accurate for ~1846:
 *Updated 2026-03-07: Book 2, ch-11 anachronisms added.*
 *Updated 2026-03-07: Book 2, ch-12 anachronisms added (intelligence officer, blueprint recurrence, perimeter inconsistency).*
 *Updated 2026-03-07: Book 2, ch-13 anachronism added (apple ripening order).*
+*Updated 2026-03-07: Book 2, ch-15 error added (Custom House description).*
 
 ### Apple ripening order (Northern Spy / Rhode Island Greening / Baldwin)
 - **Chapter**: book-02, ch-13
 - **Ruling**: Chapter states Northern Spys ripen first, then Greenings, then Baldwins (lines 85, 99). The actual ripening order in a northeastern U.S. orchard is: Rhode Island Greening (late September--early October) -> Baldwin (mid-to-late October) -> Northern Spy (late October--November). Northern Spy is the *latest* of the three to ripen, not the earliest. The chapter has the order reversed.
 - **Resolution**: FIXED — reversed to Greenings first, then Baldwins, then Northern Spies. Two passages corrected. "Northern Spys" also corrected to "Northern Spies" (standard plural, 3 instances).
+
+### Custom House described as "one story of adobe with a broad veranda" (inaccurate)
+- **Chapter**: book-02, ch-15
+- **Ruling**: The chapter describes the Custom House as "one story of adobe with a broad veranda and an American flag hanging slack in the windless air" (line 49). By 1846, the Custom House had assumed its present form: a one-story, tile-roofed, adobe-and-rock central building with two-storied, hip-roofed wings with balconies at each end (Larkin's 1841-46 expansion). Describing it as simply "one story" omits the two-story wings. The "broad veranda" is plausible (the building featured a porch/balcony), but the overall description undersells the building's complexity.
+- **Resolution**: NEEDS FIX — revise to acknowledge the two-story wings with balconies flanking the one-story central section. Suggested: "one story of adobe at the center with two-storied wings at each end, balconies above, and an American flag hanging slack in the windless air."

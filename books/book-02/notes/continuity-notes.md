@@ -243,19 +243,19 @@
 - ch-14: Clara on the quarterdeck is rendered at a distance — Samuel doesn't interact with her directly. The "reading different books" observation is internal. This preserves Samuel's POV isolation in this chapter.
 
 - ch-15: Lily steps onto the Monterey wharf — first time on solid ground since Panama City (~May 3 departure). Body adjusting to stillness after a month at sea. — added to bible? skip (scene-specific)
-- ch-15: Monterey's adobe buildings described as earth-colored, built from the ground. Custom House as largest building (one story, adobe, veranda, American flag). Alvarado Street named. — added to bible? skip (consistent with research/period-details/san-francisco-1847.md Monterey section)
-- ch-15: Lily paints Monterey in earth tones — raw sienna, burnt umber, yellow ochre. First land-based painting since Panama. — added to bible? no
+- ch-15: Monterey's adobe buildings described as earth-colored, built from the ground. Custom House as largest building (adobe center, two-storied wings, balconies, American flag). — added to bible? skip (consistent with research/period-details; Custom House corrected during revision from "one story" to accurate two-storied wings)
+- ch-15: Lily paints Monterey in earth tones — raw sienna, burnt umber, yellow ochre. First land-based painting since Panama. — added to bible? yes (lily-montgomery.md)
 - ch-15: A Californio woman assesses Lily's painting and nods — anonymous local character. — added to bible? skip (scene-specific)
-- ch-15: Clara reads Monterey in fifteen minutes (exits, approaches, defensible ground). Coat buttoned against morning cold. Loose second button still loose. — added to bible? no (consistent with ch-08, ch-11 loose button detail)
-- ch-15: Lily's verb measurement — Clara's verbs for Thomas (manage, hold, maintain, tend) vs. verbs for Harper (protect, serve, teach, die), Samuel (cross, dig, carry, fire), and Lily herself (risk the telling). The gap between the two sets is the chapter's argument. — added to bible? no
-- ch-15: "Clara trusts him entirely. Do you?" — Lily's question to Samuel. She does not say Thomas's name. — added to bible? no (thread advancement)
-- ch-15: Samuel's response: "Thomas has managed everything Clara built. He's held the east while we crossed a continent. He's maintained the apparatus, the correspondence, the accounts. Everything Clara left in his hands is still in his hands." — added to bible? no (thread advancement)
-- ch-15: "That is not the same thing." — Lily's six-word verdict. Not accusation but measurement. — added to bible? no (thread advancement, key scene)
-- ch-15: "Harper risked his life. You risked the crossing. I risked the telling. What has Thomas risked?" — Lily's articulation of the scale. — added to bible? no
-- ch-15: Lily clarifies: "I am not saying he has done wrong. I am saying that managing and sacrificing are measured on different scales." — added to bible? no
-- ch-15: "Love does not measure. But I measure. It is what the hold taught me." — Lily's self-description as measuring instrument, the hold as origin of the capacity. — added to bible? no
+- ch-15: Clara reads Monterey in fifteen minutes (exits, approaches, defensible ground). Coat buttoned against morning cold. Loose second button still loose. — added to bible? skip (consistent with ch-08, ch-11 loose button detail)
+- ch-15: Lily's verb measurement — Clara's verbs for Thomas (manage, hold, maintain, tend) vs. verbs for Harper (protect, serve, teach, die), Samuel (cross, dig, carry, fire), and Lily herself (risk the telling). The gap between the two sets is the chapter's argument. — added to bible? yes (lily-montgomery.md)
+- ch-15: "Clara trusts him entirely. Do you?" — Lily's question to Samuel. She does not say Thomas's name. — added to bible? yes (lily-montgomery.md, samuel-taylor.md)
+- ch-15: Samuel's response: "Thomas has managed everything Clara built. He's held the east while we crossed a continent. He's maintained the apparatus, the correspondence, the accounts. Everything Clara left in his hands is still in his hands." — added to bible? skip (captured in samuel-taylor.md ch-15 entry)
+- ch-15: "That is not the same thing." — Lily's six-word verdict. Not accusation but measurement. — added to bible? yes (lily-montgomery.md)
+- ch-15: "Harper risked his life. You risked the crossing. I risked the telling. What has Thomas risked?" — Lily's articulation of the scale. — added to bible? skip (captured in verb measurement entry)
+- ch-15: Lily clarifies: "I am not saying he has done wrong. I am saying that managing and sacrificing are measured on different scales." — added to bible? skip (captured in "That is not the same thing" entry)
+- ch-15: "Love does not measure. But I measure. It is what the hold taught me." — Lily's self-description as measuring instrument, the hold as origin of the capacity. — added to bible? yes (lily-montgomery.md)
 - ch-15: Samuel does not answer Lily's question about Thomas. His silence is receipt, not refusal. Connects to the blank space in his journal (ch-09, ch-14) and will connect to his silence when Jack says "I don't trust Thomas" (ch-20-21). — added to bible? skip (thread advancement)
-- ch-15: Lily's first sunset painting from solid ground since Panama City. New palette — earth tones (ochre, sienna, umber) combined with ocean palette (cadmium, ultramarine) for the first time. — added to bible? no
+- ch-15: Lily's first sunset painting from solid ground since Panama City. New palette — earth tones (ochre, sienna, umber) combined with ocean palette (cadmium, ultramarine) for the first time. — added to bible? skip (scene-specific palette detail, earth tones captured in painting entry)
 
 ## Outline Deviations (ch-15)
 

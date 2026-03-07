@@ -94,6 +94,7 @@ Compiled from historian reviews across 24 chapters. Details confirmed as period-
 *Updated 2026-03-07: Book 2, ch-09 and ch-11 verifications added.*
 *Updated 2026-03-07: Book 2, ch-12 verifications added (Wissahickon Creek wine, wax-sealed bottles, pitch caulking, violin aboard ship, tin cups).*
 *Updated 2026-03-07: Book 2, ch-13 verifications added.*
+*Updated 2026-03-07: Book 2, ch-15 verifications added (earth pigments, cadmium, ultramarine, Monterey wharf, longboat, Custom House flag, adobe, Californio population, sage, fishermen).*
 
 - **Naples yellow pigment (1847)**: Lead antimonate pigment, popular among artists 1750-1850. Widely available by the 1840s, though composition was beginning to shift as chrome yellow and cadmium yellow emerged as alternatives. Lily mixing a color "from Naples yellow and white with a thread of raw sienna" is period-accurate. (book-02, ch-13)
 - **Raw sienna pigment (1847)**: Earth pigment quarried in Tuscany, standard artist's pigment from the 16th-19th centuries. Well-established and commercially available by the 1840s. No issues. (book-02, ch-13)
@@ -102,3 +103,14 @@ Compiled from historian reviews across 24 chapters. Details confirmed as period-
 - **Foremast and companionway**: Both standard naval terminology, well-established by the 1840s. Foremast = forward mast nearest the bow. Companionway = raised hatchway with ladder leading below. The Resolute (two-masted coastal trader) would have a foremast and mainmast. (book-02, ch-13)
 - **Northern Spy apple availability (1847)**: Discovered c. 1800 in East Bloomfield, NY; first produced fruit c. 1840. Available to orchardists in the northeastern U.S. by the mid-1840s. Plausible for Lily's Wissahickon Creek orchard. (book-02, ch-13)
 - **Apple ripening order**: INCORRECT in chapter. See anachronism-rulings.md for details. Correct order: Greenings -> Baldwins -> Northern Spys. (book-02, ch-13)
+
+- **Raw sienna, burnt umber, yellow ochre availability (1847)**: All are earth pigments quarried and used since antiquity. Standard artist palette pigments throughout the 18th-19th centuries. Sienna quarried in Tuscany since the Renaissance. Yellow ochre is one of the oldest pigments known (cave paintings). No issues. (book-02, ch-15)
+- **"Cadmium of the sky" (pigment reference, 1847)**: Cadmium yellow (cadmium sulfide) was commercially available to artists by the 1840s, though expensive and scarce. Used here as a color descriptor for sunset sky. Period-defensible. (book-02, ch-15)
+- **Ultramarine availability (1847)**: Synthetic French ultramarine invented 1828 by Guimet, commercially available from ~1830. Turner used it in 1834. Widely available by 1847. No issues. (book-02, ch-15)
+- **Monterey wharf (1847)**: Thomas O. Larkin constructed a wharf of rock-filled cribwork completed in 1846. Old Fisherman's Wharf built 1845. A wharf existed at Monterey when Lily comes ashore. Confirmed. (book-02, ch-15)
+- **Longboat for ship-to-shore transfer**: The longboat was the largest rowboat carried aboard merchant sailing vessels. Used for ferrying passengers and heavy cargo to shore. Standard nautical terminology, well-established by the 1840s. (book-02, ch-15)
+- **American flag at the Custom House (1847)**: Commodore John D. Sloat raised the American flag at the Custom House on July 7, 1846, claiming California for the United States. The flag would still be flying in June 1847 under U.S. military occupation. Confirmed. (book-02, ch-15)
+- **Adobe buildings in Monterey (1847)**: Monterey was a predominantly adobe settlement with buildings lining the streets from the Custom House area. Adobe construction using local earth, dried in the sun, is accurately described. (book-02, ch-15)
+- **Californio woman in Monterey (1847)**: Monterey had a predominantly Californio population in 1847 — Spanish-speaking residents of Mexican California. A Californio woman carrying a basket and speaking Spanish is entirely plausible. (book-02, ch-15)
+- **Sage on Monterey hills (1847)**: California sagebrush (Artemisia californica) and various Salvia species are native to California's coastal scrub communities. Silver-green coloring and aromatic scent accurately described. (book-02, ch-15)
+- **Fishermen mending nets in Monterey harbor (1847)**: Fishing was a subsistence activity at Monterey harbor. The wharf was built in 1845-46. Boats pulled up on the beach and fishermen mending nets is plausible, though the large commercial fishing fleet came later (1850s onward with Chinese fishermen, then Italian). (book-02, ch-15)

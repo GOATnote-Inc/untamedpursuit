@@ -2,6 +2,18 @@
 
 <!-- Record of revisions. Updated by /revise skill. -->
 
+### Chapter 15 — 2026-03-08
+- **Subagent findings**: Continuity — grave flowers missing violet (ch-03 three colors, ch-15 only two). Historian — Custom House was multi-part with two-story wings, not "one story of adobe." Style — "the way" 18× (ceiling 2), two tell-after-show, filter word. Character-analyst — POV violation (Lily references blank space in Samuel's journal, established she doesn't know contents). Prose-brilliance — admiration ratio 5:1, Samuel a perfect receptacle with no counter-argument, brushstroke metaphor 3× in one chapter.
+- **Changes made**:
+  - **Critical**: Fixed POV violation — "the blank space sat in his journal" → "where she had placed it"; added violet to grave flowers; corrected Custom House to two-storied wings with balconies
+  - **Important**: "The way" reduced 18 → 2 (kept "the way Samuel recorded" + "the way a brushstroke required"); tell-after-show cut (hold explanation paragraph, scale re-explanation); admiration ratio cut from 5:1 to ~2:1 (brushstroke self-admiration deleted, "weighed him and found him worthy" restatement deleted)
+  - **Samuel counter-argument added**: "Holding everything from Philadelphia while Clara crosses a continent and buries a man. That costs nothing?" — Lily acknowledges ("It might cost something") but insists ("But Clara did not send Harper a letter from Philadelphia. She dug the grave.")
+  - **Domain fixes**: "foundation beneath a house" (Clara's domain) → "soil — something beneath everything" + "constant as the ground Lily was still learning to stand on" (Lily's domain); "loaded, the way a ship was loaded" (generic) → cut; brushstroke metaphor reduced 3× → 1×
+  - **Style**: filter word "Lily noticed it" → direct showing; "golden hour" → "amber warmth before sunset"; Californio woman's nod made ambiguous; "stone wall" 4→2; backstory redundancy thinned (hold recap, Ajax geometry 3rd description, ch-13 verdict restatement)
+  - **Exit restructured**: sensory-reflection ending (4th of type) → dialogue exit: "Love does not measure. But I measure."
+- **Bible updates**: lily-montgomery.md, samuel-taylor.md (pending curation)
+- **Word count**: 3,465 → 2,698 (-767 net)
+
 ### Chapter 1 — 2026-03-06
 - **Subagent findings**: Continuity: Harper wound side conflict (right vs left); Style: 7 "the way" constructions (ceiling 2), 9 "[noun] of a man who" clauses (threshold 6), 3 anachronisms (kill zone, shooters, sightlines), 2 tense slips; Historian: "Dr. Parker" collides with historical Peter Parker at Canton, "shoulder rig" needs deliberate anachronism ruling; Character: Samuel absorbed into Clara's competence field, Lily attributed unearned wound knowledge; Prose-brilliance: 5 competencies with only 1 tested, 9:4 admiration ratio, zero physical cost from ambush.
 - **Changes made**:
