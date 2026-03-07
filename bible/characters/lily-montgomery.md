@@ -17,7 +17,7 @@ An artist's bearing — graceful, observant, quietly luminous. Heals through art
 
 ## Background
 
-Daughter of Clara Chen's first business mentor, which makes her connection to Clara both personal and inherited. Clara's closest friend. Kidnapped alongside Clara and held for 6 days in captivity, during which she protected Clara. Given the Wissahickon Creek sanctuary and orchard by Clara — a place of healing and growth. Requested weapons training and dog training after the kidnapping: "Not out of fear... Out of choice." Maintains a heritage apple orchard with Rhode Island Greenings, Northern Spys, and Baldwins. Deeply moved by California coast sunsets. Preserves Harper's memory through stories of his kindness and desire to teach.
+Daughter of Clara Chen's first business mentor, which makes her connection to Clara both personal and inherited. Clara's closest friend. Kidnapped alongside Clara and held for 6 days in captivity, during which she protected Clara. Given the Wissahickon Creek sanctuary and orchard by Clara — a place of healing and growth. Harper trained her at the orchard on his own initiative — without Clara's knowledge — the first time in four years he acted independently (book-01, ch-17). "Not out of fear... Out of choice" was spoken when she asked to join the voyage west. Maintains a heritage apple orchard with Rhode Island Greenings, Baldwins, and Northern Spies. Deeply moved by California coast sunsets. Preserves Harper's memory through stories of his kindness and desire to teach.
 
 Lily kills Thomas Arlington when he betrays Clara. The gentle artist who requested weapons training "out of choice" proves that her choice was real. This is the payoff of her entire arc — the woman who heals through beauty is also capable of decisive, lethal action when the person she loves most is threatened.
 
@@ -82,8 +82,8 @@ Poetic, contemplative, grounded in natural imagery. Speaks about growth, seasons
 - Kidnapped alongside Clara — 6 days captivity
 - Protected Clara during captivity
 - Given Wissahickon Creek sanctuary/orchard by Clara
-- Heritage apple varieties: Rhode Island Greenings, Northern Spys, Baldwins
-- Requested weapons training AND dog training: "Not out of fear... Out of choice."
+- Heritage apple varieties: Rhode Island Greenings, Baldwins, Northern Spies. Ripening order: Greenings first (late Sept–early Oct), Baldwins (mid-late Oct), Northern Spies last (late Oct–Nov).
+- Harper trained Lily at the orchard on his own initiative — came without being asked, without Clara's knowledge, the first time in four years he acted independently. Clara discovered the training when she rode north to Wissahickon Creek (book-01, ch-17). "Not out of fear... Out of choice" was spoken when Lily asked to join the voyage west, not when requesting training.
 - Heals through art: painting (easel), violin, cello
 - Ajax (dog) has "already chosen" Lily
 - Preserves Harper's memory through stories
@@ -102,3 +102,4 @@ Poetic, contemplative, grounded in natural imagery. Speaks about growth, seasons
 - Wissahickon Creek wine: vines along the south wall of the property, came with the land (previous owner planted them). Unknown grape variety — small, nearly black, skin thick enough to write on. Pressed the first vintage herself (terrible). Second less terrible. Third "adequate." Packed six bottles for the voyage west. (Source: book-02, ch-12)
 - Carries a short utility knife in her painting satchel — cuts canvas, scrapes palettes, opens wine. (Source: book-02, ch-12)
 - Transforms Harper's idle whistle into a violin composition aboard the Resolute — his notes, her intervals, tempo slowed, lower register added. Preservation and creation simultaneously. (Source: book-02, ch-12)
+- Measures Samuel worthy of hearing Harper's story through three observations: (1) wept at Clara's Golden Compass performance, (2) dug Harper's grave without words, (3) cleans his Paterson like Clara without knowing it. Tells Samuel the full teaching sequence on the Resolute. Samuel responds "Thank you" and sits down beside her — an action she did not measure for. (Source: book-02, ch-13)

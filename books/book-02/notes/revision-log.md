@@ -186,3 +186,22 @@
   - Frontmatter: word_count corrected from 2700 (drafting estimate) to 2477 (actual)
 - **Bible updates**: harper.md (idle whistle), lily-montgomery.md (Wissahickon wine, utility knife), clara-chen.md (coat folded first time)
 - **Word count**: 2,977 → 2,477 (-500 net; original frontmatter of 2,700 was inaccurate)
+
+### Chapter 13 — 2026-03-07
+- **Subagent findings**: Continuity: training origin contradicts book-01 ch-17 (Lily didn't go to Clara; Harper came independently; "Not out of fear" was about the voyage, not training). Historian: apple ripening order reversed (Northern Spy ripens last, not first); "Northern Spys" → "Northern Spies." Style: "the way" at 13+ (ceiling 2), tell-after-show on "Thank you" (2 paragraphs), "weight" ×13, "morning" ×7, ship-in-reflection ×3, filter words ×3, "She had measured" anaphora 5→4. Character: all voices distinct; Samuel admiration 11+:0 (Ideal Listener, no complication). Prose-brilliance: Samuel needs unmeasured action; Harper sanctified; backstory redundancy with ch-11; exit repeats stillness pattern.
+- **Changes made**:
+  - Continuity: training origin rewritten — Harper came to the orchard on his own initiative, without Clara's knowledge; "Not out of fear. Out of choice" removed from this scene (belongs to voyage request in book-01 ch-17)
+  - Historical: apple ripening order corrected to Greenings → Baldwins → Northern Spies (2 passages); "Northern Spys" → "Northern Spies" (3 instances)
+  - "The way" constructions: reduced 13+ → 2 (kept sensory-light simile + orchard-teaches metaphor)
+  - Tell-after-show: "Thank you" explanation (2 full paragraphs) → "Two words. They landed without weight — which was how Lily knew they carried everything."
+  - Samuel complication: added sitting-down action — "Then Samuel sat down... two feet of planking between his shoulder and hers" — an action Lily did not measure for; becomes final exhibit in her evidence collection
+  - "Weight" reduced 13 → ~4 (replaced with gravity, pull, load, bulk, or restructured)
+  - Backstory thinned: "After" sequence compressed (cut Clara's hand, hatch opening, light pouring in); "He's yours" negative catalog cut to single sentence
+  - Anaphora: "two records" paragraph cut (line 59 — weakest measurement, most abstract)
+  - Harper humanized: added pipe detail after first training session ("He paused at the gate and lit his pipe. The smoke drifted through the apple trees.")
+  - Exit differentiated: cut stillness/reflection ending; new exit has forward motion (hatch opening below, crew stirring) and ends on "a man who sat down" — newest exhibit in Lily's legal metaphor
+  - "Morning" reduced 7 → 2 (varied to "first light," "day," "session," sensory time markers)
+  - Ship-in-reflection: reduced 3 → 1; filter words: removed "she knew" ×2
+  - "Distance" varied (gap, span, gulf); "stillness" reduced 5 → 3
+- **Bible updates**: harper.md (teaching quotes, method, culminating teaching), lily-montgomery.md (training origin clarification, Samuel measurement, Northern Spies spelling)
+- **Word count**: 3,930 → 3,496 (-434 net)

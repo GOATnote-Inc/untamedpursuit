@@ -143,3 +143,9 @@ These items were checked and confirmed as period-accurate for ~1846:
 *Backfilled 2026-03-06 from 24 chapters of historian review logs in continuity-notes.md.*
 *Updated 2026-03-07: Book 2, ch-11 anachronisms added.*
 *Updated 2026-03-07: Book 2, ch-12 anachronisms added (intelligence officer, blueprint recurrence, perimeter inconsistency).*
+*Updated 2026-03-07: Book 2, ch-13 anachronism added (apple ripening order).*
+
+### Apple ripening order (Northern Spy / Rhode Island Greening / Baldwin)
+- **Chapter**: book-02, ch-13
+- **Ruling**: Chapter states Northern Spys ripen first, then Greenings, then Baldwins (lines 85, 99). The actual ripening order in a northeastern U.S. orchard is: Rhode Island Greening (late September--early October) -> Baldwin (mid-to-late October) -> Northern Spy (late October--November). Northern Spy is the *latest* of the three to ripen, not the earliest. The chapter has the order reversed.
+- **Resolution**: FIXED — reversed to Greenings first, then Baldwins, then Northern Spies. Two passages corrected. "Northern Spys" also corrected to "Northern Spies" (standard plural, 3 instances).

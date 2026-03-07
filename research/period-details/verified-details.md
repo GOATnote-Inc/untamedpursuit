@@ -93,3 +93,12 @@ Compiled from historian reviews across 24 chapters. Details confirmed as period-
 *Backfilled 2026-03-06 from 24 chapters of historian review logs in continuity-notes.md.*
 *Updated 2026-03-07: Book 2, ch-09 and ch-11 verifications added.*
 *Updated 2026-03-07: Book 2, ch-12 verifications added (Wissahickon Creek wine, wax-sealed bottles, pitch caulking, violin aboard ship, tin cups).*
+*Updated 2026-03-07: Book 2, ch-13 verifications added.*
+
+- **Naples yellow pigment (1847)**: Lead antimonate pigment, popular among artists 1750-1850. Widely available by the 1840s, though composition was beginning to shift as chrome yellow and cadmium yellow emerged as alternatives. Lily mixing a color "from Naples yellow and white with a thread of raw sienna" is period-accurate. (book-02, ch-13)
+- **Raw sienna pigment (1847)**: Earth pigment quarried in Tuscany, standard artist's pigment from the 16th-19th centuries. Well-established and commercially available by the 1840s. No issues. (book-02, ch-13)
+- **Long rifle for training at Wissahickon Creek**: Pennsylvania/Kentucky long rifle accurate to 200+ yards. Sixty yards (training distance in the chapter) is a reasonable and historically plausible training distance. A long rifle near Philadelphia is especially apt — the Pennsylvania long rifle originated in the region. (book-02, ch-13)
+- **Colt Paterson revolver cleaning**: Samuel cleans with rag and oil, rotating and checking the cylinder. Paterson is a five-shot .36 caliber percussion cap revolver. Cleaning with rag around the barrel and oiling is consistent with period maintenance of percussion cap firearms. Cylinder rotation and check is plausible (the Paterson's cylinder was removable for loading in early models). (book-02, ch-13)
+- **Foremast and companionway**: Both standard naval terminology, well-established by the 1840s. Foremast = forward mast nearest the bow. Companionway = raised hatchway with ladder leading below. The Resolute (two-masted coastal trader) would have a foremast and mainmast. (book-02, ch-13)
+- **Northern Spy apple availability (1847)**: Discovered c. 1800 in East Bloomfield, NY; first produced fruit c. 1840. Available to orchardists in the northeastern U.S. by the mid-1840s. Plausible for Lily's Wissahickon Creek orchard. (book-02, ch-13)
+- **Apple ripening order**: INCORRECT in chapter. See anachronism-rulings.md for details. Correct order: Greenings -> Baldwins -> Northern Spys. (book-02, ch-13)
