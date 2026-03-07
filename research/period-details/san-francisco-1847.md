@@ -124,6 +124,170 @@ The streets were unpaved — mud in wet weather, dust and sand in dry. The hill 
 - A more established settlement than San Francisco — decades of Spanish/Mexican administration
 - Harbor sheltered by the Monterey peninsula
 
+## Harbor Commerce (Research Supplement, 2026-03-08)
+
+### The Hide and Tallow Economy
+
+In 1847, the California economy ran on hides and tallow. Hides were known as "California banknotes" — literally used as currency. The trade cycle:
+
+- **Ranchos** surrounding the Bay Area raised cattle. Hides were stripped, dried on frames, and carried to the cove by boat or mule.
+- **Hides** → shipped to Boston for the leather industry (shoes, boots, saddles). Each hide worth ~$1–2 at the cove, ~$3 in Boston.
+- **Tallow** → shipped to South America (Peru, Chile) for candle and soap manufacturing.
+- **Other exports**: soap, horse hair, horns, hemp, beef in brine, suet, wheat.
+
+### Imports (What Ships Brought In)
+
+Trading ships exchanged finished goods for hides and tallow. The rancheros received:
+- Teas, coffee, sugars, spices, raisins, molasses
+- Spirits of all kinds (sold by the cask)
+- Hardware, crockery, tinware, cutlery
+- Clothing of all kinds, boots and shoes
+- Calico and cotton cloth, silks, shawls, scarves
+- Necklaces and other jewelry, combs
+- Furniture
+
+### 1847 Trade Volume
+
+- **6 trading vessels** entered the bay in 1847 — extremely quiet
+- Exports valued at **$49,597**
+- Imports valued at **$53,589**
+- By contrast, in the Gold Rush year of 1849, hundreds of ships would arrive
+
+### Merchant Infrastructure
+
+- **William Leidesdorff's warehouse**: corner of California Street and the street later named for him. Import-export trade in tallow and hides.
+- **Ship chandlery**: sold whiskey, wine, beer, cloth, soap, leather, wool, tobacco, salt, and dry goods to ships.
+- **Hide warehouse**: one of the 20 buildings clustered around Portsmouth Square (Jan 1847 count: 4 shops, 1 hide warehouse, 1 grist mill, 1 wash house, 2 hotel/taprooms, 1 saloon).
+- **Spear's grist mill**: two-story frame building, mule-powered. First grist mill in California.
+
+### Clara's Trading Post — Placement
+
+Clara's waterfront position would logically be on or near **Clay Street at Montgomery Street** — the commercial intersection. Clay Street ran to the spring (water supply) and the waterfront. Montgomery was the shoreline. A warehouse or trading house here would control access to both fresh water and ship traffic. In a settlement of 20 buildings, acquiring or building one more is plausible — especially with capital from Philadelphia.
+
+Wallace's harbor play would target the same geography: control the handful of merchant positions, the single wharf at Broadway, and the waterfront lots. In a town of 457 people, commercial warfare is personal — every merchant knows every merchant.
+
+## Alcalde System & Governance (Research Supplement, 2026-03-08)
+
+### The Alcalde's Powers
+
+The alcalde combined functions that, in American cities, would be split among mayor, judge, sheriff, and land commissioner:
+
+- **Executive**: presided over the town council (ayuntamiento), executed decisions, kept order, issued licenses
+- **Judicial**: tried criminal and civil cases, settled disputes, enforced judgments (e.g., a $200 judgment against Robert J. Ridley, Oct 1847)
+- **Land authority**: granted lots to settlers, certified indentures, authorized property transfers
+- **Regulatory**: inspected hides going to market, oversaw commercial activity
+
+Under Mexican rule, the alcalde was elected. Under American military occupation, the alcalde was appointed by the military governor — but the office retained its Mexican-era scope.
+
+### Alcalde Succession in San Francisco (1847)
+
+| Alcalde | Term | Appointed By | Notes |
+|---------|------|-------------|-------|
+| Lt. Washington Bartlett | Feb 1847 | Kearny | Issued the renaming proclamation (Yerba Buena → San Francisco). Arranged sale of 450 waterfront lots; purchased 14 lots for himself ($4,000). |
+| Edwin Bryant | Feb–Jun 1847 | Kearny | Lawyer/author. Second alcalde. Continued water lot sales. |
+| George Hyde | Jun 1847–Apr 1848 | Kearny | Lawyer and judge. The alcalde Clara's company would encounter. "A man of estimable character in every respect." |
+
+**George Hyde** is the sitting alcalde when Clara arrives (~July 1847). His powers are vast for a frontier settlement: he grants land, settles disputes, enforces judgments, and answers to the military governor in Monterey. He is the law in San Francisco — the only law, backed by a constable or two and the weight of military authority 120 miles south.
+
+### The Water Lots — Key Plot Mechanism
+
+In 1847, General Kearny authorized San Francisco to sell "water lots" — parcels of tidelands between Clarke's Point and Rincon Point — to generate city revenue. Jasper O'Farrell surveyed **444 beach and water lots** (each ~46 × 138 feet). In July 1847, 248 lots were auctioned:
+
+- **Beach lots** (above high tide): up to **$600** each
+- **Water lots** (submerged at high tide): **$50–$400** each
+- Buyers required to **fill the marshland with dirt** and build on the property
+
+This is a speculative real estate play in a settlement where the waterfront is literally being created from nothing. Wallace's agents could acquire water lots to control future harbor access. Clara's counter-move: acquire lots first, or forge relationships with the alcalde to block Wallace's agents. The alcalde controls who gets what — making George Hyde the most important person in the settlement for both factions.
+
+### Governance Friction
+
+The military governor (in Monterey) appointed the alcalde, but day-to-day authority was local. Tensions:
+- The Sonoma incident (1847): alcalde John Nash refused to be replaced by Kearny's choice, Lilburn Boggs. Nash and the Sonomans challenged the military governor's authority over local civilian officials.
+- The alcalde system would collapse in 1849 under Gold Rush immigration — too many people for one person to judge and govern.
+- The system was informal, personal, and relied on the alcalde's character. Hyde was reputable; a corrupt alcalde would have been catastrophic.
+
+## Waterfront Layout — Detailed (Research Supplement, 2026-03-08)
+
+### Yerba Buena Cove Geography (June-July 1847)
+
+```
+                    TELEGRAPH HILL
+                         |
+                   Clarke's Point ← ships' boats land here
+                        /
+                       / Broadway Street Wharf (1847)
+                      /   |
+    PORTSMOUTH SQUARE ←---+--- Washington St
+         |                |
+     Custom House    Montgomery St (THE WATERFRONT)
+         |                |
+     Clay Street ----+----+ ← Clay Street Spring
+                     |    |
+                Kearny St |
+                          |
+              (tidelands - water lots sold here)
+                          |
+                     Rincon Point (south end of cove)
+```
+
+### Key Waterfront Features
+
+- **Montgomery Street**: THE waterfront — the bay came up to this street. Everything east of Montgomery was water (or mud at low tide). Ships anchored just offshore, visible from the street.
+- **Clarke's Point**: rocky promontory below Telegraph Hill at roughly Broadway/Battery. The original landing place — ships' boats came ashore here.
+- **Broadway Street Wharf**: first permanent wharf (1847), extending from foot of Broadway near Clarke's Point into the cove. The only wharf.
+- **Clay Street Spring**: fresh water flowing from the bank at the foot of Clay Street. Essential — ships took on water here. Whoever controlled access to the spring controlled something real.
+- **Water lots**: the tidelands between Clarke's Point and Rincon Point, surveyed by O'Farrell in July 1847. This strip of shallow water and mud would eventually be filled in to become the modern Financial District.
+
+### What Clara Would See at the Waterfront
+
+- The cove is intimate — maybe 400 yards across at its widest
+- Montgomery Street: unpaved, sandy, with a handful of wooden buildings and one hide warehouse
+- The wharf at Broadway: timber, functional, where lighters transfer cargo from anchored ships
+- At low tide: mudflats, the smell of exposed bay bottom, the tidelands where water lots are being sold
+- At high tide: the bay laps at Montgomery Street itself — buildings right at the water's edge
+- Ships at anchor: perhaps 2-3 vessels in the cove, visible from anywhere in the settlement
+
+## Dispatch Riding & Communication (Research Supplement, 2026-03-08)
+
+### Military Mail System (1847)
+
+General Kearny established a **semi-weekly horse mail** between San Diego and San Francisco in March 1847 — the first organized postal service in American California. The route followed **El Camino Real** (the Royal Road), the mission trail connecting the 21 Spanish missions.
+
+Under Mexican rule, mails had been carried twice weekly between San Diego and San Francisco by horseback along El Camino Real, from mission to mission. The American military continued this system.
+
+### Travel Time: Monterey to San Francisco
+
+- **Distance**: ~120 miles overland via El Camino Real
+- **Missions spaced ~30 miles apart** — one day's ride on horseback
+- **Sherman's testimony** (1847 memoirs): Lt. William T. Sherman rode from Monterey to San Francisco with one soldier and four horses (two riding, two spare). Reached Gilroy the first day, then the Mission of San Francisco and Yerba Buena "toward night" the next day. **Two days** on horseback with spare mounts.
+- **Route**: Monterey → Salinas Valley → San Juan Bautista → Gilroy → Santa Clara → Mission Dolores → Yerba Buena/San Francisco
+- A hard rider with relay horses could potentially do it in **one very long day** (~14–16 hours). Two days was the standard pace.
+
+### Private Express Services
+
+Samuel Brannan, publisher of the *California Star* newspaper, created the **California Star Express** — a private courier service:
+- Carried mail and newspaper editions overland
+- Rate: **50 cents per ounce** for letters, **12.5 cents per ounce** for papers
+- Riders traveled through the San Joaquin Valley
+- Connected California settlements to Missouri and the eastern overland trails
+
+### Jack Garrett's Dispatch Network — What's Plausible
+
+In 1847 California, a private dispatch system would look like:
+- **Riders on horseback** following El Camino Real between settlements (Monterey, San Jose, San Francisco)
+- **Relay stations** at missions or rancho way-stations (~30 miles apart). Missions were still standing in 1847 — secularized but physically present, with walls, corrals, and water.
+- **Two-day standard delivery** from Monterey to San Francisco. A fresh-horse relay system could compress this to **one day** — leaving pre-dawn, changing horses at San Juan Bautista and Santa Clara.
+- **Information advantages**: in a settlement of 457 people, knowing who arrived on each ship, what cargo they carried, and what the alcalde decided — 24 hours before anyone else — is power. A dispatch rider arriving at dawn with news from Monterey gives Clara a full day's advantage over sea-carried intelligence.
+- **Cost**: a rider, a horse, and oats/feed at each relay point. In 1847 California, horses were cheap (ranchos had thousands). The expense is the rider's pay and the maintenance of relay arrangements.
+- **Cover**: a rider carrying letters and newspapers is unremarkable — Brannan's California Star Express normalized the practice. Jack's riders could carry Clara's intelligence alongside legitimate mail.
+
+### Sensory Details for Dispatch Scenes
+
+- The rider arrives at dawn, dust-covered, horse lathered, carrying a leather dispatch case
+- The relay stations: abandoned or semi-abandoned missions — crumbling adobe walls, wild mustard growing in the courtyards, a well that still holds water, a corral that still holds horses
+- The route: golden-brown hills (June/July), dry grass, live oaks in creek bottoms, the smell of sage and sun-baked earth
+- The rider's world: hours alone on horseback, the creak of leather, the rhythm of hooves on packed earth, the distant Pacific visible from the coastal ridgelines
+
 ## Sources
 
 1. SF Museum, "San Francisco — Before the Gold Rush — 1847" — [sfmuseum.org](http://sfmuseum.org/hist1/early.html)
@@ -143,6 +307,22 @@ The streets were unpaved — mud in wet weather, dust and sand in dry. The hill 
 15. History.com, "U.S. takes San Francisco from Mexico" — [history.com](https://www.history.com/this-day-in-history/July-9/u-s-takes-san-francisco)
 16. California State Parks, "Monterey State Historic Park" — [parks.ca.gov](https://www.parks.ca.gov/pages/575/files/montereyshpfinalweb080814.pdf)
 17. Maritime Heritage Project, "William Alexander Leidesdorff" — [maritimeheritage.org](https://www.maritimeheritage.org/vips/leidesdorffWilliamA.html)
+18. FoundSF, "Yerba Buena Cove Early Development" — [foundsf.org](https://www.foundsf.org/Yerba_Buena_Cove_Early_Development) (accessed 2026-03-08). Water lots, buildings count, cove development.
+19. Wikipedia, "California hide trade" — [en.wikipedia.org](https://en.wikipedia.org/wiki/California_hide_trade) (accessed 2026-03-08). Trade goods, values, shipping routes.
+20. Encyclopedia.com, "Alcaldes" — [encyclopedia.com](https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/alcaldes) (accessed 2026-03-08). Alcalde powers, transition.
+21. Wikipedia, "Edwin Bryant (alcalde)" — [en.wikipedia.org](https://en.wikipedia.org/wiki/Edwin_Bryant_(alcalde)) (accessed 2026-03-08). Water lot sales, term of office.
+22. SFGenealogy, "Alcaldes and Mayors" — [sfgenealogy.org](https://www.sfgenealogy.org/doku.php?id=san_francisco_history:alcaldes_and_mayors) (accessed 2026-03-08). Hyde biography, succession.
+23. SFSD History, "Before California Statehood 1846-1850" — [sfsdhistory.com](https://www.sfsdhistory.com/eras/before-california-statehood) (accessed 2026-03-08). Constables, judicial structure.
+24. SFGenealogy, "The Beginnings of San Francisco, Chapter XVII" — [sfgenealogy.org](https://legacy.sfgenealogy.org/sf/history/hbbeg17.htm) (accessed 2026-03-08). Water lot survey, O'Farrell, lot dimensions.
+25. EPA, "Bay Fill in San Francisco: A History of Change" — [epa.gov](https://semspub.epa.gov/work/09/1137835.pdf) (accessed 2026-03-08). Cove geography, fill history.
+26. Wikipedia, "El Camino Real (California)" — [en.wikipedia.org](https://en.wikipedia.org/wiki/El_Camino_Real_(California)) (accessed 2026-03-08). Mission spacing, route.
+27. SF Museum, "William T. Sherman and Early California History" — [sfmuseum.org](http://sfmuseum.org/hist6/sherm40s.html) (accessed 2026-03-08). Sherman's 1847 horseback journey.
+28. Library of Congress, "Recollections of California, 1846-1861" by W.T. Sherman — [loc.gov](https://www.loc.gov/item/45007048/) (accessed 2026-03-08). Primary source: Monterey-SF travel time.
+29. Western Cover Society, "California Mails, 1821-1849" — [westerncoversociety.org](https://www.westerncoversociety.org/literature/books/mails-of-the-westward-expansion-1803-to-1861/mails-of-the-westward-expansion-1803-to-1861-chapter-4/) (accessed 2026-03-08). Kearny's semi-weekly mail, Mexican-era routes.
+30. Wikipedia, "Samuel Brannan" — [en.wikipedia.org](https://en.wikipedia.org/wiki/Samuel_Brannan) (accessed 2026-03-08). California Star Express, private courier rates.
+31. Wikipedia, "Interim government of California" — [en.wikipedia.org](https://en.wikipedia.org/wiki/Interim_government_of_California) (accessed 2026-03-08). Military governors, alcalde system.
+32. Encyclopedia.com, "Hide and Tallow Trade" — [encyclopedia.com](https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/hide-and-tallow-trade) (accessed 2026-03-08). Trade goods exchanged for hides.
+33. GoldenNuggetLibrary/SFGenealogy, "George Hyde" — [sfgenealogy.org](https://goldennuggetlibrary.sfgenealogy.org/sfbhyde.htm) (accessed 2026-03-08). Hyde biography, land grants.
 
 ## Relevance to Untamed Pursuit
 
@@ -163,7 +343,9 @@ The streets were unpaved — mud in wet weather, dust and sand in dry. The hill 
 
 ## Open Questions
 
-- What specific goods were traded in SF in 1847? (Hides and tallow were the traditional exports; incoming goods from trading ships TBD)
+- ~~What specific goods were traded in SF in 1847?~~ **ANSWERED** (see Harbor Commerce section above)
 - Were there any women of notable standing in SF in 1847? (The population was heavily male)
-- What was the Mission Dolores's condition in 1847? (A few miles south — could be a setting detail)
+- What was the Mission Dolores's condition in 1847? (A few miles south — Sherman passed through it on his ride from Monterey. Could be a setting detail or dispatch relay point.)
 - What did the Golden Gate look like before any structures? (No fort yet at this date — Fort Point construction began 1853)
+- What was the exact condition of missions along El Camino Real in 1847? (Secularized in 1833, some physically intact, some crumbling — would serve as dispatch relay points)
+- Were there private express services other than Brannan's California Star Express operating between California settlements in 1847?

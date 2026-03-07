@@ -86,8 +86,12 @@
 - **Type**: City / settlement
 - **Period description (1847)**: Settlement of ~457 people on Yerba Buena Cove. Renamed from Yerba Buena on January 30, 1847. Under U.S. military occupation (alcalde governance). ~100-150 buildings — adobes, wooden frames, shanties — centered on Portsmouth Square. Streets unpaved (Clay, Montgomery, Kearny, Washington). Montgomery Street runs along the waterfront. Broadway Street Wharf (first wharf, built 1847). Spring at foot of Clay Street supplies ships. Sand dunes cover western third of peninsula. No trees. Fog, wind, cold summers (60-70°F highs). Six trading vessels entered the bay in 1847. Mexican-American War ongoing. Gold Rush 18 months away.
 - **Period description (later)**: Bay visible from the Glass Garden. Expansion target for Clara's network. Fog, bridges, mist. Clara "helped shape" the city. Gold Rush destination.
-- **Key landmarks (1847)**: Portsmouth Square (plaza), Mexican Custom House, Clarke's Point (landing below Telegraph Hill), Leidesdorff's house (Montgomery St), Spear's grist mill (Clay St), the Golden Gate (strait — no fort or bridge)
-- **Sources**: Epilogue_Claras_Final_Words, outline_2_16, research/period-details/san-francisco-1847.md
+- **Key landmarks (1847)**: Portsmouth Square (plaza), Mexican Custom House, Clarke's Point (landing below Telegraph Hill), Leidesdorff's house and warehouse (Montgomery/California St), Spear's grist mill (Clay St), the Golden Gate (strait — no fort or bridge), Broadway Street Wharf (first wharf)
+- **Harbor commerce (1847)**: Hide and tallow trade — hides ("California banknotes") shipped to Boston, tallow to South America. 6 vessels, $49,597 exports, $53,589 imports. Ship chandlery, hide warehouse. Goods imported: cloth, spirits, hardware, crockery, coffee, sugar, spices, furniture.
+- **Alcalde (Jun 1847)**: George Hyde — lawyer, judge, land-granter. Combined executive, judicial, and land authority. Appointed by military governor Kearny. Controls water lot sales, settles disputes, enforces judgments. The law in San Francisco.
+- **Water lots (Jul 1847)**: 444 tidelands parcels between Clarke's Point and Rincon Point, surveyed by O'Farrell. Beach lots up to $600; submerged lots $50-400. Buyers must fill and build. Speculative real estate — controls future harbor access.
+- **Dispatch route**: Monterey → SF via El Camino Real, ~120 miles, ~2 days horseback (Sherman's 1847 testimony). Relay at missions (~30 mi apart). Kearny's semi-weekly military mail. Private express: Brannan's California Star Express (50¢/oz letters).
+- **Sources**: Epilogue_Claras_Final_Words, outline_2_16, research/period-details/san-francisco-1847.md (updated 2026-03-08)
 
 ---
 
